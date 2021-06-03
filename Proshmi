@@ -199,6 +199,8 @@ http://162.244.81.142:1935/live/livestream/playlist.m3u8
 http://nobodip.mywire.org:8081/beeiptv/nobodip/playlist.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/887239479404015617/UI7DygJe.jpg" group-title="BANGLA ENT.",H-Tv
 https://htv-hls.telelivebd.com/htv/htv_manifest.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png" group-title="BANGLA ENT.",H-Tv 2
+http://enaniptv.com/Htv/1080/index.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/varendro-tv.jpg?x53121" group-title="BANGLA ENT.",Varendra TV
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/varendratv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMi8yMDIxIDg6NTE6NTYgQU0maGFzaF92YWx1ZT1PZFR2OFVpTm4wVHlaeW9ZMFVjV1dRPT0mdmFsaWRtaW51dGVzPTQw
 #EXTINF:0 tvg-logo="https://tv.bdtype.com/uploads/tv_image/rtv-music.png" group-title="BANGLA MUSIC.",R-Tv Music
