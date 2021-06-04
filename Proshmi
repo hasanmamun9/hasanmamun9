@@ -250,7 +250,7 @@ http://128.199.212.160/channelt1/1080/index.m3u8?@amarnettv.live
 #EXTINF:0 tvg-logo="https://cabeltvapp.com/wp-content/uploads/2020/09/tt-200x200.jpg" group-title="BANGLA ENT.",Channel-T1 Uk
 https://www.cdn.streamcast.xyz:19360/channeltt/channeltt.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Khushboo_TV.jpeg/revision/latest?cb=20191223164128" group-title="BANGLA MOVIE.",Khusboo Bangla
-https://itvorigin.multitvsolution.com:443/idvo/khushboo_540p/index.m3u8
+https://d2my7pmu7z3zc5.cloudfront.net/KHUSBOO_TV.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvUIgT2OkSToCVLYDXaKxGs7Q5NQjadRkSZA&usqp=CAU" group-title="BANGLA MOVIE.",Amar Cinema
 http://d1bf3b042hkby5.cloudfront.net/AAMAR_CINEMA.m3u8
 #EXTINF:0 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/569ccce48ead0e21236eb457/1565808611716/569ccce48ead0e21236eb457.jpg" group-title="HINDI MOVIE.",WOW CINEMA
@@ -347,7 +347,7 @@ https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist_960x540_2000k.m3u8
 #EXTINF:0 tvg-logo="https://www.utv.lk/wp-content/uploads/2018/05/utv_logo.png" group-title="TAMIL MOVIE.",Tamil U Tv
 http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8
-#EXTINF:0 tvg-logo="https://is1https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtLAldeUEMbJwDE0-R3i0MtEz2tIRHvbUGpg&usqp=CAU" group-title="TAMIL MOVIE.",Pitaara Tv
+#EXTINF:0 tvg-logo="https://is1https://encryptedhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQgAsbfYqgK1sVgU3DCOvHLKr925sxYZ_obQ&usqp=CAU" group-title="TAMIL MOVIE.",Pitaara Tv
 https://5b48d7e1b4bce.streamlock.net/pitara/pitaratv/chunklist_w322362321.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmikWbc-jGl_kpuzUaswLzA-XglNYhaNzmaA&usqp=CAU"group-titile="HINDI MOVIE.",Raavi Film
 http://iptvtree.net:8080/geniptv/4faed690fd/196563
@@ -485,6 +485,8 @@ http://45.126.83.51/uq2663/h/h04/index.m3u8
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqtY-gQHOh3C-b8mpUYZQ-VRIF-InYahOzEw&usqp=CAU" group-title="ENGLISH MOVIE.",Star Movies
 http://103.153.175.254:8080/hls/stream3.m3u8
+#EXTINF:0 tvg-id="CinemaxEast.us" group-title="New Group",Cinemax
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/3.m3u8
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/e43va12hcyd2-9IbZcLOAgObyOYNlRiL1bEFH0vrBHtq4FnEqu3l4X6SCLONzgHkQXs=w220-rw" group-title="ENGLISH MOVIE.",MOVIEMI MIX
 https://sonar.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:0 tvg-logo="http://live-tv-channels.org/pt-data/uploads/logo/mo-macau-lotus-tv-3757.jpg" group-title="ENGLISH MOVIE.",Lotus Maccau
@@ -595,6 +597,12 @@ http://1.alhawalouh.xyz/live/880025552/index.m3u8
 https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://www.101ways.com/wp-content/uploads/2018/11/DAZN.png" group-title="SPORTS.",Dazn 1 
 http://1.adrawayoun.xyz/live/146/index.m3u8
+#EXTINF:0 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVi6K9U2meyfnChtdXdXc_BD8NxgEVMSvcg&usqp=CAU" group-title="New Group",SPORT TV 1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="https://www.thesportsdb.com/images/media/logo/vpwuyu1470409212.png" group-title="New Group",SPORT TV 2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="https://www.thesportsdb.com/images/media/logo/wwsuqv1470409839.png" group-title="New Group",SPORT TV 3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-2.png" group-title="SPORTS.",TNT Sports 2
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="SPORTS.",TNT Sports 4 
