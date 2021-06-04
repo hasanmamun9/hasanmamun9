@@ -347,7 +347,7 @@ https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist_960x540_2000k.m3u8
 #EXTINF:0 tvg-logo="https://www.utv.lk/wp-content/uploads/2018/05/utv_logo.png" group-title="TAMIL MOVIE.",Tamil U Tv
 http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8
-#EXTINF:0 tvg-logo="https://is1https://encryptedhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0nW6nGatYAETXWh0pf7_WHBPQqiov1s_ZbA&usqp=CAU" group-title="TAMIL MOVIE.",Pitaara Tv
+#EXTINF:0 tvg-logo="https://is1https://encryptedhttps://www.paulmerchants.net/paulmerchants/wp-content/uploads/2018/10/pitaara-logo.png" group-title="TAMIL MOVIE.",Pitaara Tv
 https://5b48d7e1b4bce.streamlock.net/pitara/pitaratv/chunklist_w322362321.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmikWbc-jGl_kpuzUaswLzA-XglNYhaNzmaA&usqp=CAU"group-titile="HINDI MOVIE.",Raavi Film
 http://iptvtree.net:8080/geniptv/4faed690fd/196563
@@ -491,7 +491,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/3.m3u8
 https://sonar.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:0 tvg-logo="http://live-tv-channels.org/pt-data/uploads/logo/mo-macau-lotus-tv-3757.jpg" group-title="ENGLISH MOVIE.",Lotus Maccau
 http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKztKJYlM5IAUGsV6LVE6NeETrYPzgTXrhCw&usqp=CAU" group-title="ENGLISH MOVIE.",Cinema Tv
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTouLGB5x2phBhfoFFaZAgh0t-q_wiHb2lVHQ&usqp=CAU" group-title="ENGLISH MOVIE.",Cinema Tv
 https://sc.id-tv.kz/Cinema_34_35.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOtoFWNRYbufSqfsMbSJy36J6gR9e6s19e7A&usqp=CAU" group-title="ENGLISH MOVIE.",Nova Cinema
 http://iptvtree.net:8080/geniptv/4faed690fd/163793
@@ -597,9 +597,9 @@ http://1.alhawalouh.xyz/live/880025552/index.m3u8
 https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://www.101ways.com/wp-content/uploads/2018/11/DAZN.png" group-title="SPORTS.",Dazn 1 
 http://1.adrawayoun.xyz/live/146/index.m3u8
-#EXTINF:0 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVi6K9U2meyfnChtdXdXc_BD8NxgEVMSvcg&usqp=CAU" group-title="New Group",SPORT TV 1
+#EXTINF:0 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxwrQGHAKJ5ruxIRvCrgBCjbOUM7uY-ednVQ&usqp=CAU" group-title="New Group",SPORT TV 1
 https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:0 tvg-id="https://www.thesportsdb.com/images/media/logo/vpwuyu1470409212.png" group-title="New Group",SPORT TV 2
+#EXTINF:0 tvg-id="bp.blogspot.com/-n9K7acPmDMo/XOXfES67NMI/AAAAAAAAA0E/KXGHwm0UH48sFPQUf8NBYv90yNdeHw39wCLcBGAs/w1200-h630-p-k-no-nu/SPORTV2.png" group-title="New Group",SPORT TV 2
 https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:0 tvg-id="https://www.thesportsdb.com/images/media/logo/wwsuqv1470409839.png" group-title="New Group",SPORT TV 3
 https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
