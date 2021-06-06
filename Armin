@@ -51,6 +51,8 @@ http://103.205.133.21/hls/asiantv.m3u8
 http://103.205.133.19/hls/nagorik.m3u8
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/colors-tv-logo-png-2.png" group-title="BANGLA ENT.",Colors Bd Tv
 http://master.beeiptv.com:8081/colors/colorsbdtv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.colorsiptv.com/uploads/tv_image/sm/aheli-tv.png" group-title="BANGLA ENT.",Aheli Tv
+http://ahelitv.beeiptv.com:8081/ahelitv/aheli/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bdiptv.stream/uploads/tv_image/progoti-tv.jpg" group-title="BANGLA MOVIE.",Progoti Tv
 http://tv.bdiptv.com:8081/live/progoti/chunks.m3u8
 #EXTINF:0 tvg-logo="https://cabeltvapp.com/wp-content/uploads/2020/11/NB-tv.jpg" group-title="BANGLA ENT.",Nb Tv
