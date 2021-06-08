@@ -187,6 +187,8 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/panvisiontvs.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMi8yMDIxIDg6NTY6MTUgQU0maGFzaF92YWx1ZT1lU0RKcC92NTVMTlk3RGJUQVViclVnPT0mdmFsaWRtaW51dGVzPTQw
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/ABtv-Log-.jpg?x15351" group-title="BANGLA ENT.",Ab-Tv
 http://208.86.19.13:81/live/ABtv/index.m3u8
+#EXTINF:0 tvg-logo="http://likeetv.com/uploads/tv_image/deshi-tv.jpg" group-title="BANGLA ENT.",Deshi Tv
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/ION_Logo_RGB.png" group-title="BANGLA ENT.",Ion-Tv
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iontvuk.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjEgOTo1NjowNyBBTSZoYXNoX3ZhbHVlPThoeldRRVZUMEw1cm41SXI3dTU3eHc9PSZ2YWxpZG1pbnV0ZXM9NDA=
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-AWHHLKbaFETUGxE7FJMgKkCSajR-eha6xiAvfzv7AEOmm4YAF2Xe7gXhJjIBD0A_7Wc&usqp=CAU" group-title="BANGLA ENT.",Doyel-Tv
@@ -235,8 +237,6 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://egress-1.do-ny-3.ttv.dotworldcorp.com/hls/ttv/index.m3u8
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngM2qyoDtZQYNKbLZJsWT-VlkCna40j9hLRz1fa=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLA ENT.",Times 24 Tv
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/times24tv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDIxIDk6MjU6MjkgUE0maGFzaF92YWx1ZT11TDRGczhIZXNGZGdxRG9DQ2hwRWJ3PT0mdmFsaWRtaW51dGVzPTQw
-#EXTINF:0 tvg-logo="http://likeetv.com/uploads/tv_image/deshi-tv.jpg" group-title="BANGLA ENT.",Deshi Tv
-http://72.139.72.18:1935/live/myStream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.tbn24.com/public/website_logo.png" group-title="BANGLA ENT.",TBN 24
 https://dog.dg21bd.com/TBN242/index.m3u8
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjW8g-tQCosrKVSrrHlP-SoTrzlaH_ixDg8R3N1=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLA NEWS.",News-24
