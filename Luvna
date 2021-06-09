@@ -395,8 +395,6 @@ https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:0 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072011/logo__slogan.ai_.png?itok=8W0eAesx"group-titile="ENGLISH MOVIE.",CCM CLASSIC
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-#EXTINF:0 tvg-logo="https://media.elcinema.com/tvguide/1209_1.png"group-titile="ENGLISH MOVIE.",OSN Movies
-http://1.adrawayoun.xyz/live/044/index.m3u8?t=mlqrMVNzNAOeXZcHwCThEA&e=1620887607
 #EXTINF:0 tvg-logo="https://www.pngjoy.com/pngm/850/10033240_hbo-red-by-hbo-hd-png-download.png" group-title="ENGLISH MOVIE.",Amedia Hit HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENGLISH MOVIE.",HBO
@@ -451,8 +449,10 @@ http://115.42.65.142:4000/play/a050/index.m3u8
 http://115.42.65.142:4000/play/a08h/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqtY-gQHOh3C-b8mpUYZQ-VRIF-InYahOzEw&usqp=CAU" group-title="ENGLISH MOVIE.",Star Movies
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://media.elcinema.com/tvguide/1209_1.png"group-titile="ENGLISH MOVIE.",OSN Movies
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDJZl8hyZVWQXpKwrQJwi-vpHpph3lE08QiDHOrC8MhjwaXSE7vz2lvgY&s=10"group-titile="ENGLISH MOVIE.",OSN Movies 1
 http://115.42.65.142:4000/play/a0cg/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png"group-titile="ENGLISH MOVIE.",OSN Movies
+http://1.adrawayoun.xyz/live/044/index.m3u8?t=mlqrMVNzNAOeXZcHwCThEA&e=1620887607
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/e43va12hcyd2-9IbZcLOAgObyOYNlRiL1bEFH0vrBHtq4FnEqu3l4X6SCLONzgHkQXs=w220-rw" group-title="ENGLISH MOVIE.",MOVIEMI MIX
 https://sonar.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvpc0g3-B2NBkNDZ_dgMSk8aWD2wjgJFbaaUWnAmljnizu2eeFajX42r0UVgRpaFP83jU&usqp=CAU" group-title="ENGLISH MOVIE.",Cinema Tv
@@ -535,11 +535,11 @@ http://ferrarico.referrari.com/live/60092_.m3u8
 http://ferrarico.referrari.com/live/60093_.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/b0/e8/ba/b0e8ba6ee4ba6e2a1f9e1ce27437f73a.png" group-title="beIN SPORTS.",beIN Sports 4
 http://ferrarico.referrari.com/live/60099_.m3u8
-#EXTINF:0 tvg-id="https://www.seekpng.com/png/detail/357-3578768_sport-tv-1-hd.png" group-title="New Group",SPORT TV 1
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQodfhSowKSaJU7VIZ1ql098H5N-GRq-NYUww&usqp=CAU" group-title="SPORTS.", SPORT TV 1
 https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:0 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG-C9dh9ECPOkaap6hU-uD6wTkCI9CsaW9-LTOV1NKlM00lwxy5VTmlMyXnILfbCa9HNw&usqp=CAU" group-title="New Group",SPORT TV 2
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxcF9LEfH8PDl52cmlWsONHVUF_m_oBPu-Pg&usqp=CAU" group-title="SPORTS.",SPORT TV 2
 https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:0 tvg-id="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Setanta_Sports.svg/1200px-Setanta_Sports.svg.png" group-title="New Group",Setanta Tv
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLqMjWKMcg1h_5ZjlGHy9t3jYCwX_F24RPjQ&usqp=CAU" group-title="SPORTS.",Setanta Tv
 https://77-247-178-24.livesports24.online/rusetantaeurasia.m3u8
 https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-2.png" group-title="SPORTS.",TNT Sports 2
