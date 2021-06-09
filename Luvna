@@ -497,7 +497,7 @@ http://stream.amrbd.com:8082/kn1a/tracks-v1a1/mono.m3u8
 http://stream.amrbd.com:8082/kn2a/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Sports-select-2.jpg" group-title="SPORTS.",Star Sports S 2
 http://stream.amrbd.com:8082/kn5a/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/proxy/KXYIQ2ryTzylLnu22zXOUUjixNeDIqRRoqm2RfEzDz-WOuAQCIIG2qbY0T8S-f3leB4Ecj-BArV0posL7vvarXkb38KxxUiDV0PTH9k6uw" group-title="SPORTS.",Футбол 1 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7S21ww6jmKRcIyHqYXW8KOAR9sFwqQHySjA&usqp=CAU" group-title="SPORTS.",Футбол 1 
 https://77-247-178-24.livesports24.online/uafootballua1.m3u8
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/r2jCLg98auM/maxresdefault.jpg" group-title="SPORTS.",Bt Sports 2
 https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8?token=soheliptv01826655778
@@ -614,6 +614,7 @@ https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
 https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6550_720p/index.m3u8
 #EXTINF:0 tvg-id="AdventureTV.cz" group-title="DOCUMENTARY.",Adventure Tv
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180417/loe/kisspng-sony-yay-sony-pictures-networks-india-television-c-sony-5ad644fce01d59.956800371523991804918.jpg" group-title="CARTOON.",Sony YAY
 https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 #EXTINF:0 tvg-logo="https://iconape.com/wp-content/png_logo_vector/varsity-tv-logo.png" group-title="WRESTING",RxH
