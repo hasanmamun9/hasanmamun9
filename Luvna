@@ -103,7 +103,7 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 http://206.189.32.183/pbanglatv/1080/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrnjmRzgpWnA-EtEv_GbYU0TwhTYKGhpRRBQ&usqp=CAU" group-title="BANGLA ENT."," group-title="BANGLA ENT.",Tv Dhaka
 http://enaniptv.com/tvdhaka24live/1080/index.m3u8
-#EXTINF:0 tvg-logo="https://www.megnatv.com/wp-content/uploads/2020/07/meghna.png" group-title="BANGLA ENT.",Megna Tv
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6FJBN24udmW4Oh4sytPTq224RgBCOc6kU3w&usqp=CAU" group-title="BANGLA ENT.",Megna Tv
 http://45.125.221.114:1935/live/megnatv/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://iptvbd.net/public/channel_logo/1623174399.png" group-title="BANGLA ENT.", Channel A
 http://irbtv.net/atv//1080/index.m3u8
@@ -127,7 +127,7 @@ https://iptv10.raytahost.com/lite/channel69_hi/index.m3u8
 https://iptv10.raytahost.com/desh/gbangla/index.m3u8
 #EXTINF:0 tvg-logo="https://inter-asia.com.my/wp-content/uploads/2020/09/logo_interasia_vertical.png" group-title="BANGLA ENT.",Interasia Tv
 https://interasia-hls.telelivebd.com/interasia/interasia_manifest.m3u8
-#EXTINF:0 tvg-logo="https://yestvbd.tv/wp-content/uploads/2021/04/logo.png" group-title="BANGLA ENT.",Yes Tv
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScRkpx3MZp4ijNZzIzzQeK4uHpp3cWMA4tPQ&usqp=CAU" group-title="BANGLA ENT.",Yes Tv
 https://yestv-hls.telelivebd.com/yestv/yestv_manifest.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/942458481017208832/CA5uGF46.jpg" group-title="BANGLA MOVIE.",Sristy-Tv
 http://tempe.jagobd.com:1932/iptv/sristytv.stream/playlist.m3u8
@@ -291,7 +291,7 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtsbNdEXhM92M0q_B5xCxyQ95cOYc0IcVHCtEaFwx7jq1bC8vUNcTfNOE3sTCX1oDDrpY&usqp=CAU" group-title="HINDI MOVIE.",Box Cinema
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
-#EXTINF:0 tvg-logo="https://alltimetrends.com/wp-content/uploads/2020/07/Star-gold-and-Star-gold-Hd.jpg" group-title="HINDI MOVIE.",STAR Gold HD
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4tpx9AoVUaX_AN80nBP1_05b6ksF4bPqnZg&usqp=CAU" group-title="HINDI MOVIE.",STAR Gold HD
 http://84.17.41.7:80/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Utsav_Gold_Logo.jpg/220px-Utsav_Gold_Logo.jpg" group-title="HINDI MOVIE.",Utsav Gold
 http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
