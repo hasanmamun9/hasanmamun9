@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ox7r5yfb8xadaph/btv.jpg" group-title="BANGLA ENT.",B-Tv
-http://103.205.133.19/hls/btv.m3u8
+http://212.102.60.40:2200/R-EX/BTV_NATIONAL-in/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/08/3WUFkD8.png?x94984" group-title="BANGLA ENT.",C Tv
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/atn-bangla1.jpg?x94984" group-title="BANGLA ENT.",Atn-Bangla
@@ -296,7 +296,7 @@ http://84.17.41.7:80/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Utsav_Gold_Logo.jpg/220px-Utsav_Gold_Logo.jpg" group-title="HINDI MOVIE.",Utsav Gold
 http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://www.exchange4media.com/news-photo/1520595397_Bt65eH_logo-white.jpg" group-title="HINDI MOVIE.",Star Gold Select
-http://87.117.234.107:1935//live//STARGOLDSELECTFHD//chunklist.m3u8
+http://212.102.60.40:2200/R-EX/HINDI_STAR_GOLD_SELECT_HD-in/index.m3u8
 #EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2020/01/29/star-gold2.jpg" group-title="HINDI MOVIE.",STAR GOLD 2
 http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/51/StarUtsavMoviesLogo.jpg/220px-StarUtsavMoviesLogo.jpg" group-title="HINDI MOVIE.",STAR UTSAV MOVIES
@@ -483,8 +483,8 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w829907558.m3u8
 https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7S3PtBMDfIeC_K5jngsK04SUCsCABVCpakg&usqp=CAU" group-title="SPORTS.",Da Vinci
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-logo="https://www.jetski-worldcup.com/images/download.png" group-title="SPORTS.",Edge Spoets
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo0GsLbFmp3WekE-P4OfRLGYmgzx9esw56hA&usqp=CAU" group-title="SPORTS.",TrT Spoets
+https://tv-trt3.live.trt.com.tr/master_720.m3u8
 #EXTINF:0 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/SharjahTV.png" group-title="SPORTS.",Sharjah Sport
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/RMC_Sport_1.png" group-title="SPORTS.",RMC Sport 1
@@ -590,6 +590,8 @@ https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032011/ls_logo_corel-converted.png?itok=n415tG42" group-title="LIFESTYLE.",Life Style
 https://bozztv.com/36bay2/gusa-lifestyle/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTBcUMknw1iAxseCXELq4-phxvjUy8WIZILA&usqp=CAU" group-title="LIFESTYLE.",Etc Life
+http://212.102.60.40:2200/R-EX/TELUGU_ETV_LIFE-in/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="LIFESTYLE.",Love Nature
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/a6/77/d1/a677d1e8794db3ac9982972744414f0c.jpg" group-title="GEOGRAPHIC.",N G Channel
