@@ -433,25 +433,25 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/maste
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/199/371/png-clipart-cineworld-cinemas-logo-cineworld-logo-icons-logos-emojis-cinema-logos.png" group-title="ENGLISH MOVIE.",Cinema World
 http://45.126.83.51/uq2663/h/h04/index.m3u8
-#EXTINF:0 tvg-id="https://www.pngfind.com/pngs/m/204-2047747_cinemax-logo-hd-png-download.png" group-title="New Group",Cinemax
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="ENGLISH MOVIE.",Cinemax
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/3.m3u8
-#EXTINF:0 tvg-id="ext" group-title="New Group",MN+
+#EXTINF:0 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaKqJQc5BEkNQxn1FiSdu4ycIAe-mY5EaT3Q&usqp=CAU" group-title="ENGLISH MOVIE.",MN+
 http://115.42.65.142:4000/play/a04e/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="New Group",MNet 1
+#EXTINF:0 tvg-id="https://cdn-m-net.dstv.com/images/channel/2020/08/27/794810/16/1598516863-11_M1_White.webp" group-title="ENGLISH MOVIE.",MNet 1
 http://115.42.65.142:4000/play/a0cl/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="New Group",MNet Action
+#EXTINF:0 tvg-id="https://ewsat.com/img/MNET_MOVIES_ACTION.png" group-title="ENGLISH MOVIE.",MNet Action
 http://115.42.65.142:4000/play/a0cc/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="New Group",MNet Movie
+#EXTINF:0 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQvqfN8ms5BaceCEpS50Ig9fgcLzM5XNTwbw&usqp=CAU" group-title="ENGLISH MOVIE.",MNet Movie
 http://115.42.65.142:4000/play/a0cd/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="New Group",Rome New
+#EXTINF:0 tvg-id=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdqb_JkQVwaIxsCd7fMRS9mJOHB5YIXHMECQ&usqp=CAU" group-title="ENGLISH MOVIE.",Romedy Now
 http://115.42.65.142:4000/play/a052/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="New Group",Sky Cinema Action
+#EXTINF:0 tvg-id="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/06/SKY-CINEMA-ACTION-June-2020.png" group-title="ENGLISH MOVIE.",Sky Cinema Action
 http://115.42.65.142:4000/play/a0cq/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="New Group",Sky Cinema Hits
+#EXTINF:0 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNggGoKYfVCqNi6gOyORWtEg7kxsUI1_r_bQ&usqp=CAU" group-title="ENGLISH MOVIE.",Sky Cinema Hits
 http://115.42.65.142:4000/play/a0cm/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="New Group", Movie Now
+#EXTINF:0 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD_kisOGVxM3_56BR7DnQ7J2OdE0Rk-MIxuQ&usqp=CAU" group-title="ENGLISH MOVIE.", Movie Now
 http://115.42.65.142:4000/play/a050/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="New Group", Star World Premier
+#EXTINF:0 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu27lX63y14NTGrnLq78cbNNcmQgJ7dGUT-w&usqp=CAU" group-title="ENGLISH MOVIE.",Star World Premier
 http://115.42.65.142:4000/play/a08h/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqtY-gQHOh3C-b8mpUYZQ-VRIF-InYahOzEw&usqp=CAU" group-title="ENGLISH MOVIE.",Star Movies
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
