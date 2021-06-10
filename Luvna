@@ -123,6 +123,8 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://www.webtvbd.com/download/bdix/cumilla_24.m3u8
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/llW7cf9_WZQ/hqdefault.jpg" group-title="BANGLA MOVIE.",Channel-69
 https://iptv10.raytahost.com/lite/channel69_hi/index.m3u8
+#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/noq8RfPyjetXVNC7zvs6GZyqSdI4x5HYwNSvBsbKtTgVV-PyzeUqZo1QerzZGds-f0U" group-title="BANGLA ENT.",Songbad-Tv
+https://iptv6.raytahost.com/live/songbad/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHsbllMCZ4q6NbP4RkfsQfdygW-Qt-Mj1txQ&usqp=CAU" group-title="BANGLA MOVIE.",Gbangla Tv
 https://iptv10.raytahost.com/desh/gbangla/index.m3u8
 #EXTINF:0 tvg-logo="https://inter-asia.com.my/wp-content/uploads/2020/09/logo_interasia_vertical.png" group-title="BANGLA ENT.",Interasia Tv
