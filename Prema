@@ -401,6 +401,14 @@ https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:0 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072011/logo__slogan.ai_.png?itok=8W0eAesx"group-titile="ENGLISH MOVIE.",CCM CLASSIC
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:0 tvg-logo="https://apkplz.net/storage/images/com/horehorestudio/moviespremium/com.horehorestudio.moviespremium_1.png"group-titile="ENGLISH MOVIE.",Hd Movie
+http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLrIaVeIx4myAoIVm7aY6wHAqZpJkFitLgOQ&usqp=CAU"group-titile="ENGLISH MOVIE.",Sony One
+http://210.210.155.35/uq2663/h/h143/01.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fox_Action_Movies_logo.svg/1200px-Fox_Action_Movies_logo.svg.png"group-titile="ENGLISH MOVIE.",Fox Action Movie
+http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaTiLRA2QhTQQrDpfY7m-wJSLEggFESRIjKA&usqp=CAU"group-titile="ENGLISH MOVIE.",Tvn Movie
+http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7QiRJevINmRHY09lQZHAqpe40GwcVKpe1ug&usqp=CAU"group-titile="ENGLISH MOVIE.",Axn ind
 http://210.210.155.35/uq2663/h/h141/01.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBleC4WjUP0iJr3IqW2U6XZttx_cnjdYI_D9OZqb4EgGOovFuUv0WWUQI&s=10"group-titile="ENGLISH MOVIE.",Sony Scifi
@@ -560,6 +568,8 @@ https://77-247-178-24.livesports24.online/rusetantaeurasia.m3u8
 https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-2.png" group-title="SPORTS.",TNT Sports 2
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVNLUBqUgpv-mfc_sZ7mNmdAevDlB53ByvoQ&usqp=CAU" group-title="SPORTS.",Tvri Sports
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="SPORTS.",TNT Sports 4 
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/736x/2c/e6/05/2ce60557768dee87769c3b0c4e6b347f.jpg" group-title="SPORTS.",AD Sports 1
@@ -568,10 +578,12 @@ http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b
 http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6nTr8fTsmX65OCBQzXACqQXMZuJ4y-AA98hJrKs9wyctpYZBD0IWrbiaCrAYheHSjcBw&usqp=CAU" group-title="SPORTS.",Sky Sports
 http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv8gajc42BmSJCMcDRH_I5_vkGtOvaJ9tJFQ&usqp=CAU" group-title="SPORTS.",Canal+
+http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVm_k1dQ4tSVdl8DKOVfh5RX347DQ66f0NPWesKPxFNKB-VyHNebfdg5-a341amL6gDrw&usqp=CAU" group-title="SPORTS.",T Sports
 http://cdn.ihub.live:8080/j-TSports/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/793/877/png-clipart-red-bull-gmbh-logo-energy-drink-brand-red-bull-company-text.png" group-title="DOCUMENTARY.",Red Bull Tv
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:0 tvg-logo="https://discovery.sndimg.com/content/dam/images/discovery/editorial/branding/2019/2/1/Discovery-default-search-image-4x3.jpg.rend.hgtvcom.616.462.suffix/1561760738182.jpeg" group-title="DISCOVERY.",Discovery
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-logo="https://www.pngkey.com/png/detail/134-1341595_discovery-channel-transparent-discovery-channel-logo.png" group-title="DISCOVERY.",Discovery Bangla
@@ -629,7 +641,7 @@ https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1143020755094929408/8b7P5hZ6_400x400.png" group-title="DOCUMENTARY.",Travel Xp Eng
 https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6550_720p/index.m3u8
-#EXTINF:0 tvg-id="AdventureTV.cz" group-title="DOCUMENTARY.",Adventure Tv
+#EXTINF:0 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvJ9fu0y0ghYs7H5QnDmmiTWPB3BDzaasB6g&usqp=CAU" group-title="DOCUMENTARY.",Adventure Tv
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180417/loe/kisspng-sony-yay-sony-pictures-networks-india-television-c-sony-5ad644fce01d59.956800371523991804918.jpg" group-title="CARTOON.",Sony YAY
 https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
@@ -641,8 +653,10 @@ http://iptvtree.net:8080/geniptv/4faed690fd/225332
 http://hdhd.tk:80/angela123/angela123/9
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/2268635250/oy50ez2an1i1okq773gm.jpeg" group-title="NEWS",Palestine Tv
 http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://livemovieweb.com/wp-content/uploads/2020/10/logo.png" group-title="Movie",Live Movie
+#EXTINF:0 tvg-logo="https://livemovieweb.com/wp-content/uploads/2020/10/logo.png" group-title="Movie.",Live Movie 1
 https://live.diu.ac/hls/live/index.m3u8
-
-
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ44Ax7IR4Ec1UdFCfHU4_j1Joa9AxUpobmJw&usqp=CAU" group-title="Movie.",Live Movie 2
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000744/150/index.m3u8?&encrypt=
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG-JGzKDT-gNS7vD2Q3rqDknTRFgWhxNkDJA&usqp=CAU" group-title="Movie.", Live Movie 3
+https://cn-lnsy-cu-live-01.bilivideo.com/live-bvc/992495/live_22989278_9714011.m3u8
 
