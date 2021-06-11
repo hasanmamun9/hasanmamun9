@@ -44,7 +44,7 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:0 tvg-logo="https://tv.bdtype.com/uploads/tv_image/desh-tv.png" group-title="BANGLA ENT.",Desh-Tv
 http://103.205.133.21/hls/deshtv.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="BANGLA ENT.",G-Tv
-http://cdn.ihub.live:8080/j-GTV/index.m3u8
+http://cdn.ihub.live:8080/j-GTV/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-title="BANGLA ENT.",Asian-Tv
 http://103.205.133.21/hls/asiantv.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ec/a7/20/eca720aa9f51dceffb8145020e9aaa47.jpg" group-title="BANGLA ENT.",Nagorik-TV
@@ -319,6 +319,10 @@ https://y5w8j4a9.ssl.hwcdn.net/cinemauk/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
 #EXTINF:0 tvg-logo="http://thekolkatamail.com/wp-content/uploads/2021/04/09zeeanmolcinemazeeanmolci.png" group-title="HINDI MOVIE.",Zee Anmol Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
+#EXTINF:0 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/dish-tv-movies-active-tv-channel-logo-150x150.jpg" group-title="HINDI MOVIE.",MOVIES ACTIVE CLASSIC
+http://rv.therevenge.co:80/307211716271/307211716271/83611
+#EXTINF:0 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/dish-tv-movies-active-tv-channel-logo-150x150.jpg" group-title="HINDI MOVIE.",MOVIES ACTIVE
+https://cutt.ly/2nEd67E
 #EXTINF:0 tvg-logo="https://img.freepik.com/free-vector/realistic-bollywood-cinema-sign-illustration_23-2148470397.jpg?size=338&ext=jpg" group-title="HINDI MOVIE.",Bollywood Classic
 https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_480p/index.m3u8?Live-TV%E2%84%A2
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Bindass.png/revision/latest?cb=20190720101806" group-title="HINDI MOVIE.",BINDAS MOVIES
@@ -335,10 +339,6 @@ https://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist_960x540_2000
 http://cdn61.liveonlineservices.com/hls/subrang.m3u8
 #EXTINF:0 tvg-logo="https://www.utv.lk/wp-content/uploads/2018/05/utv_logo.png" group-title="TAMIL MOVIE.",Tamil U Tv
 http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8
-#EXTINF:0 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/dish-tv-movies-active-tv-channel-logo-150x150.jpg" group-title="HINDI MOVIE.",MOVIES ACTIVE CLASSIC
-http://rv.therevenge.co:80/307211716271/307211716271/83611
-#EXTINF:0 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/dish-tv-movies-active-tv-channel-logo-150x150.jpg" group-title="HINDI MOVIE.",MOVIES ACTIVE
-https://cutt.ly/2nEd67E
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2021/03/TehelkaTV.png" group-title="HINDI MOVIE.",Tehelka Tv
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/tehelkatv.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.paulmerchants.net/paulmerchants/wp-content/uploads/2018/10/pitaara-logo.png" group-title="TAMIL MOVIE.",Pitaara Tv
@@ -498,7 +498,7 @@ https://gma2.blab.email/espn2.m3u
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sony_ESPN_logo.svg/1200px-Sony_ESPN_logo.svg.png" group-title="SPORTS.",Sony Espn
 https://gma2.blab.email/espnu.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfsFCVHffnNjsqYtyMP10_e2i_hKikQ2JYswj51osv9kICEWd960REDHImHrcZD1l69g&usqp=CAU" group-title="SPORTS.",Star Sports 1
-http://stream.amrbd.com:8082/kn1a/tracks-v1a1/mono.m3u8
+http://103.205.133.21/hls/chss1.m3u8
 #EXTINF:0 tvg-logo="https://banner2.cleanpng.com/20180611/ivp/kisspng-star-sports-star-india-television-channel-sony-ten-sportstv-5b1ed6839505d4.2492886615287476516104.jpg" group-title="SPORTS.",Star Sports 2
 http://stream.amrbd.com:8082/kn2a/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Sports-select-2.jpg" group-title="SPORTS.",Star Sports S 2
@@ -586,8 +586,8 @@ http://rv.therevenge.co:80/307211716271/307211716271/83559
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="COOKING.",Afn Tv
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-logo="https://tvepg.eu/img/united_kingdom/logo/hum_masala.png" group-title="COOKING.",Hum Masala
-http://115.42.65.142:4000/play/a09m/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRimfZOSR50wjJPAz7UzNeJS8WgwO_xql8HcQ&usqp=CAU" group-title="COOKING.",Tastmade Tv
+https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/512x288_875600/index.m3u8
 #EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/230x230/public/images/tv-images/2020/10/01/zee_0.jpg?itok=M-DRq2zl" group-title="COOKING.",Zee Zest
 https://y5w8j4a9.ssl.hwcdn.net/zzesthd/tracks-v3a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="LIFESTYLE.",BBc Eaeth
@@ -602,8 +602,8 @@ https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 https://bozztv.com/36bay2/gusa-lifestyle/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTBcUMknw1iAxseCXELq4-phxvjUy8WIZILA&usqp=CAU" group-title="LIFESTYLE.",Etc Life
 http://212.102.60.40:2200/R-EX/TELUGU_ETV_LIFE-in/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="LIFESTYLE.",HISTORYH Tv
-https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8™
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="LIFESTYLE.",H2
+https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8?Live-TV™
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="LIFESTYLE.",Love Nature
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/a6/77/d1/a677d1e8794db3ac9982972744414f0c.jpg" group-title="GEOGRAPHIC.",N G Channel
