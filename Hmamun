@@ -321,16 +321,12 @@ https://y5w8j4a9.ssl.hwcdn.net/cinemauk/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
 #EXTINF:0 tvg-logo="http://thekolkatamail.com/wp-content/uploads/2021/04/09zeeanmolcinemazeeanmolci.png" group-title="HINDI MOVIE.",Zee Anmol Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Zee-Classic-Logo.jpg/revision/latest/scale-to-width-down/340?cb=20190521115025" group-title="HINDI MOVIE.",Zee Classic
-https://z5ams.akamaized.net/out/v1/74df8b02f8ab47909df9a9f3189a1012/index.m3u8?hdnts=st=1623496484~exp=1623499484~acl=/*~hmac=89cb434c98da9e3e30cc0c514c3ed573de9122437f357251b809afe89313d760
 #EXTINF:0 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/dish-tv-movies-active-tv-channel-logo-150x150.jpg" group-title="HINDI MOVIE.",MOVIES ACTIVE CLASSIC
 http://rv.therevenge.co:80/307211716271/307211716271/83611
 #EXTINF:0 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/dish-tv-movies-active-tv-channel-logo-150x150.jpg" group-title="HINDI MOVIE.",MOVIES ACTIVE
 https://cutt.ly/2nEd67E
 #EXTINF:0 tvg-logo="https://img.freepik.com/free-vector/realistic-bollywood-cinema-sign-illustration_23-2148470397.jpg?size=338&ext=jpg" group-title="HINDI MOVIE.",Bollywood Classic
 https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_480p/index.m3u8?Live-TV%E2%84%A2
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzJikUonThbPbekoUaU4XHLnI5HDwTiWw9Lw&usqp=CAU" group-title="HINDI MUSIC.",E24
-https://z5ams.akamaized.net/out/v1/78239452a9944713bf0dfd0946a55ad5/index.m3u8?hdnts=st=1623496484~exp=1623499484~acl=/*~hmac=89cb434c98da9e3e30cc0c514c3ed573de9122437f357251b809afe89313d760
 #EXTINF:0 tvg-logo="https://www.pngkey.com/png/detail/211-2118020_utv-action-utv-action-logo-png.png" group-title="HINDI MOVIE.",UTV Action
 http://84.17.41.7/UTVACTION-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-9srWYOlWqlE/WxKJlv8LpfI/AAAAAAAATlk/Srmk79k-sak_LFtcwz6x_cOAUQcxJzx0gCLcBGAs/w1200-h630-p-k-no-nu/mbc_ae_bollywood%2BFrequency.png" group-title="HINDI MOVIE.",Mbc Bollywood
@@ -488,8 +484,6 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w829907558.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/2/2c/Ietv2008logo.svg/144px-Ietv2008logo.svg.png" group-title="CARTOON.",Ch 23 החינוכית
 https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1200px-Nick.svg.png" group-title="CARTOON.",Nick Bangla
-http://103.81.104.118/hls/stream23.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1200px-Nick.svg.png" group-title="CARTOON.",Nick 2
 http://103.81.104.118/hls/stream23.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180417/loe/kisspng-sony-yay-sony-pictures-networks-india-television-c-sony-5ad644fce01d59.956800371523991804918.jpg" group-title="CARTOON.",Sony YAY
 https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
