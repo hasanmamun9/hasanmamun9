@@ -339,6 +339,8 @@ http://cdn61.liveonlineservices.com/hls/subrang.m3u8
 https://mntv.livebox.co.in/mntvhls/mntv.m3u8
 #EXTINF:0 tvg-logo="https://www.utv.lk/wp-content/uploads/2018/05/utv_logo.png" group-title="TAMIL MOVIE.",Tamil U Tv
 http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQwyzhDbez0Sfd4hHPkHoRTUlZ38AQNgIqFg&usqp=CAU" group-title="TAMIL MOVIE.",ROSEBOWL TV
+https://acv.asianetmobiletvplus.com/webstreams/ef22daf97d61acb4bf52376c4105ad02.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2021/03/TehelkaTV.png" group-title="HINDI MOVIE.",Tehelka Tv
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/tehelkatv.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.paulmerchants.net/paulmerchants/wp-content/uploads/2018/10/pitaara-logo.png" group-title="TAMIL MOVIE.",Pitaara Tv
@@ -387,8 +389,8 @@ https://de1se01.v2beat.live/playlist.m3u8
 https://lightning-actionhollywood-samsungaustralia.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/602/947/png-clipart-hollywood-sign-hollywood-walk-of-fame-hollywood-sign-text-logo.png" group-title="ENGLISH MOVIE.",Hollywood Movies
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:0 tvg-logo="https://trustgamblers.org/wp-content/uploads/2018/05/HollywoodTV.jpg"group-titile="ENGLISH MOVIE.",Hollywood Hd
-https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/997452/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceType=web&deviceMake=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&deviceDNT=0&deviceModel=Chrome&userId=&appName=&app_name=&appStoreUrl=
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2JR-13aC-2q10flC7ysehJc_YCdk6Wv_SQw&usqp=CAU"group-titile="ENGLISH MOVIE.",Hollywood Hd
+https://stitcher.plun=2.0.0&deviceType=web&deviceMake=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&deviceDNT=0&deviceModel=Chrome&userId=&appName=&app_name=&appStoreUrl=
 #EXTINF:0 tvg-logo="https://image.roku.com/developer_channels/prod/c2ed0c92e8b889a34ca29ac4cfa667f86124f3681c336329dea8f7f8c9bfa33c.png" group-title="ENGLISH MOVIE.",Made in Hollywood
 https://connection3-ent.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-logo="https://content3.jdmagicbox.com/comp/delhi/x9/011pxx11.xx11.120330141100.y8x9/catalogue/netmax-karol-bagh-delhi-internet-service-providers-q8s44h2399-250.jpg" group-title="ENGLISH MOVIE.",NETMAX TV
@@ -421,14 +423,12 @@ https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 http://210.210.155.35/uq2663/h/h141/01.m3u8
 #EXTINF:0 tvg-logo="https://www.pngjoy.com/pngm/850/10033240_hbo-red-by-hbo-hd-png-download.png" group-title="ENGLISH MOVIE.",Amedia Hit HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENGLISH MOVIE.",HBO
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXAfJIv8QVWRgKbHWmqjKqBFx3YMHM5S_B_g&usqp=CAU" group-title="ENGLISH MOVIE.",HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/1.m3u8?token=Zalogi
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENGLISH MOVIE.",HBO 2
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTblwUcNAHStg9_mUy0ExN3H6uxSrOwpJG5Ww&usqp=CAU" group-title="ENGLISH MOVIE.",HBO 2
 http://mypanel.tv:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6069
 #EXTINF:0 tvg-logo="https://www.pngfind.com/pngs/m/71-717989_1500-x-700-2-hbo-hits-hd-png.png" group-title="ENGLISH MOVIE.",HBO Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQwyzhDbez0Sfd4hHPkHoRTUlZ38AQNgIqFg&usqp=CAU" group-title="ENGLISH MOVIE.",ROSEBOWL TV
-https://acv.asianetmobiletvplus.com/webstreams/ef22daf97d61acb4bf52376c4105ad02.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/MBC_Max_TV_Channel_Logo.png" group-title="ENGLISH MOVIE.",Mbc Max
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mbc-2.png" group-title="ENGLISH MOVIE.",MBC 2 HD
@@ -493,7 +493,7 @@ https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 https://www.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet2.png" group-title="SPORTS.",Skynet Sports 2
 https://www.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet2.png" group-title="SPORTS.",Skynet Sports 6
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx6pmb0IXfENEp-KS1X3RWT4oj_fPZnziVKQ&usqp=CAU" group-title="SPORTS.",Skynet Sports 6
 https://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo0GsLbFmp3WekE-P4OfRLGYmgzx9esw56hA&usqp=CAU" group-title="SPORTS.",TrT Spoets
 https://tv-trt3.live.trt.com.tr/master_720.m3u8
