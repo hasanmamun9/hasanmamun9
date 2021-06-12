@@ -498,7 +498,7 @@ https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist_b200
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/RMC_Sport_1.png" group-title="SPORTS.",RMC Sport 1
 http://edge01eu.ekranet.com:80/rtshsport_240p/index.m3u8
 #EXTINF:0 tvg-logo="https://stonybrookathletics.com/images/2021/3/16/017f41a2_ef4f_39d3_9f45_f680b88cd23b.png" group-title="SPORTS.",ESPN 2
-https://gma2.blab.email/espn2.m3u
+https://gma2.blab.email/fs2.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sony_ESPN_logo.svg/1200px-Sony_ESPN_logo.svg.png" group-title="SPORTS.",Sony Espn
 https://gma2.blab.email/espnu.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfsFCVHffnNjsqYtyMP10_e2i_hKikQ2JYswj51osv9kICEWd960REDHImHrcZD1l69g&usqp=CAU" group-title="SPORTS.",Star Sports 1
