@@ -268,7 +268,7 @@ https://m-c01-j2apps.s.llnwi.net/hls/6641.SkystarFilme.in.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3tOy2jMIhkEjOBoDMQcQsMZAGwA5LjT8jfA&usqp=CAU" group-title="HINDI MOVIE.",SONY MAX 
 https://tvstream.space/jtv/jootvvz.php?c=Sony_Max_SD&q=1200&e=.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Sony_Max_HD.svg/revision/latest/scale-to-width-down/340?cb=20191222183157" group-title="HINDI MOVIE.",Sony Max HD
-http://208.115.215.42/SonY_Max_HD/index.m3u8
+https://tvstream.space/jtv/jootvvz.php?c=Sony_Max_HD&q=1200&e=.m3u8
 #EXTINF:0 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="HINDI MOVIE.",Sony Wah
 https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/763666460141125632/v5VPttZp.jpg" group-title="HINDI MOVIE.",Sony Max 2 Uk
@@ -399,7 +399,7 @@ http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 https://mytime-tcl.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i2.wp.com/otantenna.com/wp-content/uploads/2020/10/Stirr.png?fit=290%2C218&ssl=1" group-title="ENGLISH MOVIE.",STIRR Horror Movies
 https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8
-#EXTINF:0 tvg-logo="https://i2.wp.com/otantenna.com/wp-content/uploads/2020/10/Stirr.png?fit=290%2C218&ssl=1" group-title="ENGLISH MOVIE.",STIRR Movies
+#EXTINF:0 tvg-logo="http://nomorecable.xyz:80/lava123/lava123/91944" group-title="ENGLISH MOVIE.",STIRR Movies
 https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
 #EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-JitJUuWTMxg/VH--1LtXqGI/AAAAAAAAAo0/FL_bgsBFjeU/s1600/CELESTIAL%2BCLASSIC%2BMOVIES%2Blogo.png"group-titile="ENGLISH MOVIE.", C Movie
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
@@ -485,6 +485,8 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w829907558.m3u8
 https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1200px-Nick.svg.png" group-title="CARTOON.",Nick Bangla
 http://103.81.104.118/hls/stream23.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBCEphl81y3d0c-NzPh_pNXQsTqMu3_aUdIg&usqp=CAU" group-title="CARTOON.",Sonic Bangla
+https://tvstream.space/jtv/jootvvz.php?c=Sonic_Bangla&q=1200&e=.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180417/loe/kisspng-sony-yay-sony-pictures-networks-india-television-c-sony-5ad644fce01d59.956800371523991804918.jpg" group-title="CARTOON.",Sony YAY
 https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7S3PtBMDfIeC_K5jngsK04SUCsCABVCpakg&usqp=CAU" group-title="SPORTS.",Da Vinci
