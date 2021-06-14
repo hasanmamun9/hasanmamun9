@@ -323,7 +323,7 @@ https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
 #EXTINF:0 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/b4u-movies-logo-300x300.jpg" group-title="HINDI MOVIE.",B4U Movie 
 http://ztvuk.com:8080/younis/younis123/12219
-#EXTINF:0 tvg-logo="https://b4uplus.com/images/logo.png" group-title="HINDI MOVIE.",B4U PLUS
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9N9phX7GkpqKbHWSoRrVjIO7T-Y_u6zUKg&usqp=CAU" group-title="HINDI MOVIE.",B4U Aflam
 http://ztvuk.com:8080/younis/younis123/12222
 #EXTINF:0 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/bbo-white.png" group-title="HINDI MOVIE.",BBO Movie
 http://ztvuk.com:8080/younis/younis123/12269
@@ -541,7 +541,7 @@ http://str24.l9574.com/517.stream/index.m3u8
 http://ztvuk.com:8080/younis/younis123/12206
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBs_EIjBEoXROJe0XUA0P13_R76vmvVI0Cg&usqp=CAU" group-title="SPORTS.",Sony Liv
 https://tvstream.space/jtv/eurootv.php?c=Ten_2&q=800&e=.m3u8
-#EXTINF:0 tvg-logo="https://toppng.com/uploads/preview/sony-six-hd-sony-ten-1-logo-11563171250vpgsq2y04z.png" group-title="SPORTS.",Sony Six
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBs_EIjBEoXROJe0XUA0P13_R76vmvVI0Cg&usqp=CAU" group-title="SPORTS.",Sony Liv 1
 https://streamcdn.getloconow.com/CJV0DSAWS5_b96e1ac0-8e15-4c68-b5b4-b6d9880c8e4b/CJV0DSAWS5_b96e1ac0-8e15-4c68-b5b4-b6d9880c8e4b_hi/manifest.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg/revision/latest/scale-to-width-down/340?cb=20190322143617" group-title="SPORTS.",Sony Ten 1
 http://cdn.ihub.live:8080/j-Sony-Ten1/tracks-v1a1/mono.m3u8
