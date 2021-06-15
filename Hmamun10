@@ -274,7 +274,7 @@ https://tvstream.space/jtv/jootvvz.php?c=Sony_Max_HD&q=1200&e=.m3u8
 #EXTINF:0 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="HINDI MOVIE.",Sony Wah
 https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/763666460141125632/v5VPttZp.jpg" group-title="HINDI MOVIE.",Sony Max 2 Uk
-http://208.115.215.42:80/SonY_Max_HD_02/tracks-v1a1/mono.m3u8
+http://212.102.60.40:2200/R-EX/HINDI_SONY_MAX_2-in/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest/scale-to-width-down/340?cb=20200320100818" group-title="HINDI MOVIE.",B4u Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeOO-1UlDHtHjL7faZwRwnqGG0SE4qggTxIQ&usqp=CAU" group-title="HINDI MOVIE.",Rasi Hindi Tv
@@ -543,16 +543,12 @@ http://cdn.ihub.live:8080/SonySix/tracks-v1a1/mono.m3u8
 https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxcF9LEfH8PDl52cmlWsONHVUF_m_oBPu-Pg&usqp=CAU" group-title="SPORTS.",SPORT TV 2
 https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7S21ww6jmKRcIyHqYXW8KOAR9sFwqQHySjA&usqp=CAU" group-title="SPORTS.",Футбол 1 
-https://77-247-178-24.livesports24.online/uafootballua1.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="SPORTS.",Fox Sport 1
-http://chronostv.com:80/cliente1812/cliente1812gg/69126?checkedby:iptvcat.com
-#EXTINF:0 tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="SPORTS.",Fox Sport 2
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/22112.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="SPORTS.",Fox Sports 3
-https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://ballherehere.com/wp-content/uploads/2019/08/true-football-premier-hd.png" group-title="SPORTS.",Premier 1
-http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="beIN SPORTS.",beIN Max 4 Sports
+http://212.102.60.40:2200/EX/BEIN_SPORTS_MAX4HD-ar/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://live.staticflickr.com/1812/43520142394_505229905e_n.jpg" group-title="beIN SPORTS.",beIN Max 5 Sports
+http://212.102.60.40:2200/EX/BEIN_SPORTS_MAX5HD-ar/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/BeIn_Sports_Max_6.png" group-title="beIN SPORTS.",beIN Max 6 Sports
+http://212.102.60.40:2200/EX/BEIN_SPORTS_MAX6HD-ar/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRugzozrlA3hcs2M_5MVnIeRljtoE7oKk2PImz1eBQtojpaHutI8DWG-srVUkd3mJlGQSs&usqp=CAU" group-title="beIN SPORTS.",beIN Sports Premium 1
 http://ferrarico.referrari.com/live/60137_.m3u8
 #EXTINF:0 tvg-logo="https://media.info/i/lf/300/1491349382/6589.png" group-title="beIN SPORTS.",beIN Sports 1
@@ -565,6 +561,16 @@ http://ferrarico.referrari.com/live/60093_.m3u8
 http://ferrarico.referrari.com/live/60099_.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sony_ESPN_logo.svg/1200px-Sony_ESPN_logo.svg.png" group-title="SPORTS.",Sony Espn
 https://gma2.blab.email/espnu.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="SPORTS.",Fox Sport 1
+http://chronostv.com:80/cliente1812/cliente1812gg/69126?checkedby:iptvcat.com
+#EXTINF:0 tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="SPORTS.",Fox Sport 2
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/22112.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="SPORTS.",Fox Sports 3
+https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7S21ww6jmKRcIyHqYXW8KOAR9sFwqQHySjA&usqp=CAU" group-title="SPORTS.",Футбол 1 
+https://77-247-178-24.livesports24.online/uafootballua1.m3u8
+#EXTINF:0 tvg-logo="https://ballherehere.com/wp-content/uploads/2019/08/true-football-premier-hd.png" group-title="SPORTS.",Premier 1
+http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfsFCVHffnNjsqYtyMP10_e2i_hKikQ2JYswj51osv9kICEWd960REDHImHrcZD1l69g&usqp=CAU" group-title="SPORTS.",Star Sports 1
 http://103.81.104.118/hls/stream15.m3u8
 #EXTINF:0 tvg-logo="https://banner2.cleanpng.com/20180611/ivp/kisspng-star-sports-star-india-television-channel-sony-ten-sportstv-5b1ed6839505d4.2492886615287476516104.jpg" group-title="SPORTS.",Star Sports 2
