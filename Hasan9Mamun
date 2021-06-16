@@ -303,8 +303,6 @@ http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
 http://212.102.60.40:2200/R-EX/HINDI_STAR_GOLD_SELECT_HD-in/index.m3u8
 #EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2020/01/29/star-gold2.jpg" group-title="HINDI MOVIE.",STAR GOLD 2
 http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/51/StarUtsavMoviesLogo.jpg/220px-StarUtsavMoviesLogo.jpg" group-title="HINDI MOVIE.",STAR UTSAV MOVIES
-http://rv.therevenge.co:80/307211716271/307211716271/83707
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png" group-title="HINDI MOVIE.",Zing
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/58c90ef7694fe70f730ff014/1565808835654/246fc32281bd88720c5a6dbd7c9a3984.png" group-title="HINDI MOVIE.",Zee Action
@@ -327,8 +325,8 @@ http://ztvuk.com:8080/younis/younis123/12219
 http://ztvuk.com:8080/younis/younis123/12222
 #EXTINF:0 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/BBO-Classic-white.png" group-title="HINDI MOVIE.",BBO Movie
 http://ztvuk.com:8080/younis/younis123/12270
-#EXTINF:0 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/dish-tv-movies-active-tv-channel-logo-150x150.jpg" group-title="HINDI MOVIE.",MOVIES ACTIVE CLASSIC
-http://rv.therevenge.co:80/307211716271/307211716271/83611
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2_oBb80E6HPjlsJt_wYPoHpvqH4SCAs2SPuBtg4hEy23am4R14QtCmSo&s=10" group-title="HINDI MUSIC.",Tv Asia
+https://streaming37.worldbbtv.com/hls/tvasiahindi.m3u8
 #EXTINF:0 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/dish-tv-movies-active-tv-channel-logo-150x150.jpg" group-title="HINDI MOVIE.",MOVIES ACTIVE
 https://cutt.ly/2nEd67E
 #EXTINF:0 tvg-logo="https://img.freepik.com/free-vector/realistic-bollywood-cinema-sign-illustration_23-2148470397.jpg?size=338&ext=jpg" group-title="HINDI MOVIE.",Bollywood Classic
@@ -375,8 +373,6 @@ https://live.hungama.com/linear/pop-pataka/playlist.m3u8?Live-TV
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
 #EXTINF:0 tvg-logo="https://www.the-ba-group.com/wp-content/uploads/2018/03/b4u-music-logo.png" group-title="HINDI MUSIC.",B4U Music
 http://d2n59piq1dbucf.cloudfront.net/B4U_MUSIC.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2_oBb80E6HPjlsJt_wYPoHpvqH4SCAs2SPuBtg4hEy23am4R14QtCmSo&s=10" group-title="HINDI MUSIC.",Tv Asia
-https://streaming37.worldbbtv.com/hls/tvasiahindi.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWBnfbs8fkgxeNgP1_shXZiRRcmHWKxStyqg&usqp=CAU" group-title="HINDI MUSIC.",Shemaroo Music
 https://livechannel.shemaroome.com/linearplayout/test-linear-channel/playlist_cf.m3u8
 #EXTINF:0 tvg-logo="https://dcassetcdn.com/design_img/1495644/79001/79001_7552083_1495644_82449aef_image.jpg" group-title="HINDI MUSIC.",Mo Music 
