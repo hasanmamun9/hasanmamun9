@@ -505,6 +505,8 @@ https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunkl
 http://103.81.104.118/hls/stream23.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180417/loe/kisspng-sony-yay-sony-pictures-networks-india-television-c-sony-5ad644fce01d59.956800371523991804918.jpg" group-title="CARTOON.",Sony YAY
 https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
+#EXTINF:0 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/nickelodeon-sonic-bangla.png" group-title="CARTOON.",Sonic Bangla
+https://tvstream.space/jtv/jioweexqax14.php?c=Sonic_Bangla&q=1200&e=.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7S3PtBMDfIeC_K5jngsK04SUCsCABVCpakg&usqp=CAU" group-title="SPORTS.",Da Vinci
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/9b/4f/84/9b4f843fa6f7d9ab08b2fd9fe9f9457b.png" group-title="LIFESTYLE.",Fox Life HD
@@ -530,7 +532,7 @@ https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png" group-title="SPORTS.",Ten Sports
 http://ztvuk.com:8080/younis/younis123/12206
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg/revision/latest/scale-to-width-down/340?cb=20190322143617" group-title="SPORTS.",Sony Ten 1
-http://cdn.ihub.live:8080/j-Sony-Ten1/tracks-v1a1/mono.m3u8
+https://tvstream.space/jtv/jioweexqax14.php?c=Ten_1&q=800&e=.m3u8
 #EXTINF:0 tvg-logo="https://i2.wp.com/bdixsports.com/wp-content/uploads/2018/04/ten2.jpg?fit=300%2C250" group-title="SPORTS.",Sony Ten 2
 http://cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="http://skytv.com.np/admin/uploads/channel_image/98.jpg" group-title="SPORTS.",Sony Ten 3 Hindi
