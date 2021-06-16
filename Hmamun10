@@ -430,7 +430,7 @@ http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1280px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="ENGLISH MOVIE.",FOX Movies
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7QiRJevINmRHY09lQZHAqpe40GwcVKpe1ug&usqp=CAU"group-titile="ENGLISH MOVIE.",Axn ind
-http://210.210.155.35/uq2663/h/h141/01.m3u8
+http://103.81.104.118/hls/stream2.m3u8
 #EXTINF:0 tvg-logo="https://www.pngjoy.com/pngm/850/10033240_hbo-red-by-hbo-hd-png-download.png" group-title="ENGLISH MOVIE.",Amedia Hit HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXAfJIv8QVWRgKbHWmqjKqBFx3YMHM5S_B_g&usqp=CAU" group-title="ENGLISH MOVIE.",HBO
@@ -522,7 +522,7 @@ http://edge01eu.ekranet.com:80/rtshsport_240p/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSytw-B9FTWQqtbR8kgLOY073FIwvfygljANw&usqp=CAU" group-title="SPORTS.",Tigo Sports Tv
 https://d107hql7o7vd84.cloudfront.net/out/v1/ce38156ea93a47709cec829647e9b0ce/index_3.m3u8
 #EXTINF:0 tvg-logo="https://stonybrookathletics.com/images/2021/3/16/017f41a2_ef4f_39d3_9f45_f680b88cd23b.png" group-title="SPORTS.",ESPN Brazil
-http://212.8.243.43:8880/99999/99999/2303?checkedby:iptvcat.com
+http://tvdns.tech:80/alvaro27/alvaro27/531711?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://stonybrookathletics.com/images/2021/3/16/017f41a2_ef4f_39d3_9f45_f680b88cd23b.png" group-title="SPORTS.",ESPN  2
 http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/22104.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://stonybrookathletics.com/images/2021/3/16/017f41a2_ef4f_39d3_9f45_f680b88cd23b.png" group-title="SPORTS.",ESPN +
