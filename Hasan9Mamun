@@ -493,6 +493,8 @@ http://210.210.155.35/session/bc0a1e22-773f-11eb-ab01-a3d7ba48b0db/uq2663/h/h18/
 https://ammoruntime-plex.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
  #EXTINF:0 tvg-logo="https://www.livefarsi.com/uploads/tv_image/atn-europe-tv.jpg" group-title="ENGLISH MOVIE.",ATN Europe
 https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/03/images-1-1.png" group-title="ENGLISH MOVIE.",Discover film
+https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngrR0DfEqIThsW1eMxLP6cXnFWRmk12B7MZ8-04ZQ=s900-c-k-c0x00ffffff-no-rj" group-title="ENGLISH MOVIE.",WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w829907558.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/2/2c/Ietv2008logo.svg/144px-Ietv2008logo.svg.png" group-title="CARTOON.",Ch 23 החינוכית
@@ -621,6 +623,8 @@ http://185.180.221.194:8278/streams/d/Discoveryhd/playlist.m3u8?bdtv
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/800px-TLC-Logo_2016.png" group-title="COOKING.",TLC
 https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ0qwO4vBFbBtQ_zfyzZTuXm_t8Dcm3kIkIg&usqp=CAU" group-title="COOKING.",Tlc Hindi
+https://idvd.multitvsolution.com/idvo/tlchdhindi.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK3ZT8eRq6qJGNo15TJv12H2B23cEabeZXL9yBODKSQJgkElbdxwHVbNYJ77JR8Pr9sac&usqp=CAU" group-title="COOKING.",Food
 http://food.samsung.wurl.com/manifest/1200.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/Food_Food_%28TV_Channel%29_Logo.jpg" group-title="COOKING.",FOOD FOOD
