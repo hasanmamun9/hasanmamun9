@@ -610,7 +610,7 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXMLdcH_So7eL7RdJXhevfT_WzZ9y_Fipm-Q&usqp=CAU" group-title="SPORTS.",Oman Sport
 https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVm_k1dQ4tSVdl8DKOVfh5RX347DQ66f0NPWesKPxFNKB-VyHNebfdg5-a341amL6gDrw&usqp=CAU" group-title="SPORTS.",T Sports
-http://103.205.133.19/hls/tsports.m3u8
+http://212.102.60.40:2200/R-EX/T_SPORTS_HD-in/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-T1fNcPdR6doQjKqdaPa1BQxq9oPuViZDMqmSO2s7a4EzdY68IEc9RchkqGh9Q2B0fVc&usqp=CAU" group-title="SPORTS.",Maq Tv
 http://str24.l9574.com/517.stream/index.m3u8
 #EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/793/877/png-clipart-red-bull-gmbh-logo-energy-drink-brand-red-bull-company-text.png" group-title="DOCUMENTARY.",Red Bull Tv
@@ -685,5 +685,5 @@ https://live.diu.ac/hls/live/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ44Ax7IR4Ec1UdFCfHU4_j1Joa9AxUpobmJw&usqp=CAU" group-title="Movie.",Live Movie 2
 http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000744/150/index.m3u8?&encrypt=
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG-JGzKDT-gNS7vD2Q3rqDknTRFgWhxNkDJA&usqp=CAU" group-title="Movie.", Live Movie 3
-https://cn-lnsy-cu-live-01.bilivideo.com/live-bvc/992495/live_22989278_9714011.m3u8
+http://albacete.vipserver.store:25461/movie/.Vitalie__ii_da_la_,muie_luDanyAlbu.../MaNumesc_DanyAlbu_si_sant_o_laba_ieftina/7616.mp4
 
