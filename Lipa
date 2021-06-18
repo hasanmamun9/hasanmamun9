@@ -461,8 +461,6 @@ http://103.81.104.118/hls/stream3.m3u8
 https://sonar.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvpc0g3-B2NBkNDZ_dgMSk8aWD2wjgJFbaaUWnAmljnizu2eeFajX42r0UVgRpaFP83jU&usqp=CAU" group-title="ENGLISH MOVIE.",Cinema Tv
 https://sc.id-tv.kz/Cinema_34_35.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOqfMG7vJDMxIQoxaa44yN57TtvadO__Y3q64qCd-caNoiUfVnPHqNMHsK&s=10" group-title="ENGLISH MOVIE.",Zee Living
-https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-logo="https://img.favpng.com/19/24/10/paramount-pictures-hollywood-paramount-television-image-logo-png-favpng-YnhkaJrx1FJi7QzaEQ39xHVak.jpg" group-title="ENGLISH MOVIE.",PARAMOUNT TV
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="ENGLISH MOVIE.",WarnerTV 
@@ -571,14 +569,6 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1558393494
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDW0kgBPKWgo7TRzU28NDBMoSXpBG2a2Hazg&usqp=CAU" group-title="SPORTS.",Band Sports
 http://50.7.34.155:2200/BR/Band_Sports_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/2c/e6/05/2ce60557768dee87769c3b0c4e6b347f.jpg" group-title="SPORTS.",AD Sports 1
-http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
-#EXTINF:0 tvg-logo="https://nl7za.com/wp-content/uploads/2019/10/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D8%A8%D9%88-%D8%B8%D8%A8%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-2-HD.jpg" group-title="SPORTS.",AD Sports 2
-http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
-#EXTINF:0 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/SharjahTV.png" group-title="SPORTS.",Sharjah Sport
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXMLdcH_So7eL7RdJXhevfT_WzZ9y_Fipm-Q&usqp=CAU" group-title="SPORTS.",Oman Sport
-https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVm_k1dQ4tSVdl8DKOVfh5RX347DQ66f0NPWesKPxFNKB-VyHNebfdg5-a341amL6gDrw&usqp=CAU" group-title="SPORTS.",T Sports
 http://212.102.60.40:2200/R-EX/T_SPORTS_HD-in/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-T1fNcPdR6doQjKqdaPa1BQxq9oPuViZDMqmSO2s7a4EzdY68IEc9RchkqGh9Q2B0fVc&usqp=CAU" group-title="SPORTS.",Maq Tv
@@ -631,6 +621,8 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:0 tvg-logo="https://img.favpng.com/12/20/21/logo-nat-geo-wild-national-geographic-television-channel-png-favpng-X5cTr0eRJi2b96GK1s1x1nBAK.jpg" group-title="GEOGRAPHIC.",Natgeo Hindi
 http://84.17.41.7:80/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://img.favpng.com/12/20/21/logo-nat-geo-wild-national-geographic-television-channel-png-favpng-X5cTr0eRJi2b96GK1s1x1nBAK.jpg" group-title="GEOGRAPHIC.",Natgeo Bangla
+http://103.81.104.118/hls/stream13.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="GEOGRAPHIC.",Animal Planet
 http://cdn.ihub.live:8080/AnimalPlanet/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="GEOGRAPHIC.",Animal Planet Hindi
