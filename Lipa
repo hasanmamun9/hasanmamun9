@@ -374,7 +374,7 @@ http://103.81.104.118/hls/stream8.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1115500483961950208/q3Wlk_Pt_400x400.png" group-title="HINDI MUSIC.",M Tv+
 http://84.17.41.7:80/MTV_PLUS_US/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj0CeO2Dsi0GQc0Ej_acUTZuYWnn_BTP7baT7wIaA=s900-c-k-c0x00ffffff-no-rj" group-title="HINDI MUSIC.",M Tv Beats
-http://tvstream.space/jtv/jtvvxx.php?c=MTV_Beats_HD&q=600&e=.m3u8
+http://bazarhd.online:80/307210144741/307210144741/83649
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT2uRRcls4JOXVEDutM9QBCxc5l49RIbnoYQ&usqp=CAU" group-title="HINDI MUSIC.",M Tv Yo!
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 #EXTINF:0 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2020/12/CHANNELV.jpg" group-title="ENGLISH MOVIE.", Channel V
@@ -449,8 +449,6 @@ http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.pngkey.com/png/full/128-1286049_dove-channel-dove-channel-logo.png" group-title="ENGLISH MOVIE.",Dove Tv
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQqxXaFrOkjaW9ZD1ZbsKTlXdIJa3eKFTT_qr8g7hAOgxeBdXRIm-BIe4&s=10" group-title="ENGLISH MOVIE.",Infinity Tv
-http://tvstream.space/jtv/jtvvxx.php?c=Colors_Infinity_HD&q=600&e=.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="ENGLISH MOVIE.",Cinemax
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/3.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqtY-gQHOh3C-b8mpUYZQ-VRIF-InYahOzEw&usqp=CAU" group-title="ENGLISH MOVIE.",Star Movies
@@ -586,7 +584,7 @@ https://idvd.multitvsolution.com/idvo/tlchdhindi.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK3ZT8eRq6qJGNo15TJv12H2B23cEabeZXL9yBODKSQJgkElbdxwHVbNYJ77JR8Pr9sac&usqp=CAU" group-title="COOKING.",Food
 http://food.samsung.wurl.com/manifest/1200.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/Food_Food_%28TV_Channel%29_Logo.jpg" group-title="COOKING.",FOOD FOOD
-http://tvstream.space/jtv/jtvvxx.php?c=Food_Food&q=600&e=.m3u8
+http://rv.therevenge.co:80/307211716271/307211716271/83559
 #EXTINF:0 tvg-logo="https://image.roku.com/developer_channels/prod/c0dda8886e121608052fb46c4cbfd3568880a1917c4cfbea8de48c82cef3c3a1.png" group-title="COOKING.",Food 52
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="COOKING.",Afn Tv
