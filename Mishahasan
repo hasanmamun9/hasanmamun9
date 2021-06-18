@@ -485,6 +485,8 @@ http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
 http://210.210.155.35/session/bc0a1e22-773f-11eb-ab01-a3d7ba48b0db/uq2663/h/h18/02.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFqM8jN9p0nGf9rsiyZeMpYzJVLCkhtyKXFA&usqp=CAU" group-title="ENGLISH MOVIE.",Nova Cinema
 http://nova-live.ssl.cdn.cra.cz/channels/nova-cinema/playlist/cze/live_fullhd.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQqxXaFrOkjaW9ZD1ZbsKTlXdIJa3eKFTT_qr8g7hAOgxeBdXRIm-BIe4&s=10" group-title="ENGLISH MOVIE.",Infinity Tv
+http://tvstream.space/jtv/jtvvxx.php?c=Colors_Infinity_HD&q=600&e=.m3u8
 #EXTINF:0 tvg-logo="http://cdn.teleon.tv/logo/runtime-us.png" group-title="ENGLISH MOVIE.",RunTime Free Movies
 https://ammoruntime-plex.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://www.livefarsi.com/uploads/tv_image/atn-europe-tv.jpg" group-title="ENGLISH MOVIE.",ATN Europe
