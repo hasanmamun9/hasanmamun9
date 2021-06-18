@@ -135,8 +135,6 @@ https://interasia-hls.telelivebd.com/interasia/interasia_manifest.m3u8
 https://yestv-hls.telelivebd.com/yestv/yestv_manifest.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/942458481017208832/CA5uGF46.jpg" group-title="BANGLA MOVIE.",Sristy-Tv
 http://tempe.jagobd.com:1932/iptv/sristytv.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://colorsiptv.com/uploads/tv_image/sristy-tv.png" group-title="BANGLA MOVIE.",Sresty Cinema-Tv
-https://srestytv.telelivebd.com/srestytv/srestytv_manifest.m3u8
 #EXTINF:0 tvg-logo="http://cabeltvapp.com/wp-content/uploads/2020/12/Ayna-tv-200x200.jpg" group-title="BANGLA ENT.",Agami-Tv
 http://str24.l9574.com/510.stream/index.m3u8
 #EXTINF:0 tvg-logo="http://mbtvbd.com/wp-content/uploads/2021/02/Mb-tv-logo.png" group-title="BANGLA MOVIE.",Magic Bangla
