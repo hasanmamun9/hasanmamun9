@@ -371,14 +371,14 @@ http://d2n59piq1dbucf.cloudfront.net/B4U_MUSIC.m3u8
 https://livechannel.shemaroome.com/linearplayout/test-linear-channel/playlist_cf.m3u8
 #EXTINF:0 tvg-logo="https://dcassetcdn.com/design_img/1495644/79001/79001_7552083_1495644_82449aef_image.jpg" group-title="HINDI MUSIC.",Mo Music 
 https://d38944htyexzq5.cloudfront.net/MO_MUSIC.m3u8
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1115500483961950208/q3Wlk_Pt_400x400.png" group-title="HINDI MUSIC.",M Tv+
-http://84.17.41.7:80/MTV_PLUS_US/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT2uRRcls4JOXVEDutM9QBCxc5l49RIbnoYQ&usqp=CAU" group-title="HINDI MUSIC.",M Tv Yo!
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
-#EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj0CeO2Dsi0GQc0Ej_acUTZuYWnn_BTP7baT7wIaA=s900-c-k-c0x00ffffff-no-rj" group-title="HINDI MUSIC.",M Tv Beats
-http://tvstream.space/jtv/jtvvxx.php?c=MTV_Beats_HD&q=600&e=.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Zoom_Logo.png" group-title="HINDI MUSIC.",ZOOM TV HD
 http://103.81.104.118/hls/stream8.m3u8
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1115500483961950208/q3Wlk_Pt_400x400.png" group-title="HINDI MUSIC.",M Tv+
+http://84.17.41.7:80/MTV_PLUS_US/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj0CeO2Dsi0GQc0Ej_acUTZuYWnn_BTP7baT7wIaA=s900-c-k-c0x00ffffff-no-rj" group-title="HINDI MUSIC.",M Tv Beats
+http://tvstream.space/jtv/jtvvxx.php?c=MTV_Beats_HD&q=600&e=.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT2uRRcls4JOXVEDutM9QBCxc5l49RIbnoYQ&usqp=CAU" group-title="HINDI MUSIC.",M Tv Yo!
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 #EXTINF:0 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2020/12/CHANNELV.jpg" group-title="ENGLISH MOVIE.", Channel V
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTobTEbzcExvJMeNow5ysMlUfnDy4Fh9LxoVA&usqp=CAU" group-title="ENGLISH MOVIE.",Action Hollywood Movies
@@ -452,7 +452,7 @@ https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m
 #EXTINF:0 tvg-logo="https://www.pngkey.com/png/full/128-1286049_dove-channel-dove-channel-logo.png" group-title="ENGLISH MOVIE.",Dove Tv
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQqxXaFrOkjaW9ZD1ZbsKTlXdIJa3eKFTT_qr8g7hAOgxeBdXRIm-BIe4&s=10" group-title="ENGLISH MOVIE.",Infinity Tv
-tvstream.space/jtv/jtvvxx.php?c=Colors_Infinity_HD&q=600&e=.m3u8
+http://tvstream.space/jtv/jtvvxx.php?c=Colors_Infinity_HD&q=600&e=.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="ENGLISH MOVIE.",Cinemax
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/3.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqtY-gQHOh3C-b8mpUYZQ-VRIF-InYahOzEw&usqp=CAU" group-title="ENGLISH MOVIE.",Star Movies
