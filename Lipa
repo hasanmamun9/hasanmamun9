@@ -262,9 +262,9 @@ https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in.m3u8
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-P9V5thAdT9Y/YGVnMTu1g-I/AAAAAAAAyI4/q0kkD0M3oB47nJ2xHOV4z2r4FmBuhqLRQCLcBGAsYHQ/s340/Abzy_Dhakad-min.jpg" group-title="HINDI MOVIE.",Abzy Dhakad
 https://m-c01-j2apps.s.llnwi.net/hls/6641.SkystarFilme.in.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3tOy2jMIhkEjOBoDMQcQsMZAGwA5LjT8jfA&usqp=CAU" group-title="HINDI MOVIE.",SONY MAX 
-http://tvstream.space/jtv/jtvvxx.php?c=Sony_Max_SD&q=600&e=.m3u8
+http://ztvuk.com:8080/harris/harris123/12250
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Sony_Max_HD.svg/revision/latest/scale-to-width-down/340?cb=20191222183157" group-title="HINDI MOVIE.",Sony Max HD
-http://tvstream.space/jtv/jtvvxx.php?c=Sony_Max_HD&q=600&e=.m3u8
+http://ztvuk.com:8080/harris/harris123/94443
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/763666460141125632/v5VPttZp.jpg" group-title="HINDI MOVIE.",Sony Max 2 
 http://212.102.60.40:2200/R-EX/HINDI_SONY_MAX_2-in/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="HINDI MOVIE.",Sony Wah
