@@ -258,7 +258,7 @@ https://m-c01-j2apps.s.llnwi.net/hls/6641.SkystarFilme.in.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3tOy2jMIhkEjOBoDMQcQsMZAGwA5LjT8jfA&usqp=CAU" group-title="HINDI MOVIE.",SONY MAX 
 http://ztvuk.com:8080/harris/harris123/12250
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Sony_Max_HD.svg/revision/latest/scale-to-width-down/340?cb=20191222183157" group-title="HINDI MOVIE.",Sony Max HD
-http://ztvuk.com:8080/harris/harris123/94443
+http://208.115.215.42/Sony_Max_HD_02/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/763666460141125632/v5VPttZp.jpg" group-title="HINDI MOVIE.",Sony Max 2 
 http://ztvuk.com:8080/harris/harris123/89366
 #EXTINF:0 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="HINDI MOVIE.",Sony Wah
@@ -441,8 +441,8 @@ https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="ENGLISH MOVIE.",Cinemax
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/3.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzWgyQF2H1QYXORi2YAEqM5g9Lf5cQXl5jKA&usqp=CAU" group-title="ENGLISH MOVIE.",V Sat Action Tv
-http://51.91.73.99:25461/sweden/PM66f7Y43H/25892?checkedby:iptvcat.com
+#EXTINF:0 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/FILMBOX_HD.png" group-title="ENGLISH MOVIE.",Film Box Tv
+http://213.151.233.20:8000/dna-6110-tv-pc/hls/4005v105.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqtY-gQHOh3C-b8mpUYZQ-VRIF-InYahOzEw&usqp=CAU" group-title="ENGLISH MOVIE.",Star Movies
 http://103.81.104.118/hls/stream3.m3u8
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/e43va12hcyd2-9IbZcLOAgObyOYNlRiL1bEFH0vrBHtq4FnEqu3l4X6SCLONzgHkQXs=w220-rw" group-title="ENGLISH MOVIE.",MOVIEMI MIX
