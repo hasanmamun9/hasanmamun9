@@ -311,10 +311,10 @@ https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
 #EXTINF:0 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/b4u-movies-logo-300x300.jpg" group-title="HINDI MOVIE.",B4U Movie 
 http://ztvuk.com:8080/younis/younis123/12219
+#EXTINF:0 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/b4u-movies-logo-300x300.jpg" group-title="HINDI MOVIE.",B4U Movie 2
+https://ott.bingebd.com/live/ngrp:b4u_movies_all/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9N9phX7GkpqKbHWSoRrVjIO7T-Y_u6zUKg&usqp=CAU" group-title="HINDI MOVIE.",B4U Aflam
 http://ztvuk.com:8080/younis/younis123/12222
-#EXTINF:0 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/BBO-Classic-white.png" group-title="HINDI MOVIE.",BBO Movie
-http://ztvuk.com:8080/harris/harris123/12269
 #EXTINF:0 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/dish-tv-movies-active-tv-channel-logo-150x150.jpg" group-title="HINDI MOVIE.",MOVIES ACTIVE
 https://cutt.ly/2nEd67E
 #EXTINF:0 tvg-logo="https://img.freepik.com/free-vector/realistic-bollywood-cinema-sign-illustration_23-2148470397.jpg?size=338&ext=jpg" group-title="HINDI MOVIE.",Bollywood Classic
@@ -335,6 +335,8 @@ https://mntv.livebox.co.in/mntvhls/mntv.m3u8
 http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQwyzhDbez0Sfd4hHPkHoRTUlZ38AQNgIqFg&usqp=CAU" group-title="TAMIL MOVIE.",ROSEBOWL TV
 https://acv.asianetmobiletvplus.com/webstreams/ef22daf97d61acb4bf52376c4105ad02.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://cdn.doordash.com/media/restaurant/cover/DilSeIndianCuisine1201PortlandOR.png" group-title="HINDI MUSIC.",Dil Se
+https://live.hungama.com/linear/dil-se/playlist.m3u8
 #EXTINF:0 tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/9XM_Logo.png" group-title="HINDI MUSIC.",9xm
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:0 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/54413525938977.5634d18d0bf21.jpg" group-title="HINDI MUSIC.",9X Jalwa
@@ -523,6 +525,8 @@ http://103.81.104.118/hls/stream16.m3u8
 http://103.81.104.118/hls/stream12.m3u8
 #EXTINF:0 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Sports-select-2.jpg" group-title="SPORTS.",Star Sports S 2
 http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/tracks-v1a1/index.m3u8?token=
+#EXTINF:0 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Sports-select-2.jpg" group-title="SPORTS.",Star Hd
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
 #EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/13/246/png-clipart-logo-ptv-sports-television-channel-pakistan-cricket-television-text.png" group-title="SPORTS.",Ptv Sports
 http://103.81.104.118/hls/stream11.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS.",Geo Super
