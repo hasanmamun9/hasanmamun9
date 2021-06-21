@@ -467,11 +467,11 @@ https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/RTSH_Sport_%282020_Logo%29.svg/1024px-RTSH_Sport_%282020_Logo%29.svg.png" group-title="SPORTS.",Rtsh Sport
 http://edge01eu.ekranet.com:80/rtshsport_240p/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/RTSH_Sport_%282020_Logo%29.svg/1024px-RTSH_Sport_%282020_Logo%29.svg.png" group-title="SPORTS.",Rmc Sport 1
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVW6Eu-pszB4ugXfYWQNK-X7gsegRYjJSjXw&usqp=CAU" group-title="SPORTS.",Rmc Sport 1
 http://aumaletv.com:25461/EURO12/Aumaletv/37606
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7S21ww6jmKRcIyHqYXW8KOAR9sFwqQHySjA&usqp=CAU" group-title="SPORTS.",Футбол 1 
 https://77-247-178-24.livesports24.online/uafootballua1.m3u8
-EXTINF:0 tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="SPORTS.",Espn 1
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ66tM_vkHEUUQ-Qvh6hOc4D4BSEMqnj_pjVg&usqp=CAU" group-title="SPORTS.",Espn 1
 http://aumaletv.com:25461/EUROVS10/Aumaletv/50637
 #EXTINF:0 tvg-logo="https://stonybrookathletics.com/images/2021/3/16/017f41a2_ef4f_39d3_9f45_f680b88cd23b.png" group-title="SPORTS.",ESPN +
 http://stream.tvtap.live:8081/live/espnu.stream/playlist.m3u8
@@ -493,13 +493,13 @@ https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="beIN SPORTS.",beIN Max 1 Sports
 http://7.anbdaouras.xyz/live/9889900/index.m3u8
-#EXTINF:0 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="beIN SPORTS.",beIN Max 2 Sports
+#EXTINF:0 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F653%2Fbein-sports-max-1.png" group-title="beIN SPORTS.",beIN Max 2 Sports
 http://4.amroutras.xyz/live/00002500/index.m3u8
-#EXTINF:0 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="beIN SPORTS.",beIN Max 3 Sports
+#EXTINF:0 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F652%2Fbein-sports-max-1.png" group-title="beIN SPORTS.",beIN Max 3 Sports
 http://aumaletv.com:25461/EURO12/Aumaletv/50260
-#EXTINF:0 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="beIN SPORTS.",beIN Max 4 Sports
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/BeIn_Sports_Max_4.png" group-title="beIN SPORTS.",beIN Max 4 Sports
 http://aumaletv.com:25461/EURO12/Aumaletv/54410
-#EXTINF:0 tvg-logo="https://live.staticflickr.com/1812/43520142394_505229905e_n.jpg" group-title="beIN SPORTS.",beIN Max 5 Sports
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/BeIn_Sports_Max_5.png" group-title="beIN SPORTS.",beIN Max 5 Sports
 http://aumaletv.com:25461/EURO12/Aumaletv/50477
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/BeIn_Sports_Max_6.png" group-title="beIN SPORTS.",beIN Max 6 Sports
 http://aumaletv.com:25461/EURO12/Aumaletv/50478
@@ -509,8 +509,6 @@ http://77.83.117.60:8888/02_PPTVHD_720p/chunklist.m3u8
 https://d1t6zcudgmh6wd.cloudfront.net/out/v1/88e67fc9be954233a769f97bada38a56/index_32.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwY1QlXL95Am6XUwBUjQUxeTdUqf8ydVssXg&usqp=CAU" group-title="SPORTS.",TVP SPORTS HD
 http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRugzozrlA3hcs2M_5MVnIeRljtoE7oKk2PImz1eBQtojpaHutI8DWG-srVUkd3mJlGQSs&usqp=CAU" group-title="beIN SPORTS.",beIN Sports Premium 1
-http://ferrarico.referrari.com/live/60137_.m3u8
 #EXTINF:0 tvg-logo="https://media.info/i/lf/300/1491349382/6589.png" group-title="beIN SPORTS.",beIN Sports 1
 http://4.amroutras.xyz/live/00112500/index.m3u8
 #EXTINF:0 tvg-logo="https://media.info/i/lf/300/1491350441/6591.png" group-title="SPORTS.",beIN Sports 2
@@ -519,11 +517,13 @@ http://ferrarico.referrari.com/live/60092_.m3u8
 http://ferrarico.referrari.com/live/60093_.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/b0/e8/ba/b0e8ba6ee4ba6e2a1f9e1ce27437f73a.png" group-title="beIN SPORTS.",beIN Sports 4
 http://ferrarico.referrari.com/live/60099_.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZkq4NQAbtRIxv4oa-XT4VJ3F6ckyRQzjEg&usqp=CAU" group-title="beIN SPORTS.",beIN Sports 6
+http://ferrarico.referrari.com/live/60137_.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="SPORTS.",Fox Sport 1
 http://chronostv.com:80/cliente1812/cliente1812gg/69126?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="SPORTS.",Fox Sport 2
 http://aumaletv.com:25461/EUROVS10/Aumaletv/6285
-EXTINF:0 tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="SPORTS.",Fox Sport 3
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIk6v2tUXx7wTyp7ePGQQadEqvFeKe2eYLwg&usqp=CAU" group-title="SPORTS.",Fox Sport 3
 http://aumaletv.com:25461/EUROVS10/Aumaletv/6288
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/LaLiga_TV_Bar_HD.png" group-title="SPORTS.",La Liga Tv
 http://ztvuk.com:8080/younis/younis123/41179
