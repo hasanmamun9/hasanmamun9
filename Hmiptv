@@ -473,12 +473,12 @@ http://aumaletv.com:25461/EURO12/Aumaletv/37606
 https://77-247-178-24.livesports24.online/uafootballua1.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ66tM_vkHEUUQ-Qvh6hOc4D4BSEMqnj_pjVg&usqp=CAU" group-title="SPORTS.",Espn+
 http://aumaletv.com:25461/EUROVS10/Aumaletv/50637
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYIa6XEeGJEYW1VrWsZyzpARupKUe7uW-TKA&usqp=CAU" group-title="SPORTS.",ESPN+1
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQT8MA9VJidWo8Ml4s0A-mEqyc6a6KRcITBw&usqp=CAU" group-title="SPORTS.", Espn
-http://aumaletv.com:25461/EUROVS10/Aumaletv/6288
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBeTHHNNC1zklRrVHZtbmqkpMWtfv3JAK6kw&usqp=CAU" group-title="SPORTS.", Espn 2
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQT8MA9VJidWo8Ml4s0A-mEqyc6a6KRcITBw&usqp=CAU" group-title="SPORTS.",Espn 1
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4561?checkedby:iptvcat.com
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBeTHHNNC1zklRrVHZtbmqkpMWtfv3JAK6kw&usqp=CAU" group-title="SPORTS.",Espn 2
 http://aumaletv.com:25461/EUROVS10/Aumaletv/6285
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSXt7Mt1GhO09nBdDcv-GW4D4wZTtLijoX8w&usqp=CAU" group-title="SPORTS.",ESPN 3
+http://aumaletv.com:25461/EUROVS10/Aumaletv/6288
 http://stream.tvtap.live:8081/live/espnu.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://overseer.blackboxsys.net/images/png/hd-tsport3.png" group-title="SPORTS.",TRUE SPORT HD 3
 https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
