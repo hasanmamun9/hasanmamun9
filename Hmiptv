@@ -476,7 +476,7 @@ http://aumaletv.com:25461/EURO12/Aumaletv/37606
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7S21ww6jmKRcIyHqYXW8KOAR9sFwqQHySjA&usqp=CAU" group-title="SPORTS.",Футбол 1 
 https://77-247-178-24.livesports24.online/uafootballua1.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ66tM_vkHEUUQ-Qvh6hOc4D4BSEMqnj_pjVg&usqp=CAU" group-title="SPORTS.",Espn+
-http://aumaletv.com:25461/EUROVS10/Aumaletv/50637
+http://stream.tvtap.live:8081/live/espnu.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQT8MA9VJidWo8Ml4s0A-mEqyc6a6KRcITBw&usqp=CAU" group-title="SPORTS.",Espn 1
 http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4561?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBeTHHNNC1zklRrVHZtbmqkpMWtfv3JAK6kw&usqp=CAU" group-title="SPORTS.",Espn 2
@@ -493,7 +493,7 @@ http://103.81.104.118/hls/stream40.m3u8
 #EXTINF:0 tvg-logo="https://i2.wp.com/bdixsports.com/wp-content/uploads/2018/04/ten2.jpg?fit=300%2C250" group-title="SPORTS.",Sony Ten 2
 http://103.81.104.118/hls/stream39.m3u8
 #EXTINF:0 tvg-logo="http://skytv.com.np/admin/uploads/channel_image/98.jpg" group-title="SPORTS.",Sony Ten 3 Hindi
-http://103.213.238.70/SonyTen3/tracks-v1a1/mono.m3u8
+http://209.126.110.240/hls/ten3.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBs_EIjBEoXROJe0XUA0P13_R76vmvVI0Cg&usqp=CAU" group-title="SPORTS.",Sony Six Bangla
 http://103.81.104.118/hls/stream10.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQodfhSowKSaJU7VIZ1ql098H5N-GRq-NYUww&usqp=CAU" group-title="SPORTS.", SPORT TV 1
@@ -505,13 +505,13 @@ http://7.anbdaouras.xyz/live/9889900/index.m3u8
 #EXTINF:0 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F653%2Fbein-sports-max-1.png" group-title="beIN SPORTS.",beIN Max 2 Sports
 http://4.amroutras.xyz/live/00002500/index.m3u8
 #EXTINF:0 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F652%2Fbein-sports-max-1.png" group-title="beIN SPORTS.",beIN Max 3 Sports
-http://aumaletv.com:25461/EURO12/Aumaletv/50260
+http://1.alhawalouh.xyz/live/693996300/index.m3u8
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/BeIn_Sports_Max_4.png" group-title="beIN SPORTS.",beIN Max 4 Sports
-http://aumaletv.com:25461/EURO12/Aumaletv/54410
+http://3.amarteyyy.xyz/live/001087800/index.m3u8
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/BeIn_Sports_Max_5.png" group-title="beIN SPORTS.",beIN Max 5 Sports
-http://aumaletv.com:25461/EURO12/Aumaletv/50477
+http://2.amarteyyy.xyz/live/0679877700/index.m3u8
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/BeIn_Sports_Max_6.png" group-title="beIN SPORTS.",beIN Max 6 Sports
-http://aumaletv.com:25461/EURO12/Aumaletv/50478
+http://3.amarteyyy.xyz/live/790006600/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQllZNICXFJPVnhNJLqa87lTuBUv71V0SpwoA&usqp=CAU" group-title="SPORTS.",PPTV HD
 http://77.83.117.60:8888/02_PPTVHD_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSytw-B9FTWQqtbR8kgLOY073FIwvfygljANw&usqp=CAU" group-title="SPORTS.",Tigo Sports 
