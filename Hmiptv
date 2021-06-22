@@ -8,7 +8,7 @@ http://iptvbd.jagobd.com:1931/boishakhi/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/atnbanglauk11.jpg?x94984" group-title="BANGLA ENT.",Atn-Bangla Uk
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbanglauk-off.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/chi-150x150.jpg?x94984" group-title="BANGLA ENT.",Channel-I
-http://103.81.104.118/hls/stream18.m3u8
+http://iptvbd.jagobd.com:1931/boishakhi/channeli-8-org.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/E/ekushe-tv-etv-logo-0CFEFFEC48-seeklogo.com.png" group-title="BANGLA ENT.",E-Tv
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="BANGLA ENT.",N-Tv
@@ -16,7 +16,7 @@ http://103.205.133.21/hls/ntv.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/ntveurope.jpg?x15351" group-title="BANGLA ENT.",N-Tv Uk
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjEgMToxMjo1NSBQTSZoYXNoX3ZhbHVlPWJZOHI2WjlVWjdtYmxZYTE0bWFxUnc9PSZ2YWxpZG1pbnV0ZXM9NDA=
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/R/r-tv-logo-40D288E794-seeklogo.com.png" group-title="BANGLA ENT.",R-Tv
-http://103.205.133.21/hls/rtv.m3u8
+http://iptvbd.jagobd.com:1931/boishakhi/rtv-sg.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/54/71/a9/5471a9eae3b9884242e74e0a33a04445.png" group-title="BANGLA ENT.",Bangla Vision
 http://iptvbd.jagobd.com:1931/boishakhi/banglav000.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-sLjSbwUg5Bg/W6K8oDZhqkI/AAAAAAAAAPc/NLaA9mC7ewkQ1m4NUrvDOfQiZ0NbSzRRgCLcBGAs/s1600/maasranga-tv-live.png" group-title="BANGLA ENT.",Machranga-Tv
@@ -435,6 +435,8 @@ http://213.151.233.20:8000/dna-6110-tv-pc/hls/4005v105.m3u8
 http://103.81.104.118/hls/stream3.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Ms2ibMOEXrS9e4ey8X0gm2tM8-f6AG5ELw&usqp=CAU" group-title="ENGLISH MOVIE.",Star Movies Hd
 http://84.17.41.7/StarMoviesHD-Hin/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5uCSvArVELsMlefhTLRbb-wZVKugCHuddzg&usqp=CAU" group-title="ENGLISH MOVIE.",Star Movies Select
+http://178.62.107.180/woh/index.m3u8?id=47859
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/e43va12hcyd2-9IbZcLOAgObyOYNlRiL1bEFH0vrBHtq4FnEqu3l4X6SCLONzgHkQXs=w220-rw" group-title="ENGLISH MOVIE.",MOVIEMI MIX
 https://sonar.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvpc0g3-B2NBkNDZ_dgMSk8aWD2wjgJFbaaUWnAmljnizu2eeFajX42r0UVgRpaFP83jU&usqp=CAU" group-title="ENGLISH MOVIE.",Cinema Tv
