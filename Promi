@@ -186,7 +186,7 @@ https://m-c01-j2apps.s.llnwi.net/hls/6641.SkystarFilme.in.m3u8
 https://streamer-1.toffeelive.com/mobile_hls/sony_max/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkLgQJzNFOX0-k8WcYH9sFVXZeKakN1i-3mLwv2NbbANu5ZHd76G0QaDc&s=10" group-title="HINDI MOVIE.",SONY MAX Hd
 https://streamer-1.toffeelive.com/mobile_hls/set_max_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpOuHPH5rPh9qqhuNzYH6_cUgt_OYCa5pupWXELk8wisIJwgTbOXQFzb4&s=10" group-title="HINDI MOVIE.",Sony Max 2
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpOuHPH5rPh9qqhuNzYH6_cUgt_OYCa5pupWXELk8wisIJwgTbOXQFzb4&s=10" group-title="HINDI MOVIE.",Sony Max 2 In
 http://208.115.215.42/Sony_Max_HD_02/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="HINDI MOVIE.",Sony Wah
 https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
@@ -314,6 +314,8 @@ https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
 http://93.157.62.180/Supersport3/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZpkc7hTNtT9_vN7Ruso7BoI3m9N8WH3REhg&usqp=CAU" group-title="SPORTS.",Fox Brazil 1
 http://134.19.182.131:8080/edg11_2.m3u8
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/BeIn_Sports_Max_5.png" group-title="beIN SPORTS.",beIN Max 5 Sports
+http://adnaraoun.xyz/live/0010871100/index.m3u8
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/BeIn_Sports_Max_6.png" group-title="beIN SPORTS.",beIN Max 6 Sports
 http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/32706
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScYtjMNMAWGthy0EyV2KQ1xCH87qWH-XNMLQ&usqp=CAU" group-title="SPORTS.",Qaz Sport HD
