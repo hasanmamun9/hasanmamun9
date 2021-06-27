@@ -144,15 +144,13 @@ http://103.109.56.116/live/skyfeed1017/index.m3u8
 #EXTINF:0 tvg-logo="https://i2.wp.com/bdixsports.com/wp-content/uploads/2018/04/ten2.jpg?fit=300%2C250" group-title="SPORTS.",Sony Ten 2
 http://103.81.104.118/hls/stream39.m3u8
 #EXTINF:0 tvg-logo="http://skytv.com.np/admin/uploads/channel_image/98.jpg" group-title="SPORTS.",Sony Ten 3 Hindi
-https://dai.google.com/linear/hls/event/oVbzxnh5TEK_ssGRX5WZYw/master.m3u8
+http://34.107.12.60:8080/live/Amigotv_online/aC1wShg1/9159.m3u8?token=SxpQVxUKFVxBVQoMCAAABgsCAlZXWwQABQ9XAlNTClYCWQ8AVFQEUgdGHxZDQhdXWQ5tXlYaDwgBDF1PQ0VBUkJnUVJEWBVTUFIGABIaR0ZRDlcVCAgZE0BQAEFbEgAABgsMFEpAUh4XAUFaUVo6Vl0VW1RXGg9fRVUIT0NfXGhUXVVXCAYVXEFUERgSXxZCGlkQdUBXRlhDGScMDF1HWVlbWUIPDVkVQUgRVllCF1NMBhANEAsBBQkbSEECX0dZREpBFFxAdSJBSBFRSEIAXEsKXVkQAhdcA0xcQU0SW0RvSl1FEhBSBw4BQRYKFFQQFEFfVkpnVl5eVwEAFVldWUMaAhRXUgdWQUgRWV9YDEZXEW1HW1wXCxIIU1dYBhBK
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBs_EIjBEoXROJe0XUA0P13_R76vmvVI0Cg&usqp=CAU" group-title="SPORTS.",Sony Six 
 http://103.81.104.118/hls/stream10.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQodfhSowKSaJU7VIZ1ql098H5N-GRq-NYUww&usqp=CAU" group-title="SPORTS.", SPORT TV 1
 https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxcF9LEfH8PDl52cmlWsONHVUF_m_oBPu-Pg&usqp=CAU" group-title="SPORTS.",SPORT TV 2
 http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7FQDXlU4DqLDQ1e7aGwaTkunwfGUztjsBuA&usqp=CAU" group-title="SPORTS.",Arena Sports
-http://3.0.20.58:8000/play/Arena/index.m3u8
 #EXTINF:0 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="beIN SPORTS.",beIN Max 1 Sports
 http://ycn1.bouhrandr.xyz/live/05500021500/index.m3u8
 #EXTINF:0 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F653%2Fbein-sports-max-1.png" group-title="beIN SPORTS.",beIN Max 2 Sports
