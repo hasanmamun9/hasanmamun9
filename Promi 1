@@ -33,8 +33,6 @@ https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_480p/index.m3u8?Live-TV%E
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/tehelkatv.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/9Gem_logo.png" group-title="HINDI MOVIE.",Gem Bollywood
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist_960x540_2000k.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD_9u3l6CsL3sIpQwHY6NJEaip6h1aIeeqCw&usqp=CAU" group-title="TAMIL MOVIE.",Sana Plas
-http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcgY58cgrnk6utEONebyAVI9W2gSag6e-biA&usqp=CAU" group-title="TAMIL MOVIE.", Subrang Tv
 http://cdn61.liveonlineservices.com/hls/subrang.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu3dkmoE9wDIj2GiSENJmYR8aw4dYswEcypg&usqp=CAU" group-title="ENGLISH MOVIE.",Mn Tv
@@ -43,6 +41,8 @@ https://mntv.livebox.co.in/mntvhls/mntv.m3u8
 http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQwyzhDbez0Sfd4hHPkHoRTUlZ38AQNgIqFg&usqp=CAU" group-title="TAMIL MOVIE.",ROSEBOWL TV
 https://acv.asianetmobiletvplus.com/webstreams/ef22daf97d61acb4bf52376c4105ad02.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD_9u3l6CsL3sIpQwHY6NJEaip6h1aIeeqCw&usqp=CAU" group-title="TAMIL MOVIE.",Sana Plas
+http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8
 #EXTINF:0 tvg-logo="https://cdn.doordash.com/media/restaurant/cover/DilSeIndianCuisine1201PortlandOR.png" group-title="HINDI MUSIC.",Dil Se
 https://live.hungama.com/linear/dil-se/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT2uRRcls4JOXVEDutM9QBCxc5l49RIbnoYQ&usqp=CAU" group-title="HINDI MUSIC.",M Tv Yo!
@@ -109,8 +109,6 @@ http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
 http://nova-live.ssl.cdn.cra.cz/channels/nova-cinema/playlist/cze/live_fullhd.m3u8
 #EXTINF:0 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/552px-Das_Erste_1994.svg_.png" group-title="ENGLISH MOVIE.",Das Erste
 https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD_4H4l9WkKnjWFMUR9fPrVf4Bd6TmwR1_ug&usqp=CAU" group-title="ENGLISH MOVIE.",Astro
-https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSfsmZmdJzTjKITB6z_LYWszqdOvtmo-8cEQ&usqp=CAU" group-title="ENGLISH MOVIE.",MÁS+TV
 https://593b04c4c5670.streamlock.net/8008/8008/playlist.m3u8
 #EXTINF:0 tvg-logo="http://cdn.teleon.tv/logo/runtime-us.png" group-title="ENGLISH MOVIE.",RunTime Free Movies
@@ -127,14 +125,6 @@ https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOIzORrVqDcdPdP9OmzX52Fc6VgLSv1m-PMg&usqp=CAU" group-title="SPORTS.",Euro Sport
 http://103.109.56.116/live/skyfeed1026/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1AXkZqjt4z-QcG-MIaZ1YRwJE1aunupaVTw&usqp=CAU" group-title="SPORTS.",Rtsh Sport 1
-http://93.157.62.180/RTSH1/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCNM0IxcKZu149p3WoaYMZ7r3ESeJSXDv9Tw&usqp=CAU" group-title="SPORTS.",Rtsh Sport 2
-http://93.157.62.180/RTSH2/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ72n5ztvAsq5JI03Cc0ZmSqTy7s7DjS6ZnHQ&usqp=CAU" group-title="SPORTS.",Rtsh Sport 3
-http://93.157.62.180/RTSH3/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCu9ETQ9HcyvS-OCE9qSqyGjArSI_XHxMBUQ&usqp=CAU" group-title="SPORTS.",Supar Sports 2
-http://93.157.62.180/Supersport3/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyYuYHd0lLxQkbxx8r6d61IFQIFb610cgd0A&usqp=CAU" group-title="SPORTS.",Zingo Sports
 http://31.220.41.90:8081/live/nl-ziggoselect.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFdwEgf7Ef_A8t5mQHi28esDglHspqLd7sQ&usqp=CAU" group-title="SPORTS.",Espn 1
