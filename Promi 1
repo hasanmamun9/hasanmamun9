@@ -155,14 +155,18 @@ https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="beIN SPORTS.",beIN Max 1 Sports
 http://ycn1.bouhrandr.xyz/live/05500021500/index.m3u8
+#EXTINF:0 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F653%2Fbein-sports-max-1.png" group-title="beIN SPORTS.",beIN Max 1 Sports
+http://iptv.journalsat.com:25461/453506457/journalsat/141
 #EXTINF:0 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F653%2Fbein-sports-max-1.png" group-title="beIN SPORTS.",beIN Max 2 Sports
-http://ghn.harphura.xyz/live/44619987700/index.m3u8
+http://iptv.journalsat.com:25461/453506457/journalsat/142
 #EXTINF:0 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F652%2Fbein-sports-max-1.png" group-title="beIN SPORTS.",beIN Max 3 Sports
-http://3.0.20.58:8000/play/BeinMax3/index.m3u8
+http://iptv.journalsat.com:25461/453506457/journalsat/59
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/BeIn_Sports_Max_4.png" group-title="beIN SPORTS.",beIN Max 4 Sports
-http://3.0.20.58:8000/play/BeinMax4/index.m3u8
+http://iptv.journalsat.com:25461/453506457/journalsat/60
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/BeIn_Sports_Max_5.png" group-title="beIN SPORTS.",beIN Max 5 Sports
-http://adnaraoun.xyz/live/0010871100/index.m3u8
+http://iptv.journalsat.com:25461/453506457/journalsat/143
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/BeIn_Sports_Max_5.png" group-title="beIN SPORTS.",beIN Max 6 Sports
+http://iptv.journalsat.com:25461/453506457/journalsat/144
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="SPORTS.",Fox Sport 1
 http://chronostv.com:80/cliente1812/cliente1812gg/69126?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbL0OU88-wKPWi58qSaWQfm1rTFDnltS1b6A&usqp=CAU" group-title="SPORTS.",Fox Sport
