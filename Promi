@@ -329,9 +329,9 @@ http://93.157.62.180/Supersport3/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZpkc7hTNtT9_vN7Ruso7BoI3m9N8WH3REhg&usqp=CAU" group-title="SPORTS.",Fox Brazil 1
 http://134.19.182.131:8080/edg11_2.m3u8
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/BeIn_Sports_Max_5.png" group-title="beIN SPORTS.",beIN Max 5 Sports
-http://adnaraoun.xyz/live/0010871100/index.m3u8
+http://iptv.journalsat.com:25461/453506457/journalsat/143
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/BeIn_Sports_Max_6.png" group-title="beIN SPORTS.",beIN Max 6 Sports
-http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/32706
+http://iptv.journalsat.com:25461/453506457/journalsat/121
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScYtjMNMAWGthy0EyV2KQ1xCH87qWH-XNMLQ&usqp=CAU" group-title="SPORTS.",Qaz Sport HD
 http://92.46.127.146:8080/qazsport/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQllZNICXFJPVnhNJLqa87lTuBUv71V0SpwoA&usqp=CAU" group-title="SPORTS.",PPTV HD
