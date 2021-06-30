@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvUIgT2OkSToCVLYDXaKxGs7Q5NQjadRkSZA&usqp=CAU" group-title="BANGLA MOVIE.",Amar Cinema
-http://d1bf3b042hkby5.cloudfront.net/AAMAR_CINEMA.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSdoVp5tBvNQCtKtt0K31Czm_hLu8Ii3G-2g&usqp=CAU" group-title="HINDI MOVIE.",Netflix Bolywood
 http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/4288
 #EXTINF:0 tvg-logo="https://snipertv.live/wp-content/uploads/2020/08/cropped-Sniper-Tv.png" group-title="HINDI MOVIE.",Snipers Bolywood 1
