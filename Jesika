@@ -316,6 +316,8 @@ http://178.62.107.180/woh/index.m3u8?id=47859
 http://185.59.223.176:19834/ENGLISH/original/STAR_WORLD_PREMIERE_HD/mono.m3u8
 #EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",My Cinema Europe
 http://210.210.155.35/session/bc0a1e22-773f-11eb-ab01-a3d7ba48b0db/uq2663/h/h18/02.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPqALOzmMWqHoFZj9rSiXB9rzbOwPZ5z1jqg&usqp=CAU" group-title="ENGLISH MOVIE.", Movie Tv 24/7
+https://m3u-editor.com/serve/a5871540-d9ba-11eb-89bc-3be21464c6be/328171608
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1200px-Nick.svg.png" group-title="CARTOON.",Nick Bangla
 http://103.109.56.116/live/skyfeed1014/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsSCdzPP55PY5SUeQeArSsdcg6BEWo35rmog&usqp=CAU" group-title="CARTOON.",WoW Kids
