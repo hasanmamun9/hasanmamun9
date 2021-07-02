@@ -186,8 +186,6 @@ http://89.41.180.253:8080/INDIA_HINDI/MINIPLEX_HD/mono.m3u8
 https://idvd.multitvsolution.com/idvo/enter10.m3u8
 #EXTINF:0 tvg-logo="https://www.pngkey.com/png/detail/211-2118020_utv-action-utv-action-logo-png.png" group-title="HINDI MOVIE.",UTV Action
 http://84.17.41.7/UTVACTION-Hin/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3tOy2jMIhkEjOBoDMQcQsMZAGwA5LjT8jfA&usqp=CAU" group-title="HINDI MOVIE.",SONY MAX 
-https://streamer-1.toffeelive.com/mobile_hls/sony_max/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkLgQJzNFOX0-k8WcYH9sFVXZeKakN1i-3mLwv2NbbANu5ZHd76G0QaDc&s=10" group-title="HINDI MOVIE.",SONY MAX Hd
 http://89.41.180.253:8080/INDIA_HINDI/SONY_MAX_HD/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpOuHPH5rPh9qqhuNzYH6_cUgt_OYCa5pupWXELk8wisIJwgTbOXQFzb4&s=10" group-title="HINDI MOVIE.",Sony Max 2 In
@@ -314,8 +312,6 @@ http://103.81.104.118/hls/stream3.m3u8
 http://84.17.41.7/StarMoviesHD-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5uCSvArVELsMlefhTLRbb-wZVKugCHuddzg&usqp=CAU" group-title="ENGLISH MOVIE.",Star Movies Select
 http://178.62.107.180/woh/index.m3u8?id=47859
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUmqzB5XD9Xh1WaKVTJetoPPGYi4XqTJAscQ&usqp=CAU" group-title="ENGLISH MOVIE.",Star World Premier
-http://185.59.223.176:19834/ENGLISH/original/STAR_WORLD_PREMIERE_HD/mono.m3u8
 #EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",My Cinema Europe
 http://210.210.155.35/session/bc0a1e22-773f-11eb-ab01-a3d7ba48b0db/uq2663/h/h18/02.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPqALOzmMWqHoFZj9rSiXB9rzbOwPZ5z1jqg&usqp=CAU" group-title="ENGLISH MOVIE.", Movie Tv 24/7
