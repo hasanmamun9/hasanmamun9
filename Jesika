@@ -336,6 +336,9 @@ http://91.194.110.22:9097/AU_FOX_SPORTS_502/index.m3u8
 http://91.194.110.22:9097/AU_FOX_SPORTS_503/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtgprCCSls-UNQb2q4IqtBF4W4IfseU2vFsw&usqp=CAU" group-title="ENGLISH MOVIE.",Fox 504
 http://91.194.110.22:9097/AU_FOX_SPORTS_502/index.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbL0OU88-wKPWi58qSaWQfm1rTFDnltS1b6A&usqp=CAU" group-title="SPORTS.",Fox 505
+http://91.194.110.22:9097/AU_FOX_SPORTS_505/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyb1oB_XC3DxGKuUNLqzm8UaYc32DETjYpFA&usqp=CAU" group-title="ENGLISH MOVIE.",Flow Sports
 http://198.144.149.201:8080/Flow_Sports_1/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ySfNbQA94UaoKREnO25Z2Nm8rc53_sxRwA&usqp=CAU" group-title="SPORTS.",Azam Sports
