@@ -135,8 +135,6 @@ http://31.220.41.90:8081/live/nl-ziggoselect.stream/chunks.m3u8
 http://stream.tvtap.live:8081/live/espnu.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSjS1pfS_mLzViYld8a2Cn58Au-D07mPcXDA&usqp=CAU" group-title="SPORTS.",Espn 2
 http://164.68.124.111/espn2.m3u8
-#EXTINF:0 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png" group-title="SPORTS.",Ten Sports
-http://221.120.204.4/TEN-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgcZTvjGhuMkb3puOcr__HNv7ltjyFZzX0Sw&usqp=CAU" group-title="SPORTS.",Sony Liv
 https://dai.google.com/linear/hls/event/oVbzxnh5TEK_ssGRX5WZYw/master.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg/revision/latest/scale-to-width-down/340?cb=20190322143617" group-title="SPORTS.",Sony Ten 1
@@ -177,10 +175,6 @@ http://178.62.107.180/woh/index.m3u8?id=48103
 http://178.62.107.180/woh/index.m3u8?id=48110
 #EXTINF:0 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Sports-select-2.jpg" group-title="SPORTS.",Star Sports S 2
 http://178.62.107.180/woh/index.m3u8?id=48111
-#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/13/246/png-clipart-logo-ptv-sports-television-channel-pakistan-cricket-television-text.png" group-title="SPORTS.",Ptv Sports
-http://cdn2.niazitv.pk:786/PTV-Sports/index.m3u8
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS.",Geo Super
-http://ztvuk.com:8080/younis/younis123/31952
 #EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-2.png" group-title="SPORTS.",TNT Sports 2
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="SPORTS.",TNT Sports 4 
