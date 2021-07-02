@@ -131,8 +131,6 @@ https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOIzORrVqDcdPdP9OmzX52Fc6VgLSv1m-PMg&usqp=CAU" group-title="SPORTS.",Euro Sport
 http://103.109.56.116/live/skyfeed1026/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyYuYHd0lLxQkbxx8r6d61IFQIFb610cgd0A&usqp=CAU" group-title="SPORTS.",Zingo Sports
-http://31.220.41.90:8081/live/nl-ziggoselect.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFdwEgf7Ef_A8t5mQHi28esDglHspqLd7sQ&usqp=CAU" group-title="SPORTS.",Espn 1
 http://stream.tvtap.live:8081/live/espnu.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSjS1pfS_mLzViYld8a2Cn58Au-D07mPcXDA&usqp=CAU" group-title="SPORTS.",Espn 2
