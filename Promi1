@@ -3,6 +3,10 @@
 http://starshare.live:8080/live/449988/449988/563.ts
 #EXTINF:0 tvg-logo="https://snipertv.live/wp-content/uploads/2020/08/cropped-Sniper-Tv.png" group-title="HINDI MOVIE.",Snipers Bolywood 1
 http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/14009
+#EXTINF:0 tvg-logo="https://hotshotprime.com/upload/source/38da866a0646683c.jpg" group-title="HINDI MOVIE.",Abzy Movies
+https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in.m3u8
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-P9V5thAdT9Y/YGVnMTu1g-I/AAAAAAAAyI4/q0kkD0M3oB47nJ2xHOV4z2r4FmBuhqLRQCLcBGAsYHQ/s340/Abzy_Dhakad-min.jpg" group-title="HINDI MOVIE.",Abzy Dhakad
+https://m-c01-j2apps.s.llnwi.net/hls/6641.SkystarFilme.in.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRigxaT8oqS9Zmd-4-4L223v3wu83Ifg5sr7NJcPVJHthEY3mEJnRBoZMg&s=10" group-title="HINDI MOVIE.",Sony Max 2 
 http://208.115.215.42/Sony_Max_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://ambujtiwari1.files.wordpress.com/2015/11/maha-movie-logo.jpg" group-title="HINDI MOVIE.",Maha Movie
