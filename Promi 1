@@ -47,6 +47,8 @@ https://acv.asianetmobiletvplus.com/webstreams/ef22daf97d61acb4bf52376c4105ad02.
 http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8
 #EXTINF:0 tvg-logo="https://cdn.doordash.com/media/restaurant/cover/DilSeIndianCuisine1201PortlandOR.png" group-title="HINDI MUSIC.",Dil Se
 https://live.hungama.com/linear/dil-se/playlist.m3u8
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1010296995372621825/VxKcamT6.jpg" group-title="Tamil MOVIE.",Star Ten
+http://media.7starcloud.com:1935/starten/startentv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlqsu2tNVKrBZoalNbbdYqmxo0zggqwxxLsg&usqp=CAU" group-title="HINDI MUSIC.",MH1
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT2uRRcls4JOXVEDutM9QBCxc5l49RIbnoYQ&usqp=CAU" group-title="ENGLISH MUSIC.",M Tv Yo!
