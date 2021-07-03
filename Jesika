@@ -102,6 +102,8 @@ http://irbtv.net/flashtv/1081/index.m3u8
 http://enaniptv.com/rnntv/1080/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png" group-H-TV="BANGLA ENT.",H-Tv 
 http://enaniptv.com/Htv/1080/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK3a5f18Yf7rnBCwba0ZGNn_PRfTjjJnyvlA&usqp=CAU" group-POLLI-TV="BANGLA ENT.",Polli Tv
+https://pollitv-hls.telelivebd.com/pollitv/pollitv_manifest.m3u8
 #EXTINF:0 tvg-logo="https://abohomanbangla.com/Bangladesh_web_directory/tv_image/71bangla.jpg" group-71-BANGLA="BANGLA MOVIE.",71-Bangla
 http://iptvbd.jagobd.com:1931/boishakhi/71bangla.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2018/09/joyjatra1.jpg" group-JOY-JATRA="BANGLA ENT.",Joy-Jatra-Tv
