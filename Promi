@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkhdEXQmpf2R4RCXuPaxzrHyaDABeXtpgJEw&usqp=CAU" group-title="Tamil MOVIE.",Zee Classic
-http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/586.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReaFgY0XhdTdpjxDSA5bMdUCkX2g3wCOIb4w&usqp=CAU" group-title="ENGLISH SONG.",Hit Music
 http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/723.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmbSXbS3xCqAz9p-Rke3t0ToCEUkVvkckkVQ&usqp=CAU" group-title="ENGLISH SONG.", Viva Music
@@ -19,10 +17,10 @@ http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/1108.m3u8
 http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/1096.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSTglzmFKhL-fXyDXXd1V-WD4Kxtp8XmdIeA&usqp=CAU" group-title="ENGLISH MOVIE.",Tv 1000
 http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/2463.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQoBQ_GzsvNm5yvIA9xPrEM0P6_ocYW5wxHQ&usqp=CAU" group-title="ENGLISH MOVIE.",Mnx
-http://185.59.223.176:19834/ENGLISH/original/MNX_HD/mono.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRILJwv02H5o6f5NrBb_B63yY91SK9beO0Hxg&usqp=CAU" group-title="ENGLISH MOVIE.", Romedy Now
-http://89.41.180.253:8080/INDIA_ENGLISH/ROMEDY_NOW_HD/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRVXP3gZ-pVQeb0ui1FgVH6Ys8GhesB2NYjg&usqp=CAU" group-title="ENGLISH MOVIE.",Sony Movie
+http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/2533.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCuT3JMUMUoRTc8zyIlOuu-bS5cLFA9m4kLeUjhOJj8C1k_jUKQ-RrIEcd&s=10" group-title="ENGLISH MOVIE.", Movie 4
+http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/2534.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiX2wM-5tae4wDEfE5-m1wX6r8-s9XydXxvg&usqp=CAU" group-title="ENGLISH MOVIE.", Color Infinity
 http://89.41.180.253:8080/INDIA_ENGLISH/COLORS_INFINITY_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvI66BUUPAUEuvVj5m4_KbAjHZCFEWblrJEA&usqp=CAU" group-title="ENGLISH MOVIE.", Showtime Tv
