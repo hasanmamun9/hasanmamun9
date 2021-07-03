@@ -259,7 +259,7 @@ http://103.81.104.118/hls/stream8.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1115500483961950208/q3Wlk_Pt_400x400.png" group-title="HINDI MUSIC.",M Tv+
 http://84.17.41.7:80/MTV_PLUS_US/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj0CeO2Dsi0GQc0Ej_acUTZuYWnn_BTP7baT7wIaA=s900-c-k-c0x00ffffff-no-rj" group-title="HINDI MUSIC.",M Tv Beats
-http://185.59.223.176:19834/HINDI/original/MTV_BEATS_HD/tracks-v1a1/mono.m3u8
+http://89.41.180.253:8080/INDIA_HINDI/MTV_BEATS_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2020/12/CHANNELV.jpg" group-title="ENGLISH SONG.", Channel V
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmyVw_lJ7GOxXvtX29QlkGZSZNv8ysGlIU0A&usqp=CAU" group-title="ENGLISH SONG.", VH1
@@ -271,7 +271,7 @@ http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBleC4WjUP0iJr3IqW2U6XZttx_cnjdYI_D9OZqb4EgGOovFuUv0WWUQI&s=10"group-titile="ENGLISH MOVIE.",Sony Scifi
 http://mfe.cliptv.az/dash/Sony_Sci_Fi_SD.ism/playlist.mpd?checkedby:hlscat.com
 #EXTINF:0 tvg-logo="https://thumbnail.imgbin.com/22/13/24/imgbin-logo-sony-six-television-channel-sony-ten-sony-entertainment-television-kri8it-defining-digital-Acybc4HApnRxU3ck2ifyc7cAz_t.jpg" group-title="ENGLISH MOVIE.",Sony Pix
-http://103.81.104.118/hls/stream1.m3u8
+http://103.213.238.70:80/SonyPix/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkRTbSjI9jTxkUl2FEf2lK8QHLUoA9VbezwA&usqp=CAU"group-titile="ENGLISH MOVIE.",Fox Action Movie
 http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFDmKg4Yh56JtwV3D0J_2cNMl57wNlXkMfIw&usqp=CAU" group-title="ENGLISH MOVIE.",Fox Family Movies
@@ -332,28 +332,12 @@ http://54.39.134.91:9090/24x7_kids_cr3/tracks-v1a1/mono.m3u8
 https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/9/98/Pogo.png/revision/latest?cb=20191112233054" group-title="CARTOON.",Pogo
 http://185.59.223.176:19834/HINDI/original/POGO_KIDS_HINDI/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKepYlXbtjr6_FzHtt0jGoXAOpmPdF4pyS5w&usqp=CAU" group-title="ENGLISH MOVIE.",Fox 501
-http://91.194.110.22:9097/AU_FOX_SPORTS_501/index.m3u8
-#EXTINF:0 tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" group-title="ENGLISH MOVIE.",Fox 502
-http://91.194.110.22:9097/AU_FOX_SPORTS_502/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNOnRWv52XwN6YigKau3r6BVxCsa3MvZ6MJQ&usqp=CAU" group-title="SPORTS.",Fox 503
-http://91.194.110.22:9097/AU_FOX_SPORTS_503/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbL0OU88-wKPWi58qSaWQfm1rTFDnltS1b6A&usqp=CAU" group-title="SPORTS.",Fox 505
-http://91.194.110.22:9097/AU_FOX_SPORTS_505/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyb1oB_XC3DxGKuUNLqzm8UaYc32DETjYpFA&usqp=CAU" group-title="ENGLISH MOVIE.",Flow Sports
-http://198.144.149.201:8080/Flow_Sports_1/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ySfNbQA94UaoKREnO25Z2Nm8rc53_sxRwA&usqp=CAU" group-title="SPORTS.",Azam Sports
-https://1326605225.rsc.cdn77.org/1326605225/tracks-v1a1/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYKZRgf5uihQq-hMiO4ckwwMTd-IW4ExBhwQ&usqp=CAU" group-title="SPORTS.", Sports Tv
-https://live.sportstv.com.tr/hls/low/sportstv_sd/index.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyYuYHd0lLxQkbxx8r6d61IFQIFb610cgd0A&usqp=CAU" group-title="SPORTS.",Z-Select Sports
 http://31.220.41.90:8081/live/nl-ziggoselect.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7EdYAvaly35vFYJcsq_NWiHjbh1MfT8GURQ&usqp=CAU" group-title="SPORTS.",Yalla Sport 
 https://d1h77pdbzvllk0.cloudfront.net/out/v1/f13b787c6409485c99a47ca714bdf9d4/index.m3u8?ZaNa_iptv.m3u8
-#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/13/246/png-clipart-logo-ptv-sports-television-channel-pakistan-cricket-television-text.png" group-title="SPORTS.",Ptv Sports
-http://cdn2.niazitv.pk:786/PTV-Sports/index.m3u8
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS.",Geo Super
-http://221.120.204.4/geo-super-LOCKLE/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXGkeJF8_ZGE_X6tOvs9nLfK1e4rqhrZAfnQ&usqp=CAU" group-title="SPORTS.",Super Sport 2
+http://93.157.62.180/Supersport2/index.m3u8
 #EXTINF:0 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png" group-title="SPORTS.",Ten Sports
 http://221.120.204.4/TEN-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/RTSH_Sport_%282020_Logo%29.svg/1024px-RTSH_Sport_%282020_Logo%29.svg.png" group-title="SPORTS.",Rtsh Sport
