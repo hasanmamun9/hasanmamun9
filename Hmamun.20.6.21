@@ -1,7 +1,5 @@
 
 #EXTM3U
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-LdUt3kIohez5iJjr1k-d0Gud0tw0aGn9UA&usqp=CAU" group-title="BANGLA ENT.",Channel 19
-http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/995.m3u8
 #EXTINF:0 tvg-logo="https://hotshotprime.com/upload/source/38da866a0646683c.jpg" group-title="HINDI MOVIE.",Abzy Movies
 https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in.m3u8
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-P9V5thAdT9Y/YGVnMTu1g-I/AAAAAAAAyI4/q0kkD0M3oB47nJ2xHOV4z2r4FmBuhqLRQCLcBGAsYHQ/s340/Abzy_Dhakad-min.jpg" group-title="HINDI MOVIE.",Abzy Dhakad
@@ -64,8 +62,6 @@ http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/723.m3u8
 http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/2460.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaKjwNJO9uMmeFk3PPMkmIAW4flCBC1r-smA&usqp=CAU" group-title="ENGLISH MUSIC.",MM Tv
 https://streamer103.neterra.tv/mmtv/mmtv.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://content3.jdmagicbox.com/comp/delhi/x9/011pxx11.xx11.120330141100.y8x9/catalogue/netmax-karol-bagh-delhi-internet-service-providers-q8s44h2399-250.jpg" group-title="ENGLISH MOVIE.",NETMAX TV
-http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTobTEbzcExvJMeNow5ysMlUfnDy4Fh9LxoVA&usqp=CAU" group-title="ENGLISH MOVIE.",Action Hollywood Movies
 https://lightning-actionhollywood-samsungaustralia.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-JitJUuWTMxg/VH--1LtXqGI/AAAAAAAAAo0/FL_bgsBFjeU/s1600/CELESTIAL%2BCLASSIC%2BMOVIES%2Blogo.png"group-titile="ENGLISH MOVIE.", C Movie
@@ -118,16 +114,8 @@ https://rakuten-actionmovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/3.m3u8
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/e43va12hcyd2-9IbZcLOAgObyOYNlRiL1bEFH0vrBHtq4FnEqu3l4X6SCLONzgHkQXs=w220-rw" group-title="ENGLISH MOVIE.",MOVIEMI MIX
 https://sonar.sinclair.wurl.com/manifest/3000.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvpc0g3-B2NBkNDZ_dgMSk8aWD2wjgJFbaaUWnAmljnizu2eeFajX42r0UVgRpaFP83jU&usqp=CAU" group-title="ENGLISH MOVIE.",Cinema Tv
-https://sc.id-tv.kz/Cinema_34_35.m3u8
-#EXTINF:0 tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8wXzE1MzE1NDE5NTRfMDc4/screen-0.jpg?fakeurl=1&type=.jpg" group-title="ENGLISH MOVIE.",Rasi Hollywood
-http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
 #EXTINF:0 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/552px-Das_Erste_1994.svg_.png" group-title="ENGLISH MOVIE.",Das Erste
 https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
-#EXTINF:0 tvg-logo="https://www.hitstv.com/assets/logo-HITSMOVIES.png"group-titile="ENGLISH MOVIE.",Hits Movie
-http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7QiRJevINmRHY09lQZHAqpe40GwcVKpe1ug&usqp=CAU"group-titile="ENGLISH MOVIE.",Axn 
-http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/2453.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjRzY0Wk0fqdJXcy8VeJbi2gPFZ8WIDRp-TA&usqp=CAU" group-title="ENGLISH MOVIE.",Syfy Tv
 http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/725.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQoY4eBhEF-TYohaWMjzqTa94AHpxAVWDDlQ&usqp=CAU" group-title="ENGLISH MOVIE.",Fx Tv
@@ -146,8 +134,6 @@ http://89.41.180.253:8080/INDIA_ENGLISH/COLORS_INFINITY_HD/tracks-v1a1/mono.m3u8
 http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/373.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="ENGLISH MOVIE.",Tnt Tv
 http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/1095.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHcm18LpNI59GtKv1hPF7rs4UBxNj2Z2Vjzg&usqp=CAU" group-title="ENGLISH MOVIE.",Amc Tv
-http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/722.m3u8
 #EXTINF:0 tvg-logo="https://iconape.com/wp-content/files/hm/282394/png/282394.png" group-title="ENGLISH MOVIE.",Starz Cinema
 http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/990.m3u8
 #EXTINF:0 tvg-logo="http://cdn.teleon.tv/logo/runtime-us.png" group-title="ENGLISH MOVIE.",RunTime Free Movies
@@ -258,8 +244,6 @@ http://84.17.41.7/SONYEARTH/HD/HIN/tracks-v1a1/mono.m3u8
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032011/ls_logo_corel-converted.png?itok=n415tG42" group-title="LIFESTYLE.",Life Style
 https://bozztv.com/36bay2/gusa-lifestyle/index.m3u8
-#EXTINF:0 tvg-logo="https://ewsat.com/img/TRING_PLANET.png" group-title="LIFESTYLE.",Tring Planet
-http://93.157.62.180/TringPlanet/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="LIFESTYLE.",Love Nature
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTae16trv9RsqYJwwPTHbCUbI6m-vp6MWNIwA&usqp=CAU" group-title="LIFESTYLE.",Nature Tv
