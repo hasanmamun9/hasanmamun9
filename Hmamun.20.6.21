@@ -154,6 +154,24 @@ https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunkl
 https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7S3PtBMDfIeC_K5jngsK04SUCsCABVCpakg&usqp=CAU" group-title="SPORTS.",Da Vinci
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKepYlXbtjr6_FzHtt0jGoXAOpmPdF4pyS5w&usqp=CAU" group-title="ENGLISH MOVIE.",Fox 501
+http://91.194.110.22:9097/AU_FOX_SPORTS_501/index.m3u8
+#EXTINF:0 tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" group-title="ENGLISH MOVIE.",Fox 502
+http://91.194.110.22:9097/AU_FOX_SPORTS_502/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNOnRWv52XwN6YigKau3r6BVxCsa3MvZ6MJQ&usqp=CAU" group-title="SPORTS.",Fox 503
+http://91.194.110.22:9097/AU_FOX_SPORTS_503/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbL0OU88-wKPWi58qSaWQfm1rTFDnltS1b6A&usqp=CAU" group-title="SPORTS.",Fox 505
+http://91.194.110.22:9097/AU_FOX_SPORTS_505/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyb1oB_XC3DxGKuUNLqzm8UaYc32DETjYpFA&usqp=CAU" group-title="ENGLISH MOVIE.",Flow Sports
+http://198.144.149.201:8080/Flow_Sports_1/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ySfNbQA94UaoKREnO25Z2Nm8rc53_sxRwA&usqp=CAU" group-title="SPORTS.",Azam Sports
+https://1326605225.rsc.cdn77.org/1326605225/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYKZRgf5uihQq-hMiO4ckwwMTd-IW4ExBhwQ&usqp=CAU" group-title="SPORTS.", Sports Tv
+https://live.sportstv.com.tr/hls/low/sportstv_sd/index.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/13/246/png-clipart-logo-ptv-sports-television-channel-pakistan-cricket-television-text.png" group-title="SPORTS.",Ptv Sports
+http://cdn2.niazitv.pk:786/PTV-Sports/index.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS.",Geo Super
+http://221.120.204.4/geo-super-LOCKLE/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOIzORrVqDcdPdP9OmzX52Fc6VgLSv1m-PMg&usqp=CAU" group-title="SPORTS.",Euro Sport
 http://103.109.56.116/live/skyfeed1026/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFdwEgf7Ef_A8t5mQHi28esDglHspqLd7sQ&usqp=CAU" group-title="SPORTS.",Espn 1
@@ -162,8 +180,6 @@ http://stream.tvtap.live:8081/live/espnu.stream/playlist.m3u8
 http://164.68.124.111/espn2.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7qx1nCHx4Z4B4_NI0eNzAVa02u1iUhUctXw&usqp=CAU" group-title="SPORTS.", ESPN
 http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/406.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXGkeJF8_ZGE_X6tOvs9nLfK1e4rqhrZAfnQ&usqp=CAU" group-title="SPORTS.",Super Sport 
-http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/2528.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBuGEjvnBcW60Y68-by5iHmpKbOJ3F9eTlGw&usqp=CAU" group-title="SPORTS.",Mgs Tv
 http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/1094.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgcZTvjGhuMkb3puOcr__HNv7ltjyFZzX0Sw&usqp=CAU" group-title="SPORTS.",Sony Liv
