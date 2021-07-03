@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN27eD2A8cUMbikopY4bBORIJvO3XrfUVzbw&usqp=CAU" group-WNN-TV="BANGLA ENT.",S-Vision
+http://svision.sonarbanglatv.com:8081/svision/sv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL0tocMoLx1DyTXbLWZ6YUI7SNZUdS6eRQyw&usqp=CAU" group-WNN-TV="BANGLA ENT.", Channel 19
+http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/995.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiMWjrEm1bIrKq86jydwnULUsSJ8OW41hLTg&usqp=CAU" group-WNN-TV="BANGLA ENT.",Wnn-Tv
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/wnn24.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/colors-tv-logo-png-2.png" group-title="BANGLA ENT.",Colors Bd Tv
