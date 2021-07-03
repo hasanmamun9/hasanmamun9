@@ -41,8 +41,8 @@ http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/406.m3u8
 http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/1094.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNDgKMo_9P1drbqDojAE01XKlk7zId5xL9vQ&usqp=CAU" group-title="DOCUMENTARY.",Hg Tv
 http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/1106.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvJ9fu0y0ghYs7H5QnDmmiTWPB3BDzaasB6g&usqp=CAU" group-title="DOCUMENTARY.",Adventure Tv
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJiMvqdxFdWAIQLWhNlKKlw83W3XVwlU1mPQ&usqp=CAU" group-title="DOCUMENTARY.", History Tv
+http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/394.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="COOKING.",Food Network
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="COOKING.",Afn Tv
@@ -51,5 +51,6 @@ https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zzesthd/tracks-v3a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="COOKING.",WWE
 http://stream.tvtap.live:8081/live/wwe.stream/chunks.m3u8
+
 
 
