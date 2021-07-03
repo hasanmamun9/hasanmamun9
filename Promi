@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-LdUt3kIohez5iJjr1k-d0Gud0tw0aGn9UA&usqp=CAU" group-title="BANGLA ENT.",Channel 19
-http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/995.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkhdEXQmpf2R4RCXuPaxzrHyaDABeXtpgJEw&usqp=CAU" group-title="Tamil MOVIE.",Zee Classic
 http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/586.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReaFgY0XhdTdpjxDSA5bMdUCkX2g3wCOIb4w&usqp=CAU" group-title="ENGLISH SONG.",Hit Music
