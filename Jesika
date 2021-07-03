@@ -224,6 +224,8 @@ https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
 #EXTINF:0 tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2018/08/Zee-Bollywood-Logo.jpg" group-title="HINDI MOVIE.",Zee Bollywood
 https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkhdEXQmpf2R4RCXuPaxzrHyaDABeXtpgJEw&usqp=CAU" group-title="Tamil MOVIE.",Zee Classic
+http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/586.m3u8
 #EXTINF:0 tvg-logo="http://thekolkatamail.com/wp-content/uploads/2021/04/09zeeanmolcinemazeeanmolci.png" group-title="HINDI MOVIE.",Zee Anmol Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh-GZc7nisjrco6RliqXfkPpT-iLvHvxSY-w&usqp=CAU" group-title="HINDI MOVIE.", Bollywood Hd
