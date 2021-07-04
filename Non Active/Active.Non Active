@@ -1,0 +1,95 @@
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1AXkZqjt4z-QcG-MIaZ1YRwJE1aunupaVTw&usqp=CAU" group-title="SPORTS.",Rtsh Sport 1
+http://93.157.62.180/RTSH1/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCNM0IxcKZu149p3WoaYMZ7r3ESeJSXDv9Tw&usqp=CAU" group-title="SPORTS.",Rtsh Sport 2
+http://93.157.62.180/RTSH2/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ72n5ztvAsq5JI03Cc0ZmSqTy7s7DjS6ZnHQ&usqp=CAU" group-title="SPORTS.",Rtsh Sport 3
+http://93.157.62.180/RTSH3/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCu9ETQ9HcyvS-OCE9qSqyGjArSI_XHxMBUQ&usqp=CAU" group-title="SPORTS.",Supar Sports 2
+http://93.157.62.180/Supersport3/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="http://cdn.embed.ly/providers/logos/ifoodtv.png" group-title="COOKING.",Ifood
+https://ft-ifood-roku.amagi.tv/hls/amagi_hls_data_futuretod-ifood-roku/CDN/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNDgKMo_9P1drbqDojAE01XKlk7zId5xL9vQ&usqp=CAU" group-title="DOCUMENTARY.",Hg Tv
+http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/1106.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJiMvqdxFdWAIQLWhNlKKlw83W3XVwlU1mPQ&usqp=CAU" group-title="DOCUMENTARY.", History Tv
+http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/394.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-va5j3pn0h5oohALjKvxmeHwZ56WEF-fm9g&usqp=CAU" group-title="LIFESTYLE.", History Tv
+http://185.59.223.176:19834/ENGLISH/original/HISTORY_TV18_HD/mono.m3u8
+#EXTINF:0 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F652%2Fbein-sports-max-1.png" group-title="beIN SPORTS.",beIN Max 3 Sports
+http://iptv.journalsat.com:25461/453506457/journalsat/59
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/BeIn_Sports_Max_4.png" group-title="beIN SPORTS.",beIN Max 4 Sports
+http://iptv.journalsat.com:25461/453506457/journalsat/60
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/BeIn_Sports_Max_5.png" group-title="beIN SPORTS.",beIN Max 5 Sports
+http://iptv.journalsat.com:25461/453506457/journalsat/143
+#EXTINF:0 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/NEW_beIN-SPORTS-MAX-06.png" group-title="beIN SPORTS.",beIN Max 6 Sports
+http://iptv.journalsat.com:25461/453506457/journalsat/144
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="SPORTS.",Fox Sport 1
+http://chronostv.com:80/cliente1812/cliente1812gg/69126?checkedby:iptvcat.com
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbL0OU88-wKPWi58qSaWQfm1rTFDnltS1b6A&usqp=CAU" group-title="SPORTS.",Fox Sport
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVe
+#EXTINF:0 tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_brightness:10,f_auto,fl_lossy,q_auto:low/https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4HD_Masthead_Logo.png" group-title="SPORTS.",Sony Ten 4
+https://tvstream.space/jtv/xxxx.php?c=Ten_4_HD_Tamil&=1200&e=.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFdwEgf7Ef_A8t5mQHi28esDglHspqLd7sQ&usqp=CAU" group-title="SPORTS.",Espn 1
+http://stream.tvtap.live:8081/live/espnu.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSjS1pfS_mLzViYld8a2Cn58Au-D07mPcXDA&usqp=CAU" group-title="SPORTS.",Espn 2
+http://164.68.124.111/espn2.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7qx1nCHx4Z4B4_NI0eNzAVa02u1iUhUctXw&usqp=CAU" group-title="SPORTS.", ESPN
+http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/406.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBuGEjvnBcW60Y68-by5iHmpKbOJ3F9eTlGw&usqp=CAU" group-title="SPORTS.",Mgs Tv
+http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/1094.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSytw-B9FTWQqtbR8kgLOY073FIwvfygljANw&usqp=CAU" group-title="SPORTS.",Tigo Sports 
+https://d1t6zcudgmh6wd.cloudfront.net/out/v1/88e67fc9be954233a769f97bada38a56/index_32.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSudONrJR5qyfEc2K0CL4koD0Z6QTvmJIKxFg&usqp=CAU" group-title="SPORTS.",Mat4 Sports 
+https://m3u-editor.com/serve/a5871540-d9ba-11eb-89bc-3be21464c6be/328171625
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKepYlXbtjr6_FzHtt0jGoXAOpmPdF4pyS5w&usqp=CAU" group-title="ENGLISH MOVIE.",Fox 501
+http://91.194.110.22:9097/AU_FOX_SPORTS_501/index.m3u8
+#EXTINF:0 tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" group-title="ENGLISH MOVIE.",Fox 502
+http://91.194.110.22:9097/AU_FOX_SPORTS_502/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNOnRWv52XwN6YigKau3r6BVxCsa3MvZ6MJQ&usqp=CAU" group-title="SPORTS.",Fox 503
+http://91.194.110.22:9097/AU_FOX_SPORTS_503/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbL0OU88-wKPWi58qSaWQfm1rTFDnltS1b6A&usqp=CAU" group-title="SPORTS.",Fox 505
+http://91.194.110.22:9097/AU_FOX_SPORTS_505/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyb1oB_XC3DxGKuUNLqzm8UaYc32DETjYpFA&usqp=CAU" group-title="ENGLISH MOVIE.",Flow Sports
+http://198.144.149.201:8080/Flow_Sports_1/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQoY4eBhEF-TYohaWMjzqTa94AHpxAVWDDlQ&usqp=CAU" group-title="ENGLISH MOVIE.",Fx Tv
+http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/1108.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaBOD-nhAzEcIW3mwroSA28Bs4BnofcAr5gw&usqp=CAU" group-title="ENGLISH MOVIE.",Tbs Tv
+http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/1096.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSTglzmFKhL-fXyDXXd1V-WD4Kxtp8XmdIeA&usqp=CAU" group-title="ENGLISH MOVIE.",Tv 1000
+http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/2463.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRVXP3gZ-pVQeb0ui1FgVH6Ys8GhesB2NYjg&usqp=CAU" group-title="ENGLISH MOVIE.",Sony Movie
+http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/2533.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCuT3JMUMUoRTc8zyIlOuu-bS5cLFA9m4kLeUjhOJj8C1k_jUKQ-RrIEcd&s=10" group-title="ENGLISH MOVIE.", Movie 4
+http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/2534.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiX2wM-5tae4wDEfE5-m1wX6r8-s9XydXxvg&usqp=CAU" group-title="ENGLISH MOVIE.", Color Infinity
+http://89.41.180.253:8080/INDIA_ENGLISH/COLORS_INFINITY_HD/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvI66BUUPAUEuvVj5m4_KbAjHZCFEWblrJEA&usqp=CAU" group-title="ENGLISH MOVIE.", Showtime Tv
+http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/373.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="ENGLISH MOVIE.",Tnt Tv
+http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/1095.m3u8
+#EXTINF:0 tvg-logo="https://iconape.com/wp-content/files/hm/282394/png/282394.png" group-title="ENGLISH MOVIE.",Starz Cinema
+http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/990.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReaFgY0XhdTdpjxDSA5bMdUCkX2g3wCOIb4w&usqp=CAU" group-title="ENGLISH SONG.",Hit Music
+http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/723.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmbSXbS3xCqAz9p-Rke3t0ToCEUkVvkckkVQ&usqp=CAU" group-title="ENGLISH SONG.", Viva Music
+http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/2460.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaKjwNJO9uMmeFk3PPMkmIAW4flCBC1r-smA&usqp=CAU" group-title="ENGLISH MUSIC.",MM Tv
+https://streamer103.neterra.tv/mmtv/mmtv.smil/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
