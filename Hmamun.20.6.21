@@ -113,8 +113,6 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/3.m3u8
 https://sonar.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:0 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/552px-Das_Erste_1994.svg_.png" group-title="ENGLISH MOVIE.",Das Erste
 https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjRzY0Wk0fqdJXcy8VeJbi2gPFZ8WIDRp-TA&usqp=CAU" group-title="ENGLISH MOVIE.",Syfy Tv
-http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/725.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQoY4eBhEF-TYohaWMjzqTa94AHpxAVWDDlQ&usqp=CAU" group-title="ENGLISH MOVIE.",Fx Tv
 http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/1108.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaBOD-nhAzEcIW3mwroSA28Bs4BnofcAr5gw&usqp=CAU" group-title="ENGLISH MOVIE.",Tbs Tv
