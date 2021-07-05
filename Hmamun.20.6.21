@@ -1,8 +1,12 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ01lXGJAKVH6XSQwb2eNL0GFfAet5L_CjdIRijlWfhJmNkY3BSTf_XjIVTTq_7-O6FKr4&usqp=CAU" group-title="HINDI MOVIE.",UTV MOVIES
 http://89.41.180.253:8080/INDIA_HINDI/UTV_HD/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSh_RMlaykeWMp0XUX4Euk2k25dqpQOcrosg&usqp=CAU" group-title="HINDI MOVIE.",B4U Movie 
-http://89.41.180.253:8080/INDIA_HINDI/B4U_MOVIES/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC9_iNVLY5LiyftN_XFyYRA31XZTWwX8-Apg&usqp=CAU" group-title="HINDI MOVIE.",Colors Infinity
+http://tamilbreak.com/jiotv/live.php?c=Colors_Infinity_HD&q=1200&e=.m3u8
+#EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2020/03/04/Colors-Cineplex.jpg" group-title="HINDI MOVIE.",Colors Cineplex
+http://84.17.41.7:80/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://etimg.etb2bimg.com/photo/76192361.cms" group-title="HINDI MOVIE.",Rishtey Cineplex
+https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlN4GgHzMfUSxz5edyNwkDmukAcMV3IUfVlw&usqp=CAU" group-title="HINDI MOVIE.",Miniplex
 http://89.41.180.253:8080/INDIA_HINDI/MINIPLEX_HD/mono.m3u8
 #EXTINF:0 tvg-logo="https://hotshotprime.com/upload/source/38da866a0646683c.jpg" group-title="HINDI MOVIE.",Abzy Movies
@@ -13,10 +17,6 @@ https://m-c01-j2apps.s.llnwi.net/hls/6641.SkystarFilme.in.m3u8
 http://208.115.215.42/Sony_Max_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://ambujtiwari1.files.wordpress.com/2015/11/maha-movie-logo.jpg" group-title="HINDI MOVIE.",Maha Movie
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
-#EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2020/03/04/Colors-Cineplex.jpg" group-title="HINDI MOVIE.",Colors Cineplex
-http://84.17.41.7:80/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://etimg.etb2bimg.com/photo/76192361.cms" group-title="HINDI MOVIE.",Rishtey Cineplex
-https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/786161573475733505/OcKY1UGl_400x400.jpg" group-title="HINDI MOVIE.",Dabang TV
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png" group-title="HINDI MOVIE.",Zing
@@ -125,8 +125,6 @@ https://sonar.sinclair.wurl.com/manifest/3000.m3u8
 https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
 #EXTINF:0 tvg-logo="http://cdn.teleon.tv/logo/runtime-us.png" group-title="ENGLISH MOVIE.",RunTime Free Movies
 https://ammoruntime-plex.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-logo="https://www.livefarsi.com/uploads/tv_image/atn-europe-tv.jpg" group-title="ENGLISH MOVIE.",ATN Europe
-https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngrR0DfEqIThsW1eMxLP6cXnFWRmk12B7MZ8-04ZQ=s900-c-k-c0x00ffffff-no-rj" group-title="ENGLISH MOVIE.",WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w829907558.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/2/2c/Ietv2008logo.svg/144px-Ietv2008logo.svg.png" group-title="CARTOON.",Ch 23 החינוכית
@@ -155,6 +153,8 @@ http://103.81.104.118/hls/stream39.m3u8
 http://103.205.133.19/hls/ten3.m3u8
 #EXTINF:0 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIXHD_Masthead_Logo.png" group-title="SPORTS.",Sony Six 
 http://103.81.104.118/hls/stream10.m3u8
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_1.png" group-title="SPORTS.",Arena Sports 1
+http://stream.tvtap.live:8081/live/arena1.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQodfhSowKSaJU7VIZ1ql098H5N-GRq-NYUww&usqp=CAU" group-title="SPORTS.", SPORT TV 1
 https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxcF9LEfH8PDl52cmlWsONHVUF_m_oBPu-Pg&usqp=CAU" group-title="SPORTS.",SPORT TV 2
@@ -227,7 +227,7 @@ http://103.81.104.118/hls/stream23.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180417/loe/kisspng-sony-yay-sony-pictures-networks-india-television-c-sony-5ad644fce01d59.956800371523991804918.jpg" group-title="CARTOON.",Sony YAY
 https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/9/98/Pogo.png/revision/latest?cb=20191112233054" group-title="CARTOON.",Pogo
-https://tvstream.space/jtv/xxxx.php?c=Pogo_Hindi&q=1200&e=.m3u8
+http://tamilbreak.com/jiotv/live.php?c=Pogo_Hindi&q=1200&e=.m3u8
 
 
 
