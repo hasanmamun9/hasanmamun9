@@ -1,0 +1,78 @@
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1AXkZqjt4z-QcG-MIaZ1YRwJE1aunupaVTw&usqp=CAU" group-title="SPORTS.",Rtsh Sport 1
+http://93.157.62.180/RTSH1/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCNM0IxcKZu149p3WoaYMZ7r3ESeJSXDv9Tw&usqp=CAU" group-title="SPORTS.",Rtsh Sport 2
+http://93.157.62.180/RTSH2/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ72n5ztvAsq5JI03Cc0ZmSqTy7s7DjS6ZnHQ&usqp=CAU" group-title="SPORTS.",Rtsh Sport 3
+http://93.157.62.180/RTSH3/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOdccpngkdr53lDjH9GOfGTsLOrweWU2GpiQ&usqp=CAU" group-title="COOKING.",Fish tv
+https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvtoA1f3oGWC0UIbzpuuL0XlfHacfAs5Isng&usqp=CAU" group-title="DOCUMENTARY.",Hi Yah
+http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJiMvqdxFdWAIQLWhNlKKlw83W3XVwlU1mPQ&usqp=CAU" group-title="DOCUMENTARY.", History Tv
+https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_zkB01NYGUE19ShKE20jc2RR4-BqW8E7RUA&usqp=CAU" group-title="LIFESTYLE.",Food 52
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfood52A/CDN/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/95/f6/68/95f6681b3ad0c0404b04a7c4a8cccb06.png" group-title="beIN SPORTS.",beIN Max 1 Sports
+http://mhiptv.com:8888/heshamyoussef/629131120/40801
+#EXTINF:0 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F653%2Fbein-sports-max-1.png" group-title="beIN SPORTS.",beIN Max 2 Sports
+http://mhiptv.com:8888/heshamyoussef/629131120/40802
+#EXTINF:0 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F652%2Fbein-sports-max-1.png" group-title="beIN SPORTS.",beIN Max 3 Sports
+http://mhiptv.com:8888/heshamyoussef/629131120/40803
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/BeIn_Sports_Max_4.png" group-title="beIN SPORTS.",beIN Max 4 Sports
+http://mhiptv.com:8888/heshamyoussef/629131120/40804
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/BeIn_Sports_Max_5.png" group-title="beIN SPORTS.",beIN Max 5 Sports
+http://mhiptv.com:8888/heshamyoussef/629131120/41081
+#EXTINF:0 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/NEW_beIN-SPORTS-MAX-06.png" group-title="beIN SPORTS.",beIN Max 6 Sports
+http://mhiptv.com:8888/heshamyoussef/629131120/41078
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS09_0H8tuZWsnOkoRgRRbTNFs4eR16dwsHDQ&usqp=CAU" group-title="SPORTS.",Fox Sport 
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mix_TV_logo.svg/1200px-Mix_TV_logo.svg.png" group-title="ENGLISH MOVIE.",Mtv Mix
+http://81.30.182.82:18092/hls/live.m3u8
+#EXTINF:0 tvg-logo="https://img.apksum.com/94/com.app.cinematv/3.0.0/icon.png" group-title="ENGLISH MOVIE.",Cinema Tv
+https://sc.id-tv.kz/Cinema_34_35.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-TAe8nXkk2aAVABvv4UaopO5tWdfkUgmPjw&usqp=CAU" group-title="ENGLISH MOVIE.",Bizzarro Movie
+https://minerva-bizzarromovies-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYg9EqiZRec-H6rRZUKy-avgNIWRfGVhodeg&usqp=CAU" group-title="ENGLISH MOVIE.",Ion Plus
+https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXY8OAigOb5bPw78aRxLN1y8tx8vh_t3z12w&usqp=CAU" group-title="ENGLISH MOVIE.", Movie Sehere
+https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmXDgkRevihFD0fthbSAjzEirtJwwi-dItlw&usqp=CAU" group-title="ENGLISH MOVIE.",My Movie Time
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJZwUK4diQlwFBoITgmUiG2_icXV5JB2qpkw&usqp=CAU" group-title="ENGLISH MOVIE.", Nova Action
+https://nova-live.ssl.cdn.cra.cz/channels/nova_action_avod/playlist/cze/live_xq.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="ENGLISH MOVIE.",HBO Signature
+https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Star_Cinema_logo.png" group-title="ENGLISH MOVIE.", Star Cinema
+http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5Z5ksQoAJporh286VG1hSrPvtkZMTpSOxCQ&usqp=CAU" group-title="ENGLISH MOVIE.", beIN Movie Action
+http://mhiptv.com:8888/heshamyoussef/629131120/22573
+#EXTINF:0 tvg-logo="https://seeklogo.com/images/B/bein-movies-logo-F391F272F3-seeklogo.com.png" group-title="ENGLISH MOVIE.", beIN Fox Movie
+http://mhiptv.com:8888/heshamyoussef/629131120/22585
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmAy_JEaW1LR76eeIOsmVzfS4FaHUpH4364w&usqp=CAU" group-title="ENGLISH MOVIE.", beIN Fox Movie Action
+http://mhiptv.com:8888/heshamyoussef/629131120/22584
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJmQYfuHcud-I1omvWI-WNziBlCUUdd0Kxyg&usqp=CAU" group-title="ENGLISH MOVIE.",Box Action 1
+http://mhiptv.com:8888/heshamyoussef/629131120/15778
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThb8k2aGpMouY_fF2IM1IzIZjijPEyOqatQQ&usqp=CAU" group-title="ENGLISH MOVIE.",Box Action 2
+http://mhiptv.com:8888/heshamyoussef/629131120/15971
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg_bu1LbDUbv5BVrVKhPqhbxOsG1D-ydI7zA&usqp=CAU" group-title="ENGLISH MOVIE.", Mix Holywood
+http://mhiptv.com:8888/heshamyoussef/629131120/3672
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
