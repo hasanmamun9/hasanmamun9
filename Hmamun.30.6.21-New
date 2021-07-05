@@ -176,34 +176,24 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 http://103.81.104.118/hls/stream22.m3u8
 #EXTINF:0 tvg-logo="https://helptimebd.com/wp-content/uploads/2020/06/Screenshot-2020-12-03-135529.png" group-JOMUNA-TV="BANGLA NEWS.",Jomuna-Tv
 http://103.205.133.19/hls/jamunatv.m3u8
-#EXTINF:0 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/569ccce48ead0e21236eb457/1565808611716/569ccce48ead0e21236eb457.jpg" group-WOW-CINEMA="HINDI MOVIE.",WOW CINEMA
-https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_360p/index.m3u8?Live-TV™
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeOO-1UlDHtHjL7faZwRwnqGG0SE4qggTxIQ&usqp=CAU" group-title="HINDI MOVIE.",Rasi Hindi Tv
-http://singamcloud.in:1935/rasinetwork/rasihindi/chunklist_w2016706856.m3u8
-#EXTINF:0 tvg-logo="https://dreamdth.com/wp-content/uploads/2020/07/Enterr10-Movies-1024x1024.jpg" group-title="HINDI MOVIE.",Enterr 10 Movies
-https://idvd.multitvsolution.com/idvo/enter10.m3u8
-#EXTINF:0 tvg-logo="https://www.pngkey.com/png/detail/211-2118020_utv-action-utv-action-logo-png.png" group-title="HINDI MOVIE.",UTV Action
-http://84.17.41.7/UTVACTION-Hin/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3tOy2jMIhkEjOBoDMQcQsMZAGwA5LjT8jfA&usqp=CAU" group-title="HINDI MOVIE.",SONY MAX 
-http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6574/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkLgQJzNFOX0-k8WcYH9sFVXZeKakN1i-3mLwv2NbbANu5ZHd76G0QaDc&s=10" group-title="HINDI MOVIE.",SONY MAX Hd
-http://208.115.215.42/Sony_Max_HD/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpOuHPH5rPh9qqhuNzYH6_cUgt_OYCa5pupWXELk8wisIJwgTbOXQFzb4&s=10" group-title="HINDI MOVIE.",Sony Max 2 In
-http://208.115.215.42/Sony_Max_HD_02/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="HINDI MOVIE.",Sony Wah
-https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest/scale-to-width-down/340?cb=20200320100818" group-title="HINDI MOVIE.",B4u Kadak
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:0 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/andpictures-hd.jpg" group-title="HINDI MOVIE.",& Pictures Hd
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/andpictures.jpg" group-title="HINDI MOVIE.",& Pictures Sd
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6U_6-dWlBYg-84eO7vX-31GzH-GK8V2JmKA&usqp=CAU" group-title="HINDI MOVIE.",& Xplor HD
 http://iptvtree.net:8080/live/Abaar/5c435ec5/196116.m3u8
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-bFu3Qcuw04I/V1LablvHTJI/AAAAAAAAQrU/ZcUycyxMFN8OTglvEE1hG1edUvVHqO4WQCLcB/w1200-h630-p-k-no-nu/bflix_logo.png" group-title="HINDI MOVIE.",B flix
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtsbNdEXhM92M0q_B5xCxyQ95cOYc0IcVHCtEaFwx7jq1bC8vUNcTfNOE3sTCX1oDDrpY&usqp=CAU" group-title="HINDI MOVIE.",Box Cinema
-https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeOO-1UlDHtHjL7faZwRwnqGG0SE4qggTxIQ&usqp=CAU" group-title="HINDI MOVIE.",Rasi Hindi Tv
+http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.pngkey.com/png/detail/211-2118020_utv-action-utv-action-logo-png.png" group-title="HINDI MOVIE.",UTV Action
+http://84.17.41.7/UTVACTION-Hin/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3tOy2jMIhkEjOBoDMQcQsMZAGwA5LjT8jfA&usqp=CAU" group-title="HINDI MOVIE.",SONY MAX 
+http://tamilbreak.com/jiotv/live.php?c=Sony_Max_SD&q=1200&e=.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkLgQJzNFOX0-k8WcYH9sFVXZeKakN1i-3mLwv2NbbANu5ZHd76G0QaDc&s=10" group-title="HINDI MOVIE.",SONY MAX Hd
+http://tamilbreak.com/jiotv/live.php?c=Sony_Max_HD&q=1200&e=.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpOuHPH5rPh9qqhuNzYH6_cUgt_OYCa5pupWXELk8wisIJwgTbOXQFzb4&s=10" group-title="HINDI MOVIE.",Sony Max 2 In
+http://208.115.215.42/Sony_Max_HD_02/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="HINDI MOVIE.",Sony Wah
+https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4tpx9AoVUaX_AN80nBP1_05b6ksF4bPqnZg&usqp=CAU" group-title="HINDI MOVIE.",STAR Gold HD
 http://84.17.41.7/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Utsav_Gold_Logo.jpg/220px-Utsav_Gold_Logo.jpg" group-title="HINDI MOVIE.",Utsav Gold
@@ -220,6 +210,18 @@ https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
 #EXTINF:0 tvg-logo="http://thekolkatamail.com/wp-content/uploads/2021/04/09zeeanmolcinemazeeanmolci.png" group-title="HINDI MOVIE.",Zee Anmol Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSh_RMlaykeWMp0XUX4Euk2k25dqpQOcrosg&usqp=CAU" group-title="HINDI MOVIE.",B4U Movie 
+http://tamilbreak.com/jiotv/live.php?c=B4U_Movies&q=1200&e=.m3u8
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest/scale-to-width-down/340?cb=20200320100818" group-title="HINDI MOVIE.",B4u Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+#EXTINF:0 tvg-logo="https://dreamdth.com/wp-content/uploads/2020/07/Enterr10-Movies-1024x1024.jpg" group-title="HINDI MOVIE.",Enterr 10 Movies
+https://idvd.multitvsolution.com/idvo/enter10.m3u8
+#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-bFu3Qcuw04I/V1LablvHTJI/AAAAAAAAQrU/ZcUycyxMFN8OTglvEE1hG1edUvVHqO4WQCLcB/w1200-h630-p-k-no-nu/bflix_logo.png" group-title="HINDI MOVIE.",B flix
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtsbNdEXhM92M0q_B5xCxyQ95cOYc0IcVHCtEaFwx7jq1bC8vUNcTfNOE3sTCX1oDDrpY&usqp=CAU" group-title="HINDI MOVIE.",Box Cinema
+https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
+#EXTINF:0 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/569ccce48ead0e21236eb457/1565808611716/569ccce48ead0e21236eb457.jpg" group-WOW-CINEMA="HINDI MOVIE.",WOW CINEMA
+https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_360p/index.m3u8?Live-TV™
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh-GZc7nisjrco6RliqXfkPpT-iLvHvxSY-w&usqp=CAU" group-title="HINDI MOVIE.", Bollywood Hd
 https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 #EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-9srWYOlWqlE/WxKJlv8LpfI/AAAAAAAATlk/Srmk79k-sak_LFtcwz6x_cOAUQcxJzx0gCLcBGAs/w1200-h630-p-k-no-nu/mbc_ae_bollywood%2BFrequency.png" group-title="HINDI MOVIE.",Mbc Bollywood
@@ -247,7 +249,7 @@ https://d38944htyexzq5.cloudfront.net/MO_MUSIC.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1115500483961950208/q3Wlk_Pt_400x400.png" group-title="HINDI MUSIC.",M Tv+
 http://84.17.41.7:80/MTV_PLUS_US/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj0CeO2Dsi0GQc0Ej_acUTZuYWnn_BTP7baT7wIaA=s900-c-k-c0x00ffffff-no-rj" group-title="HINDI MUSIC.",M Tv Beats
-http://89.41.180.253:8080/INDIA_HINDI/MTV_BEATS_HD/tracks-v1a1/mono.m3u8
+http://tamilbreak.com/jiotv/live.php?c=MTV_Beats_SD&q=1200&e=.m3u8
 #EXTINF:0 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2020/12/CHANNELV.jpg" group-title="ENGLISH SONG.", Channel V
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmyVw_lJ7GOxXvtX29QlkGZSZNv8ysGlIU0A&usqp=CAU" group-title="ENGLISH SONG.", VH1
