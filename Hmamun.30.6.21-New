@@ -322,9 +322,11 @@ http://54.39.134.91:9090/24x7_kids_cr3/tracks-v1a1/mono.m3u8
 http://31.220.41.90:8081/live/nl-ziggoselect.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7EdYAvaly35vFYJcsq_NWiHjbh1MfT8GURQ&usqp=CAU" group-title="SPORTS.",Yalla Sport 
 https://d1h77pdbzvllk0.cloudfront.net/out/v1/f13b787c6409485c99a47ca714bdf9d4/index.m3u8?ZaNa_iptv.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXGkeJF8_ZGE_X6tOvs9nLfK1e4rqhrZAfnQ&usqp=CAUgroup-title="SPORTS.",Supar Sports 2
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu1K-6hOXcxl1BChSGhXcpfQdg7d5ynrVbAQ&usqp=CAU"SPORTS.",On-Sports
+http://hnn.bibinkrour.xyz/live/030/index.m3u8
+#EXTINF:0 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-s-sport-2-1693.png"SPORTS.",Supar Sports 2
 http://93.157.62.180/Supersport2/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXGkeJF8_ZGE_X6tOvs9nLfK1e4rqhrZAfnQ&usqp=CAUgroup-title="SPORTS.",Supar Sports 3
+#EXTINF:0 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-3-693.png"SPORTS.",Supar Sports 3
 http://93.157.62.180/Supersport3/index.m3u8
 #EXTINF:0 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png" group-title="SPORTS.",Ten Sports
 http://221.120.204.4/TEN-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8
@@ -341,7 +343,7 @@ http://8.anbdaouras.xyz/live/6262622200/index.m3u8
 #EXTINF:0 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F653%2Fbein-sports-max-1.png" group-title="beIN SPORTS.",beIN Max 2 Sports
 http://5.amroutras.xyz/live/331210000/index.m3u8
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/BeIn_Sports_Max_5.png" group-title="beIN SPORTS.",beIN Max 5 Sports
-http://hnn.bibinkrour.xyz/live/6262622200/index.m3u8
+http://gog.daroudaraw.xyz/live/0679877700/index.m3u8
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/BeIn_Sports_Max_6.png" group-title="beIN SPORTS.",beIN Max 6 Sports
 http://k.zouwabrou.xyz/live/1666111100/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScYtjMNMAWGthy0EyV2KQ1xCH87qWH-XNMLQ&usqp=CAU" group-title="SPORTS.",Qaz Sport HD
