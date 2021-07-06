@@ -4,8 +4,6 @@ http://93.157.62.180/RTSH1/index.m3u8
 http://93.157.62.180/RTSH2/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ72n5ztvAsq5JI03Cc0ZmSqTy7s7DjS6ZnHQ&usqp=CAU" group-title="SPORTS.",Rtsh Sport 3
 http://93.157.62.180/RTSH3/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOdccpngkdr53lDjH9GOfGTsLOrweWU2GpiQ&usqp=CAU" group-title="COOKING.",Fish tv
-https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvtoA1f3oGWC0UIbzpuuL0XlfHacfAs5Isng&usqp=CAU" group-title="DOCUMENTARY.",Hi Yah
 http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJiMvqdxFdWAIQLWhNlKKlw83W3XVwlU1mPQ&usqp=CAU" group-title="DOCUMENTARY.", History Tv
@@ -38,8 +36,6 @@ https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
 https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmXDgkRevihFD0fthbSAjzEirtJwwi-dItlw&usqp=CAU" group-title="ENGLISH MOVIE.",My Movie Time
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJZwUK4diQlwFBoITgmUiG2_icXV5JB2qpkw&usqp=CAU" group-title="ENGLISH MOVIE.", Nova Action
-https://nova-live.ssl.cdn.cra.cz/channels/nova_action_avod/playlist/cze/live_xq.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="ENGLISH MOVIE.",HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Star_Cinema_logo.png" group-title="ENGLISH MOVIE.", Star Cinema
