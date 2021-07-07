@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN27eD2A8cUMbikopY4bBORIJvO3XrfUVzbw&usqp=CAU" group-WNN-TV="BANGLA ENT.",S-Vision
-http://svision.sonarbanglatv.com:8081/svision/sv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL0tocMoLx1DyTXbLWZ6YUI7SNZUdS6eRQyw&usqp=CAU" group-WNN-TV="BANGLA ENT.", Channel 19
 http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/995.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiMWjrEm1bIrKq86jydwnULUsSJ8OW41hLTg&usqp=CAU" group-WNN-TV="BANGLA ENT.",Wnn-Tv
@@ -19,8 +17,6 @@ http://208.86.19.13:81/live/banglany2/index.m3u8
 http://208.86.19.13:81/live/usbangla.stream/index.m3u8
 #EXTINF:0 tvg-logo="https://cabeltvapp.com/wp-content/uploads/2020/09/bc.jpg" group-title="BANGLA ENT.",Bangla Tv Us
 http://str24.l9574.com/515.stream/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHsbllMCZ4q6NbP4RkfsQfdygW-Qt-Mj1txQ&usqp=CAU" group-title="BANGLA MOVIE.",Gbangla Tv
-https://iptv10.raytahost.com/desh/gbangla/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/wA-DT6jV87M/hqdefault.jpg" group-title="BANGLA MOVIE.",M C Tv
 http://103.146.36.78:1935/live/mctv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://inter-asia.com.my/wp-content/uploads/2020/09/logo_interasia_vertical.png" group-title="BANGLA ENT.",Interasia Tv
