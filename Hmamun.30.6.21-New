@@ -218,6 +218,8 @@ https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
 #EXTINF:0 tvg-logo="http://thekolkatamail.com/wp-content/uploads/2021/04/09zeeanmolcinemazeeanmolci.png" group-title="HINDI MOVIE.",Zee-Anmol Cinema(BDIX)
 https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShK9PEo38vfVqJghGVL9DtLRTX83zPF9KkRQ&usqp=CAU" group-title="HINDI MOVIE.",Zee-World
+https://y5w8j4a9.ssl.hwcdn.net/world/tracks-v1a1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSh_RMlaykeWMp0XUX4Euk2k25dqpQOcrosg&usqp=CAU" group-title="HINDI MOVIE.",B4U-Movie
 http://tamilbreak.com/jiotv/live.php?c=B4U_Movies&q=1200&e=.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest/scale-to-width-down/340?cb=20200320100818" group-title="HINDI MOVIE.",B4U-Kadak(BDIX)
@@ -268,12 +270,12 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:0 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072011/logo__slogan.ai_.png?itok=8W0eAesx"group-titile="ENGLISH MOVIE.",CCM CLASSIC
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBleC4WjUP0iJr3IqW2U6XZttx_cnjdYI_D9OZqb4EgGOovFuUv0WWUQI&s=10"group-titile="ENGLISH MOVIE.",Sci-Fi
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxWeF2cL3J6gslWAZ-4SAGKbQcUmZvrmL5Ew&usqp=CAU"group-titile="ENGLISH MOVIE.",Sci-Fi
 http://mfe.cliptv.az/dash/Sony_Sci_Fi_SD.ism/playlist.mpd?checkedby:hlscat.com
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjRzY0Wk0fqdJXcy8VeJbi2gPFZ8WIDRp-TA&usqp=CAU" group-title="ENGLISH MOVIE.",Syfy Tv
 http://stream.tvtap.net:8081/live/us-syfy.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://thumbnail.imgbin.com/22/13/24/imgbin-logo-sony-six-television-channel-sony-ten-sony-entertainment-television-kri8it-defining-digital-Acybc4HApnRxU3ck2ifyc7cAz_t.jpg" group-title="ENGLISH MOVIE.",Sony Pix
-http://tamilbreak.com/jiotv/live.php?c=Sony_Pix_HD&q=1200&e=.m3u8
+http://tamilbreak.com/jiotv/live.php?c=Sony_Pix_SD&q=1200&e=.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkRTbSjI9jTxkUl2FEf2lK8QHLUoA9VbezwA&usqp=CAU"group-titile="ENGLISH MOVIE.",Fox Action Movie
 http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFDmKg4Yh56JtwV3D0J_2cNMl57wNlXkMfIw&usqp=CAU" group-title="ENGLISH MOVIE.",Fox Family Movies(BDIX)
