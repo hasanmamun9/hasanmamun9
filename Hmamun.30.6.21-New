@@ -114,6 +114,8 @@ http://iptvbd.jagobd.com:1931/boishakhi/71bangla.stream/chunks.m3u8
 https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/joyjatratv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjQAlzQo6aOUnE-UJ1OQZj2nij7Lg1BpMDbcXkzWw=s900-c-k-c0x00ffffff-no-rj" group-CUMILLA-TV="BANGLA ENT.",কুমিল্লা-টিভি
 https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/cumilla24.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2021/07/CK24-TV.jpg?x89970" group-SHWAPNO-TV="BANGLA MOVIE.",সি কে-২৪
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/cmkagoj24.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/noq8RfPyjetXVNC7zvs6GZyqSdI4x5HYwNSvBsbKtTgVV-PyzeUqZo1QerzZGds-f0U" group-SONGBAD-TV="BANGLA ENT.",সংবাদ-টিভি
 https://iptv6.raytahost.com/live/songbad/index.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/942458481017208832/CA5uGF46.jpg" group-SRISTY-TV="BANGLA MOVIE.",সৃষ্টি-টিভি
@@ -128,23 +130,25 @@ http://103.56.7.130:1935/live/onuvhutitv/playlist.m3u8
 https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jagoronitv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://jaratv.tv/wp-content/uploads/2021/03/Web-Logo.png" group-JARA-TV="BANGLA MOVIE.",জারা-টিভি
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jaratv.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="http://livetv.com.bd/wp-content/uploads/2020/07/gbangla.png" group-SHOPNO-TV="BANGLA MOVIE.",জি-টিভি
+https://iptv10.raytahost.com/desh/gbangla/index.m3u8
 #EXTINF:0 tvg-logo="http://shopno-tv.com/wp-content/uploads/2019/09/shopno.png" group-SHOPNO-TV="BANGLA MOVIE.",স্বপ্ন-টিভি
 https://talusafagroup.ddns.net:8080/shopno/shopnotv.m3u8
 #EXTINF:0 tvg-logo="http://livetv.com.bd/wp-content/uploads/2020/12/Untitled-1.png" group-SHWAPNO-TV="BANGLA MOVIE.",স্বপ্ন বাংলা-টিভি
 https://iptv9.raytahost.com/live/shwapno/index.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2021/07/CK24-TV.jpg?x89970" group-SHWAPNO-TV="BANGLA MOVIE.",সি কে-২৪
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/cmkagoj24.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/836470145652383744/v4refNT9_400x400.jpg" group-S-BANGLA RED="BANGLA MOVIE.",এস বাংলা-টিভি
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/836470145652383744/v4refNT9_400x400.jpg" group-S-BANGLA RED="BANGLA MOVIE.",এস-বাংলা-টিভি
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channelsbd.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://likeetv.com/uploads/tv_image/ruposhi-bangla-tv-2ut53ekt8b9t.jpg" group-RUPOSHI-BANGLA="BANGLA MOVIE.",রূপসী বাংলা-টিভি
 https://5fe9adb07250c.streamlock.net/demo/rup/manifest_w1128088793.mpd
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL_9dUtM88gx5wBWPS8-ts0WO_uSjs3RPenQ&usqp=CAU" group-SHOPNO-TV="BANGLA MOVIE.",এস-ভিসন
+http://svision.sonarbanglatv.com:8081/svision/sv/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2021/04/Logo.png?x89970" group-SONALI-TV="BANGLA ENT.",সোনালী-টিভি
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/sonalitv.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2021/03/falgunitv.jpg" group-FALGUNI-TV="BANGLA MOVIE.",ফাল্গুনী-টিভি
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/falgunitv.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/K/KTV-logo-E260328BCB-seeklogo.com.gif" group-K-TV="BANGLA ENT.",কে-টিভি(BDIX)
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/K_Bangla_TV_%28KB_TV%29.png" group-K-BANGLA="BANGLA ENT.",কে বাংলা+টিভি
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/K_Bangla_TV_%28KB_TV%29.png" group-K-BANGLA="BANGLA ENT.",কে বাংলা-টিভি
 https://iptv10.raytahost.com/stream/kbangla/index.m3u8
 #EXTINF:0 tvg-logo="https://image.winudf.com/v2/image/dHYucHJvYmFzaGliYW5nbGEuZGlnaXRhbGIubXlhcHBsaWNhdGlvbl9zY3JlZW5fMF9zcWlndW9tMQ/screen-0.jpg?fakeurl=1&type=.jpg" group-PROBASI-BANGLA="BANGLA MOVIE.",প্রবাসী বাংলা-টিভি
 https://probashibangla-tv.telelivebd.com/globalbanglatv/probashibangla/playlist.m3u8
@@ -156,6 +160,8 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/08/Voice-TV.jpg" group-VOICE-TV="BANGLA ENT.",ভয়েস-টিভি
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Citytv_old_logo.svg/1200px-Citytv_old_logo.svg.png" group-title="BANGLA ENT.",সিটি-টিভি
+https://www.webtvbd.com/download/bdix/city_tv.m3u8
 #EXTINF:0 tvg-logo="https://tv.bdtype.com/uploads/tv_image/rtv-music.png" group-R-TV MUSIC="BANGLA MUSIC.",আরটিভি+মিউজিক
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://tv.bdtype.com/uploads/tv_image/atn-music.png" group-ATN-MUSIC="BANGLA MUSIC.",এটিএন-মিউজিক
@@ -364,14 +370,16 @@ https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m
 https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.pngkey.com/png/detail/134-1341595_discovery-channel-transparent-discovery-channel-logo.png" group-title="DISCOVERY.",Discovery
 http://103.109.56.116/live/skyfeed1015/index.m3u8
-#EXTINF:0 tvg-logo="https://img.favpng.com/12/20/21/logo-nat-geo-wild-national-geographic-television-channel-png-favpng-X5cTr0eRJi2b96GK1s1x1nBAK.jpg" group-title="GEOGRAPHIC.",Natgeo Bangla
-http://103.81.104.118/hls/stream13.m3u8
+#EXTINF:0 tvg-logo="https://img.favpng.com/12/20/21/logo-nat-geo-wild-national-geographic-television-channel-png-favpng-X5cTr0eRJi2b96GK1s1x1nBAK.jpg" group-title="GEOGRAPHIC.",Nat-Wild
+https://wyjs.tk/index.php/http://84.17.41.7:80/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://ewsat.com/img/TRING_PLANET.png" group-title="LIFESTYLE.",Tring Planet
 http://93.157.62.180/TringPlanet/index.m3u8
 #EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2014/08/28/travelxp_0.JPG" group-title="DOCUMENTARY.",Travel Xp Hindi
 https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT12vYSBzuvj15hv3zSuG64ytO9LeI23fYxwMfDRu9LW-JEQEVtGtQmbZJy&s=10" group-title="COOKING.",Hum Masala Tv
 https://feed.play.mv/live/1009/uRdwlkNe1U/master.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ0qwO4vBFbBtQ_zfyzZTuXm_t8Dcm3kIkIg&usqp=CAU" group-title="COOKING.",Tlc Hindi
+https://idvd.multitvsolution.com/idvo/tlchdhindi.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvJ9fu0y0ghYs7H5QnDmmiTWPB3BDzaasB6g&usqp=CAU" group-title="DOCUMENTARY.",Adventure Tv
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="COOKING.",Food Network
