@@ -1,8 +1,4 @@
-#EXTM3U
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL0tocMoLx1DyTXbLWZ6YUI7SNZUdS6eRQyw&usqp=CAU" group-WNN-TV="BANGLA ENT.", Channel 19
-http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/995.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiMWjrEm1bIrKq86jydwnULUsSJ8OW41hLTg&usqp=CAU" group-WNN-TV="BANGLA ENT.",Wnn-Tv
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/wnn24.stream/playlist.m3u8
+#EXTM3U#
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/colors-tv-logo-png-2.png" group-title="BANGLA ENT.",Colors Bd Tv
 http://master.beeiptv.com:8081/colors/colorsbdtv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.colorsiptv.com/uploads/tv_image/sm/aheli-tv.png" group-title="BANGLA ENT.",Aheli Tv
@@ -77,3 +73,15 @@ https://egress-1.do-ny-3.ttv.dotworldcorp.com/hls/ttv/index.m3u8
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/times24tv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDIxIDk6MjU6MjkgUE0maGFzaF92YWx1ZT11TDRGczhIZXNGZGdxRG9DQ2hwRWJ3PT0mdmFsaWRtaW51dGVzPTQw
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/2268635250/oy50ez2an1i1okq773gm.jpeg" group-title="NEWS",Palestine Tv
 http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8
+EXTINF:0 tvg-logo="https://abohomanbangla.com/Bangladesh_web_directory/tv_image/modumoti%20tv.png" group-WNN-TV="BANGLA ENT.",Modumoti-Tv
+https://cnbtv.raytahost.com/live/1080/index.m3u8
+#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2018/04/Funfesttv.jpg?x89970" group-WNN-TV="BANGLA ENT.",Fun-Fest
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/funfest.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://pcdn1.jagobd.com/images/xs-h4lv11609859933620.jpg" group-WNN-TV="BANGLA ENT.",Nongor-Tv
+https://tempd.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nongortv.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="http://iptvbd.net/public/channel_logo/1589960127.png" group-WNN-TV="BANGLA ENT.",IRB-Tv
+http://irbtv.net/Htv/1080/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL0tocMoLx1DyTXbLWZ6YUI7SNZUdS6eRQyw&usqp=CAU" group-WNN-TV="BANGLA ENT.", Channel 19
+http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/995.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiMWjrEm1bIrKq86jydwnULUsSJ8OW41hLTg&usqp=CAU" group-WNN-TV="BANGLA ENT.",Wnn-Tv
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/wnn24.stream/playlist.m3u8
