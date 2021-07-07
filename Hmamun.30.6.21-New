@@ -368,8 +368,8 @@ http://stream.tvtap.live:8081/live/tsn1.stream/playlist.m3u8
 http://77.83.117.60:8888/02_PPTVHD_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwY1QlXL95Am6XUwBUjQUxeTdUqf8ydVssXg&usqp=CAU" group-title="SPORTS.",TVP SPORTS HD
 http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiKvWa6mpweDNV1X_qi_YYSTjFPJkn7Qhekg&usqp=CAU" group-title="SPORTS.", Euro-Sports 1
-http://89.17.204.38/ch57/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiKvWa6mpweDNV1X_qi_YYSTjFPJkn7Qhekg&usqp=CAU" group-title="SPORTS.", Euro-Sports N
+http://89.17.204.38/ch56/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp8BhD6ZYHhPonXc9NhTBWVtygNdLXIsNI-g&usqp=CAU" group-title="DOCUMENTARY.", Tv 5 Style
 https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
 #EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2014/08/28/travelxp_0.JPG" group-title="DOCUMENTARY.",Travel Xp Hindi
