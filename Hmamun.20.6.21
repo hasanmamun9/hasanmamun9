@@ -9,6 +9,8 @@ https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlN4GgHzMfUSxz5edyNwkDmukAcMV3IUfVlw&usqp=CAU" group-title="HINDI MOVIE.",Miniplex
 http://89.41.180.253:8080/INDIA_HINDI/MINIPLEX_HD/mono.m3u8
+#EXTINF:0 tvg-logo="http://movieopera.in/wp-content/uploads/2021/07/cropped-MO-LOGO-PNG-2.png" group-title="HINDI MOVIE.", Movie-Opera
+https://stream1.playbox.co.in:1936/live1/movieopera/playlist.m3u8
 #EXTINF:0 tvg-logo="https://hotshotprime.com/upload/source/38da866a0646683c.jpg" group-title="HINDI MOVIE.",Abzy Movies
 http://tamilbreak.com/jiotv/live.php?c=ABZY_Movies&q=1200&e=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvQZVOx0Fr-fnyfyAuC8Vf3Slz1eNkfBKzKQ&usqp=CAU" group-title="HINDI MOVIE.",Abzy-Cool
