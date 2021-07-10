@@ -10,9 +10,11 @@ https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlN4GgHzMfUSxz5edyNwkDmukAcMV3IUfVlw&usqp=CAU" group-title="HINDI MOVIE.",Miniplex
 http://89.41.180.253:8080/INDIA_HINDI/MINIPLEX_HD/mono.m3u8
 #EXTINF:0 tvg-logo="https://hotshotprime.com/upload/source/38da866a0646683c.jpg" group-title="HINDI MOVIE.",Abzy Movies
-https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in.m3u8
+http://tamilbreak.com/jiotv/live.php?c=ABZY_Movies&q=1200&e=.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvQZVOx0Fr-fnyfyAuC8Vf3Slz1eNkfBKzKQ&usqp=CAU" group-title="HINDI MOVIE.",Abzy-Cool
+http://tamilbreak.com/jiotv/live.php?c=ABZY_Cool&q=1200&e=.m3u8
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-P9V5thAdT9Y/YGVnMTu1g-I/AAAAAAAAyI4/q0kkD0M3oB47nJ2xHOV4z2r4FmBuhqLRQCLcBGAsYHQ/s340/Abzy_Dhakad-min.jpg" group-title="HINDI MOVIE.",Abzy Dhakad
-https://m-c01-j2apps.s.llnwi.net/hls/6641.SkystarFilme.in.m3u8
+http://tamilbreak.com/jiotv/live.php?c=ABZY_Dhakad&q=1200&e=.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRigxaT8oqS9Zmd-4-4L223v3wu83Ifg5sr7NJcPVJHthEY3mEJnRBoZMg&s=10" group-title="HINDI MOVIE.",Sony Max 2 
 http://208.115.215.42/Sony_Max_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://ambujtiwari1.files.wordpress.com/2015/11/maha-movie-logo.jpg" group-title="HINDI MOVIE.",Maha Movie
@@ -76,9 +78,9 @@ https://linear-168.frequency.stream/dist/localnow/168/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/05/localnow20.png" group-title="ENGLISH MOVIE.",Local Now Movies of the  2020s
 https://linear-169.frequency.stream/dist/localnow/169/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUEMn8ThJ4jjToXJnULOuT35EElCc1Bc_LFA&usqp=CAU" group-title="ENGLISH MOVIE.",Movies Now
-http://185.59.223.176:19834/ENGLISH/original/MOVIES_NOW_HD/mono.m3u8
+http://84.17.41.7/MOVIESNOW/HIN/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQoBQ_GzsvNm5yvIA9xPrEM0P6_ocYW5wxHQ&usqp=CAU" group-title="ENGLISH MOVIE.",Mnx
-http://185.59.223.176:19834/ENGLISH/original/MNX_HD/mono.m3u8
+http://84.17.41.7/MNXHD/HIN/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRILJwv02H5o6f5NrBb_B63yY91SK9beO0Hxg&usqp=CAU" group-title="ENGLISH MOVIE.", Romedy Now
 http://89.41.180.253:8080/INDIA_ENGLISH/ROMEDY_NOW_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i2.wp.com/otantenna.com/wp-content/uploads/2020/10/Stirr.png?fit=290%2C218&ssl=1" group-title="ENGLISH MOVIE.",STIRR Horror Movies
@@ -224,6 +226,8 @@ http://103.81.104.118/hls/stream23.m3u8
 https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/9/98/Pogo.png/revision/latest?cb=20191112233054" group-title="CARTOON.",Pogo
 http://tamilbreak.com/jiotv/live.php?c=Pogo_Hindi&q=1200&e=.m3u8
+#EXTINF:0 tvg-logo="https://abohomanbangla.com/Bangladesh_web_directory/tv_image/duronto%20tv.jpg" group-title="CARTOON.",Duronto-Tv
+http://tv.progati.tv:1935/live/hotflix/duronto.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/230x230/public/images/tv-images/2020/10/01/zee_0.jpg?itok=M-DRq2zl" group-title="COOKING.",Zee Zest
 https://y5w8j4a9.ssl.hwcdn.net/zzesthd/tracks-v3a1/mono.m3u8
 
