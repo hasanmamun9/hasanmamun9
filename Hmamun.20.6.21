@@ -20,7 +20,7 @@ http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png" group-title="HINDI MOVIE.",Zing
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-cinema-hd-logo-300x300.jpg" group-title="HINDI MOVIE.",Zee-Cinema HD
-https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
+https://tv.nbox.live:445/X4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/zee-cinema/chunks.m3u8?nimblesessionid=28537
 #EXTINF:0 tvg-logo="https://www.pikpng.com/pngl/m/48-485018_zee-cinema-hq-zee-cinema-channel-logo-clipart.png" group-title="HINDI MOVIE.",Zee Cinema  Usa
 https://y5w8j4a9.ssl.hwcdn.net/cinemausa/index.m3u8
 #EXTINF:0 tvg-logo="https://www.pikpng.com/pngl/m/48-485018_zee-cinema-hq-zee-cinema-channel-logo-clipart.png" group-title="HINDI MOVIE.",Zee Cinema  Uk
@@ -43,10 +43,10 @@ https://acv.asianetmobiletvplus.com/webstreams/ef22daf97d61acb4bf52376c4105ad02.
 http://103.81.104.118/hls/stream8.m3u8
 #EXTINF:0 tvg-logo="https://cdn.doordash.com/media/restaurant/cover/DilSeIndianCuisine1201PortlandOR.png" group-title="HINDI MUSIC.",Dil Se
 https://live.hungama.com/linear/dil-se/playlist.m3u8
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1010296995372621825/VxKcamT6.jpg" group-title="Tamil MOVIE.",Star Ten
-http://media.7starcloud.com:1935/starten/startentv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlqsu2tNVKrBZoalNbbdYqmxo0zggqwxxLsg&usqp=CAU" group-title="HINDI MUSIC.",MH1
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDvMiWEMGJDqnFyeT8xrv6EHMXLC5bc4Idiw&usqp=CAU" group-title="Tamil MOVIE.",M-Tv Biggest
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT2uRRcls4JOXVEDutM9QBCxc5l49RIbnoYQ&usqp=CAU" group-title="ENGLISH MUSIC.",M Tv Yo!
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2YzNL6yS3dE59yAaXzi8WI0mhBUsTq5_FJw&usqp=CAU" group-title="ENGLISH MUSIC.",Music 24
@@ -100,7 +100,7 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLi
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOqfMG7vJDMxIQoxaa44yN57TtvadO__Y3q64qCd-caNoiUfVnPHqNMHsK&s=10" group-title="ENGLISH MOVIE.",Zee Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqtY-gQHOh3C-b8mpUYZQ-VRIF-InYahOzEw&usqp=CAU" group-title="ENGLISH MOVIE.",Star Movies
-http://103.81.104.118/hls/stream3.m3u8
+http://tv.progati.tv:1935/live/hotflix/star-movies-hd.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUmqzB5XD9Xh1WaKVTJetoPPGYi4XqTJAscQ&usqp=CAU" group-title="ENGLISH MOVIE.",Star World Premier
 http://185.59.223.176:19834/ENGLISH/original/STAR_WORLD_PREMIERE_HD/mono.m3u8
 #EXTINF:0 tvg-logo="https://www.pngfind.com/pngs/m/71-717989_1500-x-700-2-hbo-hits-hd-png.png" group-title="ENGLISH MOVIE.",HBO Hits
@@ -135,8 +135,8 @@ http://cdn2.niazitv.pk:786/PTV-Sports/index.m3u8
 http://221.120.204.4/geo-super-LOCKLE/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOIzORrVqDcdPdP9OmzX52Fc6VgLSv1m-PMg&usqp=CAU" group-title="SPORTS.",Euro Sport
 http://103.109.56.116/live/skyfeed1026/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgcZTvjGhuMkb3puOcr__HNv7ltjyFZzX0Sw&usqp=CAU" group-title="SPORTS.",Sony Liv
-http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN5GQJshhYxA3sKjoicmhSiEW_nhU4qMQvkg&usqp=CAU" group-title="SPORTS.",Mav-Sports
+https://bozztv.com/teleyupp/teleup-mavtv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg/revision/latest/scale-to-width-down/340?cb=20190322143617" group-title="SPORTS.",Sony Ten 1
 http://103.109.56.116/live/skyfeed1017/index.m3u8
 #EXTINF:0 tvg-logo="https://i2.wp.com/bdixsports.com/wp-content/uploads/2018/04/ten2.jpg?fit=300%2C250" group-title="SPORTS.",Sony Ten 2
