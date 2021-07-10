@@ -51,8 +51,6 @@ http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2YzNL6yS3dE59yAaXzi8WI0mhBUsTq5_FJw&usqp=CAU" group-title="ENGLISH MUSIC.",Music 24
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
-#EXTINF:0 tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-india%2Fcontent%2F20160517213253938166_Tashan_9x_logo_460.gif&h=570&w=855&q=100&v=20170226&c=1" group-title="HINDI MUSIC.",9x Tashan
-https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in.m3u8
 #EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-JitJUuWTMxg/VH--1LtXqGI/AAAAAAAAAo0/FL_bgsBFjeU/s1600/CELESTIAL%2BCLASSIC%2BMOVIES%2Blogo.png"group-titile="ENGLISH MOVIE.", C Movie
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:0 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/05/localnow80.png" group-title="ENGLISH MOVIE.",Local Now Movies of the  80s
@@ -69,14 +67,20 @@ https://linear-169.frequency.stream/dist/localnow/169/hls/master/playlist.m3u8
 http://84.17.41.7/MOVIESNOW/HIN/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQoBQ_GzsvNm5yvIA9xPrEM0P6_ocYW5wxHQ&usqp=CAU" group-title="ENGLISH MOVIE.",Mnx
 http://84.17.41.7/MNXHD/HIN/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRILJwv02H5o6f5NrBb_B63yY91SK9beO0Hxg&usqp=CAU" group-title="ENGLISH MOVIE.", Romedy Now
-http://89.41.180.253:8080/INDIA_ENGLISH/ROMEDY_NOW_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i2.wp.com/otantenna.com/wp-content/uploads/2020/10/Stirr.png?fit=290%2C218&ssl=1" group-title="ENGLISH MOVIE.",STIRR Horror Movies
 https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaTiLRA2QhTQQrDpfY7m-wJSLEggFESRIjKA&usqp=CAU"group-titile="ENGLISH MOVIE.",Tvn Movie
 http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLrIaVeIx4myAoIVm7aY6wHAqZpJkFitLgOQ&usqp=CAU"group-titile="ENGLISH MOVIE.",Sony One
 http://210.210.155.35/uq2663/h/h143/01.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvtoA1f3oGWC0UIbzpuuL0XlfHacfAs5Isng&usqp=CAU" group-title="DOCUMENTARY.",Hi Yah
+http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXY8OAigOb5bPw78aRxLN1y8tx8vh_t3z12w&usqp=CAU" group-title="ENGLISH MOVIE.", Movie Sehere
+https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmXDgkRevihFD0fthbSAjzEirtJwwi-dItlw&usqp=CAU" group-title="ENGLISH MOVIE.",My Movie Time
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="ENGLISH MOVIE.",HBO Signature
+https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
 #EXTINF:0 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/flix-280-200.png" group-title="ENGLISH MOVIE.",Flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvpc0g3-B2NBkNDZ_dgMSk8aWD2wjgJFbaaUWnAmljnizu2eeFajX42r0UVgRpaFP83jU&usqp=CAU" group-title="ENGLISH MOVIE.",Cinema Tv
