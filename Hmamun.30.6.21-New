@@ -332,8 +332,6 @@ http://54.39.134.91:9090/24x7_kids_cr3/tracks-v1a1/mono.m3u8
 http://31.220.41.90:8081/live/nl-ziggoselect.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7EdYAvaly35vFYJcsq_NWiHjbh1MfT8GURQ&usqp=CAU" group-title="SPORTS.",Yalla Sport 
 https://d1h77pdbzvllk0.cloudfront.net/out/v1/f13b787c6409485c99a47ca714bdf9d4/index.m3u8?ZaNa_iptv.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu1K-6hOXcxl1BChSGhXcpfQdg7d5ynrVbAQ&usqp=CAU"SPORTS.",On-Sports
-http://hnn.bibinkrour.xyz/live/030/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTLP0HTu1FKsBXKuKJ81_6qTk24XN98llLow&usqp=CAU" group-title="SPORTS.",MAT4-Sports
 https://95-213-224-173.livesports24.online/ooomatch.m3u8
 #EXTINF:0 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-s-sport-2-1693.png"SPORTS.",Supar Sports 2
