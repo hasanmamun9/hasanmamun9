@@ -103,6 +103,8 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 http://tv.progati.tv:1935/live/hotflix/star-movies-hd.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUmqzB5XD9Xh1WaKVTJetoPPGYi4XqTJAscQ&usqp=CAU" group-title="ENGLISH MOVIE.",Star World Premier
 http://185.59.223.176:19834/ENGLISH/original/STAR_WORLD_PREMIERE_HD/mono.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc9vujGP4MfuD5RLIDKR4B8QgBSc5xeSDT3A&usqp=CAU" group-title="ENGLISH MOVIE.",Viasat Film Action
+https://list.iptvcat.com/my_list/s/18e55e794f8860b0bc7e4cfd973791c5.m3u8
 #EXTINF:0 tvg-logo="https://www.pngfind.com/pngs/m/71-717989_1500-x-700-2-hbo-hits-hd-png.png" group-title="ENGLISH MOVIE.",HBO Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/MBC_Action_TV_Channel_Logo.png" group-title="ENGLISH MOVIE.",Pixl Movie
