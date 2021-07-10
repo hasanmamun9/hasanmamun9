@@ -207,29 +207,7 @@ https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 http://tamilbreak.com/jiotv/live.php?c=Pogo_Hindi&q=1200&e=.m3u8
 #EXTINF:0 tvg-logo="https://abohomanbangla.com/Bangladesh_web_directory/tv_image/duronto%20tv.jpg" group-title="CARTOON.",Duronto-Tv
 http://tv.progati.tv:1935/live/hotflix/duronto.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/230x230/public/images/tv-images/2020/10/01/zee_0.jpg?itok=M-DRq2zl" group-title="COOKING.",Zee Zest
-https://y5w8j4a9.ssl.hwcdn.net/zzesthd/tracks-v3a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQodfhSowKSaJU7VIZ1ql098H5N-GRq-NYUww&usqp=CAU" group-title="SPORTS.", SPORT TV 1
-https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxcF9LEfH8PDl52cmlWsONHVUF_m_oBPu-Pg&usqp=CAU" group-title="SPORTS.",SPORT TV 2
-http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
-rsion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/LaLiga_TV_Bar_HD.png" group-title="SPORTS.",La Liga Tv
-http://ztvuk.com:8080/younis/younis123/41179
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu1K-6hOXcxl1BChSGhXcpfQdg7d5ynrVbAQ&usqp=CAU"SPORTS.",On-Sports
-http://hnn.bibinkrour.xyz/live/030/index.m3u8
-#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/199/371/png-clipart-cineworld-cinemas-logo-cineworld-logo-icons-logos-emojis-cinema-logos.png" group-title="ENGLISH MOVIE.",Cinema World
-http://45.126.83.51/uq2663/h/h04/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTobTEbzcExvJMeNow5ysMlUfnDy4Fh9LxoVA&usqp=CAU" group-title="ENGLISH MOVIE.",Action Hollywood Movies
-https://lightning-actionhollywood-samsungaustralia.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-logo="https://masmediatv.es/images/2020/10/27/hits-hqm-logo.png" group-title="HINDI MUSIC.",HQM Hits
-https://livelist01.yowi.tv/lista/5e2db2017a8fd03f73b40ede363d1a586db4e9a6/master.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkhdEXQmpf2R4RCXuPaxzrHyaDABeXtpgJEw&usqp=CAU" group-title="Tamil MOVIE.",Zee Classic
-http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/586.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlN4GgHzMfUSxz5edyNwkDmukAcMV3IUfVlw&usqp=CAU" group-title="HINDI MOVIE.",Miniplex
-http://89.41.180.253:8080/INDIA_HINDI/MINIPLEX_HD/mono.m3u8
-#EXTINF:0 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/andpictures-hd.jpg" group-title="HINDI MOVIE.",And-picture Hd
-https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
+
 
 
 
