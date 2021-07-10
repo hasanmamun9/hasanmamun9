@@ -140,11 +140,11 @@ http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg/revision/latest/scale-to-width-down/340?cb=20190322143617" group-title="SPORTS.",Sony Ten 1
 http://103.109.56.116/live/skyfeed1017/index.m3u8
 #EXTINF:0 tvg-logo="https://i2.wp.com/bdixsports.com/wp-content/uploads/2018/04/ten2.jpg?fit=300%2C250" group-title="SPORTS.",Sony Ten 2
-http://103.81.104.118/hls/stream39.m3u8
+http://tv.pmcon.net/hls/stream39.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/82/ac/a4/82aca43f83fc8ac14304ac2520c63bd4.png" group-title="SPORTS.",Sony Ten 3 Hindi
-http://103.205.133.19/hls/ten3.m3u8
+http://103.109.56.116/live/skyfeed1019/index.m3u8
 #EXTINF:0 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIXHD_Masthead_Logo.png" group-title="SPORTS.",Sony Six 
-http://103.81.104.118/hls/stream10.m3u8
+http://tv.pmcon.net/hls/stream10.m3u8
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_1.png" group-title="SPORTS.",Arena Sports 1
 http://stream.tvtap.live:8081/live/arena1.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfsFCVHffnNjsqYtyMP10_e2i_hKikQ2JYswj51osv9kICEWd960REDHImHrcZD1l69g&usqp=CAU" group-title="SPORTS.",Star Sports 1
@@ -162,7 +162,7 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVNLUBqUgpv-mfc_sZ7mNmdAevDlB53ByvoQ&usqp=CAU" group-title="SPORTS.",Tvri Sports
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVm_k1dQ4tSVdl8DKOVfh5RX347DQ66f0NPWesKPxFNKB-VyHNebfdg5-a341amL6gDrw&usqp=CAU" group-title="SPORTS.",T Sports
-http://103.205.133.19/hls/tsports.m3u8
+http://209.126.120.151/hls/tsports.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-T1fNcPdR6doQjKqdaPa1BQxq9oPuViZDMqmSO2s7a4EzdY68IEc9RchkqGh9Q2B0fVc&usqp=CAU" group-title="SPORTS.",Maq Tv
 http://str24.l9574.com/517.stream/index.m3u8
 #EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/793/877/png-clipart-red-bull-gmbh-logo-energy-drink-brand-red-bull-company-text.png" group-title="DOCUMENTARY.",Red Bull Tv
@@ -203,8 +203,6 @@ http://185.105.4.106:1935/live/Bahrain%20International/chunklist.m3u8
 https://stadium-ringofhonor-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqW0aGN7Lk75cmmMUzpQ9UUHTMqQaksoPMrA&usqp=CAU" group-title="WRESTING",WWE 2
 http://hdhd.tk:80/angela123/angela123/9
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1200px-Nick.svg.png" group-title="CARTOON.",Nick 
-http://103.81.104.118/hls/stream23.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180417/loe/kisspng-sony-yay-sony-pictures-networks-india-television-c-sony-5ad644fce01d59.956800371523991804918.jpg" group-title="CARTOON.",Sony YAY
 https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/9/98/Pogo.png/revision/latest?cb=20191112233054" group-title="CARTOON.",Pogo
