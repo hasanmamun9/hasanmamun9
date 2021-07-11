@@ -157,6 +157,8 @@ https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 http://tamilbreak.com/jiotv/live.php?c=Pogo_Hindi&q=1200&e=.m3u8
 #EXTINF:0 tvg-logo="https://abohomanbangla.com/Bangladesh_web_directory/tv_image/duronto%20tv.jpg" group-title="CARTOON.",Duronto-Tv
 http://tv.progati.tv:1935/live/hotflix/duronto.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Zee_Zest_logo.jpeg" group-title="Cooking.",Zee Zest
+https://y5w8j4a9.ssl.hwcdn.net/zzestsd/tracks-v3a1/mono.m3u8
 
 
 
