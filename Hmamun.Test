@@ -10,7 +10,7 @@ http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png" group-title="HINDI MOVIE.",Zing
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-cinema-hd-logo-300x300.jpg" group-title="HINDI MOVIE.",Zee-Cinema HD
-https://tv.nbox.live:445/X4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/zee-cinema/chunks.m3u8?nimblesessionid=28537
+http://tv.pmcon.net/hls/stream25.m3u8
 #EXTINF:0 tvg-logo="https://www.pikpng.com/pngl/m/48-485018_zee-cinema-hq-zee-cinema-channel-logo-clipart.png" group-title="HINDI MOVIE.",Zee Cinema  Usa
 https://y5w8j4a9.ssl.hwcdn.net/cinemausa/index.m3u8
 #EXTINF:0 tvg-logo="https://www.pikpng.com/pngl/m/48-485018_zee-cinema-hq-zee-cinema-channel-logo-clipart.png" group-title="HINDI MOVIE.",Zee Cinema  Uk
@@ -30,7 +30,7 @@ http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQwyzhDbez0Sfd4hHPkHoRTUlZ38AQNgIqFg&usqp=CAU" group-title="TAMIL MOVIE.",ROSEBOWL TV
 https://acv.asianetmobiletvplus.com/webstreams/ef22daf97d61acb4bf52376c4105ad02.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Zoom_Logo.png" group-title="HINDI MUSIC.",ZOOM TV HD
-http://103.81.104.118/hls/stream8.m3u8
+http://tv.pmcon.net/hls/stream8.m3u8
 #EXTINF:0 tvg-logo="https://cdn.doordash.com/media/restaurant/cover/DilSeIndianCuisine1201PortlandOR.png" group-title="HINDI MUSIC.",Dil Se
 https://live.hungama.com/linear/dil-se/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlqsu2tNVKrBZoalNbbdYqmxo0zggqwxxLsg&usqp=CAU" group-title="HINDI MUSIC.",MH1
@@ -158,7 +158,7 @@ https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/9/98/Pogo.png/revision/latest?cb=20191112233054" group-title="CARTOON.",Pogo
 http://tamilbreak.com/jiotv/live.php?c=Pogo_Hindi&q=1200&e=.m3u8
 #EXTINF:0 tvg-logo="https://abohomanbangla.com/Bangladesh_web_directory/tv_image/duronto%20tv.jpg" group-title="CARTOON.",Duronto-Tv
-http://tv.progati.tv:1935/live/hotflix/duronto.stream/playlist.m3u8
+http://103.157.237.18:8000/play/132
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Zee_Zest_logo.jpeg" group-title="Cooking.",Zee Zest
 https://y5w8j4a9.ssl.hwcdn.net/zzestsd/tracks-v3a1/mono.m3u8
 
