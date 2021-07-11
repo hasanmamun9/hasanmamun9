@@ -11,3 +11,5 @@ http://irbtv.net/Htv/1080/index.m3u8
 http://bdristv.ddns.net:25461/live/Testbdristv/Testbdristv/995.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiMWjrEm1bIrKq86jydwnULUsSJ8OW41hLTg&usqp=CAU" group-WNN-TV="BANGLA ENT.",Wnn-Tv
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/wnn24.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://inter-asia.com.my/wp-content/uploads/2020/09/logo_interasia_vertical.png" group-title="BANGLA ENT.",Interasia Tv
+https://interasia-hls.telelivebd.com/interasia/interasia_manifest.m3u8
