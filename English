@@ -1,10 +1,8 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://moghbazar.net/wp-content/uploads/2020/12/icon-1.png" group-title="ENGLISH MOVIE.",Dhaka Live Flix
 https://live.diu.ac/hls/live/index.m3u8
-
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAv6q0j_3GdCxHOYa3jrQYXIbxSxJ9xZ61w&usqp=CAU" group-title="ENGLISH MOVIE.",Film+
 https://stream.y5.hu/stream/stream_filmp/hls0/stream.m3u8
-
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUEMn8ThJ4jjToXJnULOuT35EElCc1Bc_LFA&usqp=CAU" group-title="ENGLISH MOVIE.",Movies Now
 http://84.17.41.7/MOVIESNOW/HIN/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQoBQ_GzsvNm5yvIA9xPrEM0P6_ocYW5wxHQ&usqp=CAU" group-title="ENGLISH MOVIE.",Mnx
