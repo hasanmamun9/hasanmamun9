@@ -94,6 +94,8 @@ http://206.189.32.183/pbanglatv/1080/index.m3u8
 http://enaniptv.com/tvdhaka24live/1080/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6FJBN24udmW4Oh4sytPTq224RgBCOc6kU3w&usqp=CAU" group-MEGNA-TV="BANGLA ENT.",মেঘনা-টিভি
 http://45.125.221.114:1935/live/megnatv/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNc-GVBnVqZgauE3-Tg9AmrIdeHerNdt76BQ&usqp=CAU" group-WNN-TV="BANGLA ENT.",আন্দামান-টিভি
+http://148.72.158.28/hls/Andaman1.m3u8
 #EXTINF:0 tvg-logo="http://iptvbd.net/public/channel_logo/1623174399.png" group-CHANNEL-A="BANGLA ENT.",চ্যানেল-এ
 http://irbtv.net/atv//1080/index.m3u8
 #EXTINF:0 tvg-logo="http://iptvbd.net/public/channel_logo/1604383101.png" group-RUPANTOR-TV="BANGLA ENT.",রূপান্তর-টিভি
@@ -237,9 +239,6 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhgdJgYb6VtF7JhdvnJJHWNx7JTavDahHB9s03q=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLA ENT.",Time Tv
 https://egress-1.do-ny-3.ttv.dotworldcorp.com/hls/ttv/index.m3u8
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngM2qyoDtZQYNKbLZJsWT-VlkCna40j9hLRz1fa=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLA ENT.",Times 24 Tv
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2018/04/Funfesttv.jpg?x89970" group-WNN-TV="BANGLA ENT.",Fun-Fest
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/funfest.stream/playlist.m3u8
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/times24tv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDIxIDk6MjU6MjkgUE0maGFzaF92YWx1ZT11TDRGczhIZXNGZGdxRG9DQ2hwRWJ3PT0mdmFsaWRtaW51dGVzPTQw
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjW8g-tQCosrKVSrrHlP-SoTrzlaH_ixDg8R3N1=s900-c-k-c0x00ffffff-no-rj" group-NEWS-24="BANGLA NEWS.",নিউজ-২৪(BDIX)
 https://rhridoy136.shortcm.li/news24.m3u8
 #EXTINF:0 tvg-logo="https://i0.wp.com/shadhinota.tv/wp-content/uploads/2019/04/Independent-TV.png?fit=401%2C226&ssl=1" group-INDEPEDENT-TV="BANGLA NEWS.",ইন্ডিপেন্ডেন্ট-টিভি(BDIX)
