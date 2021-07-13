@@ -247,6 +247,8 @@ https://rhridoy136.shortcm.li/independenttv.m3u8
 https://rhridoy136.shortcm.li/channel24.m3u8
 #EXTINF:0 tvg-logo="https://helptimebd.com/wp-content/uploads/2020/06/Screenshot-2020-12-03-135529.png" group-JOMUNA-TV="BANGLA NEWS.",যমুনা-টিভি(BDIX)
 https://rhridoy136.shortcm.li/jamunatv.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYak7muLm7GMS5A2azAeEfZso2iIXTHWCkVw&usqp=CAU" group-title="CARTOON.",RONGEEN-TV
+https://d2q5mdhp3fo8sk.cloudfront.net/RONGEEN_TV.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsSCdzPP55PY5SUeQeArSsdcg6BEWo35rmog&usqp=CAU" group-title="CARTOON.",WoW Kids
 http://54.39.134.91:9090/24x7_kids_cr3/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180417/loe/kisspng-sony-yay-sony-pictures-networks-india-television-c-sony-5ad644fce01d59.956800371523991804918.jpg" group-title="CARTOON.",Sony YAY
