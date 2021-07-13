@@ -63,6 +63,8 @@ https://live.sportstv.com.tr/hls/low/sportstv_sd/index.m3u8?hash=ff9087a17e9ff7a
 http://cdn2.niazitv.pk:786/PTV-Sports/index.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS.",Geo Super
 http://221.120.204.4/geo-super-LOCKLE/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS9WCwiKwhjGfoc-BUNgBkeVkBLnssCeodoQ&usqp=CAU" group-title="SPORTS.",Ten-Cricket
+http://tv.pmcon.net/hls/stream34.m3u8
 #EXTINF:0 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png" group-title="SPORTS.",Ten Sports
 http://221.120.204.4/TEN-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbY2jWV8-1Wdheg4g8w0mI8-K-nbBhzBGnbw&usqp=CAU" group-title="SPORTS.",Bt-Sports 1
