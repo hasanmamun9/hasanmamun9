@@ -11,6 +11,8 @@ https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2843
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd04t6E6tGh_wOv4RLebUkByRh_6AVn4FZ5w&usqp=CAU" group-title="HINDI MOVIE.",B4u Movie-India
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2849
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjOkKhL3juMraGybJsMQUybdcTAUEA97v2tw&usqp=CAU" group-title="HINDI MOVIE.",And Picture
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/43625
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw4o0as1lsqvDsmY8vWo8ePizscA1QxVinFA&usqp=CAU" group-title="HINDI MOVIE.",UTV Movie
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2795
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/786161573475733505/OcKY1UGl_400x400.jpg" group-title="HINDI MOVIE.",Dabang TV
@@ -21,6 +23,8 @@ https://y5w8j4a9.ssl.hwcdn.net/ztvme//tracks-v1a1/playlist.m3u8
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/16035
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png" group-title="HINDI MOVIE.",Zing
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi_pAe0Ee3ILe4QXESD-9QjJIzFU6SLgzZ4Q&usqp=CAU" group-title="HINDI MOVIE.",Zee-Cinema
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/15883
 #EXTINF:0 tvg-logo="https://www.pikpng.com/pngl/m/48-485018_zee-cinema-hq-zee-cinema-channel-logo-clipart.png" group-title="HINDI MOVIE.",Zee  Cinema  Me
 https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/index.m3u8
 #EXTINF:0 tvg-logo="https://www.pikpng.com/pngl/m/48-485018_zee-cinema-hq-zee-cinema-channel-logo-clipart.png" group-title="HINDI MOVIE.",Zee Cinema  Usa
@@ -104,13 +108,25 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLi
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOqfMG7vJDMxIQoxaa44yN57TtvadO__Y3q64qCd-caNoiUfVnPHqNMHsK&s=10" group-title="ENGLISH MOVIE.",Zee Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqtY-gQHOh3C-b8mpUYZQ-VRIF-InYahOzEw&usqp=CAU" group-title="ENGLISH MOVIE.",Star Movies
-http://tv.progati.tv:1935/live/hotflix/star-movies-hd.stream/playlist.m3u8
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/16019
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUmqzB5XD9Xh1WaKVTJetoPPGYi4XqTJAscQ&usqp=CAU" group-title="ENGLISH MOVIE.",Star World Premier
 http://185.59.223.176:19834/ENGLISH/original/STAR_WORLD_PREMIERE_HD/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc9vujGP4MfuD5RLIDKR4B8QgBSc5xeSDT3A&usqp=CAU" group-title="ENGLISH MOVIE.",Viasat Film Action
 https://list.iptvcat.com/my_list/s/18e55e794f8860b0bc7e4cfd973791c5.m3u8
 #EXTINF:0 tvg-logo="https://www.pngfind.com/pngs/m/71-717989_1500-x-700-2-hbo-hits-hd-png.png" group-title="ENGLISH MOVIE.",HBO Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="ENGLISH MOVIE.",HBO Family
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbofamily.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdjA6bZiyA01oGuxR40RKx7I4y7xiFf-olrA&usqp=CAU" group-title="ENGLISH MOVIE.",Axn Tv
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Lifetime_tv_logo.svg/1200px-Lifetime_tv_logo.svg.png" group-title="ENGLISH MOVIE.",Life Time
+http://stream.tvtap.live:8081/live/lifetimeuk.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrEUqJ4a9soMVLY6DDEiQjwU_gMF5L1qFK6Yclijp71s31uVkIkRXOwco&s=10" group-title="ENGLISH MOVIE.",Sixx Tv
+http://stream.tvtap.live:8081/live/de-sixx.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ8wlPipCbuP5AHJFI_X0hJwmZ32oiifz4cw&usqp=CAU" group-title="ENGLISH MOVIE.",Cinema 1
+http://stream.tvtap.live:8081/live/it-premium-cinema1.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSfaRzdelKaM-utRQBP5aJt9B6u_UYimd7MA&usqp=CAU" group-title="ENGLISH MOVIE.",Sky Cinema Hits
+http://stream.tvtap.live:8081/live/it-sky-cinema-hits.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/MBC_Action_TV_Channel_Logo.png" group-title="ENGLISH MOVIE.",Pixl Movie
 https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ62hz9vzilxp6MjBqdjomEJpm60ts-Y5qIMIn9Zaf6bDhrGgwdRUhlXcdOZmwrRA87Gw&usqp=CAU" group-title="ENGLISH MOVIE.",Rakuten Movies 2
@@ -127,7 +143,7 @@ https://ammoruntime-plex.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w829907558.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/2/2c/Ietv2008logo.svg/144px-Ietv2008logo.svg.png" group-title="CARTOON.",Ch 23 החינוכית
 https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/03/images-1-1.png" group-title="CARTOON.",Discover film
+#EXTINF:0 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/03/images-1-1.png" group-title="CARTOON.",Discover Film
 https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7S3PtBMDfIeC_K5jngsK04SUCsCABVCpakg&usqp=CAU" group-title="CARTOON.",Da Vinci
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
@@ -135,9 +151,19 @@ https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 https://stadium-ringofhonor-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqW0aGN7Lk75cmmMUzpQ9UUHTMqQaksoPMrA&usqp=CAU" group-title="WRESTING",WWE 2
 http://hdhd.tk:80/angela123/angela123/9
+#EXTINF:0 tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-10/DMAX-logo-255x140.png?itok=F_cnaF3c" group-title="DISCOVERY.",Dmax
+http://stream.tvtap.live:8081/live/dmax.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3YpEWb7txi67ih_9xdLFU4p758fPg6bFuXA&usqp=CAU" group-title="DISCOVERY.",Hgtv
+http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Zee_Zest_logo.jpeg" group-title="Cooking.",Zee Zest
 https://y5w8j4a9.ssl.hwcdn.net/zzestsd/tracks-v3a1/mono.m3u8
-
-
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4umh89rg6cD1xuIq3gW4et-yaaL9jIxVxPw&usqp=CAU" group-title="SPORTS.", Mu Sports
+http://stream.tvtap.live:8081/live/mutv.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlSx3SpaHGzFjxjCVlLuOX7hDHJXXNWcqWRw&usqp=CAU" group-title="SPORTS.",Mat4 1 Sports
+https://chostv.mobie.in/choos/sports/matchqy1.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpa0Y28X7YKc3CG-k7YMPqr9eRm8HzpKk-FA&usqp=CAU" group-title="SPORTS.",Mat4 2 Sports
+https://chostv.mobie.in/choos/sports/matchqy2.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEbGREl41-hIsesDVB0ZTKa35thFAReJwmBw&usqp=CAU" group-title="SPORTS.",Dazn sports
+http://stream.tvtap.live:8081/live/it-dazn2.stream/playlist.m3u8
 
 
