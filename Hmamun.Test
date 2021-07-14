@@ -7,10 +7,18 @@ http://103.205.133.19/hls/chs.m3u8
 http://tv.pmcon.net/hls/stream38.m3u8
 #EXTINF:0 tvg-logo="https://ambujtiwari1.files.wordpress.com/2015/11/maha-movie-logo.jpg" group-title="HINDI MOVIE.",Maha Movie
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBJDwCWL_LaEgan6zA4Q-mqrDsMAEvZhYURA&usqp=CAU" group-title="HINDI MOVIE.",Now-Premier
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2843
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd04t6E6tGh_wOv4RLebUkByRh_6AVn4FZ5w&usqp=CAU" group-title="HINDI MOVIE.",B4u Movie-India
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2849
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw4o0as1lsqvDsmY8vWo8ePizscA1QxVinFA&usqp=CAU" group-title="HINDI MOVIE.",UTV Movie
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2795
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/786161573475733505/OcKY1UGl_400x400.jpg" group-title="HINDI MOVIE.",Dabang TV
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPZ5lUxAutFpkSx0w6cGPKQnkfqABHlBTghA&usqp=CAU" group-title="HINDI MOVIE.",Zee-Tv
 https://y5w8j4a9.ssl.hwcdn.net/ztvme//tracks-v1a1/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/E24_Bollywood_logo.svg/1200px-E24_Bollywood_logo.svg.png" group-title="HINDI MOVIE.",E-24
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/16035
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png" group-title="HINDI MOVIE.",Zing
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.pikpng.com/pngl/m/48-485018_zee-cinema-hq-zee-cinema-channel-logo-clipart.png" group-title="HINDI MOVIE.",Zee  Cinema  Me
@@ -35,6 +43,10 @@ http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3
 https://acv.asianetmobiletvplus.com/webstreams/ef22daf97d61acb4bf52376c4105ad02.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://cdn.doordash.com/media/restaurant/cover/DilSeIndianCuisine1201PortlandOR.png" group-title="HINDI MUSIC.",Dil Se
 https://live.hungama.com/linear/dil-se/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN1SFC2e9rUoDMMzqq_zA9IJQ8YwXtv71w41aZk7P-239Gy_oKlMBuG9k&s=10" group-title="HINDI MUSIC.",9x-Tashan
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/5899
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuJMv20SD6_ZSYOnwrqEnznVlrOLs_t0L4kw&usqp=CAU" group-title="HINDI MUSIC.",M-TV India
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2842
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlqsu2tNVKrBZoalNbbdYqmxo0zggqwxxLsg&usqp=CAU" group-title="HINDI MUSIC.",MH1
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDvMiWEMGJDqnFyeT8xrv6EHMXLC5bc4Idiw&usqp=CAU" group-title="Tamil MOVIE.",M-Tv Biggest
@@ -45,6 +57,10 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 #EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-JitJUuWTMxg/VH--1LtXqGI/AAAAAAAAAo0/FL_bgsBFjeU/s1600/CELESTIAL%2BCLASSIC%2BMOVIES%2Blogo.png"group-titile="ENGLISH MOVIE.", C Movie
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf-drgH-E0WmoCkY6LBAaWkshxuaEsST6v_g&usqp=CAU"group-titile="ENGLISH MOVIE.",MN+
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2852
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbAd7BRkvpK6TLcqYFRKE5q2NzL7sp7pZ_Mw&usqp=CAU"group-titile="ENGLISH MOVIE.",WB-Tv
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/16016
 #EXTINF:0 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/05/localnow80.png" group-title="ENGLISH MOVIE.",Local Now Movies of the  80s
 https://linear-171.frequency.stream/dist/localnow/171/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/05/locaknow90.png" group-title="ENGLISH MOVIE.",Local Now Movies of the 90s
@@ -55,10 +71,6 @@ https://linear-167.frequency.stream/dist/localnow/167/hls/master/playlist.m3u8
 https://linear-168.frequency.stream/dist/localnow/168/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/05/localnow20.png" group-title="ENGLISH MOVIE.",Local Now Movies of the  2020s
 https://linear-169.frequency.stream/dist/localnow/169/hls/master/playlist.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUEMn8ThJ4jjToXJnULOuT35EElCc1Bc_LFA&usqp=CAU" group-title="ENGLISH MOVIE.",Movies Now
-http://84.17.41.7/MOVIESNOW/HIN/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQoBQ_GzsvNm5yvIA9xPrEM0P6_ocYW5wxHQ&usqp=CAU" group-title="ENGLISH MOVIE.",Mnx
-http://84.17.41.7/MNXHD/HIN/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i2.wp.com/otantenna.com/wp-content/uploads/2020/10/Stirr.png?fit=290%2C218&ssl=1" group-title="ENGLISH MOVIE.",STIRR Horror Movies
 https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaTiLRA2QhTQQrDpfY7m-wJSLEggFESRIjKA&usqp=CAU"group-titile="ENGLISH MOVIE.",Tvn Movie
