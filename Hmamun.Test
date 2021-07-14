@@ -12,7 +12,7 @@ http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2843
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd04t6E6tGh_wOv4RLebUkByRh_6AVn4FZ5w&usqp=CAU" group-title="HINDI MOVIE.",B4u Movie-India
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2849
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjOkKhL3juMraGybJsMQUybdcTAUEA97v2tw&usqp=CAU" group-title="HINDI MOVIE.",And Picture
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/43625
+http://209.126.120.151/hls/andpicture.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw4o0as1lsqvDsmY8vWo8ePizscA1QxVinFA&usqp=CAU" group-title="HINDI MOVIE.",UTV Movie
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2795
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/786161573475733505/OcKY1UGl_400x400.jpg" group-title="HINDI MOVIE.",Dabang TV
@@ -87,6 +87,16 @@ http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLin
 https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmXDgkRevihFD0fthbSAjzEirtJwwi-dItlw&usqp=CAU" group-title="ENGLISH MOVIE.",My Movie Time
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/E8vjRqI1EiFZlqKdbeYOQV-dXG8vdSGL1TmY6FZg50m92EU4kS_EUO8HqXL90Veudxk" group-title="ENGLISH MOVIE.",Bou-Action
+http://livemano.webd.pro/iptvtest/jokertv.m3u8?id=269
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToSvS6uw_GbjTmyEHfbWFgtdhQLrEileFJEg&usqp=CAU" group-title="ENGLISH MOVIE.",HBO-Max
+http://livemano.webd.pro/iptvtest/hbo.m3u8?id=225811
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2hW7CABAhzEqgMPS4Hipg1lb3JwKb6wovww&usqp=CAU" group-title="ENGLISH MOVIE.",HBO-Go
+http://livemano.webd.pro/iptvtest/hbo.m3u8?id=225809
+#EXTINF:0 tvg-logo="https://www.pngfind.com/pngs/m/71-717989_1500-x-700-2-hbo-hits-hd-png.png" group-title="ENGLISH MOVIE.",HBO Hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="ENGLISH MOVIE.",HBO Family
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbofamily.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="ENGLISH MOVIE.",HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
 #EXTINF:0 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/flix-280-200.png" group-title="ENGLISH MOVIE.",Flix HD
@@ -113,10 +123,6 @@ http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/16019
 http://185.59.223.176:19834/ENGLISH/original/STAR_WORLD_PREMIERE_HD/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc9vujGP4MfuD5RLIDKR4B8QgBSc5xeSDT3A&usqp=CAU" group-title="ENGLISH MOVIE.",Viasat Film Action
 https://list.iptvcat.com/my_list/s/18e55e794f8860b0bc7e4cfd973791c5.m3u8
-#EXTINF:0 tvg-logo="https://www.pngfind.com/pngs/m/71-717989_1500-x-700-2-hbo-hits-hd-png.png" group-title="ENGLISH MOVIE.",HBO Hits
-https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="ENGLISH MOVIE.",HBO Family
-https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbofamily.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdjA6bZiyA01oGuxR40RKx7I4y7xiFf-olrA&usqp=CAU" group-title="ENGLISH MOVIE.",Axn Tv
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Lifetime_tv_logo.svg/1200px-Lifetime_tv_logo.svg.png" group-title="ENGLISH MOVIE.",Life Time
