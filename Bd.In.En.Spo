@@ -25,3 +25,5 @@ http://iptvtree.net:8080/live/Abaar/5c435ec5/196116.m3u8
 http://178.62.107.180/woh/index.m3u8?id=48133
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlN4GgHzMfUSxz5edyNwkDmukAcMV3IUfVlw&usqp=CAU" group-title="HINDI MOVIE.",Miniplex
 http://178.62.107.180/woh/index.m3u8?id=48158
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5uCSvArVELsMlefhTLRbb-wZVKugCHuddzg&usqp=CAU" group-title="ENGLISH MOVIE.",Star Movies Select
+http://178.62.107.180/woh/index.m3u8?id=47859
