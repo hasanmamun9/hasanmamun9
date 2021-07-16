@@ -19,3 +19,9 @@ http://103.108.140.164:1009/dhakatv/livestream/playlist.m3u8
 http://103.146.36.78:1935/live/mctv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://cabeltvapp.com/wp-content/uploads/2020/09/tt-200x200.jpg" group-title="BANGLA ENT.",চ্যানেল-টিটি ইউ কে
 https://www.cdn.streamcast.xyz:19360/channeltt/channeltt.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6U_6-dWlBYg-84eO7vX-31GzH-GK8V2JmKA&usqp=CAU" group-title="HINDI MOVIE.",And-explore
+http://iptvtree.net:8080/live/Abaar/5c435ec5/196116.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEj7DdmFdHayrvFDPL_parv-cR6_9MCLyOuQ&usqp=CAU" group-title="HINDI MOVIE.",Movies Active
+http://178.62.107.180/woh/index.m3u8?id=48133
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlN4GgHzMfUSxz5edyNwkDmukAcMV3IUfVlw&usqp=CAU" group-title="HINDI MOVIE.",Miniplex
+http://178.62.107.180/woh/index.m3u8?id=48158
