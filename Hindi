@@ -17,6 +17,8 @@ http://tamilbreak.com/jiotv/live.php?c=ABZY_Movies&q=1200&e=.m3u8
 http://tamilbreak.com/jiotv/live.php?c=ABZY_Cool&q=1200&e=.m3u8
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-P9V5thAdT9Y/YGVnMTu1g-I/AAAAAAAAyI4/q0kkD0M3oB47nJ2xHOV4z2r4FmBuhqLRQCLcBGAsYHQ/s340/Abzy_Dhakad-min.jpg" group-title="HINDI MOVIE.",Abzy Dhakad
 http://tamilbreak.com/jiotv/live.php?c=ABZY_Dhakad&q=1200&e=.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo4cdfLfq1DvEPh5ONqNKYEK7blT5eKyw1HQ&usqp=CAU" group-title="HINDI MOVIE.",Joo-Music
+https://eu-fr.tvapp.icu/joomusic/tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeOO-1UlDHtHjL7faZwRwnqGG0SE4qggTxIQ&usqp=CAU" group-title="HINDI MOVIE.",Rashi-Hindi
 http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.pngkey.com/png/detail/211-2118020_utv-action-utv-action-logo-png.png" group-title="HINDI MOVIE.",UTV-Action
