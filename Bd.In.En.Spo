@@ -1,4 +1,9 @@
+
 https://iptv10.raytahost.com/lite/channel69_hi/index.m3u8
+#EXTINF:0 tvg-logo="https://ullas.tv/assets/Untitled-3.png" group-IRN-TV="BANGLA ENT.",উল্লাস-টিভি
+https://edge1.streamingbd.com/eflix/ullastv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu72yWECnLylToPSKd6MZCZozhECXov62qpw&usqp=CAU" group-IRN-TV="BANGLA ENT.",জবস-টিভি
+https://jobsgr.raytahost.com/main/jobstv/index.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2021/06/IBN.jpeg?x22757" group-IRN-TV="BANGLA ENT.",আই বি এন-টিভি
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ibntelevision.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/05/rangiptv-1.jpg?x89970" group-RANG-TV="BANGLA ENT.",রং-টিভি
