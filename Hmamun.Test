@@ -7,14 +7,8 @@ http://103.205.133.19/hls/chs.m3u8
 http://tv.pmcon.net/hls/stream38.m3u8
 #EXTINF:0 tvg-logo="https://ambujtiwari1.files.wordpress.com/2015/11/maha-movie-logo.jpg" group-title="HINDI MOVIE.",Maha Movie
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBJDwCWL_LaEgan6zA4Q-mqrDsMAEvZhYURA&usqp=CAU" group-title="HINDI MOVIE.",Now-Premier
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2843
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd04t6E6tGh_wOv4RLebUkByRh_6AVn4FZ5w&usqp=CAU" group-title="HINDI MOVIE.",B4u Movie-India
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2849
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjOkKhL3juMraGybJsMQUybdcTAUEA97v2tw&usqp=CAU" group-title="HINDI MOVIE.",And Picture
 http://209.126.120.151/hls/andpicture.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw4o0as1lsqvDsmY8vWo8ePizscA1QxVinFA&usqp=CAU" group-title="HINDI MOVIE.",UTV Movie
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2795
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/786161573475733505/OcKY1UGl_400x400.jpg" group-title="HINDI MOVIE.",Dabang TV
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPZ5lUxAutFpkSx0w6cGPKQnkfqABHlBTghA&usqp=CAU" group-title="HINDI MOVIE.",Zee-Tv
