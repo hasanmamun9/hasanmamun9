@@ -5,7 +5,7 @@ https://stream1.playbox.co.in:1936/live1/movieopera/playlist.m3u8
 http://tv.pmcon.net/hls/stream14.m3u8
 #EXTINF:0 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/andpictures.jpg" group-title="HINDI MOVIE.",And-picture(BDIX)
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
-#EXTINF:0 tvg-logo="http://movieopera.in/wp-content/uploads/2021/07/cropped-MO-LOGO-PNG-2.png" group-title="HINDI MOVIE.",VENUS Tv
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxn3DZTzMN4dE-mtoVOudhQXuSVwJqlSxz6w&usqp=CAU" group-title="HINDI MOVIE.",Venus Tv
 http://192.248.147.22:8080/hls/mystream.m3u8
 #EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2020/03/04/Colors-Cineplex.jpg" group-title="HINDI MOVIE.",Colors Cineplex
 http://84.17.41.7:80/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
@@ -79,7 +79,7 @@ https://ilove.livebox.co.in/wowinhls/live.m3u8
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
 #EXTINF:0 tvg-logo="https://www.the-ba-group.com/wp-content/uploads/2018/03/b4u-music-logo.png" group-title="HINDI MUSIC.",B4U-Music
 http://d2n59piq1dbucf.cloudfront.net/B4U_MUSIC.m3u8
-#EXTINF:0 tvg-logo="http://movieopera.in/wp-content/uploads/2021/07/cropped-MO-LOGO-PNG-2.png" group-title="HINDI MUSIC.",Zee Music Co
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ5svak2fyYTQIUbeX8ScHB-V3XoSkctEnFA&usqp=CAU" group-title="HINDI MUSIC.",Zee Music Co
 https://y5w8j4a9.ssl.hwcdn.net/zee5_romance/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWBnfbs8fkgxeNgP1_shXZiRRcmHWKxStyqg&usqp=CAU" group-title="HINDI MUSIC.",Shemaro-Music
 https://livechannel.shemaroome.com/linearplayout/test-linear-channel/playlist_cf.m3u8
