@@ -55,8 +55,6 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 #EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-JitJUuWTMxg/VH--1LtXqGI/AAAAAAAAAo0/FL_bgsBFjeU/s1600/CELESTIAL%2BCLASSIC%2BMOVIES%2Blogo.png"group-titile="ENGLISH MOVIE.", C Movie
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf-drgH-E0WmoCkY6LBAaWkshxuaEsST6v_g&usqp=CAU"group-titile="ENGLISH MOVIE.",MN+
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2852
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbAd7BRkvpK6TLcqYFRKE5q2NzL7sp7pZ_Mw&usqp=CAU"group-titile="ENGLISH MOVIE.",WB-Tv
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/16016
 #EXTINF:0 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/05/localnow80.png" group-title="ENGLISH MOVIE.",Local Now Movies of the  80s
