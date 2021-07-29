@@ -87,8 +87,10 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nantv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/942458481017208832/CA5uGF46.jpg" group-SRISTY-TV="BANGLA MOVIE.",সৃষ্টি-টিভি
 http://tempe.jagobd.com:1932/iptv/sristytv.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://colorsiptv.com/uploads/tv_image/sristy-tv.png" group-title="BANGLA MOVIE.",Sresty Cinema-Tv
+#EXTINF:0 tvg-logo="https://colorsiptv.com/uploads/tv_image/sristy-tv.png" group-title="BANGLA MOVIE.", সৃষ্টি সিনেমা-টিভি
 http://rv.bleutv.net:80/477816014111154/477816014111154/83776
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnhPi2C_QLukfSgy1ttpD4awl-BHLJyQnkXQ&usqp=CAU" group-title="BANGLA MOVIE.",বঙ্গ মুভি-টিভি
+http://rv.bleutv.net:80/477816014111154/477816014111154/83795
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt4qV-mTTyF_KaL_eK_y8E4370sid_h_grPQ&usqp=CAU" group-P-BANGLA="BANGLA ENT.",পি বাংলা-টিভি
 http://206.189.32.183/pbanglatv/1080/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrnjmRzgpWnA-EtEv_GbYU0TwhTYKGhpRRBQ&usqp=CAU" group-TV-DHAKA="BANGLA ENT.",টিভি-ঢাকা 
