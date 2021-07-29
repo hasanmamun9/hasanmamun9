@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4BCKCpUpaqTI-ErMa3SFbnjORF7re6ZX0bg&usqp=CAU" group-B-TV="BANGLA ENT.",টিভি এসিয়া
+http://livezer0.hjkm.info:11991/vesta/tvasia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOS8yMDIxIDg6MjY6MzMgQU0maGFzaF92YWx1ZT15T3BKc1hDbWtwLzRQM0UxRjJkNjd3PT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ox7r5yfb8xadaph/btv.jpg" group-B-TV="BANGLA ENT.",বি-টিভি
 http://103.205.133.19/hls/btv.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/08/3WUFkD8.png?x94984" group-C-TV="BANGLA ENT.",সি-টিভি
