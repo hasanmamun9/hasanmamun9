@@ -119,6 +119,8 @@ https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgd
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/cmkagoj24.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://mbtvbd.com/wp-content/uploads/2021/02/Mb-tv-logo.png" group-MAGIC-BANGLA="BANGLA MOVIE.",মিউজিক বাংলা-টিভি
 http://103.108.145.94:1935/magicbangla/myStream/chunklist_w47264854.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4BCKCpUpaqTI-ErMa3SFbnjORF7re6ZX0bg&usqp=CAU" group-B-TV="BANGLA ENT.",টিভি এসিয়া
+http://livezer0.hjkm.info:11991/vesta/tvasia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOS8yMDIxIDg6MjY6MzMgQU0maGFzaF92YWx1ZT15T3BKc1hDbWtwLzRQM0UxRjJkNjd3PT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 tvg-logo="https://abohomanbangla.com/Bangladesh_web_directory/tv_image/onuvhuti-TV.png" group-ONUVHUTI-TV="BANGLA ENT.",অনুভূতি-টিভি
 http://103.56.7.130:1935/live/onuvhutitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/02/jagoronitv.jpg" group-JAGORONI-TV="BANGLA ENT.",জাগরণী-টিভি
