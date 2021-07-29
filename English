@@ -91,3 +91,7 @@ http://tamilbreak.com/jiotv/live.php?c=Colors_Infinity_HD&q=1200&e=.m3u8
 https://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9DKAbnVs54iz3Nda_Cl1d-6JGHMG4XM4cqA&usqp=CAU" group-title="ENGLISH MOVIE.",Mv-Tv
 https://edge6a.v2h-cdn.com/appt7/MVLAO.stream_720p/chunklist_w1604020811.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBVvbbtbd7BTf23VrTixv_2O0O9KdLb8nZ-Q&usqp=CAU" group-title="ENGLISH MOVIE.",NOS Studios-Tv
+http://185.236.229.21:9981/play/a054
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="ENGLISH MOVIE.",Cinemax-Tv
+https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
