@@ -33,6 +33,8 @@ https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-logo="https://www.hitstv.com/assets/logo-HITSMOVIES.png"group-titile="ENGLISH MOVIE.",Hits Movie
 http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-dQX6pTE5BhtGPsYkXpQASw0Ihv2i5651NA&usqp=CAU"group-titile="ENGLISH MOVIE.",McN-Tv
+http://210.210.129.106/uq2663/h/h90/S1/mnf.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7QiRJevINmRHY09lQZHAqpe40GwcVKpe1ug&usqp=CAU"group-titile="ENGLISH MOVIE.",Axn ind
 http://stream.tvtap.live:8081/live/es-axn.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXAfJIv8QVWRgKbHWmqjKqBFx3YMHM5S_B_g&usqp=CAU" group-title="ENGLISH MOVIE.",HBO
@@ -87,3 +89,5 @@ http://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2.m3u8
 http://tamilbreak.com/jiotv/live.php?c=Colors_Infinity_HD&q=1200&e=.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4P5Bhy7apswZuZTu1K0FQRfVeUdt3ZiDerQ&usqp=CAU" group-title="ENGLISH MOVIE.",Fx Tv
 https://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9DKAbnVs54iz3Nda_Cl1d-6JGHMG4XM4cqA&usqp=CAU" group-title="ENGLISH MOVIE.",Mv-Tv
+https://edge6a.v2h-cdn.com/appt7/MVLAO.stream_720p/chunklist_w1604020811.m3u8
