@@ -51,6 +51,8 @@ http://tv.aliflailabd.com:8989/gazi-tv/index.m3u8
 http://103.205.133.19/hls/asiantv.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ec/a7/20/eca720aa9f51dceffb8145020e9aaa47.jpg" group-NAGORIK-TV="BANGLA ENT.",নাগরিক-টিভি
 http://103.205.133.19/hls/nagorik.m3u8
+#EXTINF:0 tvg-logo="https://biswastv.com/uploads/tv_image/sm/biswas-tv.jpg" group-NAGORIK-TV="BANGLA ENT.",বিশ্বাস-টিভি
+https://biswastv-hls.telelivebd.com/Biswas/Biswas_manifest.m3u8
 #EXTINF:0 tvg-logo="http://m.android.lyngsat-stream.com/logo/tv/cc/channel-metro-bd.png" group-Cmmetro-TV="BANGLA ENT.",সিএম-মেট্রো
 https://vsd137.mycdn.me/hls/1104584051332.m3u8/sig/osh5V9C--3g/expires/1627082765563/srcIp/58.145.187.252/clientType/0/srcAg/CHROME_ANDROID/mid/2404474953348/video.m3u8?p
 #EXTINF:0 tvg-logo="http://bdiptv.stream/uploads/tv_image/progoti-tv.jpg" group-PROGOTI-TV="BANGLA MOVIE.",প্রগতি-টিভি
