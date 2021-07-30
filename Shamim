@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ox7r5yfb8xadaph/btv.jpg" group-B-TV="BANGLA ENT.",বি-টিভি
-http://livezer0.hjkm.info:11991/vesta/btv/chunks.m3u8?nimblesessionid=1681335&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIxIDI6MDg6NDkgQU0maGFzaF92YWx1ZT1wNWxjU2RjVzRMdThob0JmM0pKd3JBPT0mdmFsaWRtaW51dGVzPTI=
+http://103.43.148.202:1931/iptv/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/08/3WUFkD8.png?x94984" group-C-TV="BANGLA ENT.",সি-টিভি
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/atn-bangla1.jpg?x94984" group-ATN-BANGLA="BANGLA ENT.",এ টি এন-বাংলা(BDIX)
@@ -250,6 +250,8 @@ http://iptvbd.jagobd.com:1931/boishakhi/channel24-sg-e8e.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/boishakhi/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://abohomanbangla.com/Bangladesh_web_directory/tv_image/duronto%20tv.jpg" group-title="CARTOON.",Duronto-Tv
 http://103.157.237.18:8000/play/132
+#EXTINF:0 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/bsy/iportal/images/Bangla-Talkies.png" group-title="CARTOON.",Bangla Hitz
+http://103.157.237.18:8000/play/211
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYak7muLm7GMS5A2azAeEfZso2iIXTHWCkVw&usqp=CAU" group-title="CARTOON.",RONGEEN-TV
 https://d2q5mdhp3fo8sk.cloudfront.net/RONGEEN_TV.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsSCdzPP55PY5SUeQeArSsdcg6BEWo35rmog&usqp=CAU" group-title="CARTOON.",WoW Kids
@@ -277,7 +279,7 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
 #EXTINF:0 tvg-logo="https://www.pngkey.com/png/detail/134-1341595_discovery-channel-transparent-discovery-channel-logo.png" group-title="DISCOVERY.",Discovery
 http://103.109.56.116/live/skyfeed1015/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnBR8iAkRJCHUMqLqjCt8AFWXMthQ3lYXIsw&usqp=CAU" group-title="DISCOVERY.", History
-http://89.17.204.38/ch42/index.m3u8
+http://31.220.41.88:8081/live/us-history.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL_akXiopEmiVTcnQ3c4eiYqAOW92hdRWNDw&usqp=CAU" group-title="DISCOVERY.", History-2
 http://89.17.204.38/ch43/index.m3u8
 #EXTINF:0 tvg-logo="https://img.favpng.com/12/20/21/logo-nat-geo-wild-national-geographic-television-channel-png-favpng-X5cTr0eRJi2b96GK1s1x1nBAK.jpg" group-title="GEOGRAPHIC.",Nat-Wild
@@ -334,6 +336,8 @@ http://tv.pmcon.net/hls/stream14.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxn3DZTzMN4dE-mtoVOudhQXuSVwJqlSxz6w&usqp=CAU" group-title="HINDI MOVIE.",Venus Tv
 http://192.248.147.22:8080/hls/mystream.m3u8
+#EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2020/03/04/Colors-Cineplex.jpg" group-title="HINDI MOVIE.",Colors Cineplex Bollywood
+http://103.157.237.18:8000/play/343
 #EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2020/03/04/Colors-Cineplex.jpg" group-title="HINDI MOVIE.",Colors Cineplex
 http://84.17.41.7:80/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://etimg.etb2bimg.com/photo/76192361.cms" group-title="HINDI MOVIE.",Rishtey Cineplex
@@ -372,8 +376,8 @@ https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
 #EXTINF:0 tvg-logo="http://thekolkatamail.com/wp-content/uploads/2021/04/09zeeanmolcinemazeeanmolci.png" group-title="HINDI MOVIE.",Zee-Anmol Cinema(BDIX)
 https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShK9PEo38vfVqJghGVL9DtLRTX83zPF9KkRQ&usqp=CAU" group-title="HINDI MOVIE.",Zee-World
-https://y5w8j4a9.ssl.hwcdn.net/world/tracks-v1a1/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkhdEXQmpf2R4RCXuPaxzrHyaDABeXtpgJEw&usqp=CAU" group-title="HINDI MOVIE.",Zee-Classic
+http://103.157.237.18:8000/play/324
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBJDwCWL_LaEgan6zA4Q-mqrDsMAEvZhYURA&usqp=CAU" group-title="HINDI MOVIE.",Now-Premier
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2843
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw4o0as1lsqvDsmY8vWo8ePizscA1QxVinFA&usqp=CAU" group-title="HINDI MOVIE.",UTV Movie
@@ -454,6 +458,8 @@ https://stream.y5.hu/stream/stream_filmp/hls0/stream.m3u8
 http://84.17.41.7/MOVIESNOW/HIN/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQoBQ_GzsvNm5yvIA9xPrEM0P6_ocYW5wxHQ&usqp=CAU" group-title="ENGLISH MOVIE.",Mnx
 http://84.17.41.7/MNXHD/HIN/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfhhDF0uHUTSyXNLLKtQ7zZ0PnqJM-PEVsC12pgkrQme5a8s6afSxQIkX&s=10" group-title="ENGLISH MOVIE.",Romedy Now
+http://103.153.39.34:8000/play/a052/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf-drgH-E0WmoCkY6LBAaWkshxuaEsST6v_g&usqp=CAU"group-titile="ENGLISH MOVIE.",MN+
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2852
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv83wyglG_3gJb6pB1cGbuKVpbUF1Fx54CCA&usqp=CAU" group-title="ENGLISH MOVIE.",Hollywood Movies
@@ -522,10 +528,8 @@ http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfeb961b411c00090b52b3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuJpz0Kdrv63FJgI0iUOGSPi1S7W1nKWTQpA&usqp=CAU" group-title="ENGLISH MOVIE.",Pluto TV Action 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzxOGwukgGmt3qJ-tYyOSnVXK3WUAzr5XVDw&usqp=CAU" group-title="ENGLISH MOVIE.",Ept-Tv
-http://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC9_iNVLY5LiyftN_XFyYRA31XZTWwX8-Apg&usqp=CAU" group-title="HINDI MOVIE.",Colors Infinity
-http://tamilbreak.com/jiotv/live.php?c=Colors_Infinity_HD&q=1200&e=.m3u8
+http://103.157.237.18:8000/play/721
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4P5Bhy7apswZuZTu1K0FQRfVeUdt3ZiDerQ&usqp=CAU" group-title="ENGLISH MOVIE.",Fx Tv
 https://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSZbiQAAjiVaqQvljUKT7MT8C6b-8DDxJDaA&usqp=CAU" group-title="SPORTS.",Astro SuperSport 1
@@ -623,7 +627,7 @@ http://tv.pmcon.net/hls/stream16.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXlFH_3cl5BIpBGygw1ATyzk1j5NgFtrDpKg&usqp=CAU" group-title="SPORTS.",Star Sports S 1
 http://tv.pmcon.net/hls/stream12.m3u8
 #EXTINF:0 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Sports-select-2.jpg" group-title="SPORTS.",Star Sports S 2
-http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8
+http://103.109.56.116/live/skyfeed1024/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFdwEgf7Ef_A8t5mQHi28esDglHspqLd7sQ&usqp=CAU" group-title="SPORTS.",ESPN
 http://mygoodstream.pw/proxy.php/http://134.19.182.131:8080/edg8_2.m3u8
 #EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-2.png" group-title="SPORTS.",TNT Sports 2
