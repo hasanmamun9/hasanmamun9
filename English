@@ -3,8 +3,6 @@
 http://ar148ferrari.referrari.com/live/601365_.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTapLOqE5VEsFZaG7T3jQWZAnO-A6VTFEuvcw&usqp=CAU" group-AM="ENGLISH MOVIE.",HALOW MOVIES 
 http://echotv.online:8080/live/HalowTV/FSyzHfEhvb/138.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdlgPMTyvitDts50AfZNpDyGhCMvZNljXnHQ&usqp=CAU" group-AM="ENGLISH MOVIE.",Family Flix
-https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="https://moghbazar.net/wp-content/uploads/2020/12/icon-1.png" group-title="ENGLISH MOVIE.",Dhaka Live Flix
 https://live.diu.ac/hls/live/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAv6q0j_3GdCxHOYa3jrQYXIbxSxJ9xZ61w&usqp=CAU" group-title="ENGLISH MOVIE.",Film+
@@ -27,8 +25,6 @@ http://stream.tvtap.net:8081/live/us-syfy.stream/playlist.m3u8
 https://is.gd/ObFrpt
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkRTbSjI9jTxkUl2FEf2lK8QHLUoA9VbezwA&usqp=CAU"group-titile="ENGLISH MOVIE.",Fox Action Movie
 http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFDmKg4Yh56JtwV3D0J_2cNMl57wNlXkMfIw&usqp=CAU" group-title="ENGLISH MOVIE.",Fox Family Movies(BDIX)
-https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsRU7FJa23gIFQPO-KHLv7pCixt5RN4HRtxA&usqp=CAU" group-title="ENGLISH MOVIE.",FOX Movies
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-logo="https://www.hitstv.com/assets/logo-HITSMOVIES.png"group-titile="ENGLISH MOVIE.",Hits Movie
@@ -61,8 +57,6 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 http://84.17.41.7/StarMoviesHD-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Ms2ibMOEXrS9e4ey8X0gm2tM8-f6AG5ELw&usqp=CAU" group-title="ENGLISH MOVIE.",Star Movies
 http://tv.pmcon.net/hls/stream3.m3u8
-#EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",My Cinema Europe
-http://210.210.155.35/session/bc0a1e22-773f-11eb-ab01-a3d7ba48b0db/uq2663/h/h18/02.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFqM8jN9p0nGf9rsiyZeMpYzJVLCkhtyKXFA&usqp=CAU" group-title="ENGLISH MOVIE.",Nova Cinema
 http://nova-live.ssl.cdn.cra.cz/channels/nova-cinema/playlist/cze/live_fullhd.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJZwUK4diQlwFBoITgmUiG2_icXV5JB2qpkw&usqp=CAU" group-title="ENGLISH MOVIE.", Nova Action
@@ -89,9 +83,13 @@ https://edge6a.v2h-cdn.com/appt7/MVLAO.stream_720p/chunklist_w1604020811.m3u8
 http://185.236.229.21:9981/play/a054
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="ENGLISH MOVIE.",Cinemax-Tv
 https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdlgPMTyvitDts50AfZNpDyGhCMvZNljXnHQ&usqp=CAU" group-AM="ENGLISH MOVIE.",Family Flix
+https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/FILMBOX_HD.png" group-title="ENGLISH MOVIE.",Film Box Tv
 http://213.151.233.20:8000/dna-6110-tv-pc/hls/4005v105.m3u8
 #EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",My Cinema Europe
 http://210.210.155.35/session/bc0a1e22-773f-11eb-ab01-a3d7ba48b0db/uq2663/h/h18/02.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzxOGwukgGmt3qJ-tYyOSnVXK3WUAzr5XVDw&usqp=CAU" group-title="ENGLISH MOVIE.",Ept-Tv
 http://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFDmKg4Yh56JtwV3D0J_2cNMl57wNlXkMfIw&usqp=CAU" group-title="ENGLISH MOVIE.",Fox Family Movies(BDIX)
+https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
