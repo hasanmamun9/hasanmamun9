@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ox7r5yfb8xadaph/btv.jpg" group-B-TV="BANGLA ENT.",বি-টিভি
-http://livezer0.hjkm.info:11991/vesta/btv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOS8yMDIxIDg6NDU6NTUgQU0maGFzaF92YWx1ZT0rWXhYU2ptQ05jb290ZFRzTFIxMW9RPT0mdmFsaWRtaW51dGVzPTI=
+http://livezer0.hjkm.info:11991/vesta/btv/chunks.m3u8?nimblesessionid=1681335&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIxIDI6MDg6NDkgQU0maGFzaF92YWx1ZT1wNWxjU2RjVzRMdThob0JmM0pKd3JBPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/08/3WUFkD8.png?x94984" group-C-TV="BANGLA ENT.",সি-টিভি
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/atn-bangla1.jpg?x94984" group-ATN-BANGLA="BANGLA ENT.",এ টি এন-বাংলা(BDIX)
@@ -16,7 +16,7 @@ http://103.205.133.19/hls/ntv.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/ntveurope.jpg?x15351" group-N-TV UK="BANGLA ENT.",এন-টিভি ইউ কে
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjEgMToxMjo1NSBQTSZoYXNoX3ZhbHVlPWJZOHI2WjlVWjdtYmxZYTE0bWFxUnc9PSZ2YWxpZG1pbnV0ZXM9NDA=
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/R/r-tv-logo-40D288E794-seeklogo.com.png" group-R-TV="BANGLA ENT.",আর-টিভি(BDIX)
-https://rhridoy136.shortcm.li/rtv.m3u8
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIxIDE6MzE6MTIgQU0maGFzaF92YWx1ZT00eG1UU0FSYlQ4S082UEZWb3g4di9BPT0mdmFsaWRtaW51dGVzPTQw
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/54/71/a9/5471a9eae3b9884242e74e0a33a04445.png" group-BANGLA-VISION="BANGLA ENT.",বাংলাভিশন-টিভি
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-sLjSbwUg5Bg/W6K8oDZhqkI/AAAAAAAAAPc/NLaA9mC7ewkQ1m4NUrvDOfQiZ0NbSzRRgCLcBGAs/s1600/maasranga-tv-live.png" group-MACH-RANGA="BANGLA ENT.",মাছরাঙা-টিভি
@@ -326,6 +326,8 @@ http://stream.tvtap.live:8081/live/wwe.stream/chunks.m3u8
 https://stream1.playbox.co.in:1936/live1/movieopera/playlist.m3u8
 #EXTINF:0 tvg-logo="https://d1p9fevdiihrnk.cloudfront.net/uploads/channel/logo/m_classic_logo.png" group-title="HINDI MOVIE.",MO CLASSIC
 https://d3cg98dbjyu3j4.cloudfront.net/MOCLASSIC.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI0Lma4ArKeu1LIwmnBYMSXNRzYYS_XSazJA&usqp=CAU" group-title="HINDI MOVIE.",& Xploer
+http://103.157.237.18:8000/play/331
 #EXTINF:0 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/andpictures-hd.jpg" group-title="HINDI MOVIE.",& Pictures Hd
 http://tv.pmcon.net/hls/stream14.m3u8
 #EXTINF:0 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/andpictures.jpg" group-title="HINDI MOVIE.",And-picture(BDIX)
@@ -615,11 +617,11 @@ http://tamilbreak.com/jiotv/live.php?c=Sony_Six_SD&q=800&e=.m3u8
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_1.png" group-title="SPORTS.",Arena Sports 1
 http://stream.tvtap.live:8081/live/arena1.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfsFCVHffnNjsqYtyMP10_e2i_hKikQ2JYswj51osv9kICEWd960REDHImHrcZD1l69g&usqp=CAU" group-title="SPORTS.",Star Sports 1
-http://209.126.120.151/hls/chss1.m3u8
+http://tv.pmcon.net/hls/stream15.m3u8
 #EXTINF:0 tvg-logo="https://banner2.cleanpng.com/20180611/ivp/kisspng-star-sports-star-india-television-channel-sony-ten-sportstv-5b1ed6839505d4.2492886615287476516104.jpg" group-title="SPORTS.",Star Sports 2
-http://209.126.120.151/hls/chss2.m3u8
+http://tv.pmcon.net/hls/stream16.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXlFH_3cl5BIpBGygw1ATyzk1j5NgFtrDpKg&usqp=CAU" group-title="SPORTS.",Star Sports S 1
-http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8
+http://tv.pmcon.net/hls/stream12.m3u8
 #EXTINF:0 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Sports-select-2.jpg" group-title="SPORTS.",Star Sports S 2
 http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFdwEgf7Ef_A8t5mQHi28esDglHspqLd7sQ&usqp=CAU" group-title="SPORTS.",ESPN
