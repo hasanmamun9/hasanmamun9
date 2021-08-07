@@ -325,7 +325,7 @@ https://stream1.playbox.co.in:1936/live1/movieopera/playlist.m3u8
 #EXTINF:0 tvg-logo="https://d1p9fevdiihrnk.cloudfront.net/uploads/channel/logo/m_classic_logo.png" group-title="HINDI MOVIE.",MO CLASSIC
 https://d3cg98dbjyu3j4.cloudfront.net/MOCLASSIC.m3u8
 #EXTINF:0 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/andpictures-hd.jpg" group-title="HINDI MOVIE.",& Pictures Hd
-https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v1a1/index.m3u8
+https://globalsystems.one:443/Master/Master/3046828
 #EXTINF:0 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/andpictures.jpg" group-title="HINDI MOVIE.",And-picture(BDIX)
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxn3DZTzMN4dE-mtoVOudhQXuSVwJqlSxz6w&usqp=CAU" group-title="HINDI MOVIE.",Venus Tv
@@ -366,10 +366,14 @@ https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2843
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw4o0as1lsqvDsmY8vWo8ePizscA1QxVinFA&usqp=CAU" group-title="HINDI MOVIE.",UTV Movie
 http://84.17.41.7/UTVMOVIES-Hin/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3P1x6WgDzInpCt466pWaJFtzi06U73oz2Ig&usqp=CAU" group-title="HINDI MOVIE.",BBO
+https://globalsystems.one:443/Master/Master/3046875
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd04t6E6tGh_wOv4RLebUkByRh_6AVn4FZ5w&usqp=CAU" group-title="HINDI MOVIE.",B4u Movie-India
 http://103.205.133.19/hls/b4umovies.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSh_RMlaykeWMp0XUX4Euk2k25dqpQOcrosg&usqp=CAU" group-title="HINDI MOVIE.",B4U-Movie
 http://jupiter.bdcabletv.com/b4u_mov-pak/video.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9N9phX7GkpqKbHWSoRrVjIO7T-Y_u6zUKg&usqp=CAU" group-title="HINDI MOVIE.",B4U AFLAM
+https://globalsystems.one:443/Master/Master/3046883
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest/scale-to-width-down/340?cb=20200320100818" group-title="HINDI MOVIE.",B4U-Kadak(BDIX)
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:0 tvg-logo="https://dreamdth.com/wp-content/uploads/2020/07/Enterr10-Movies-1024x1024.jpg" group-title="HINDI MOVIE.",Enter-10
