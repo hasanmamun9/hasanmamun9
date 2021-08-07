@@ -40,7 +40,7 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-eNSpXch0hao/V-ufoyUYamI/AAAAAAAAEo0/sNkPUBcgoh85PcTAtKMnBo3ESBdVkZITACLcB/s1600/boishakhi-tv.jpg" group-BOISHAKHI-TV="BANGLA ENT.",বৈশাখী-টিভি(BDIX)
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/12/boishakhitvplus.jpeg" group-BOISHAKHI-PLUS="BANGLA ENT.",বৈশাখী-প্লাস
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhiplus.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/boishakhi/boishakhiplus.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/amp_metadata_content_image_min_696px_wide/public/feature/images/mohona-tv-bangladesh-logo.jpg?itok=gvWuUUEB" group-MOHONA-TV="BANGLA MOVIE.",মোহনা-টিভি(BDIX)
 https://rhridoy136.shortcm.li/mohonatv.m3u8
 #EXTINF:0 tvg-logo="https://tv.bdtype.com/uploads/tv_image/desh-tv.png" group-DESH-TV="BANGLA ENT.",দেশ-টিভি
@@ -322,9 +322,6 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8?@ShamimHossainOfficial
 http://185.105.4.106:1935/live/Bahrain%20International/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",WWE-Wrestling
 http://stream.tvtap.live:8081/live/wwe.stream/chunks.m3u8
-
-
-
 #EXTINF:0 tvg-logo="http://movieopera.in/wp-content/uploads/2021/07/cropped-MO-LOGO-PNG-2.png" group-title="HINDI MOVIE.",Movie-Opera
 https://stream1.playbox.co.in:1936/live1/movieopera/playlist.m3u8
 #EXTINF:0 tvg-logo="https://d1p9fevdiihrnk.cloudfront.net/uploads/channel/logo/m_classic_logo.png" group-title="HINDI MOVIE.",MO CLASSIC
@@ -425,4 +422,84 @@ https://d2my7pmu7z3zc5.cloudfront.net/KHUSBOO_TV.m3u8
 http://d1bf3b042hkby5.cloudfront.net/AAMAR_CINEMA.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9wWnfpmVolE-uqI9d8VfK24P2-UXktt3NEA&usqp=CAU" group-AMAR-BANGLA="HINDI MOVIE.",আমার-বাংলা
 http://stream1.livebox.co.in/kbcreationhls/live.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTapLOqE5VEsFZaG7T3jQWZAnO-A6VTFEuvcw&usqp=CAU" group-AM="ENGLISH MOVIE.",HALOW MOVIES 
+http://echotv.online:8080/live/HalowTV/FSyzHfEhvb/138.m3u8
+#EXTINF:0 tvg-logo="https://moghbazar.net/wp-content/uploads/2020/12/icon-1.png" group-title="ENGLISH MOVIE.",Dhaka Live Flix
+https://live.diu.ac/hls/live/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAv6q0j_3GdCxHOYa3jrQYXIbxSxJ9xZ61w&usqp=CAU" group-title="ENGLISH MOVIE.",Film+
+https://stream.y5.hu/stream/stream_filmp/hls0/stream.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUEMn8ThJ4jjToXJnULOuT35EElCc1Bc_LFA&usqp=CAU" group-title="ENGLISH MOVIE.",Movies Now
+http://103.153.39.34:8000/play/a050/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQoBQ_GzsvNm5yvIA9xPrEM0P6_ocYW5wxHQ&usqp=CAU" group-title="ENGLISH MOVIE.",Mnx
+http://84.17.41.7/MNXHD/HIN/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf-drgH-E0WmoCkY6LBAaWkshxuaEsST6v_g&usqp=CAU"group-titile="ENGLISH MOVIE.",MN+
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2852
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv83wyglG_3gJb6pB1cGbuKVpbUF1Fx54CCA&usqp=CAU" group-title="ENGLISH MOVIE.",Hollywood Movies
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:0 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072011/logo__slogan.ai_.png?itok=8W0eAesx"group-titile="ENGLISH MOVIE.",CCM CLASSIC
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxWeF2cL3J6gslWAZ-4SAGKbQcUmZvrmL5Ew&usqp=CAU"group-titile="ENGLISH MOVIE.",Sci-Fi
+http://mfe.cliptv.az/dash/Sony_Sci_Fi_SD.ism/playlist.mpd?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjRzY0Wk0fqdJXcy8VeJbi2gPFZ8WIDRp-TA&usqp=CAU" group-title="ENGLISH MOVIE.",Syfy Tv
+http://stream.tvtap.net:8081/live/us-syfy.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://thumbnail.imgbin.com/22/13/24/imgbin-logo-sony-six-television-channel-sony-ten-sony-entertainment-television-kri8it-defining-digital-Acybc4HApnRxU3ck2ifyc7cAz_t.jpg" group-title="ENGLISH MOVIE.",Sony Pix
+https://globalsystems.one:443/Master/Master/3046861
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsRU7FJa23gIFQPO-KHLv7pCixt5RN4HRtxA&usqp=CAU" group-title="ENGLISH MOVIE.",FOX Movies
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-dQX6pTE5BhtGPsYkXpQASw0Ihv2i5651NA&usqp=CAU"group-titile="ENGLISH MOVIE.",McN-Tv
+http://210.210.129.106/uq2663/h/h90/S1/mnf.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7QiRJevINmRHY09lQZHAqpe40GwcVKpe1ug&usqp=CAU"group-titile="ENGLISH MOVIE.",Axn ind
+http://stream.tvtap.live:8081/live/es-axn.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXAfJIv8QVWRgKbHWmqjKqBFx3YMHM5S_B_g&usqp=CAU" group-title="ENGLISH MOVIE.",HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/1.m3u8?token=Zalogi
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSfsmZmdJzTjKITB6z_LYWszqdOvtmo-8cEQ&usqp=CAU" group-title="ENGLISH MOVIE.",MÁS+TV
+https://593b04c4c5670.streamlock.net/8008/8008/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="ENGLISH MOVIE.",WarnerTV 
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mbc-2.png" group-title="ENGLISH MOVIE.",MBC 2 HD
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8?@amarnettv.live
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/MBC_Max_TV_Channel_Logo.png" group-title="ENGLISH MOVIE.",Mbc Max
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ19Aj6vbd4QnyAZY-TqVYYL8-VqDBJRBv09w&usqp=CAU" group-title="ENGLISH MOVIE.",Cinema Action
+http://stream.tvtap.net:8081/live/us-cinemaxaction.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJqWVM1CH74-gjOS_Skbliiptqp25GiJ1Ezw&usqp=CAU" group-title="ENGLISH MOVIE.",Tring Action Movie 1
+http://93.157.62.180/TringAction/index.m3u8
+#EXTINF:0 tvg-logo="https://content3.jdmagicbox.com/comp/delhi/x9/011pxx11.xx11.120330141100.y8x9/catalogue/netmax-karol-bagh-delhi-internet-service-providers-q8s44h2399-250.jpg" group-title="ENGLISH MOVIE.",NETMAX TV
+http://live.netmaxtv.com:8080/live/live/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Ms2ibMOEXrS9e4ey8X0gm2tM8-f6AG5ELw&usqp=CAU" group-title="ENGLISH MOVIE.",Star Movies Hd
+http://84.17.41.7/StarMoviesHD-Hin/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Ms2ibMOEXrS9e4ey8X0gm2tM8-f6AG5ELw&usqp=CAU" group-title="ENGLISH MOVIE.",Star Movies
+http://tv.pmcon.net/hls/stream3.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFqM8jN9p0nGf9rsiyZeMpYzJVLCkhtyKXFA&usqp=CAU" group-title="ENGLISH MOVIE.",Nova Cinema
+http://nova-live.ssl.cdn.cra.cz/channels/nova-cinema/playlist/cze/live_fullhd.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJZwUK4diQlwFBoITgmUiG2_icXV5JB2qpkw&usqp=CAU" group-title="ENGLISH MOVIE.", Nova Action
+https://nova-live.ssl.cdn.cra.cz/channels/nova_action_avod/playlist/cze/live_xq.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHcm18LpNI59GtKv1hPF7rs4UBxNj2Z2Vjzg&usqp=CAU" group-title="ENGLISH MOVIE.",Amc Tv
+http://stream.tvtap.live:8081/live/us-amc.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlxC8b9KgPmJbIbGQpQTe0Kqf0AYgacCMRg&usqp=CAU" group-title="ENGLISH MOVIE.",AMC IFC Film Picks
+https://amc-ifc-films-picks-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPqALOzmMWqHoFZj9rSiXB9rzbOwPZ5z1jqg&usqp=CAU" group-title="ENGLISH MOVIE.", Movie Tv 24/7
+https://m3u-editor.com/serve/a5871540-d9ba-11eb-89bc-3be21464c6be/328171608
+#EXTINF:0 tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8wXzE1MzE1NDE5NTRfMDc4/screen-0.jpg?fakeurl=1&type=.jpg" group-title="ENGLISH MOVIE.",Rasi Hollywood
+http://singamcloud.in:1935/rasinetwork/rasitv/chunklist_w1567602428.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTIzzBZlYRBk54w_8emU93y71OpVMYuV2LBA&usqp=CAU" group-title="ENGLISH MOVIE.",Pluto TV Action 1
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfeb961b411c00090b52b3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuJpz0Kdrv63FJgI0iUOGSPi1S7W1nKWTQpA&usqp=CAU" group-title="ENGLISH MOVIE.",Pluto TV Action 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjiT7HwkS3gJqTlA7QGqzt5iBFP495cCb3Vg&usqp=CAU" group-title="HINDI MOVIE.",UTV
+http://103.157.237.18:8000/play/314
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4P5Bhy7apswZuZTu1K0FQRfVeUdt3ZiDerQ&usqp=CAU" group-title="ENGLISH MOVIE.",Fx Tv
+https://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9DKAbnVs54iz3Nda_Cl1d-6JGHMG4XM4cqA&usqp=CAU" group-title="ENGLISH MOVIE.",Mv-Tv
+https://edge6a.v2h-cdn.com/appt7/MVLAO.stream_720p/chunklist_w1604020811.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBVvbbtbd7BTf23VrTixv_2O0O9KdLb8nZ-Q&usqp=CAU" group-title="ENGLISH MOVIE.",NOS Studios-Tv
+http://185.236.229.21:9981/play/a054
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="ENGLISH MOVIE.",Cinemax-Tv
+https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdlgPMTyvitDts50AfZNpDyGhCMvZNljXnHQ&usqp=CAU" group-AM="ENGLISH MOVIE.",Family Flix
+https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",My Cinema Europe
+http://210.210.155.35/session/bc0a1e22-773f-11eb-ab01-a3d7ba48b0db/uq2663/h/h18/02.m3u8
+
+
 
