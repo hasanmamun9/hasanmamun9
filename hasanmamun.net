@@ -445,7 +445,7 @@ http://103.153.39.34:8000/play/a050/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-k58hl1dvx12R_Luv6bwp_lM_dW1UjlGyYQ&usqp=CAU" group-title="ENGLISH MOVIE.",Nmx-Tv
 http://203.80.191.3:8089/nimble_live/mnx/chunks.m3u8?nimblesessionid=2601217
 #EXTINF:0 tvg-logo="https://media.elcinema.com/tvguide/1323_1.png" group-title="ENGLISH MOVIE.",beIN Movie 2
-http://203.80.191.3:8089/load/starwarsmovies/chunks.m3u8?nimblesessionid=2601514
+http://203.80.191.3:8089/load/starwarsmovies/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv83wyglG_3gJb6pB1cGbuKVpbUF1Fx54CCA&usqp=CAU" group-title="ENGLISH MOVIE.",Hollywood Movies
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:0 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072011/logo__slogan.ai_.png?itok=8W0eAesx"group-titile="ENGLISH MOVIE.",CCM CLASSIC
