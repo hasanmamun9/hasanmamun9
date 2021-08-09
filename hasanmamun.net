@@ -270,8 +270,6 @@ https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m
 https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiZKjZjHBvcsSsdJTpKbCBLsR8XELtE-3JhQ&usqp=CAU" group-title="FISHING.",Wired 2-Fish
 https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGjCpz_iupzX1RkFVgULTkG5FYmrTWsSAOsg&usqp=CAU" group-title="COOKING.",Mat-Tv
-http://89.17.204.38/ch39/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="COOKING.",Afn-Tv(BDIX)
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT12vYSBzuvj15hv3zSuG64ytO9LeI23fYxwMfDRu9LW-JEQEVtGtQmbZJy&s=10" group-title="COOKING.",Hum Masala-Tv
@@ -466,6 +464,10 @@ http://210.210.129.106/uq2663/h/h90/S1/mnf.m3u8
 http://stream.tvtap.live:8081/live/es-axn.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXAfJIv8QVWRgKbHWmqjKqBFx3YMHM5S_B_g&usqp=CAU" group-title="ENGLISH MOVIE.",HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/1.m3u8?token=Zalogi
+#EXTINF:0 tvg-logo="https://www.pngjoy.com/pngm/850/10033240_hbo-red-by-hbo-hd-png-download.png" group-title="ENGLISH MOVIE.",Amedia Hit HBO
+http://188.113.190.12/140/video.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0SgZ2tbX11MrgB1a9-oOsCY49ulDr3Pv7wQ&usqp=CAU" group-title="ENGLISH MOVIE.", Film tv
+https://a.jsrdn.com/broadcast/7ef91d3d7a/+0000/c.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSfsmZmdJzTjKITB6z_LYWszqdOvtmo-8cEQ&usqp=CAU" group-title="ENGLISH MOVIE.",MÁS+TV
 https://593b04c4c5670.streamlock.net/8008/8008/playlist.m3u8
 #EXTINF:0 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/FILMBOX_HD.png" group-title="ENGLISH MOVIE.",Film Box Tv
@@ -610,6 +612,8 @@ http://tvflix02.ddns.net/SPORTS__STAR_SPORTS_SELECT_1_HD/index.m3u8
 http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFdwEgf7Ef_A8t5mQHi28esDglHspqLd7sQ&usqp=CAU" group-title="SPORTS.",ESPN
 http://mygoodstream.pw/proxy.php/http://134.19.182.131:8080/edg8_2.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTLP0HTu1FKsBXKuKJ81_6qTk24XN98llLow&usqp=CAU" group-title="SPORTS.",MAT4-Sports
+https://95-213-224-173.livesports24.online/ooomatch.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZPSJOxMtaD5Mb6leNGG4sqQXm2BKtGHryCQ&usqp=CAU" group-title="SPORTS.",T-Sports
 http://173.199.120.51/hls/tsports.m3u8
 #EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-2.png" group-title="SPORTS.",TNT Sports 2
@@ -622,6 +626,8 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 http://str24.l9574.com/517.stream/index.m3u8
 #EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/793/877/png-clipart-red-bull-gmbh-logo-energy-drink-brand-red-bull-company-text.png" group-title="DOCUMENTARY.",Red Bull Tv
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcKPFeFCT0OYzI0siZ86XxhodwiU982qaQRQ&usqp=CAU" group-title="DOCUMENTARY.",HgTv
+http://mygoodstream.pw/proxy.php/http://31.220.41.88:8081/live/us-hgtv.stream/playlist.m3u8
 
 
 
