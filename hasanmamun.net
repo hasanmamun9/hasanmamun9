@@ -73,6 +73,8 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 http://128.199.212.160/alif/1080/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnhPi2C_QLukfSgy1ttpD4awl-BHLJyQnkXQ&usqp=CAU" group-title="BANGLA MOVIE.",বঙ্গ মুভি-টিভি
 http://rv.bleutv.net:80/477816014111154/477816014111154/83795
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2021/07/nexustv.png?x39333" group-B-TV="BANGLA ENT.",নেক্সাস-টিভি
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/rGSlPtKbkld0vqihdEUUtmfR_LDwEymmCNwicqgByPAYaanwbMVO0N-UyuQ94zTB8e-Z" group-CHANNEL-23="BANGLA MOVIE.",চ্যানেল-২৩(BDIX)
 http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/royal_tv.png" group-ROYAL-TV="BANGLA ENT.",রয়েল-টিভি
