@@ -280,8 +280,6 @@ https://idvd.multitvsolution.com/idvo/tlchdhindi.m3u8
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
 #EXTINF:0 tvg-logo="https://www.pngkey.com/png/detail/134-1341595_discovery-channel-transparent-discovery-channel-logo.png" group-title="DISCOVERY.",Discovery
 http://103.109.56.116/live/skyfeed1015/index.m3u8
-#EXTINF:0 tvg-logo="https://img.favpng.com/12/20/21/logo-nat-geo-wild-national-geographic-television-channel-png-favpng-X5cTr0eRJi2b96GK1s1x1nBAK.jpg" group-title="GEOGRAPHIC.",Nat-Wild
-https://wyjs.tk/index.php/http://84.17.41.7:80/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://ewsat.com/img/TRING_PLANET.png" group-title="GEOGRAPHY.",Tring Planet
 http://93.157.62.180/TringPlanet/index.m3u8
 #EXTINF:0 tvg-logo="https://img.favpng.com/12/20/21/logo-nat-geo-wild-national-geographic-television-channel-png-favpng-X5cTr0eRJi2b96GK1s1x1nBAK.jpg" group-title="GEOGRAPHIC.",Nrk-2
