@@ -71,8 +71,6 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/canbanglatv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIUn3nhBT35n_aWEmu4NrPaUC-msAr9Zxi7g8eSiKQv8PCqvTR78w7ZpeJRc4_qUMIIIo&usqp=CAU" group-ALIF-TV="BANGLA MOVIE.",আলিফ-টিভি(BDIX)
 http://128.199.212.160/alif/1080/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnhPi2C_QLukfSgy1ttpD4awl-BHLJyQnkXQ&usqp=CAU" group-title="BANGLA MOVIE.",বঙ্গ মুভি-টিভি
-http://rv.bleutv.net:80/477816014111154/477816014111154/83795
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2021/07/nexustv.png?x39333" group-B-TV="BANGLA ENT.",নেক্সাস-টিভি
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/rGSlPtKbkld0vqihdEUUtmfR_LDwEymmCNwicqgByPAYaanwbMVO0N-UyuQ94zTB8e-Z" group-CHANNEL-23="BANGLA MOVIE.",চ্যানেল-২৩(BDIX)
@@ -455,7 +453,7 @@ http://mfe.cliptv.az/dash/Sony_Sci_Fi_SD.ism/playlist.mpd?checkedby:hlscat.com
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjRzY0Wk0fqdJXcy8VeJbi2gPFZ8WIDRp-TA&usqp=CAU" group-title="ENGLISH MOVIE.",Syfy Tv
 http://stream.tvtap.net:8081/live/us-syfy.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://thumbnail.imgbin.com/22/13/24/imgbin-logo-sony-six-television-channel-sony-ten-sony-entertainment-television-kri8it-defining-digital-Acybc4HApnRxU3ck2ifyc7cAz_t.jpg" group-title="ENGLISH MOVIE.",Sony Pix
-http://tvflixvip01.ddns.net//HINDI_SONY_PIX_HD_INDIA/index.m3u8?token=test
+http://203.80.191.3:8089/nimble_live/sonypix/chunks.m3u8?nimblesessionid=2600199
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsRU7FJa23gIFQPO-KHLv7pCixt5RN4HRtxA&usqp=CAU" group-title="ENGLISH MOVIE.",FOX Movies
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-dQX6pTE5BhtGPsYkXpQASw0Ihv2i5651NA&usqp=CAU"group-titile="ENGLISH MOVIE.",McN-Tv
@@ -473,7 +471,7 @@ https://593b04c4c5670.streamlock.net/8008/8008/playlist.m3u8
 #EXTINF:0 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/FILMBOX_HD.png" group-title="ENGLISH MOVIE.",Film Box Tv
 http://185.183.34.118/iptv/F59KKDMP2GN7ZB/1071/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="ENGLISH MOVIE.",WarnerTV 
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
+http://203.80.191.3:8089/nimble_live/warnerbros/chunks.m3u8?nimblesessionid=2600329
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mbc-2.png" group-title="ENGLISH MOVIE.",MBC 2 HD
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8?@amarnettv.live
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/MBC_Max_TV_Channel_Logo.png" group-title="ENGLISH MOVIE.",Mbc Max
