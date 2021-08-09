@@ -443,7 +443,9 @@ https://stream.y5.hu/stream/stream_filmp/hls0/stream.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUEMn8ThJ4jjToXJnULOuT35EElCc1Bc_LFA&usqp=CAU" group-title="ENGLISH MOVIE.",Movies Now
 http://103.153.39.34:8000/play/a050/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-k58hl1dvx12R_Luv6bwp_lM_dW1UjlGyYQ&usqp=CAU" group-title="ENGLISH MOVIE.",Nmx-Tv
-http://203.80.191.3:8089/nimble_live/mnx/chunks.m3u8?nimblesessionid=2601217
+http://app.smartbox.digital:8089/premium/mnx/mpeg.2ts
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5wfcZIjsdIx6Sxj1zrlvw9vfLN5qd_H5xMQ&usqp=CAU" group-title="ENGLISH MOVIE.",beIN Movie 1
+http://203.80.191.3:8089/load/startrekmovies/playlist.m3u8
 #EXTINF:0 tvg-logo="https://media.elcinema.com/tvguide/1323_1.png" group-title="ENGLISH MOVIE.",beIN Movie 2
 http://203.80.191.3:8089/load/starwarsmovies/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv83wyglG_3gJb6pB1cGbuKVpbUF1Fx54CCA&usqp=CAU" group-title="ENGLISH MOVIE.",Hollywood Movies
