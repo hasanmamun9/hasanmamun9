@@ -479,7 +479,7 @@ http://185.183.34.118/iptv/F59KKDMP2GN7ZB/1071/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXQc-FMn7mBy2__4seXB3_ldSmBNJyfdbd2Q&usqp=CAU" group-title="ENGLISH MOVIE.",UDU-Plex
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="ENGLISH MOVIE.",WarnerTV 
-http://203.80.191.3:8089/nimble_live/warnerbros/chunks.m3u8?nimblesessionid=2600329
+http://203.154.243.89:11205/
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mbc-2.png" group-title="ENGLISH MOVIE.",MBC 2 HD
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8?@amarnettv.live
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/MBC_Max_TV_Channel_Logo.png" group-title="ENGLISH MOVIE.",Mbc Max
