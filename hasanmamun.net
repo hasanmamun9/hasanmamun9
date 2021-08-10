@@ -464,6 +464,10 @@ https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8
 https://cn-lnsy-cu-live-01.bilivideo.com/live-bvc/992495/live_22989278_9714011.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG-JGzKDT-gNS7vD2Q3rqDknTRFgWhxNkDJA&usqp=CAU" group-title="Movie.", Live Movie 3
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvtoA1f3oGWC0UIbzpuuL0XlfHacfAs5Isng&usqp=CAU" group-title="DOCUMENTARY.",Hi Yah
+http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXY8OAigOb5bPw78aRxLN1y8tx8vh_t3z12w&usqp=CAU" group-title="ENGLISH MOVIE.", Movie Sehere
+https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/dHVfGex_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="Movie.",New K-Movies
 https://newidco-newmovies-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/rgNQYAl_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="Movie.",Fright Flix
@@ -480,6 +484,10 @@ https://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8
 https://edge6a.v2h-cdn.com/appt7/MVLAO.stream_720p/chunklist_w1604020811.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBVvbbtbd7BTf23VrTixv_2O0O9KdLb8nZ-Q&usqp=CAU" group-title="ENGLISH MOVIE.",NOS Studios-Tv
 http://185.236.229.21:9981/play/a054
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrEUqJ4a9soMVLY6DDEiQjwU_gMF5L1qFK6Yclijp71s31uVkIkRXOwco&s=10" group-title="ENGLISH MOVIE.",Sixx Tv
+http://stream.tvtap.live:8081/live/de-sixx.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ8wlPipCbuP5AHJFI_X0hJwmZ32oiifz4cw&usqp=CAU" group-title="ENGLISH MOVIE.",Cinema 1
+http://stream.tvtap.live:8081/live/it-premium-cinema1.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="ENGLISH MOVIE.",Cinemax-Tv
 https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdlgPMTyvitDts50AfZNpDyGhCMvZNljXnHQ&usqp=CAU" group-AM="ENGLISH MOVIE.",Family Flix
@@ -582,6 +590,12 @@ http://mygoodstream.pw/proxy.php/http://134.19.182.131:8080/edg8_2.m3u8
 https://95-213-224-173.livesports24.online/ooomatch.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZPSJOxMtaD5Mb6leNGG4sqQXm2BKtGHryCQ&usqp=CAU" group-title="SPORTS.",T-Sports
 http://173.199.120.51/hls/tsports.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlSx3SpaHGzFjxjCVlLuOX7hDHJXXNWcqWRw&usqp=CAU" group-title="SPORTS.",Mat4 1 Sports
+https://chostv.mobie.in/choos/sports/matchqy1.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpa0Y28X7YKc3CG-k7YMPqr9eRm8HzpKk-FA&usqp=CAU" group-title="SPORTS.",Mat4 2 Sports
+https://chostv.mobie.in/choos/sports/matchqy2.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEbGREl41-hIsesDVB0ZTKa35thFAReJwmBw&usqp=CAU" group-title="SPORTS.",Dazn sports
+http://stream.tvtap.live:8081/live/it-dazn2.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-2.png" group-title="SPORTS.",TNT Sports 2
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="SPORTS.",TNT Sports 4 
@@ -596,6 +610,8 @@ http://stream.tvtap.live:8081/live/wwe.stream/chunks.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcKPFeFCT0OYzI0siZ86XxhodwiU982qaQRQ&usqp=CAU" group-title="DOCUMENTARY.",HgTv
 http://58.65.171.202:8000/play/4334/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3YpEWb7txi67ih_9xdLFU4p758fPg6bFuXA&usqp=CAU" group-title="DISCOVERY.",Hgtv
+http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp8BhD6ZYHhPonXc9NhTBWVtygNdLXIsNI-g&usqp=CAU" group-title="DOCUMENTARY.", Tv 5 Style
 https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
 #EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2014/08/28/travelxp_0.JPG" group-title="DOCUMENTARY.",Travel Xp Hindi
