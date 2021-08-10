@@ -250,12 +250,20 @@ https://egress-1.do-ny-3.ttv.dotworldcorp.com/hls/ttv/index.m3u8
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngM2qyoDtZQYNKbLZJsWT-VlkCna40j9hLRz1fa=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLA ENT.",Times 24 Tv
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjW8g-tQCosrKVSrrHlP-SoTrzlaH_ixDg8R3N1=s900-c-k-c0x00ffffff-no-rj" group-NEWS-24="BANGLA NEWS.",নিউজ-২৪(BDIX)
 https://rhridoy136.shortcm.li/news24.m3u8
-#EXTINF:0 tvg-logo="https://i0.wp.com/shadhinota.tv/wp-content/uploads/2019/04/Independent-TV.png?fit=401%2C226&ssl=1" group-INDEPEDENT-TV="BANGLA NEWS.",ইন্ডিপেন্ডেন্ট-টিভি(BDIX)
+#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/inds.png?x39333" group-INDEPEDENT-TV="BANGLA NEWS.",ইন্ডিপেন্ডেন্ট-টিভি(BDIX)
 https://rhridoy136.shortcm.li/independenttv.m3u8
 #EXTINF:0 tvg-logo="https://www.channel24bd.tv/assets/importent_images/logo.png" group-CHANNEL-24="BANGLA NEWS.",চ্যানেল-২৪(BDIX)
 https://rhridoy136.shortcm.li/channel24.m3u8
 #EXTINF:0 tvg-logo="https://helptimebd.com/wp-content/uploads/2020/06/Screenshot-2020-12-03-135529.png" group-JOMUNA-TV="BANGLA NEWS.",যমুনা-টিভি(BDIX)
 https://rhridoy136.shortcm.li/jamunatv.m3u8
+#EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2018/11/21/ban.jpg?itok=MtWEB69u" group-BANGLA-TALKIES="BANGLA MUSIC.",বাংলা-টকিজ
+https://d1v8sibg9qe8ke.cloudfront.net/BANGLA_TALKIES.m3u8
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Khushboo_TV.jpeg/revision/latest?cb=20191223164128" group-KHUSBOO-BANGLA="BANGLA MOVIE.",খুশবু বাংলা-টিভি
+https://d2my7pmu7z3zc5.cloudfront.net/KHUSBOO_TV.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvUIgT2OkSToCVLYDXaKxGs7Q5NQjadRkSZA&usqp=CAU" group-AMAR-CINEMA="BANGLA MOVIE.",আমার-সিনেমা
+http://d1bf3b042hkby5.cloudfront.net/AAMAR_CINEMA.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9wWnfpmVolE-uqI9d8VfK24P2-UXktt3NEA&usqp=CAU" group-AMAR-BANGLA="HINDI MOVIE.",আমার-বাংলা
+http://stream1.livebox.co.in/kbcreationhls/live.m3u8
 #EXTINF:0 tvg-logo="https://abohomanbangla.com/Bangladesh_web_directory/tv_image/duronto%20tv.jpg" group-title="CARTOON.",Duronto-Tv
 http://103.157.237.18:8000/play/132
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYak7muLm7GMS5A2azAeEfZso2iIXTHWCkVw&usqp=CAU" group-title="CARTOON.",RONGEEN-TV
@@ -266,62 +274,6 @@ http://54.39.134.91:9090/24x7_kids_cr3/tracks-v1a1/mono.m3u8
 https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/9/98/Pogo.png/revision/latest?cb=20191112233054" group-title="CARTOON.",Pogo
 http://tvflixkids.ddns.net:8278/pogohindikdin/playlist.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp8BhD6ZYHhPonXc9NhTBWVtygNdLXIsNI-g&usqp=CAU" group-title="DOCUMENTARY.", Tv 5 Style
-https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
-#EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2014/08/28/travelxp_0.JPG" group-title="DOCUMENTARY.",Travel Xp Hindi
-https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiZKjZjHBvcsSsdJTpKbCBLsR8XELtE-3JhQ&usqp=CAU" group-title="FISHING.",Wired 2-Fish
-https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="COOKING.",Afn-Tv(BDIX)
-https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT12vYSBzuvj15hv3zSuG64ytO9LeI23fYxwMfDRu9LW-JEQEVtGtQmbZJy&s=10" group-title="COOKING.",Hum Masala-Tv
-https://feed.play.mv/live/1009/uRdwlkNe1U/master.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ0qwO4vBFbBtQ_zfyzZTuXm_t8Dcm3kIkIg&usqp=CAU" group-title="COOKING.",Tlc Hindi
-https://idvd.multitvsolution.com/idvo/tlchdhindi.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="COOKING.",Food Network
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
-#EXTINF:0 tvg-logo="https://www.pngkey.com/png/detail/134-1341595_discovery-channel-transparent-discovery-channel-logo.png" group-title="DISCOVERY.",Discovery
-http://103.109.56.116/live/skyfeed1015/index.m3u8
-#EXTINF:0 tvg-logo="https://ewsat.com/img/TRING_PLANET.png" group-title="GEOGRAPHY.",Tring Planet
-http://93.157.62.180/TringPlanet/index.m3u8
-#EXTINF:0 tvg-logo="https://img.favpng.com/12/20/21/logo-nat-geo-wild-national-geographic-television-channel-png-favpng-X5cTr0eRJi2b96GK1s1x1nBAK.jpg" group-title="GEOGRAPHIC.",Nrk-2
-http://89.17.204.38/ch02/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvJ9fu0y0ghYs7H5QnDmmiTWPB3BDzaasB6g&usqp=CAU" group-title="DOCUMENTARY.",Adventure Tv
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://discovery.sndimg.com/content/dam/images/discovery/editorial/branding/2019/2/1/Discovery-default-search-image-4x3.jpg.rend.hgtvcom.616.462.suffix/1561760738182.jpeg" group-title="DISCOVERY.",Discovery
-https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1280px-Discovery_Asia_logo.svg.png" group-title="DISCOVERY.",Discovery Asia
-https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="LIFESTYLE.",BBc Eaeth
-https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8?token=soheliptv01826655778
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Sony_BBC_Earth.png" group-title="LIFESTYLE.",Sony Eaeth
-http://84.17.41.7/SONYEARTH/HD/HIN/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToLtuRH_U-m_MjXtv0n6eT3WCYGbcuC14lwrQj_BKBz-ZJ6DlhtSPyU7o3vjHAfFkn1A&usqp=CAU" group-title="LIFESTYLE.",BBC Lifestyle
-https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032011/ls_logo_corel-converted.png?itok=n415tG42" group-title="LIFESTYLE.",Life Style
-https://bozztv.com/36bay2/gusa-lifestyle/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="LIFESTYLE.",Love Nature
-https://bamus-eng-roku.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTae16trv9RsqYJwwPTHbCUbI6m-vp6MWNIwA&usqp=CAU" group-title="LIFESTYLE.",Nature Tv
-http://stirr.ott-channels.stingray.com/naturescape/master_1920x1080_4500kbps.m3u8
-#EXTINF:0 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/601b338c59852720716748a2/900" group-title="DOCUMENTARY.",Local Now Family Flix
-https://linear-145.frequency.stream/dist/localnow/145/hls/master/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="GEOGRAPHIC.",Animal Planet Hindi
-https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="GEOGRAPHIC.",Animal Planet
-http://idvd.multitvsolution.com/idvo/aphd_540p/index.m3u8
-#EXTINF:0 tvg-logo="https://img.favpng.com/12/20/21/logo-nat-geo-wild-national-geographic-television-channel-png-favpng-X5cTr0eRJi2b96GK1s1x1nBAK.jpg" group-title="GEOGRAPHIC.",Natgeo Hindi
-http://84.17.41.7:80/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://img.favpng.com/12/20/21/logo-nat-geo-wild-national-geographic-television-channel-png-favpng-X5cTr0eRJi2b96GK1s1x1nBAK.jpg" group-title="GEOGRAPHIC.",Natgeo Wild
-http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:0 tvg-logo="https://img.favpng.com/12/20/21/logo-nat-geo-wild-national-geographic-television-channel-png-favpng-X5cTr0eRJi2b96GK1s1x1nBAK.jpg" group-title="GEOGRAPHIC.",Natgeo Hindi
-http://jupiter.bdcabletv.com/nat_geo_Wild-Sim/video.m3u8
-#EXTINF:0 tvg-logo="http://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="DOCUMENTARY.",Nasa TV
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="DOCUMENTARY.",CGTN Documentary
-https://livedoc.cgtn.com/1000d/prog_index.m3u8?@ShamimHossainOfficial
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",WWE-Wrestling
-http://stream.tvtap.live:8081/live/wwe.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="http://movieopera.in/wp-content/uploads/2021/07/cropped-MO-LOGO-PNG-2.png" group-title="HINDI MOVIE.",Movie-Opera
 https://stream1.playbox.co.in:1936/live1/movieopera/playlist.m3u8
 #EXTINF:0 tvg-logo="https://d1p9fevdiihrnk.cloudfront.net/uploads/channel/logo/m_classic_logo.png" group-title="HINDI MOVIE.",MO CLASSIC
@@ -428,14 +380,6 @@ http://luckonline.eu:8080/live/KjPypddrq4/8p1pLrAVDh/609.m3u8?token=
 https://d3pu3hnym3eusd.cloudfront.net/VH1.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZsD6FuXbpBKy8PYEIwf1wDSL7-O9krmxdvw&usqp=CAU" group-title="Arabian MUSIC.",Arabian-Music(BDIX)
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2018/11/21/ban.jpg?itok=MtWEB69u" group-BANGLA-TALKIES="BANGLA MUSIC.",বাংলা-টকিজ
-https://d1v8sibg9qe8ke.cloudfront.net/BANGLA_TALKIES.m3u8
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Khushboo_TV.jpeg/revision/latest?cb=20191223164128" group-KHUSBOO-BANGLA="BANGLA MOVIE.",খুশবু বাংলা-টিভি
-https://d2my7pmu7z3zc5.cloudfront.net/KHUSBOO_TV.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvUIgT2OkSToCVLYDXaKxGs7Q5NQjadRkSZA&usqp=CAU" group-AMAR-CINEMA="BANGLA MOVIE.",আমার-সিনেমা
-http://d1bf3b042hkby5.cloudfront.net/AAMAR_CINEMA.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9wWnfpmVolE-uqI9d8VfK24P2-UXktt3NEA&usqp=CAU" group-AMAR-BANGLA="HINDI MOVIE.",আমার-বাংলা
-http://stream1.livebox.co.in/kbcreationhls/live.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTapLOqE5VEsFZaG7T3jQWZAnO-A6VTFEuvcw&usqp=CAU" group-AM="ENGLISH MOVIE.",HALOW MOVIES 
 http://echotv.online:8080/live/HalowTV/FSyzHfEhvb/138.m3u8
 #EXTINF:0 tvg-logo="https://moghbazar.net/wp-content/uploads/2020/12/icon-1.png" group-title="ENGLISH MOVIE.",Dhaka Live Flix
@@ -642,10 +586,64 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-T1fNcPdR6doQjKqdaPa1BQxq9oPuViZDMqmSO2s7a4EzdY68IEc9RchkqGh9Q2B0fVc&usqp=CAU" group-title="SPORTS.",Maq Tv
 http://str24.l9574.com/517.stream/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",WWE-Wrestling
+http://stream.tvtap.live:8081/live/wwe.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/793/877/png-clipart-red-bull-gmbh-logo-energy-drink-brand-red-bull-company-text.png" group-title="DOCUMENTARY.",Red Bull Tv
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcKPFeFCT0OYzI0siZ86XxhodwiU982qaQRQ&usqp=CAU" group-title="DOCUMENTARY.",HgTv
 http://58.65.171.202:8000/play/4334/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp8BhD6ZYHhPonXc9NhTBWVtygNdLXIsNI-g&usqp=CAU" group-title="DOCUMENTARY.", Tv 5 Style
+https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
+#EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2014/08/28/travelxp_0.JPG" group-title="DOCUMENTARY.",Travel Xp Hindi
+https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiZKjZjHBvcsSsdJTpKbCBLsR8XELtE-3JhQ&usqp=CAU" group-title="FISHING.",Wired 2-Fish
+https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="COOKING.",Afn-Tv(BDIX)
+https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT12vYSBzuvj15hv3zSuG64ytO9LeI23fYxwMfDRu9LW-JEQEVtGtQmbZJy&s=10" group-title="COOKING.",Hum Masala-Tv
+https://feed.play.mv/live/1009/uRdwlkNe1U/master.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ0qwO4vBFbBtQ_zfyzZTuXm_t8Dcm3kIkIg&usqp=CAU" group-title="COOKING.",Tlc Hindi
+https://idvd.multitvsolution.com/idvo/tlchdhindi.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="COOKING.",Food Network
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
+#EXTINF:0 tvg-logo="https://ewsat.com/img/TRING_PLANET.png" group-title="GEOGRAPHY.",Tring Planet
+http://93.157.62.180/TringPlanet/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvJ9fu0y0ghYs7H5QnDmmiTWPB3BDzaasB6g&usqp=CAU" group-title="DOCUMENTARY.",Adventure Tv
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://discovery.sndimg.com/content/dam/images/discovery/editorial/branding/2019/2/1/Discovery-default-search-image-4x3.jpg.rend.hgtvcom.616.462.suffix/1561760738182.jpeg" group-title="DISCOVERY.",Discovery
+https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrRGN4cRORl4xftvDb6EF1SmJExOJbokPHQg&usqp=CAU" group-title="DISCOVERY.",Discovery Asia
+https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://www.pngkey.com/png/detail/134-1341595_discovery-channel-transparent-discovery-channel-logo.png" group-title="DISCOVERY.",Discovery
+http://103.109.56.116/live/skyfeed1015/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="LIFESTYLE.",BBc Eaeth
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8?token=soheliptv01826655778
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Sony_BBC_Earth.png" group-title="LIFESTYLE.",Sony Eaeth
+http://84.17.41.7/SONYEARTH/HD/HIN/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToLtuRH_U-m_MjXtv0n6eT3WCYGbcuC14lwrQj_BKBz-ZJ6DlhtSPyU7o3vjHAfFkn1A&usqp=CAU" group-title="LIFESTYLE.",BBC Lifestyle
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032011/ls_logo_corel-converted.png?itok=n415tG42" group-title="LIFESTYLE.",Life Style
+https://bozztv.com/36bay2/gusa-lifestyle/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="LIFESTYLE.",Love Nature
+https://bamus-eng-roku.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTae16trv9RsqYJwwPTHbCUbI6m-vp6MWNIwA&usqp=CAU" group-title="LIFESTYLE.",Nature Tv
+http://stirr.ott-channels.stingray.com/naturescape/master_1920x1080_4500kbps.m3u8
+#EXTINF:0 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/601b338c59852720716748a2/900" group-title="DOCUMENTARY.",Local Now Family Flix
+https://linear-145.frequency.stream/dist/localnow/145/hls/master/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="GEOGRAPHIC.",Animal Planet Hindi
+https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="GEOGRAPHIC.",Animal Planet
+http://idvd.multitvsolution.com/idvo/aphd_540p/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzXguDnxRnOv_Uy9OpVnAffOhFO7YkKKyinA&usqp=CAU" group-title="GEOGRAPHIC.",National Geographic
+http://84.17.41.7:80/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoT_ZuLoFY57R03hJLYMoHLksOI75tnwKuow&usqp=CAU" group-title="GEOGRAPHIC.",National Geographic
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5SVJjzgsPzOd5oiY9qRJ2yt--IBQ0tJdONw&usqp=CAU" group-title="GEOGRAPHIC.",Natgeo Wild Hindi
+http://jupiter.bdcabletv.com/nat_geo_Wild-Sim/video.m3u8
+#EXTINF:0 tvg-logo="http://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="DOCUMENTARY.",Nasa TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="DOCUMENTARY.",CGTN Documentary
+https://livedoc.cgtn.com/1000d/prog_index.m3u8?@ShamimHossainOfficial
 
 
 
