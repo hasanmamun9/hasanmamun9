@@ -303,7 +303,7 @@ http://luckonline.eu:8080/live/KjPypddrq4/8p1pLrAVDh/630.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4tpx9AoVUaX_AN80nBP1_05b6ksF4bPqnZg&usqp=CAU" group-title="HINDI MOVIE.",Star-Gold HD
 http://84.17.41.7/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw7owykqlh9k9Y5c_tgRahoIifcNOYldzImA&usqp=CAU" group-title="HINDI MOVIE.",Star-Gold Hd 2
-http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
+http://103.81.104.118/hls/stream47.m3u8
 #EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2020/01/29/star-gold2.jpg" group-title="HINDI MOVIE.",Star-Gold 2
 http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Utsav_Gold_Logo.jpg/220px-Utsav_Gold_Logo.jpg" group-title="HINDI MOVIE.",Utsav-gold
@@ -518,8 +518,7 @@ http://93.157.62.180/RTSHSport/index.m3u8
 https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZpkc7hTNtT9_vN7Ruso7BoI3m9N8WH3REhg&usqp=CAU" group-title="SPORTS.",Fox Brazil 1
 http://134.19.182.131:8080/edg11_2.m3u8
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/95/f6/68/95f6681b3ad0c0404b04a7c4a8cccb06.png" group-title="beIN SPORTS.",beIN 1
-#EXTINF:0 tvg-logo="https://cabeltvapp.com/wp-content/uploads/2020/10/us-bangla-200x200.jpg" group-title="BANGLA ENT.",ইউ এস-বাংলা
+#EXTINF:0 tvg-logo="http://tv.livebdix.com/index_files/beinsports1.jpg" group-title="beIN SPORTS.",beIN 1
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 #EXTINF:0 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F653%2Fbein-sports-max-1.png" group-title="beIN SPORTS.",beIN 2
 http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
