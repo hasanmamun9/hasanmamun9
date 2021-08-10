@@ -53,6 +53,8 @@ http://103.205.133.19/hls/asiantv.m3u8
 http://103.205.133.19/hls/nagorik.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnhPi2C_QLukfSgy1ttpD4awl-BHLJyQnkXQ&usqp=CAU" group-title="BANGLA MOVIE.",বঙ্গ মুভি-টিভি
 http://rv.bleutv.net:80/477816014111154/477816014111154/83795
+#EXTINF:0 tvg-id="ext" group-title="BANGLA MOVIE",বঙ্গ-টিভি
+http://103.109.213.18:5563/live/bongotv/chunklist_w937507918.m3u8
 #EXTINF:0 tvg-logo="https://biswastv.com/uploads/tv_image/sm/biswas-tv.jpg" group-NAGORIK-TV="BANGLA ENT.",বিশ্বাস-টিভি
 https://biswastv-hls.telelivebd.com/Biswas/Biswas_manifest.m3u8
 #EXTINF:0 tvg-logo="http://m.android.lyngsat-stream.com/logo/tv/cc/channel-metro-bd.png" group-Cmmetro-TV="BANGLA ENT.",সিএম-মেট্রো
@@ -147,8 +149,6 @@ http://iptvbd.jagobd.com:1931/boishakhi/channelsbd.stream/chunks.m3u8
 https://5fe9adb07250c.streamlock.net/demo/rup/manifest_w1128088793.mpd
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL_9dUtM88gx5wBWPS8-ts0WO_uSjs3RPenQ&usqp=CAU" group-SHOPNO-TV="BANGLA MOVIE.",এস-ভিসন
 http://svision.sonarbanglatv.com:8081/svision/sv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BANGLA MOVIE",বঙ্গ-টিভি
-http://103.109.213.18:5563/live/bongotv/chunklist_w937507918.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2021/03/falgunitv.jpg" group-FALGUNI-TV="BANGLA MOVIE.",ফাল্গুনী-টিভি
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/falgunitv.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2021/06/IBN.jpeg?x22757" group-IRN-TV="BANGLA ENT.",আই বি এন-টিভি
