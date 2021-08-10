@@ -517,7 +517,7 @@ https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG-JGzKDT-gNS7vD2Q3rqDknTRFgWhxNkDJA&usqp=CAU" group-title="Movie.", Live Movie 2
 https://cn-lnsy-cu-live-01.bilivideo.com/live-bvc/992495/live_22989278_9714011.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG-JGzKDT-gNS7vD2Q3rqDknTRFgWhxNkDJA&usqp=CAU" group-title="Movie.", Live Movie 3
-http://203.80.191.3:8089/nimble_live/romedynow/chunks.m3u8?nimblesessionid=2619773
+http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/dHVfGex_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="Movie.",New K-Movies
 https://newidco-newmovies-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/rgNQYAl_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="Movie.",Fright Flix
