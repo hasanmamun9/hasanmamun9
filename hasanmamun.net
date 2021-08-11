@@ -529,7 +529,7 @@ https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZpkc7hTNtT9_vN7Ruso7BoI3m9N8WH3REhg&usqp=CAU" group-title="SPORTS.",Fox Brazil 1
 http://134.19.182.131:8080/edg11_2.m3u8
 #EXTINF:0 tvg-logo="http://tv.livebdix.com/index_files/beinsports1.jpg" group-title="beIN SPORTS.",beIN 1
-https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
+http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F653%2Fbein-sports-max-1.png" group-title="beIN SPORTS.",beIN 2
 http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="http://tv.livebdix.com/index_files/beinsports3.png" group-title="beIN SPORTS.",beIN 3
