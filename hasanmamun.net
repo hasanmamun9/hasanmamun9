@@ -305,7 +305,7 @@ http://luckonline.eu:8080/live/KjPypddrq4/8p1pLrAVDh/630.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4tpx9AoVUaX_AN80nBP1_05b6ksF4bPqnZg&usqp=CAU" group-title="HINDI MOVIE.",Star-Gold HD
 http://203.80.191.3:8089/load/stargoldhd/chunks.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw7owykqlh9k9Y5c_tgRahoIifcNOYldzImA&usqp=CAU" group-title="HINDI MOVIE.",Star-Gold Hd 2
-http://103.81.104.118/hls/stream47.m3u8
+http://103.81.104.118/hls/stargold.m3u8
 #EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2020/01/29/star-gold2.jpg" group-title="HINDI MOVIE.",Star-Gold 2
 http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Utsav_Gold_Logo.jpg/220px-Utsav_Gold_Logo.jpg" group-title="HINDI MOVIE.",Utsav-gold
