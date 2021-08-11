@@ -53,7 +53,7 @@ http://103.205.133.19/hls/asiantv.m3u8
 http://103.205.133.19/hls/nagorik.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnhPi2C_QLukfSgy1ttpD4awl-BHLJyQnkXQ&usqp=CAU" group-title="BANGLA MOVIE.",বঙ্গ মুভি-টিভি
 http://rv.bleutv.net:80/477816014111154/477816014111154/83795
-#EXTINF:0 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQULo41j55uRSBt1LlUmNYzEzs48aDkibHeJg&usqp=CAU" group-title="BANGLA MOVIE",বঙ্গ-টিভি
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQULo41j55uRSBt1LlUmNYzEzs48aDkibHeJg&usqp=CAU" group-BANGLA-TV="BANGLA ENT.",বঙ্গ-টিভি
 http://103.109.213.18:5563/live/bongotv/chunklist_w937507918.m3u8
 #EXTINF:0 tvg-logo="https://biswastv.com/uploads/tv_image/sm/biswas-tv.jpg" group-NAGORIK-TV="BANGLA ENT.",বিশ্বাস-টিভি
 https://biswastv-hls.telelivebd.com/Biswas/Biswas_manifest.m3u8
