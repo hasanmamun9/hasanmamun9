@@ -5,8 +5,26 @@ http://rv.bleutv.net:80/477816014111154/477816014111154/83795
 https://vsd137.mycdn.me/hls/1104584051332.m3u8/sig/osh5V9C--3g/expires/1627082765563/srcIp/58.145.187.252/clientType/0/srcAg/CHROME_ANDROID/mid/2404474953348/video.m3u8?p
 #EXTINF:0 tvg-logo="http://livetv.com.bd/wp-content/uploads/2019/12/matirmaya.png" group-MATIR-MAYA="BANGLA ENT.",মাটির মায়া-টিভি
 https://iptv15.raytahost.com/live/matirmaya/index.m3u8
+#EXTINF:0 tvg-logo="https://ullas.tv/assets/Untitled-3.png" group-IRN-TV="BANGLA ENT.",উল্লাস-টিভি
+https://edge1.streamingbd.com/eflix/ullastv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu72yWECnLylToPSKd6MZCZozhECXov62qpw&usqp=CAU" group-IRN-TV="BANGLA ENT.",জবস-টিভি
+https://jobsgr.raytahost.com/main/jobstv/index.m3u8
+#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/05/rangiptv-1.jpg?x89970" group-RANG-TV="BANGLA ENT.",রং-টিভি
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rangiptv.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/noq8RfPyjetXVNC7zvs6GZyqSdI4x5HYwNSvBsbKtTgVV-PyzeUqZo1QerzZGds-f0U" group-SONGBAD-TV="BANGLA ENT.",সংবাদ-টিভি
+https://iptv6.raytahost.com/live/songbad/index.m3u8
+#EXTINF:0 tvg-logo="http://cabeltvapp.com/wp-content/uploads/2020/12/Ayna-tv-200x200.jpg" group-AGAMI-TV="BANGLA ENT.",আগামী-টিভি
+http://str24.l9574.com/510.stream/index.m3u8
 #EXTINF:0 tvg-logo="https://image.winudf.com/v2/image/dHYucHJvYmFzaGliYW5nbGEuZGlnaXRhbGIubXlhcHBsaWNhdGlvbl9zY3JlZW5fMF9zcWlndW9tMQ/screen-0.jpg?fakeurl=1&type=.jpg" group-PROBASI-BANGLA="BANGLA MOVIE.",প্রবাসী বাংলা-টিভি
-https://probashi-hls.telelivebd.com/probashi/probashi_manifest.m3u8
+https://probashibangla-tv.telelivebd.com/globalbanglatv/probashibangla/playlist.m3u8
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/0yG4xSwjsGyNpV_hSZiCnROcmjNMaEDq-4sefjCFLnn2vZ6ejIdO_pmD9WMTKx8MX6wX=s200" group-DESH-NEWS="BANGLA ENT.",দেশ নিউজ-টিভি
+https://iptv9.raytahost.com/stream/desh/index.m3u8
+#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/09/City-TV.jpg?x89970" group-title="BANGLA ENT.",সিটি-টিভি
+https://www.webtvbd.com/download/bdix/city_tv.m3u8
+#EXTINF:0 tvg-logo="https://dhakalive.tv/images/logo-black.png" group-title="BANGLA ENT.",ঢাকা-টিভি
+http://103.108.140.164:1009/dhakatv/livestream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/wA-DT6jV87M/hqdefault.jpg" group-title="BANGLA MOVIE.",এম সি-টিভি
+http://103.146.36.78:1935/live/mctv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt4qV-mTTyF_KaL_eK_y8E4370sid_h_grPQ&usqp=CAU" group-P-BANGLA="BANGLA ENT.",পি বাংলা-টিভি
 http://206.189.32.183/pbanglatv/1080/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrnjmRzgpWnA-EtEv_GbYU0TwhTYKGhpRRBQ&usqp=CAU" group-TV-DHAKA="BANGLA ENT.",টিভি-ঢাকা 
