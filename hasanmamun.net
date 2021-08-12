@@ -288,8 +288,14 @@ http://192.248.147.22:8080/hls/mystream.m3u8
 http://103.81.104.118/hls/stream29.m3u8
 #EXTINF:0 tvg-logo="https://etimg.etb2bimg.com/photo/76192361.cms" group-title="HINDI MOVIE.",Rishtey Cineplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
+#EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2020/03/04/Colors-Cineplex.jpg" group-title="HINDI MOVIE.",Colors Cineplex Bollywood
+http://tvstream.space/jtv/ishq.php?c=Colors_Cineplex_Bollywood&=1200&e=.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo4cdfLfq1DvEPh5ONqNKYEK7blT5eKyw1HQ&usqp=CAU" group-title="HINDI MOVIE.",Joo-Music
 https://eu-fr.tvapp.icu/joomusic/tv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYEKADgmsf-e7yPe59bUw_YxxKG0PyMypZmw&usqp=CAU" group-title="HINDI MOVIE.",E24
+http://streamavi.ml/jio/live.php?c=E_24&q=800&e=junk.m3u8
+#EXTINF:0 tvg-logo="https://hotshotprime.com/upload/source/38da866a0646683c.jpg" group-title="HINDI MOVIE.",Abzy Movies
+http://tvstream.space/jtv/ishq.php?c=ABZY_Movies&=1200&e=.m3u8
 #EXTINF:0 tvg-logo="https://www.pngkey.com/png/detail/211-2118020_utv-action-utv-action-logo-png.png" group-title="HINDI MOVIE.",UTV-Action
 http://84.17.41.7/UTVACTION-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3tOy2jMIhkEjOBoDMQcQsMZAGwA5LjT8jfA&usqp=CAU" group-title="HINDI MOVIE.",Sony-Max
@@ -376,6 +382,8 @@ http://221.120.204.4/8XM-LOCKLE/tracks-v1a1/mono.m3u8
 https://d38944htyexzq5.cloudfront.net/MO_MUSIC.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1115500483961950208/q3Wlk_Pt_400x400.png" group-title="HINDI MUSIC.",MTV-Plus
 http://84.17.41.7:80/MTV_PLUS_US/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhu_30qQ1w2bYO8fbhNm6NARjaQa-mWAcUEQ&usqp=CAU" group-title="HINDI MUSIC.",MTV-In
+http://tvstream.space/jtv/ishq.php?c=MTV&=1200&e=.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR2yCiVvPQg7s2aqkTT_L0F723emvi9whM_g&usqp=CAU"group-titile="MUSIC.",M-Tv Bats
 http://luckonline.eu:8080/live/KjPypddrq4/8p1pLrAVDh/609.m3u8?token=
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmyVw_lJ7GOxXvtX29QlkGZSZNv8ysGlIU0A&usqp=CAU" group-title="ENGLISH SONG.",VH1-Music
@@ -598,6 +606,8 @@ https://chostv.mobie.in/choos/sports/matchqy1.m3u8
 https://chostv.mobie.in/choos/sports/matchqy2.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTLP0HTu1FKsBXKuKJ81_6qTk24XN98llLow&usqp=CAU" group-title="SPORTS.",MAT4-Sports
 https://95-213-224-173.livesports24.online/ooomatch.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkflSt01vhGKz5D30pSeMelzwuWl5HE01Big&usqp=CAU" group-title="SPORTS.",Jio- Sports
+http://streamavi.ml/jio/live.php?c=Jio_Sports&q=800&e=junk.m3u8
 #EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-2.png" group-title="SPORTS.",TNT Sports 2
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="SPORTS.",TNT Sports 4 
@@ -669,7 +679,13 @@ http://jupiter.bdcabletv.com/nat_geo_Wild-Sim/video.m3u8
 #EXTINF:0 tvg-logo="http://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="DOCUMENTARY.",Nasa TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="DOCUMENTARY.",CGTN Documentary
-https://livedoc.cgtn.com/1000d/prog_index.m3u8?@ShamimHossainOfficial
+https://livedoc.cgtn.com/1000d/prog_index.m3u8?@ShamimHossai
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Gsfi8NlGnkYm4yjo9zWWZEFWHxtvXb39qw&usqp=CAU" group-title="LIFESTYLE.",Epic
+http://streamavi.ml/jio/live.php?c=Epic_HD&q=800&e=junk.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7udBqsYi6VXKlmJm6_M3x08PIc1hqRHudykUgRdZCRy8DjmKhI6Skt6U&s=10" group-title="DISCOVERY.", Food Food
+http://streamavi.ml/jio/live.php?c=Food_Food&q=800&e=junk.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL_akXiopEmiVTcnQ3c4eiYqAOW92hdRWNDw&usqp=CAU" group-title="DISCOVERY.", History-18 In
+http://streamavi.ml/jio/live.php?c=History_18_Hindi&q=800&e=junk.m3u8
 
 
 
