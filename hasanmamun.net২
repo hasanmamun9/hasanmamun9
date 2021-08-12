@@ -105,10 +105,18 @@ https://iptv7.raytahost.com/live/bmf/index.m3u8
 https://tempd.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rajpathtv.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://pcdn1.jagobd.com/images/xs-h4lv11609859933620.jpg" group-title="BANGLA ENT.",Nongor-Tv
 https://tempd.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nongortv.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngM2qyoDtZQYNKbLZJsWT-VlkCna40j9hLRz1fa=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLA ENT.",
-
+#EXTINF:0 tvg-logo="http://jolshabd.com/public/channel_logo/1598327175.png" group-title="BANGLA ENT.",Best-Tv
+https://www.twitch.tv/rofiqhasan
+#EXTINF:0 tvg-logo="http://jolshabd.com/public/channel_logo/1598327175.png" group-title="BANGLA ENT.",Mono-Tv
+http://tvs.shaikhul.com:5080/LiveApp/streams/201435638706721486017071.m3u8
+#EXTINF:0 tvg-logo="http://jolshabd.com/public/channel_logo/1605461020.png" group-title="BANGLA ENT.",Powell-One-Tv
+http://tvs.shaikhul.com/powellonetv/live/index.m3u8
+#EXTINF:0 tvg-logo="https://abohomanbangla.com/Bangladesh_web_directory/tv_image/modumoti%20tv.png" group-title="BANGLA ENT.",Modumoti-Tv
+https://cnbtv.raytahost.com/live/1080/index.m3u8
+#EXTINF:0 tvg-logo="https://channel-16tv.com/wp-content/uploads/2021/08/cropped-mainlogo.png" group-title="BANGLA ENT.", Channel-16
+http://master.beeiptv.com:8081/News16TV/news16tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngM2qyoDtZQYNKbLZJsWT-VlkCna40j9hLRz1fa=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLA ENT.",Times 24 Tv
-
+http://192.168.1.101:8081/flashtv/anandatv.stream/playlist.m3u8
 
 
 
