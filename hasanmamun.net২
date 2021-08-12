@@ -15,8 +15,6 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://iptv6.raytahost.com/live/songbad/index.m3u8
 #EXTINF:0 tvg-logo="http://cabeltvapp.com/wp-content/uploads/2020/12/Ayna-tv-200x200.jpg" group-AGAMI-TV="BANGLA ENT.",আগামী-টিভি
 http://str24.l9574.com/510.stream/index.m3u8
-#EXTINF:0 tvg-logo="https://image.winudf.com/v2/image/dHYucHJvYmFzaGliYW5nbGEuZGlnaXRhbGIubXlhcHBsaWNhdGlvbl9zY3JlZW5fMF9zcWlndW9tMQ/screen-0.jpg?fakeurl=1&type=.jpg" group-PROBASI-BANGLA="BANGLA MOVIE.",প্রবাসী বাংলা-টিভি
-https://probashibangla-tv.telelivebd.com/globalbanglatv/probashibangla/playlist.m3u8
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/0yG4xSwjsGyNpV_hSZiCnROcmjNMaEDq-4sefjCFLnn2vZ6ejIdO_pmD9WMTKx8MX6wX=s200" group-DESH-NEWS="BANGLA ENT.",দেশ নিউজ-টিভি
 https://iptv9.raytahost.com/stream/desh/index.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/09/City-TV.jpg?x89970" group-title="BANGLA ENT.",সিটি-টিভি
@@ -97,6 +95,17 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://egress-1.do-ny-3.ttv.dotworldcorp.com/hls/ttv/index.m3u8
 #EXTINF:0 tvg-logo="http://iptvbd.net/public/channel_logo/1584554736.png" group-title="BANGLA ENT.",TT-Tv
 http://irbtv.net/channelt1/1080/index.m3u8
+#EXTINF:0 tvg-logo="http://livetv.com.bd/wp-content/uploads/2020/11/joybangla.png" group-title="BANGLA ENT.",JagoBangla TV
+https://jagobanglabd-hls.telelivebd.com/jagobanglabd/jagobanglabd_manifest.m3u8
+#EXTINF:0 tvg-logo="http://livetv.com.bd/wp-content/uploads/2020/11/sadhinbangla.png" group-title="BANGLA ENT.",Sadhin Bangla
+https://iptv6.raytahost.com/live/sadhinbangla/index.m3u8
+#EXTINF:0 tvg-logo="http://livetv.com.bd/wp-content/uploads/2020/04/bmftv.png" group-title="BANGLA ENT.",BMF Television
+https://iptv7.raytahost.com/live/bmf/index.m3u8
+#EXTINF:0 tvg-logo="https://pcdn1.jagobd.com/images/xs-d0az6m1628597287449.jpg" group-title="BANGLA ENT.",Rajpath-Tv
+https://tempd.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rajpathtv.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://pcdn1.jagobd.com/images/xs-h4lv11609859933620.jpg" group-title="BANGLA ENT.",Nongor-Tv
+https://tempd.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nongortv.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngM2qyoDtZQYNKbLZJsWT-VlkCna40j9hLRz1fa=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLA ENT.",
 
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngM2qyoDtZQYNKbLZJsWT-VlkCna40j9hLRz1fa=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLA ENT.",Times 24 Tv
 
