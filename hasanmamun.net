@@ -499,6 +499,8 @@ http://203.80.191.3:8089/nimble_live/tensports/chunks.m3u8
 http://103.81.104.118/hls/stream34.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbY2jWV8-1Wdheg4g8w0mI8-K-nbBhzBGnbw&usqp=CAU" group-title="SPORTS.",Bt-Sports 1
 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6YaqnfSigvnK25MvxzqrnSUqYtT9JfuLBLQ&usqp=CAU" group-title="SPORTS.",Live Sports
+http://goiptv.co:8080/live/Ziouiahmed/ldfqcx8bvm/3381.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg/revision/latest/scale-to-width-down/340?cb=20190322143617" group-title="SPORTS.",Sony Ten 1
 http://103.81.104.118/hls/stream40.m3u8
 #EXTINF:0 tvg-logo="https://i2.wp.com/bdixsports.com/wp-content/uploads/2018/04/ten2.jpg?fit=300%2C250" group-title="SPORTS.",Sony Ten 2
