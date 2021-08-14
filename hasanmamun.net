@@ -139,6 +139,14 @@ http://str24.l9574.com/515.stream/index.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/ch4n3ls/playlist.m3u8
 #EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/m7UvZLUj76Gv2Rwvbk1sKYk6ra6zWWmQGkJMCMZtvUME59BH76vU4ScIY0L_qw_qHA=s200" group-title="BANGLA ENT.",নন্দন-টিভি
 http://nandansyst.com/hls/nandan.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpV4_ut9IZJPsTAqE1UuPoD_2laoqm37TcfQ&usqp=CAU" group-TV-7="BANGLA ENT.",টিভি-৭
+http://irbtv.net/flashtv/1080/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6FJBN24udmW4Oh4sytPTq224RgBCOc6kU3w&usqp=CAU" group-MEGNA-TV="BANGLA ENT.",মেঘনা-টিভি
+http://45.125.221.114:1935/live/megnatv/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiRQj75qSVIu3e_4U1O3Wv2_lWSazNKIfLuQ&usqp=CAU" group-FLASH-TV="BANGLA ENT.",ফ্লাশ-টিভি
+http://irbtv.net/flashtv1/1080/index.m3u8
+#EXTINF:0 tvg-logo="http://shopno-tv.com/wp-content/uploads/2019/09/shopno.png" group-SHOPNO-TV="BANGLA MOVIE.",স্বপ্ন-টিভি
+https://talusafagroup.ddns.net:8080/shopno/shopnotv.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/07/thechanneltv-1.jpg" group-title="BANGLA ENT.",দি চ্যানেল- টিভি
 http://str24.l9574.com/518.stream/index.m3u8
 #EXTINF:0 tvg-logo="http://digibangla.tv/assets/img/logo-tv.png" group-title="BANGLA ENT.",ডি জি-টিভি
