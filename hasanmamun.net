@@ -249,6 +249,8 @@ http://203.80.191.3:8089/load/stargoldhd/chunks.m3u8
 http://103.81.104.118/hls/stargold.m3u8
 #EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2020/01/29/star-gold2.jpg" group-title="HINDI MOVIE.",Star-Gold 2
 http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
+#EXTINF:0 tvg-logo="https://www.exchange4media.com/news-photo/1520595397_Bt65eH_logo-white.jpg" group-title="HINDI MOVIE.",Star-Gold select
+http://watchindia.net:8880/live/33253/72963/784.m3u8 see
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Utsav_Gold_Logo.jpg/220px-Utsav_Gold_Logo.jpg" group-title="HINDI MOVIE.",Utsav-gold
 http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-cinema-hd-logo-300x300.jpg" group-title="HINDI MOVIE.",Zee-Cinema HD
