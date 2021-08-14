@@ -409,6 +409,8 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w829907558.m3u8
 http://singamcloud.in:1935/rasinetwork/rasitv/chunklist_w1567602428.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvpc0g3-B2NBkNDZ_dgMSk8aWD2wjgJFbaaUWnAmljnizu2eeFajX42r0UVgRpaFP83jU&usqp=CAU" group-title="ENGLISH MOVIE.",Cinema Tv
 https://sc.id-tv.kz/Cinema_34_35.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRND0gIbth_R9LDYQ_nR9k9tSN3OOv6ZNPtsg&usqp=CAU" group-title="ENGLISH MOVIE.",TV1000 Action HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG-JGzKDT-gNS7vD2Q3rqDknTRFgWhxNkDJA&usqp=CAU" group-title="Movie.", Live Movie 1
 https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG-JGzKDT-gNS7vD2Q3rqDknTRFgWhxNkDJA&usqp=CAU" group-title="Movie.", Live Movie 2
@@ -479,6 +481,8 @@ http://93.157.62.180/RTSHSport/index.m3u8
 https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZpkc7hTNtT9_vN7Ruso7BoI3m9N8WH3REhg&usqp=CAU" group-title="SPORTS.",Fox Brazil 1
 http://134.19.182.131:8080/edg11_2.m3u8
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvjKnm4O3MJJk5jZzvw2A5WlZmtXt4ujrIjw&usqp=CAU" group-title="SPORTS.",M-Sports
+http://stream.tvtap.live:8081/live/es-laligatvbar.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://tv.livebdix.com/index_files/beinsports1.jpg" group-title="beIN SPORTS.",beIN 1
 http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F653%2Fbein-sports-max-1.png" group-title="beIN SPORTS.",beIN 2
@@ -629,8 +633,8 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 https://livedoc.cgtn.com/1000d/prog_index.m3u8?@ShamimHossai
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Gsfi8NlGnkYm4yjo9zWWZEFWHxtvXb39qw&usqp=CAU" group-title="LIFESTYLE.",Epic
 http://watchindia.net:8880/live/33253/72963/794.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7udBqsYi6VXKlmJm6_M3x08PIc1hqRHudykUgRdZCRy8DjmKhI6Skt6U&s=10" group-title="DISCOVERY.", Food Food
-http://streamavi.ml/jio/live.php?c=Food_Food&q=800&e=junk.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Viasat_Nature.png" group-title="DISCOVERY.",Viasat Nature HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL_akXiopEmiVTcnQ3c4eiYqAOW92hdRWNDw&usqp=CAU" group-title="DISCOVERY.", History-18 In
 http://watchindia.net:8880/live/33253/72963/791.m3u8
 
