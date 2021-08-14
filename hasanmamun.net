@@ -323,6 +323,8 @@ https://d3pu3hnym3eusd.cloudfront.net/VH1.m3u8
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNQNGbggAWPHh9QZ45SQLr6fn1yFO0-bHIQQ&usqp=CAU" group-AM="ENGLISH MOVIE.", Movie 1
 http://203.80.191.3:8089/load/engadventure/chunks.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmXEUJI2g3s4orr4VqP4KOWkBoDYMIhbcQAA&usqp=CAU" group-AM="ENGLISH MOVIE.",BOO-Tv
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTapLOqE5VEsFZaG7T3jQWZAnO-A6VTFEuvcw&usqp=CAU" group-AM="ENGLISH MOVIE.",HALOW MOVIES 
 http://echotv.online:8080/live/HalowTV/FSyzHfEhvb/138.m3u8
 #EXTINF:0 tvg-logo="https://moghbazar.net/wp-content/uploads/2020/12/icon-1.png" group-title="ENGLISH MOVIE.",Dhaka Live Flix
