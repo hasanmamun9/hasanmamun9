@@ -131,6 +131,8 @@ https://www.webtvbd.com/download/bdix/atn_music.m3u8
 https://rhridoy136.shortcm.li/gaanbangla.m3u8
 #EXTINF:0 tvg-logo="https://www.colorsiptv.com/uploads/tv_image/sm/aheli-tv.png" group-title="BANGLA ENT.",অহেলি-টিভি
 http://ahelitv.beeiptv.com:8081/ahelitv/aheli/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://abohomanbangla.com/Bangladesh_web_directory/tv_image/onuvhuti-TV.png" group-ONUVHUTI-TV="BANGLA ENT.",অনুভূতি-টিভি
+http://103.56.7.130:1935/live/onuvhutitv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://cabeltvapp.com/wp-content/uploads/2020/11/NB-tv.jpg" group-title="BANGLA ENT.",এন বি-টিভি
 http://208.86.19.13:81/live/NYB/index.m3u8
 #EXTINF:0 tvg-logo="https://cabeltvapp.com/wp-content/uploads/2020/09/PNG-200x200.png" group-title="BANGLA ENT.",মীম-টিভি
