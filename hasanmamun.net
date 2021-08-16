@@ -451,8 +451,8 @@ http://stream.tvtap.live:8081/live/de-sixx.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/it-premium-cinema1.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="ENGLISH MOVIE.",Cinemax-Tv
 https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdlgPMTyvitDts50AfZNpDyGhCMvZNljXnHQ&usqp=CAU" group-AM="ENGLISH MOVIE.",Family Flix
-https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
+#EXTINF:0 tvg-logo="https://biswastv.com/uploads/tv_image/sm/mbc-persia-8uzrekcr5ev9.png" group-AM="ENGLISH MOVIE.",Mbc Persia
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
 #EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",My Cinema Europe
 http://210.210.155.35/session/bc0a1e22-773f-11eb-ab01-a3d7ba48b0db/uq2663/h/h18/02.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSZbiQAAjiVaqQvljUKT7MT8C6b-8DDxJDaA&usqp=CAU" group-title="SPORTS.",Astro SuperSport 1
