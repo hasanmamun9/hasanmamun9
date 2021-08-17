@@ -408,7 +408,7 @@ http://185.236.229.21:9981/play/a04n
 #EXTINF:0 tvg-logo="https://www.hitstv.com/assets/logo-HITSMOVIES.png"group-titile="ENGLISH MOVIE.",Hits Movie
 http://93.190.139.35:8278/streams/d/Hitsmovie/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.hitstv.com/img/hits-movies-logo.png"group-titile="ENGLISH MOVIE.",Hits
-http://93.190.139.35:8278/streams/d/Hitsmovie/playlist.m3u8
+http://93.190.139.35:8278/streams/d/Hits/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlxC8b9KgPmJbIbGQpQTe0Kqf0AYgacCMRg&usqp=CAU" group-title="ENGLISH MOVIE.",AMC IFC Film Picks
 https://amc-ifc-films-picks-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPqALOzmMWqHoFZj9rSiXB9rzbOwPZ5z1jqg&usqp=CAU" group-title="ENGLISH MOVIE.", Movie Tv 24/7
