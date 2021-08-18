@@ -225,6 +225,8 @@ http://203.80.191.3:8089/load/indianactionmov/mpeg.2ts
 https://stream1.playbox.co.in:1936/live1/movieopera/playlist.m3u8
 #EXTINF:0 tvg-logo="https://d1p9fevdiihrnk.cloudfront.net/uploads/channel/logo/m_classic_logo.png" group-title="HINDI MOVIE.",MO CLASSIC
 https://d3cg98dbjyu3j4.cloudfront.net/MOCLASSIC.m3u8
+#EXTINF:0 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/08/images-1-1.png" group-title="HINDI MOVIE.",Astro Box Office Bollyone HD
+http://50.7.161.82:8277/streams/d/bollyone_pye/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI0Lma4ArKeu1LIwmnBYMSXNRzYYS_XSazJA&usqp=CAU" group-title="HINDI MOVIE.",& Xploer
 http://watchindia.net:8880/live/33253/72963/2204.m3u8
 #EXTINF:0 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/andpictures-hd.jpg" group-title="HINDI MOVIE.",& Pictures Hd
