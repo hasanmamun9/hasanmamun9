@@ -242,7 +242,7 @@ http://103.81.104.118/hls/stream29.m3u8
 #EXTINF:0 tvg-logo="https://etimg.etb2bimg.com/photo/76192361.cms" group-title="HINDI MOVIE.",Rishtey Cineplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 #EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2020/03/04/Colors-Cineplex.jpg" group-title="HINDI MOVIE.",Colors Cineplex Bollywood
-http://tvstream.space/jtv/mhdworld.php?c=Colors_Cineplex_Bollywood&=800&e=.m3u8
+http://tvstream.space/jtv/jioliveex.php?c=Colors_Cineplex_Bollywood&=800&e=.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo4cdfLfq1DvEPh5ONqNKYEK7blT5eKyw1HQ&usqp=CAU" group-title="HINDI MOVIE.",Joo-Music
 https://eu-fr.tvapp.icu/joomusic/tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxn3DZTzMN4dE-mtoVOudhQXuSVwJqlSxz6w&usqp=CAU" group-title="HINDI MOVIE.",Venus Tv
@@ -250,7 +250,7 @@ http://192.248.147.22:8080/hls/mystream.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYEKADgmsf-e7yPe59bUw_YxxKG0PyMypZmw&usqp=CAU" group-title="HINDI MOVIE.",E24
 http://watchindia.net:8880/live/33253/72963/829.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY3yX_ivU7aqcJPwZj2jy9OcS-e1tipjrGfw&usqp=CAU" group-title="HINDI MOVIE.",Abzy Movies
-http://tvstream.space/jtv/mhdworld.php?c=ABZY_Movies&=800&e=.m3u8
+http://tvstream.space/jtv/jioliveex.php?c=ABZY_Movies&=800&e=.m3u8
 #EXTINF:0 tvg-logo="https://www.pngkey.com/png/detail/211-2118020_utv-action-utv-action-logo-png.png" group-title="HINDI MOVIE.",UTV-Action
 http://84.17.41.7/UTVACTION-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3tOy2jMIhkEjOBoDMQcQsMZAGwA5LjT8jfA&usqp=CAU" group-title="HINDI MOVIE.",Sony-Max
