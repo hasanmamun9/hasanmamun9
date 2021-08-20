@@ -626,7 +626,7 @@ http://203.80.191.3:8089/nimble_live/discovery/chunks.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrRGN4cRORl4xftvDb6EF1SmJExOJbokPHQg&usqp=CAU" group-title="DISCOVERY.",Discovery Asia
 https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://www.pngkey.com/png/detail/134-1341595_discovery-channel-transparent-discovery-channel-logo.png" group-title="DISCOVERY.",Discovery Bd
-http://103.81.104.118/hls/stream9.m3u8
+http://89.187.182.181:9090/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="LIFESTYLE.",BBc Eaeth
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Sony_BBC_Earth.png" group-title="LIFESTYLE.",Sony Eaeth
