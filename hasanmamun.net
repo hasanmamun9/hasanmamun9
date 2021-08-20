@@ -51,8 +51,8 @@ http://203.80.191.3:8089/load/gazitv/playlist.m3u8
 http://203.80.191.3:8089/load/asiantv/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ec/a7/20/eca720aa9f51dceffb8145020e9aaa47.jpg" group-NAGORIK-TV="BANGLA ENT.",নাগরিক-টিভি
 http://203.80.191.3:8089/load/nagoriktv/chunks.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnhPi2C_QLukfSgy1ttpD4awl-BHLJyQnkXQ&usqp=CAU" group-title="BANGLA MOVIE.",বঙ্গ মুভি-টিভি
-http://rv.bleutv.net:80/477816014111154/477816014111154/83795
+#EXTINF:0 tvg-logo="http://likeebd.com/uploads/tv_image/sm/bvc-bangla-tv.jpg" group-title="BANGLA MOVIE.",বিভিসি-টিভি
+http://45.127.246.75:1935/bvcbangla/myStream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQULo41j55uRSBt1LlUmNYzEzs48aDkibHeJg&usqp=CAU" group-BANGLA-TV="BANGLA ENT.",বঙ্গ-টিভি
 http://103.109.213.18:5563/live/bongotv/chunklist_w937507918.m3u8
 #EXTINF:0 tvg-logo="https://biswastv.com/uploads/tv_image/sm/biswas-tv.jpg" group-NAGORIK-TV="BANGLA ENT.",বিশ্বাস-টিভি
