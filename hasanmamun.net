@@ -286,7 +286,7 @@ https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
 #EXTINF:0 tvg-logo="http://thekolkatamail.com/wp-content/uploads/2021/04/09zeeanmolcinemazeeanmolci.png" group-title="HINDI MOVIE.",Zee-Anmol Cinema(BDIX)
 https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw4o0as1lsqvDsmY8vWo8ePizscA1QxVinFA&usqp=CAU" group-title="HINDI MOVIE.",UTV Movie
-http://84.17.41.7/UTVMOVIES-Hin/tracks-v1a1/mono.m3u8
+http://tvflix03.ddns.net/ENC-20/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3P1x6WgDzInpCt466pWaJFtzi06U73oz2Ig&usqp=CAU" group-title="HINDI MOVIE.",BBO
 http://watchindia.net:8880/live/33253/72963/2157.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd04t6E6tGh_wOv4RLebUkByRh_6AVn4FZ5w&usqp=CAU" group-title="HINDI MOVIE.",B4u Movie-India
@@ -576,7 +576,7 @@ http://mygoodstream.pw/proxy.php/http://134.19.182.131:8080/edg8_2.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEbGREl41-hIsesDVB0ZTKa35thFAReJwmBw&usqp=CAU" group-title="SPORTS.",Dazn 2 sports
 http://stream.tvtap.live:8081/live/it-dazn2.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZPSJOxMtaD5Mb6leNGG4sqQXm2BKtGHryCQ&usqp=CAU" group-title="SPORTS.",T-Sports
-http://173.199.120.51/hls/tsports.m3u8
+http://137.59.155.77:8088/hls/06T_SportsBD.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlSx3SpaHGzFjxjCVlLuOX7hDHJXXNWcqWRw&usqp=CAU" group-title="SPORTS.",Mat4 1 Sports
 https://chostv.mobie.in/choos/sports/matchqy1.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpa0Y28X7YKc3CG-k7YMPqr9eRm8HzpKk-FA&usqp=CAU" group-title="SPORTS.",Mat4 2 Sports
