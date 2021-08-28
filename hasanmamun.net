@@ -151,6 +151,8 @@ http://208.86.19.13:81/502.stream/index.m3u8
 http://208.86.19.13:81/live/banglany2/index.m3u8
 #EXTINF:0 tvg-logo="https://cabeltvapp.com/wp-content/uploads/2020/09/bc.jpg" group-title="BANGLA ENT.",বাংলা-টিভি ইউ এস
 http://str24.l9574.com/515.stream/index.m3u8
+#EXTINF:0 tvg-logo="https://cabeltvapp.com/wp-content/uploads/2020/10/InShot_20201026_154538134-200x200.jpg" group-title="BANGLA ENT.",এফবি-টিভি
+http://162.244.81.200:1935/live/livestream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj0Q5raTcpgz6QgkKhzyOCr2RGsjD3DKp8yGdmA9A=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLA ENT.",চ্যানেল-এস ইউ কে
 https://ap02.iqplay.tv:8082/iqb8002/ch4n3ls/playlist.m3u8
 #EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/m7UvZLUj76Gv2Rwvbk1sKYk6ra6zWWmQGkJMCMZtvUME59BH76vU4ScIY0L_qw_qHA=s200" group-title="BANGLA ENT.",নন্দন-টিভি
