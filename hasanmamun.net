@@ -76,7 +76,7 @@ http://128.199.212.160/aliftv/1080/index.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/05/rangiptv-1.jpg?x89970" group-RANG-TV="BANGLA ENT.",রং-টিভি
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rangiptv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2021/07/nexustv.png?x39333" group-B-TV="BANGLA ENT.",নেক্সাস-টিভি
-https://tempcol.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/live-orgin/nexustv.stream/chunks.m3u8?nimblesessionid=308842991&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDM6Mjk6MTcgUE0maGFzaF92YWx1ZT0rUWlSb3ZOTW5Zb1lEQkJQaVBiS09nPT0mdmFsaWRtaW51dGVzPTUwJmlkPTU=
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/rGSlPtKbkld0vqihdEUUtmfR_LDwEymmCNwicqgByPAYaanwbMVO0N-UyuQ94zTB8e-Z" group-CHANNEL-23="BANGLA MOVIE.",চ্যানেল-২৩(BDIX)
 http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/royal_tv.png" group-ROYAL-TV="BANGLA ENT.",রয়েল-টিভি
@@ -186,7 +186,7 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/varendro-tv.jpg?x53121" group-title="BANGLA ENT.",বরেন্দ্র-টিভি
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/varendratv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMi8yMDIxIDg6NTE6NTYgQU0maGFzaF92YWx1ZT1PZFR2OFVpTm4wVHlaeW9ZMFVjV1dRPT0mdmFsaWRtaW51dGVzPTQw
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/bangla21tv.jpg?x15351" group-21-BANGLA TV="BANGLA ENT.",২১ বাংলা-টিভি
-https://tempcol.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bangla21tv000889956-sg.stream/live-orgin/bangla21tv000889956-sg.stream/chunks.m3u8?nimblesessionid=308849293&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDM6Mjk6NTMgUE0maGFzaF92YWx1ZT11YkJKNUdQLzV4V0h3bmN3NndsVjdRPT0mdmFsaWRtaW51dGVzPTUwJmlkPTU=
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bangla21tv000889956-sg.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/llW7cf9_WZQ/hqdefault.jpg" group-CHANNEL-69="BANGLA MOVIE.",চ্যানেল-৬৯
 https://iptv10.raytahost.com/lite/channel69_hi/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Channel_H-logo.png" group-title="BANGLA ENT.",চ্যানেল-এইস
