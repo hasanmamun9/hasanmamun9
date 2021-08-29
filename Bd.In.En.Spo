@@ -1,7 +1,7 @@
-
-
-
-
+#EXTINF:0 tvg-logo="http://tvbangla.co.in/wp-content/uploads/2021/03/tv_bangla-e1614589280396.png" group-N-TV UK="BANGLA ENT.",Tv-Bangla
+http://223.29.200.218:8080/playlist.m3u8
+#EXTINF:0 tvg-logo="http://tvbangla.co.in/wp-content/uploads/2021/03/tv_bangla-e1614589280396.png" group-N-TV UK="BANGLA ENT.",Rajpot-Tv
+https://tempd.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rajpathtv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIxIDI6NTE6MDYgUE0maGFzaF92YWx1ZT0zUk43QWtLK2FtaTZZQmcyVENUVndBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:0 tvg-logo="https://www.exchange4media.com/news-photo/1520595397_Bt65eH_logo-white.jpg" group-title="HINDI MOVIE.",Star-Gold select
 http://178.62.107.180/woh/index.m3u8?id=48108
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6U_6-dWlBYg-84eO7vX-31GzH-GK8V2JmKA&usqp=CAU" group-title="HINDI MOVIE.",And-explore
