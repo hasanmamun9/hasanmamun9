@@ -111,6 +111,8 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 http://iptvbd.jagobd.com:1931/boishakhi/jaratv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="http://livetv.com.bd/wp-content/uploads/2020/07/gbangla.png" group-SHOPNO-TV="BANGLA MOVIE.",জি বাংলা-টিভি
 https://iptv10.raytahost.com/desh/gbangla/index.m3u8
+#EXTINF:0 tvg-logo="http://cabeltvapp.com/wp-content/uploads/2020/12/Ayna-tv-200x200.jpg" group-AGAMI-TV="BANGLA ENT.",আগামী-টিভি
+http://85.203.33.88:80/CyUjwzyMV8/T654RI9723/28192
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/836470145652383744/v4refNT9_400x400.jpg" group-S-BANGLA RED="BANGLA MOVIE.",এস-বাংলা-টিভি
 http://iptvbd.jagobd.com:1931/boishakhi/channelsbd.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2021/03/falgunitv.jpg" group-FALGUNI-TV="BANGLA MOVIE.",ফাল্গুনী-টিভি
