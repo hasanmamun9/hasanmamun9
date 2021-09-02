@@ -63,8 +63,6 @@ http://45.127.246.75:1935/starbanglatv/myStream/playlist.m3u8
 http://iptvbd.jagobd.com:1931/boishakhi/alponatv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2021/03/CNN-Bangla.jpeg" group-CNN-BANGLA="BANGLA ENT.",সিএনএন-বাংলা
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/cnnbangla.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2021/03/CNN-Bangla.jpeg" group-CNN-BANGLA 2="BANGLA MOVIE.", সিএনএন-বাংলা ২
-https://cdn1-europe.smartcast.tv/rtvd/cnnb_backup/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/08/bb24tv.jpg" group-BISWA-BANGLA="BANGLA ENT.",বিশ্ববাংলা ২৪
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/biswabanglatv.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/12/canbangla.jpg" group-CAN-BANGLA="BANGLA ENT.",ক্যানাডা বাংলা-টিভি
@@ -267,8 +265,8 @@ https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 http://luckonline.eu:8080/live/KjPypddrq4/8p1pLrAVDh/630.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4tpx9AoVUaX_AN80nBP1_05b6ksF4bPqnZg&usqp=CAU" group-title="HINDI MOVIE.",Star-Gold HD
 http://203.80.191.3:8089/load/stargoldhd/chunks.m3u8
-#EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2020/01/29/star-gold2.jpg" group-title="HINDI MOVIE.",Star-Gold 2
-http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
+#EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2020/01/29/star-gold2.jpg" group-title="HINDI MOVIE.",Star-Gold 2 Hd
+http://tvflixvip.ddns.net/hls/stargold.m3u8
 #EXTINF:0 tvg-logo="https://www.exchange4media.com/news-photo/1520595397_Bt65eH_logo-white.jpg" group-title="HINDI MOVIE.",Star-Gold select
 http://85.203.33.88:80/CyUjwzyMV8/T654RI9723/6228
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Utsav_Gold_Logo.jpg/220px-Utsav_Gold_Logo.jpg" group-title="HINDI MOVIE.",Utsav-gold
