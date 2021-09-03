@@ -367,6 +367,8 @@ http://app.smartbox.digital:8089/premium/mnx/mpeg.2ts
 http://203.80.191.3:8089/load/startrekmovies/playlist.m3u8
 #EXTINF:0 tvg-logo="https://media.elcinema.com/tvguide/1323_1.png" group-title="ENGLISH MOVIE.",beIN Movie 2
 http://203.80.191.3:8089/load/starwarsmovies/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfjXVCwqWJ1VfiettrMrM8DFKw69wxTMQPkg&usqp=CAU" group-title="ENGLISH MOVIE.",Osn-Action
+http://56.abdakaroukhai.xyz/live/031/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv83wyglG_3gJb6pB1cGbuKVpbUF1Fx54CCA&usqp=CAU" group-title="ENGLISH MOVIE.",Hollywood Movies
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:0 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072011/logo__slogan.ai_.png?itok=8W0eAesx"group-titile="ENGLISH MOVIE.",CCM CLASSIC
@@ -419,8 +421,6 @@ http://143.244.60.10/HINDI__STAR_GOLD_SELECT_HD/index.m3u8
 http://stream.tvtap.live:8081/live/us-amc.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/TVCine-ACTION.png" group-title="ENGLISH MOVIE.",TVCine Action
 http://185.236.229.21:9981/play/a04n
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfjXVCwqWJ1VfiettrMrM8DFKw69wxTMQPkg&usqp=CAU" group-title="ENGLISH MOVIE.",Osn-Action
-http://56.abdakaroukhai.xyz/live/031/index.m3u8
 #EXTINF:0 tvg-logo="https://www.hitstv.com/assets/logo-HITSMOVIES.png"group-titile="ENGLISH MOVIE.",Hits Movie
 http://93.190.139.35:8278/streams/d/Hitsmovie/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.hitstv.com/img/hits-movies-logo.png"group-titile="ENGLISH MOVIE.",Hits
