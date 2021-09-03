@@ -333,8 +333,6 @@ http://56.abdakaroukhai.xyz/live/031/index.m3u8
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:0 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072011/logo__slogan.ai_.png?itok=8W0eAesx"group-titile="ENGLISH MOVIE.",CCM CLASSIC
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxWeF2cL3J6gslWAZ-4SAGKbQcUmZvrmL5Ew&usqp=CAU"group-titile="ENGLISH MOVIE.",Sci-Fi
-http://mfe.cliptv.az/dash/Sony_Sci_Fi_SD.ism/playlist.mpd?checkedby:hlscat.com
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjRzY0Wk0fqdJXcy8VeJbi2gPFZ8WIDRp-TA&usqp=CAU" group-title="ENGLISH MOVIE.",Syfy Tv
 http://stream.tvtap.net:8081/live/us-syfy.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://thumbnail.imgbin.com/22/13/24/imgbin-logo-sony-six-television-channel-sony-ten-sony-entertainment-television-kri8it-defining-digital-Acybc4HApnRxU3ck2ifyc7cAz_t.jpg" group-title="ENGLISH MOVIE.",Sony Pix
