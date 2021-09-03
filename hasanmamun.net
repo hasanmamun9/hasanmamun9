@@ -46,7 +46,7 @@ http://iptvbd.jagobd.com:1931/boishakhi/mohonatv00000223232244556633.stream/chun
 #EXTINF:0 tvg-logo="https://tv.bdtype.com/uploads/tv_image/desh-tv.png" group-DESH-TV="BANGLA ENT.",দেশ-টিভি
 http://203.80.191.3:8089/load/deshtv/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-G-TV="BANGLA ENT.",গাজী-টিভি
-http://203.80.191.3:8089/load/gazitv/playlist.m3u8
+http://tvflixucs.ddns.net:8088/hls/01gazitv.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-ASIAN-TV="BANGLA ENT.",এশিয়ান-টিভি
 http://203.80.191.3:8089/load/asiantv/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ec/a7/20/eca720aa9f51dceffb8145020e9aaa47.jpg" group-NAGORIK-TV="BANGLA ENT.",নাগরিক-টিভি
@@ -109,8 +109,8 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 http://iptvbd.jagobd.com:1931/boishakhi/jaratv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="http://livetv.com.bd/wp-content/uploads/2020/07/gbangla.png" group-SHOPNO-TV="BANGLA MOVIE.",জি বাংলা-টিভি
 https://iptv10.raytahost.com/desh/gbangla/index.m3u8
-#EXTINF:0 tvg-logo="http://cabeltvapp.com/wp-content/uploads/2020/12/Ayna-tv-200x200.jpg" group-AGAMI-TV="BANGLA ENT.",আগামী-টিভি
-http://85.203.33.88:80/CyUjwzyMV8/T654RI9723/28192
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeFWysDx9UB5qbYFlJqlfoIgZSB8r-msA7OA&usqp=CAU" group-AGAMI-TV="BANGLA ENT.",ইয়েস-টিভি
+https://yestv-hls.telelivebd.com/yestv/yestv_manifest.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/836470145652383744/v4refNT9_400x400.jpg" group-S-BANGLA RED="BANGLA MOVIE.",এস-বাংলা-টিভি
 http://iptvbd.jagobd.com:1931/boishakhi/channelsbd.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2021/03/falgunitv.jpg" group-FALGUNI-TV="BANGLA MOVIE.",ফাল্গুনী-টিভি
@@ -542,9 +542,9 @@ http://tvflix03.ddns.net/ENC-3/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSKL_kx7lSmQm6A76NAw9ELSfxsJ1HuAM9cg&usqp=CAU" group-title="SPORTS.",Sky-Football
 http://203.80.191.3:8089/nimble_live/skyfootball/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfsFCVHffnNjsqYtyMP10_e2i_hKikQ2JYswj51osv9kICEWd960REDHImHrcZD1l69g&usqp=CAU" group-title="SPORTS.",Star Sports 1
-http://103.81.104.118/hls/stream15.m3u8
+http://jupiter.bdcabletv.com/Star-Sports_1HD_ENC/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://banner2.cleanpng.com/20180611/ivp/kisspng-star-sports-star-india-television-channel-sony-ten-sportstv-5b1ed6839505d4.2492886615287476516104.jpg" group-title="SPORTS.",Star Sports 2
-http://103.81.104.118/hls/stream14.m3u8
+http://173.199.120.51/hls/chss2.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXlFH_3cl5BIpBGygw1ATyzk1j5NgFtrDpKg&usqp=CAU" group-title="SPORTS.",Star Sports S 1
 http://203.80.191.3:8089/nimble_live/starselect1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Sports-select-2.jpg" group-title="SPORTS.",Star Sports S 2
