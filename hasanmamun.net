@@ -256,11 +256,11 @@ http://203.80.191.3:8089/load/zeecinemahd/chunks.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxBA8aeKmQdc2VygaO38UOnIgjnmWHl1LExg&usqp=CAU" group-title="HINDI MOVIE.", Zee Classic
 http://watchindia.net:8880/live/33253/72963/802.m3u8
 #EXTINF:0 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/58c90ef7694fe70f730ff014/1565808835654/246fc32281bd88720c5a6dbd7c9a3984.png" group-title="HINDI MOVIE.",Zee-Action(BDIX)
-https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
+http://watchindia.net:8880/live/60275/20486/821.m3u8
 #EXTINF:0 tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2018/08/Zee-Bollywood-Logo.jpg" group-title="HINDI MOVIE.",Zee-Bollywood
-https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
+http://watchindia.net:8880/live/60275/20486/822.m3u8
 #EXTINF:0 tvg-logo="http://thekolkatamail.com/wp-content/uploads/2021/04/09zeeanmolcinemazeeanmolci.png" group-title="HINDI MOVIE.",Zee-Anmol Cinema(BDIX)
-https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
+http://watchindia.net:8880/live/60275/20486/820.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw4o0as1lsqvDsmY8vWo8ePizscA1QxVinFA&usqp=CAU" group-title="HINDI MOVIE.",UTV Movie
 http://tvflix03.ddns.net/ENC-20/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3P1x6WgDzInpCt466pWaJFtzi06U73oz2Ig&usqp=CAU" group-title="HINDI MOVIE.",BBO
@@ -288,7 +288,7 @@ https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGDpPjr6t27KUSB9hC8LxvyvtL_S2CTWuNEw&usqp=CAU" group-title="HINDI MUSIC.",SHOW MUSIC
 https://d2lybujvbxswjw.cloudfront.net/SHOW_MUSIC.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Zoom_Logo.png" group-title="HINDI MUSIC.",ZOOM TV HD
-http://103.81.104.118/hls/stream8.m3u8
+http://watchindia.net:8880/live/60275/20486/842.m3u8
 #EXTINF:0 tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/9XM_Logo.png" group-title="HINDI MUSIC.",9XM(BDIX)
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:0 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/54413525938977.5634d18d0bf21.jpg" group-title="HINDI MUSIC.", 9XM-Jalwaa(BDIX)
