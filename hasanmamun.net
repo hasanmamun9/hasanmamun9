@@ -161,6 +161,8 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/doyeltv.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://cabeltvapp.com/wp-content/uploads/2020/09/itv-200x200.png" group-title="BANGLA ENT.",আই-টিভি ইউ কে
 http://162.244.81.142:1935/live/livestream/playlist.m3u8
+#EXTINF:0 tvg-logo="http://iptvbd.net/public/channel_logo/1630834394.png" group-title="BANGLA ENT.",সানন্দা-টিভি
+http://irbtv.net/swanandatv/1080/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeoVs4QFlAGgjUTca8Nr8SKBvisPlKeYRBFw&usqp=CAU" group-title="BANGLA MOVIE.",দেশি-টিভি
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/varendro-tv.jpg?x53121" group-title="BANGLA ENT.",বরেন্দ্র-টিভি
