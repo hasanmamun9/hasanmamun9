@@ -67,8 +67,6 @@ http://enaniptv.com/rnntv/1080/index.m3u8
 http://irbtv.net/channelt1/1080/index.m3u8
 #EXTINF:0 tvg-logo="http://livetv.com.bd/wp-content/uploads/2020/11/joybangla.png" group-title="BANGLA ENT.",JagoBangla TV
 https://jagobanglabd-hls.telelivebd.com/jagobanglabd/jagobanglabd_manifest.m3u8
-#EXTINF:0 tvg-logo="http://livetv.com.bd/wp-content/uploads/2020/11/sadhinbangla.png" group-title="BANGLA ENT.",Sadhin Bangla
-https://iptv6.raytahost.com/live/sadhinbangla/index.m3u8
 #EXTINF:0 tvg-logo="http://livetv.com.bd/wp-content/uploads/2020/04/bmftv.png" group-title="BANGLA ENT.",BMF Television
 https://iptv7.raytahost.com/live/bmf/index.m3u8
 #EXTINF:0 tvg-logo="https://pcdn1.jagobd.com/images/xs-d0az6m1628597287449.jpg" group-title="BANGLA ENT.",Rajpath-Tv
@@ -85,5 +83,4 @@ http://tvs.shaikhul.com/powellonetv/live/index.m3u8
 https://cnbtv.raytahost.com/live/1080/index.m3u8
 #EXTINF:0 tvg-logo="https://channel-16tv.com/wp-content/uploads/2021/08/cropped-mainlogo.png" group-title="BANGLA ENT.", Channel-16
 http://master.beeiptv.com:8081/News16TV/news16tv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngM2qyoDtZQYNKbLZJsWT-VlkCna40j9hLRz1fa=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLA ENT.",Times 24 Tv
-http://192.168.1.101:8081/flashtv/anandatv.stream/playlist.m3u8
+
