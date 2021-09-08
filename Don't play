@@ -18,3 +18,15 @@ http://irbtv.net/swanandatv/1080/index.m3u8
 http://ahelitv.beeiptv.com:8081/ahelitv/aheli/playlist.m3u8
 #EXTINF:0 tvg-logo="http://iptvbd.net/public/channel_logo/1629301528.jpeg" group-title="BANGLA ENT.",মেরিন-টিভি
 https://new.rongintv.com:30443/marinstv/1080/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrnjmRzgpWnA-EtEv_GbYU0TwhTYKGhpRRBQ&usqp=CAU" group-TV-DHAKA="BANGLA ENT.",টিভি-ঢাকা 
+http://enaniptv.com/tvdhaka24live/1080/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxtqdnPD9I3l33k_LlI-zO7Rxe0a1xAAau2g&usqp=CAU" group-WNN-TV="BANGLA ENT.",আন্দামান-টিভি
+http://148.72.158.28/hls/Andaman1.m3u8
+#EXTINF:0 tvg-logo="http://iptvbd.net/public/channel_logo/1623174399.png" group-CHANNEL-A="BANGLA ENT.",চ্যানেল-এ
+http://irbtv.net/atv//1080/index.m3u8
+#EXTINF:0 tvg-logo="http://iptvbd.net/public/channel_logo/1604383101.png" group-RUPANTOR-TV="BANGLA ENT.",রূপান্তর-টিভি
+http://206.189.32.183/rupantortv/1080/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiRQj75qSVIu3e_4U1O3Wv2_lWSazNKIfLuQ&usqp=CAU" group-FLASH-TV="BANGLA ENT.",ফ্লাশ-টিভি
+http://irbtv.net/flashtv1/1080/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWpfoFDkjnxdr7f1s7JIHAUo46ix9st-itSQ&usqp=CAU" group-RNN-TV="BANGLA ENT.",আর এন এন-টিভি
+http://enaniptv.com/rnntv/1080/index.m3u8
