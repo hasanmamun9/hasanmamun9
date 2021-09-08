@@ -104,6 +104,8 @@ http://iptvbd.jagobd.com:1931/boishakhi/jaratv.stream/chunks.m3u8
 https://iptv10.raytahost.com/desh/gbangla/index.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/836470145652383744/v4refNT9_400x400.jpg" group-S-BANGLA RED="BANGLA MOVIE.",এস-বাংলা-টিভি
 http://iptvbd.jagobd.com:1931/boishakhi/channelsbd.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6FJBN24udmW4Oh4sytPTq224RgBCOc6kU3w&usqp=CAU" group-MEGNA-TV="BANGLA ENT.",মেঘনা-টিভি
+http://45.125.221.114:1935/live/megnatv/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/K/KTV-logo-E260328BCB-seeklogo.com.gif" group-K-TV="BANGLA ENT.",কে-টিভি(BDIX)
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/mileninumTV.jpg?x89970" group-MILLENNIUM-TV="BANGLA ENT.",মিলিনিয়াম-টিভি
