@@ -424,6 +424,10 @@ https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
 #EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",My Cinema Europe
 http://210.210.155.35/session/bc0a1e22-773f-11eb-ab01-a3d7ba48b0db/uq2663/h/h18/02.m3u8
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/ttusrw1445657002.png" group-title="SPORTS.",Ssetanta Sports 1
+https://95-213-224-181.livesports24.online/rusetantaeurasia.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRxJau8V7C9u9XvQGN4WL_lFh-vKNnGq_SsA&usqp=CAU" group-title="SPORTS.",Ssetanta Sports 2
+https://95-213-224-181.livesports24.online/setantaplusru.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7FQDXlU4DqLDQ1e7aGwaTkunwfGUztjsBuA&usqp=CAU" group-title="SPORTS.",Arena Sports
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_1.png" group-title="SPORTS.",Arena Sports 1
