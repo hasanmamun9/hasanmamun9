@@ -25,8 +25,6 @@ http://enaniptv.com/tvdhaka24live/1080/index.m3u8
 https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/sonalitv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2018/09/joyjatra1.jpg" group-JOY-JATRA="BANGLA ENT.",জয়যাত্রা-টিভি
 https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/joyjatratv.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="http://livetv.com.bd/wp-content/uploads/2020/12/Untitled-1.png" group-SHWAPNO-TV="BANGLA MOVIE.",স্বপ্ন বাংলা-টিভি
-https://iptv9.raytahost.com/live/shwapno/index.m3u8
 #EXTINF:0 tvg-logo="http://likeetv.com/uploads/tv_image/ruposhi-bangla-tv-2ut53ekt8b9t.jpg" group-RUPOSHI-BANGLA="BANGLA MOVIE.",রূপসী বাংলা-টিভি
 https://5fe9adb07250c.streamlock.net/demo/rup/manifest_w1128088793.mpd
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL_9dUtM88gx5wBWPS8-ts0WO_uSjs3RPenQ&usqp=CAU" group-SHOPNO-TV="BANGLA MOVIE.",এস-ভিসন
@@ -47,14 +45,10 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://ekattorbangla-hls.telelivebd.com/ekattorbangla/ekattorbangla-transmux.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/09/City-TV.jpg?x89970" group-title="BANGLA ENT.",সিটি-টিভি
 https://new.rongintv.com:30443/citytv/1080/playlist.m3u8
-#EXTINF:0 tvg-logo="http://livetv.com.bd/wp-content/uploads/2020/11/sadhinbangla.png" group-title="BANGLA ENT.",স্বাধীন-বাংলা
-https://iptv2.raytahost.com/live/sadhinbangla/index.m3u8
 #EXTINF:0 tvg-logo="https://cabeltvapp.com/wp-content/uploads/2021/07/SAARC-TV-200x200.jpg" group-title="BANGLA ENT.",সার্ক-টিভি
 http://208.86.19.13:81/live/usbangla.stream/index.m3u8
 #EXTINF:0 tvg-logo="http://iptvbd.net/public/channel_logo/1630834394.png" group-title="BANGLA ENT.",সানন্দা-টিভি
 http://irbtv.net/swanandatv/1080/index.m3u8
-#EXTINF:0 tvg-logo="https://www.colorsiptv.com/uploads/tv_image/sm/aheli-tv.png" group-title="BANGLA ENT.",অহেলি-টিভি
-http://ahelitv.beeiptv.com:8081/ahelitv/aheli/playlist.m3u8
 #EXTINF:0 tvg-logo="http://iptvbd.net/public/channel_logo/1629301528.jpeg" group-title="BANGLA ENT.",মেরিন-টিভি
 https://new.rongintv.com:30443/marinstv/1080/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrnjmRzgpWnA-EtEv_GbYU0TwhTYKGhpRRBQ&usqp=CAU" group-TV-DHAKA="BANGLA ENT.",টিভি-ঢাকা 
