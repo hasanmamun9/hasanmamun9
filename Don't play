@@ -45,8 +45,6 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://ekattorbangla-hls.telelivebd.com/ekattorbangla/ekattorbangla-transmux.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/09/City-TV.jpg?x89970" group-title="BANGLA ENT.",সিটি-টিভি
 https://new.rongintv.com:30443/citytv/1080/playlist.m3u8
-#EXTINF:0 tvg-logo="https://cabeltvapp.com/wp-content/uploads/2021/07/SAARC-TV-200x200.jpg" group-title="BANGLA ENT.",সার্ক-টিভি
-http://208.86.19.13:81/live/usbangla.stream/index.m3u8
 #EXTINF:0 tvg-logo="http://iptvbd.net/public/channel_logo/1630834394.png" group-title="BANGLA ENT.",সানন্দা-টিভি
 http://irbtv.net/swanandatv/1080/index.m3u8
 #EXTINF:0 tvg-logo="http://iptvbd.net/public/channel_logo/1629301528.jpeg" group-title="BANGLA ENT.",মেরিন-টিভি
