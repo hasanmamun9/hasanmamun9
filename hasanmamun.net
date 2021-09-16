@@ -470,6 +470,8 @@ http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/RTSH_Sport_%282020_Logo%29.svg/1024px-RTSH_Sport_%282020_Logo%29.svg.png" group-title="SPORTS.",Rtsh Sport
 http://93.157.62.180/RTSHSport/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwzdB6eNwtracjIJSraJNx1qYbbBfKcc4GiQ&usqp=CAU" group-title="SPORTS.",CCTV5+Sport
+http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvjKnm4O3MJJk5jZzvw2A5WlZmtXt4ujrIjw&usqp=CAU" group-title="SPORTS.",M-Sports
 http://golemflix.com:8080/play/5U2-z6_AMJ4NzMV_kMZwjijhxGDmSyrxRAl-jlm1VKEJxhtwHmN3p9wjAo5-s8Uj/ts
 #EXTINF:0 tvg-logo="https://img.sport-tv-guide.live/images/stations/a761.png" group-title="beIN SPORTS.",beIN Sports Premium 1
