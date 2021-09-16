@@ -298,6 +298,8 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 http://watchindia.net:8880/live/33253/72963/819.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUHag7NqJWb0cgreVf1SPhvYUVC_7H8I7hmw&usqp=CAU" group-title="HINDI MOVIE.",Entar 10
 http://14.199.164.20:4001/play/a0j6/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMe7N5aDY95L_NUhoC84qzHieds8ShwQw8eg&usqp=CAU" group-title="HINDI MOVIE.",Miniplex
+http://watchindia.net:8880/live/33253/72963/800.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBjkPL8AXSqFT4acmhN2TBExrZLHxkmKKyvA&usqp=CAU" group-title="HINDI MOVIE.",Cinema TV
 http://14.199.164.20:4001/play/a0n4/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeOO-1UlDHtHjL7faZwRwnqGG0SE4qggTxIQ&usqp=CAU" group-title="HINDI MOVIE.",Rasi-Hindi
