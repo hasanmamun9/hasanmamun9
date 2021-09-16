@@ -319,6 +319,7 @@ http://14.199.164.20:4001/play/a0o8/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Zoom_Logo.png" group-title="HINDI MUSIC.",ZOOM TV HD
 http://103.153.39.34:8000/play/a06c/index.m3u8
 #EXTINF:0 tvg-logo="http://c1live.com/image/channel/img/kadakhits.png" group-title="HINDI MUSIC.",Kadak-Hits
+http://watchindia.net:8880/live/33253/72963/798.m3u8
 http://tv.c1live.com:8081/c1O7u0cF8lOzId/mtunes/playlist.m3u8
 http://watchindia.net:8880/live/60275/20486/842.m3u8
 #EXTINF:0 tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/9XM_Logo.png" group-title="HINDI MUSIC.",9XM(BDIX)
