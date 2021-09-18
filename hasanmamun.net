@@ -396,8 +396,60 @@ http://stream.tvtap.live:8081/live/it-premium-cinema1.stream/playlist.m3u8
 https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
 #EXTINF:0 tvg-logo="https://biswastv.com/uploads/tv_image/sm/mbc-persia-8uzrekcr5ev9.png" group-AM="ENGLISH MOVIE.",Mbc Persia
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
+#EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",CINE SKY 01
+http://rec2.distv.net:80/itamar/123456/48
+#EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",CINE SKY 02
+http://rec2.distv.net:80/itamar/123456/49
+#EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",CINE SKY 03
+http://rec2.distv.net:80/itamar/123456/50
+#EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",CINE SKY 04
+http://rec2.distv.net:80/itamar/123456/51
+#EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",CINE SKY 05
+http://rec2.distv.net:80/itamar/123456/52
+#EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",CINE SKY 06
+http://rec2.distv.net:80/itamar/123456/53
+#EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",CINE SKY 07
+http://rec2.distv.net:80/itamar/123456/54
+#EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",CINE SKY 08
+http://rec2.distv.net:80/itamar/123456/55
+#EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",CINE SKY 09
+http://rec2.distv.net:80/itamar/123456/56
+#EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",CINE SKY 10
+http://rec2.distv.net:80/itamar/123456/57
+#EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",HBO 2
+http://rec2.distv.net:80/itamar/123456/157
+#EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",HBO PLUS
+http://rec2.distv.net:80/itamar/123456/160
+#EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",HBO XTREME
+http://rec2.distv.net:80/itamar/123456/163
+#EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",MEGAPIX
+http://rec2.distv.net:80/itamar/123456/168
+#EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",TELECINE ACTION
+http://rec2.distv.net:80/itamar/123456/194
+#EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",UNIVERSAL TV
+http://rec2.distv.net:80/itamar/123456/205
 #EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",My Cinema Europe
 http://210.210.155.35/session/bc0a1e22-773f-11eb-ab01-a3d7ba48b0db/uq2663/h/h18/02.m3u8
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/ttusrw1445657002.png" group-title="SPORTS.",SPORTV 
+http://rec2.distv.net:80/itamar/123456/188
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/ttusrw1445657002.png" group-title="SPORTS.",SPORTV 2
+http://rec2.distv.net:80/itamar/123456/189
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/ttusrw1445657002.png" group-title="SPORTS.",SPORTV 3
+http://rec2.distv.net:80/itamar/123456/190
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/ttusrw1445657002.png" group-title="SPORTS.",FOX SPORTS 
+http://rec2.distv.net:80/itamar/123456/152
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/ttusrw1445657002.png" group-title="SPORTS.",FOX SPORTS 2
+http://rec2.distv.net:80/itamar/123456/153
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/ttusrw1445657002.png" group-title="SPORTS.",ESPN 2
+http://rec2.distv.net:80/itamar/123456/143
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/ttusrw1445657002.png" group-title="SPORTS.",PREMIERE 
+http://rec2.distv.net:80/itamar/123456/179
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/ttusrw1445657002.png" group-title="SPORTS.",PREMIERE 2
+http://rec2.distv.net:80/itamar/123456/180
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/ttusrw1445657002.png" group-title="SPORTS.",PREMIERE 3
+http://rec2.distv.net:80/itamar/123456/181
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/ttusrw1445657002.png" group-title="SPORTS.",PREMIERE 4
+http://rec2.distv.net:80/itamar/123456/182
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/ttusrw1445657002.png" group-title="SPORTS.",Ssetanta Sports 1
 https://95-213-224-181.livesports24.online/rusetantaeurasia.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRxJau8V7C9u9XvQGN4WL_lFh-vKNnGq_SsA&usqp=CAU" group-title="SPORTS.",Ssetanta Sports 2
