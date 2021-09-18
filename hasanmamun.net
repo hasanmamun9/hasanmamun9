@@ -87,6 +87,8 @@ http://128.199.212.160/aliftv/1080/index.m3u8
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/rGSlPtKbkld0vqihdEUUtmfR_LDwEymmCNwicqgByPAYaanwbMVO0N-UyuQ94zTB8e-Z" group-CHANNEL-23="BANGLA MOVIE.",চ্যানেল-২৩(BDIX)
 http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/02/jagoronitv.jpg" group-JAGORONI-TV="BANGLA ENT.",জাগরণী-টিভি
+https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jagoronitv.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/n8xwHts937U/hqdefault_live.jpg" group-MOVIE-BANGLA="BANGLA MOVIE.",মুভি-বাংলা
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniCcSrTg-fRuwBjKTOTCeS76G0j1poT7p57pemv=s900-c-k-c0x00ffffff-no-rj" group-JONMO-BHUMI="BANGLA ENT.",জন্মভূমি-টিভি
