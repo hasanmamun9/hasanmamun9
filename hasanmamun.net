@@ -310,7 +310,17 @@ http://watchindia.net:8880/live/33253/72963/786.m3u8
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:0 tvg-logo="https://sc.dish.com/shared/images/station-logos/ARBMU.png" group-title="Arabian MUSIC.",Arabian-Music(BDIX)
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNQNGbggAWPHh9QZ45SQLr6fn1yFO0-bHIQQ&usqp=CAU" group-AM="ENGLISH MOVIE.", Movie 1
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNQNGbggAWPHh9QZ45SQLr6fn1yFO0-bHIQQ&usqp=CAU" group-AM="HINDI MOVIE.",EGY CINEMA HINDI 
+http://pyramidsiptv.com:8000/live/mohamed/mohamed123/79855.ts
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNQNGbggAWPHh9QZ45SQLr6fn1yFO0-bHIQQ&usqp=CAU" group-AM="ENGLISH MOVIE.",NETFLIX [ACTION] 
+http://pyramidsiptv.com:8000/live/mohamed/mohamed123/36479.ts
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNQNGbggAWPHh9QZ45SQLr6fn1yFO0-bHIQQ&usqp=CAU" group-AM="ENGLISH MOVIE.",NETFLIX ACTION
+http://pyramidsiptv.com:8000/live/mohamed/mohamed123/91693.ts
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNQNGbggAWPHh9QZ45SQLr6fn1yFO0-bHIQQ&usqp=CAU" group-AM="ENGLISH MOVIE.",NETFLIX MOVIES
+http://pyramidsiptv.com:8000/live/mohamed/mohamed123/91694.ts
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNQNGbggAWPHh9QZ45SQLr6fn1yFO0-bHIQQ&usqp=CAU" group-AM="ENGLISH MOVIE.",NETFLIX CINEMA
+http://pyramidsiptv.com:8000/live/mohamed/mohamed123/91696.ts
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNQNGbggAWPHh9QZ45SQLr6fn1yFO0-bHIQQ&usqp=CAU" group-AM="ENGLISH MOVIE.",Movie-1
 http://203.80.191.3:8089/load/engadventure/chunks.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmXEUJI2g3s4orr4VqP4KOWkBoDYMIhbcQAA&usqp=CAU" group-AM="ENGLISH MOVIE.",BOO-Tv
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
@@ -475,21 +485,21 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvjKnm4O3MJJk5jZzvw2A5WlZmtXt4ujrIjw&usqp=CAU" group-title="SPORTS.",M-Sports
 http://golemflix.com:8080/play/5U2-z6_AMJ4NzMV_kMZwjijhxGDmSyrxRAl-jlm1VKEJxhtwHmN3p9wjAo5-s8Uj/ts
 #EXTINF:0 tvg-logo="https://img.sport-tv-guide.live/images/stations/a761.png" group-title="beIN SPORTS.",beIN Sports Premium 1
-http://55.1-bour.xyz/live/6161655/index.m3u8
+http://pyramidsiptv.com:8000/live/mohamed/mohamed123/80033.ts
 #EXTINF:0 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="beIN SPORTS.",beIN Sports Premium 2
-http://55.1-bour.xyz/live/616194987/index.m3u8
+http://pyramidsiptv.com:8000/live/mohamed/mohamed123/80033.ts
 #EXTINF:0 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="beIN SPORTS.",beIN Sports Premium 3
-http://55.1-bour.xyz/live/6151278887/index.m3u8
+http://pyramidsiptv.com:8000/live/mohamed/mohamed123/80032.ts
 #EXTINF:0 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="beIN SPORTS.",beIN Sports 1
-http://55.1-bour.xyz/live/918454578/index.m3u8
+http://clientportal.link:8080/live/n0BFA9s0FCv0386/0zJeN7448/14980.ts
 #EXTINF:0 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-title="beIN SPORTS.",beIN Sports 2
-http://55.1-bour.xyz/live/69854211/index.m3u8
+http://clientportal.link:8080/live/n0BFA9s0FCv0386/0zJeN7448/14982.ts
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHA2p2mJ2dkA_-7-w2JueKVgmI7PxzewuxZg&usqp=CAU" group-title="beIN SPORTS.",beIN Sports 5
 http://55.abdakaroukhai.xyz/live/610303030/index.m3u8
 #EXTINF:0 tvg-logo="http://tv.livebdix.com/index_files/beinsportsextra.png" group-title="beIN SPORTS.",beIN Sports Xtra
-https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
+http://pyramidsiptv.com:8000/live/mohamed/mohamed123/97373.ts
 #EXTINF:0 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png" group-title="beIN SPORTS.",beIN Sports Xtra 2
-http://55.1-bour.xyz/live/62464521/index.m3u8
+http://pyramidsiptv.com:8000/live/mohamed/mohamed123/97372.ts
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScYtjMNMAWGthy0EyV2KQ1xCH87qWH-XNMLQ&usqp=CAU" group-title="SPORTS.",Qaz Sport HD
 http://92.46.127.146:8080/qazsport/index.m3u8
 #EXTINF:0 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-a-spor-653.png" group-title="SPORTS.",A-Spor Sports
