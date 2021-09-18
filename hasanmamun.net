@@ -406,7 +406,7 @@ http://rec2.distv.net:80/itamar/123456/50
 http://rec2.distv.net:80/itamar/123456/51
 #EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",CINE SKY 05
 http://rec2.distv.net:80/itamar/123456/52
-#EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",CINE SKY 06
+#EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",CINE HD Action
 http://rec2.distv.net:80/itamar/123456/53
 #EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",CINE SKY 07
 http://rec2.distv.net:80/itamar/123456/54
@@ -414,8 +414,8 @@ http://rec2.distv.net:80/itamar/123456/54
 http://rec2.distv.net:80/itamar/123456/55
 #EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",CINE SKY 09
 http://rec2.distv.net:80/itamar/123456/56
-#EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",CINE SKY 10
-http://rec2.distv.net:80/itamar/123456/57
+#EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",CANAL SONY
+http://rec2.distv.net:80/itamar/123456/123
 #EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",HBO 2
 http://rec2.distv.net:80/itamar/123456/157
 #EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",HBO PLUS
