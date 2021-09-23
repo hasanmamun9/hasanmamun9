@@ -400,10 +400,14 @@ http://rec2.distv.net:80/itamar/123456/163
 http://rec2.distv.net:80/itamar/123456/168
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLDSfu07YuAgj3NeIbecycX6HaIgmMmF5zrA&usqp=CAU" group-title="ENGLISH MOVIE.",TELECINE ACTION
 http://rec2.distv.net:80/itamar/123456/194
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/TVCine-ACTION.png" group-title="ENGLISH MOVIE.",TVCine Action
+http://185.236.229.21:9981/play/a04n
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="ENGLISH MOVIE.",UNIVERSAL TV
 http://rec2.distv.net:80/itamar/123456/205
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="ENGLISH MOVIE.",WarnerTV 
 http://203.80.191.3:8089/nimble_live/warnerbros/chunks.m3u8
+#EXTINF:0 tvg-logo="https://moghbazar.net/wp-content/uploads/2020/12/icon-1.png" group-title="ENGLISH MOVIE.",Dhaka Live Flix
+https://live.diu.ac/hls/live/index.m3u8 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1FotW7et12L5GJFRkKgwCYJ63tyzDiKne4g&usqp=CAU" group-AM="ENGLISH MOVIE.",Eu Cinema 1
 http://tuttitv.net:8888/hakim/hakim123/131394
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSthkJU1uP1dpH8moqvtgrwagY5xptSpxguw&usqp=CAU" group-AM="ENGLISH MOVIE.",Eu Cinema 2
@@ -440,16 +444,10 @@ https://amc-ifc-films-picks-1.vizio.wurl.com/manifest/playlist.m3u8
 https://m3u-editor.com/serve/a5871540-d9ba-11eb-89bc-3be21464c6be/328171608
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngrR0DfEqIThsW1eMxLP6cXnFWRmk12B7MZ8-04ZQ=s900-c-k-c0x00ffffff-no-rj" group-title="ENGLISH MOVIE.",WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w829907558.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Paramount_Network_%28Blue%29_Logo.png" group-title="ENGLISH MOVIE.",Paramount
-http://31.220.41.88:8081/live/us-paramount.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvpc0g3-B2NBkNDZ_dgMSk8aWD2wjgJFbaaUWnAmljnizu2eeFajX42r0UVgRpaFP83jU&usqp=CAU" group-title="ENGLISH MOVIE.",Cinema Tv
 https://sc.id-tv.kz/Cinema_34_35.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRND0gIbth_R9LDYQ_nR9k9tSN3OOv6ZNPtsg&usqp=CAU" group-title="ENGLISH MOVIE.",TV1000 Action HD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvtoA1f3oGWC0UIbzpuuL0XlfHacfAs5Isng&usqp=CAU" group-title="ENGLISH MOVIE.",Hi Yah
-http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg_0HnQedJOzacFdLDmShL96ghMRv4LwFOQg&usqp=CAU" group-title="ENGLISH MOVIE.",Hi-Dost!
-http://203.80.191.3:8089/load/studioghiblimovies/chunks.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXY8OAigOb5bPw78aRxLN1y8tx8vh_t3z12w&usqp=CAU" group-title="ENGLISH MOVIE.", Movie Sehere
 https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/rgNQYAl_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="ENGLISH MOVIE.",Fright Flix
