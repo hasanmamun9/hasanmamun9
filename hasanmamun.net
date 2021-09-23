@@ -342,8 +342,8 @@ http://pyramidsiptv.com:8000/live/mohamed/mohamed123/91696.ts
 http://203.80.191.3:8089/load/engadventure/chunks.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmXEUJI2g3s4orr4VqP4KOWkBoDYMIhbcQAA&usqp=CAU" group-AM="ENGLISH MOVIE.",BOO-Tv
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL5k5NyZNuOZw2plcTOQuqp73gfMYxWYfMKw&usqp=CAU" group-title="ENGLISH MOVIE.",Sky Cinema Select
-http://watchindia.net:8880/live/33253/72963/2170.m3u8
+#EXTINF:0 tvg-logo="http://vipotv.com/wp-content/uploads/2020/11/romedy-now-vipotv.png" group-title="ENGLISH MOVIE.",Romedy-Tv
+https://timesnowod-vh.akamaihd.net/i/video/2020/12/LLL%20EP%2013%20DIGITAL%20MASTER_,426,640,896,1024,.mp4.csmil/master.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUEMn8ThJ4jjToXJnULOuT35EElCc1Bc_LFA&usqp=CAU" group-title="ENGLISH MOVIE.",Movies Now
 http://103.153.39.34:8000/play/a050/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-k58hl1dvx12R_Luv6bwp_lM_dW1UjlGyYQ&usqp=CAU" group-title="ENGLISH MOVIE.",Nmx-Tv
