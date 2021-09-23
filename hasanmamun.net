@@ -416,8 +416,8 @@ http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 http://stream.tvtap.net:8081/live/us-syfy.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://thumbnail.imgbin.com/22/13/24/imgbin-logo-sony-six-television-channel-sony-ten-sony-entertainment-television-kri8it-defining-digital-Acybc4HApnRxU3ck2ifyc7cAz_t.jpg" group-title="ENGLISH MOVIE.",Sony Pix
 http://app.smartbox.digital:8089/premium/sonypix/mpeg.2ts
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSfsmZmdJzTjKITB6z_LYWszqdOvtmo-8cEQ&usqp=CAU" group-title="ENGLISH MOVIE.",MÁS+TV
-https://593b04c4c5670.streamlock.net/8008/8008/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzfZas7P_e7UvWOOjJyP0jhslEL3CLIXpZxw&usqp=CAU" group-title="ENGLISH MOVIE.",See-TV
+http://rv.bleutv.net:80//live/1520907536/1520870663/179983.ts
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT578ODOve3goPTCMK3EA7BSZUKJtqDwDkO9w&usqp=CAU" group-title="ENGLISH MOVIE.",SHOWCASE MOVIES
 http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/8543.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mbc-2.png" group-title="ENGLISH MOVIE.",MBC 2 HD
