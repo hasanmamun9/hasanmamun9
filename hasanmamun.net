@@ -137,6 +137,8 @@ http://103.68.4.50:1935/live/onuvuti/playlist.m3u8
 http://208.86.19.13:81/live/NYB/index.m3u8
 #EXTINF:0 tvg-logo="https://cabeltvapp.com/wp-content/uploads/2020/09/PNG-200x200.png" group-title="BANGLA ENT.",মীম-টিভি
 http://208.86.19.13:81/502.stream/index.m3u8
+#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/ABtv-Log-.jpg?x15351" group-title="BANGLA ENT.",এ বি- টিভি
+http://208.86.19.13:81/live/ABtv/index.m3u8
 #EXTINF:0 tvg-logo="https://www.bangladeshcircle.com/wp-content/uploads/2014/07/Bangla-TV-logo.jpg" group-title="BANGLA ENT.",বাংলা-টিভি
 http://208.86.19.13:81/live/banglany2/index.m3u8
 #EXTINF:0 tvg-logo="https://cabeltvapp.com/wp-content/uploads/2020/09/bc.jpg" group-title="BANGLA ENT.",বাংলা-টিভি ইউ এস
