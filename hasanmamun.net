@@ -410,8 +410,8 @@ http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/20.ts
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="ENGLISH MOVIE.",Cinemax-Tv
 https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
-#EXTINF:0 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072011/logo__slogan.ai_.png?itok=8W0eAesx"group-titile="ENGLISH MOVIE.",CCM CLASSIC
-http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:0 tvg-logo="https://content3.jdmagicbox.com/comp/delhi/x9/011pxx11.xx11.120330141100.y8x9/catalogue/netmax-karol-bagh-delhi-internet-service-providers-q8s44h2399-250.jpg" group-title="ENGLISH MOVIE.",NETMAX TV
+http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjRzY0Wk0fqdJXcy8VeJbi2gPFZ8WIDRp-TA&usqp=CAU" group-title="ENGLISH MOVIE.",Syfy Tv
 http://stream.tvtap.net:8081/live/us-syfy.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://thumbnail.imgbin.com/22/13/24/imgbin-logo-sony-six-television-channel-sony-ten-sony-entertainment-television-kri8it-defining-digital-Acybc4HApnRxU3ck2ifyc7cAz_t.jpg" group-title="ENGLISH MOVIE.",Sony Pix
