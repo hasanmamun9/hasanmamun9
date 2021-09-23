@@ -510,7 +510,7 @@ http://pyramidsiptv.com:8000/live/mohamed/mohamed123/80032.ts
 http://clientportal.link:8080/live/n0BFA9s0FCv0386/0zJeN7448/14980.ts
 #EXTINF:0 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-title="beIN SPORTS.",beIN Sports 2
 http://clientportal.link:8080/live/n0BFA9s0FCv0386/0zJeN7448/14982.ts
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHA2p2mJ2dkA_-7-w2JueKVgmI7PxzewuxZg&usqp=CAU" group-title="beIN SPORTS.",beIN Sports 6
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZkq4NQAbtRIxv4oa-XT4VJ3F6ckyRQzjEg&usqp=CAU" group-title="beIN SPORTS.",beIN Sports 6
 http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://tv.livebdix.com/index_files/beinsportsextra.png" group-title="beIN SPORTS.",beIN Sports Xtra
 http://pyramidsiptv.com:8000/live/mohamed/mohamed123/97373.ts
