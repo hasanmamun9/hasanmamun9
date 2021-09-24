@@ -196,13 +196,12 @@ http://indo51.gcdn.co/hindi-UTVACTION/tracks-v1a1/mono.m3u8
 http://tv.perfectiptv.tvip.xyz:80/fPnIwN2odkUo733/evJde3480/6236
 #EXTINF:0 tvg-logo="https://www.pngkey.com/png/detail/211-2118020_utv-action-utv-action-logo-png.png" group-title="HINDI MOVIE.",UTV-Action
 http://103.153.39.34:8000/play/a06o/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3tOy2jMIhkEjOBoDMQcQsMZAGwA5LjT8jfA&usqp=CAU" group-title="HINDI MOVIE.",Sony-Max
+http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6574/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkLgQJzNFOX0-k8WcYH9sFVXZeKakN1i-3mLwv2NbbANu5ZHd76G0QaDc&s=10" group-title="HINDI MOVIE.",Sony-Max Hd
 http://203.80.191.3:8089/load/sonymaxhd/chunks.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIB77EXjxKkVR42EHBrRyRmBM6KKzHBl-N2b39_gR9vMs4mN16ujUQbaA&s=10" group-title="HINDI MOVIE.",Sony-Max 2 Ind
-http://indo51.gcdn.co/hindi-SONYMAX2/tracks-v1a1/mono.m3u8
 http://eurotv.vip:80/544/544/13831
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpOuHPH5rPh9qqhuNzYH6_cUgt_OYCa5pupWXELk8wisIJwgTbOXQFzb4&s=10" group-title="HINDI MOVIE.",Sony-Max 2
-http://watchindia.net:8880/live/33253/72963/2024.ts
 #EXTINF:0 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="HINDI MOVIE.",Sony-wah
 http://indo51.gcdn.co/hindi-Sonymix/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4tpx9AoVUaX_AN80nBP1_05b6ksF4bPqnZg&usqp=CAU" group-title="HINDI MOVIE.",Star-Gold HD Ind
@@ -216,8 +215,16 @@ http://tv.perfectiptv.tvip.xyz:80/fPnIwN2odkUo733/evJde3480/6228
 http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-cinema-hd-logo-300x300.jpg" group-title="HINDI MOVIE.",Zee-Cinema HD
 http://203.80.191.3:8089/load/zeecinemahd/chunks.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxBA8aeKmQdc2VygaO38UOnIgjnmWHl1LExg&usqp=CAU" group-title="HINDI MOVIE.", Zee Classic
-http://watchindia.net:8880/live/33253/72963/802.m3u8
+#EXTINF:0 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/58c90ef7694fe70f730ff014/1565808835654/246fc32281bd88720c5a6dbd7c9a3984.png" group-title="HINDI MOVIE.",Zee-Action(BDIX)
+https://f8e7y4c6.ssl.hwcdn.net/action/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2018/08/Zee-Bollywood-Logo.jpg" group-title="HINDI MOVIE.",Zee-Bollywood
+https://f8e7y4c6.ssl.hwcdn.net/classic/playlist.m3u8
+#EXTINF:0 tvg-logo="http://thekolkatamail.com/wp-content/uploads/2021/04/09zeeanmolcinemazeeanmolci.png" group-title="HINDI MOVIE.",Zee-Anmol Cinema(BDIX)
+https://f8e7y4c6.ssl.hwcdn.net/zanmolcnm/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.pikpng.com/pngl/m/48-485018_zee-cinema-hq-zee-cinema-channel-logo-clipart.png" group-title="HINDI MOVIE.",Zee5 Originals
+https://f8e7y4c6.ssl.hwcdn.net/zee5_originals/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxBA8aeKmQdc2VygaO38UOnIgjnmWHl1LExg&usqp=CAU" group-title="HINDI MOVIE.",Zee5 Romance
+https://f8e7y4c6.ssl.hwcdn.net/zee5_romance/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw4o0as1lsqvDsmY8vWo8ePizscA1QxVinFA&usqp=CAU" group-title="HINDI MOVIE.",UTV Movie
 https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
 http://103.153.39.34:8000/play/a06n/index.m3u8
@@ -254,7 +261,7 @@ http://14.199.164.20:4001/play/a0o8/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Zoom_Logo.png" group-title="HINDI MUSIC.",ZOOM TV HD
 http://103.153.39.34:8000/play/a06c/index.m3u8
 #EXTINF:0 tvg-logo="http://c1live.com/image/channel/img/kadakhits.png" group-title="HINDI MUSIC.",Kadak-Hits
-http://watchindia.net:8880/live/33253/72963/798.m3u8
+https://live.hungama.com/linear/kadak-hits/playlist.m3u8
 http://tv.c1live.com:8081/c1O7u0cF8lOzId/mtunes/playlist.m3u8
 http://watchindia.net:8880/live/60275/20486/842.m3u8
 #EXTINF:0 tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/9XM_Logo.png" group-title="HINDI MUSIC.",9XM(BDIX)
@@ -366,6 +373,8 @@ http://rec2.distv.net:80/itamar/123456/205
 http://203.80.191.3:8089/nimble_live/warnerbros/chunks.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJqWVM1CH74-gjOS_Skbliiptqp25GiJ1Ezw&usqp=CAU" group-title="ENGLISH MOVIE.",Tring Action Movie 1
 http://93.157.62.180/TringAction/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAv6q0j_3GdCxHOYa3jrQYXIbxSxJ9xZ61w&usqp=CAU" group-title="ENGLISH MOVIE.",Film+
+https://stream.y5.hu/stream/stream_filmp/hls0/stream.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Ms2ibMOEXrS9e4ey8X0gm2tM8-f6AG5ELw&usqp=CAU" group-title="ENGLISH MOVIE.",Star Movies Hd
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkRTbSjI9jTxkUl2FEf2lK8QHLUoA9VbezwA&usqp=CAU"group-titile="ENGLISH MOVIE.",Fox Action Movie
@@ -457,33 +466,23 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvjKnm4O3MJJk5jZzvw2A5WlZmtXt4ujrIjw&usqp=CAU" group-title="SPORTS.",M-Sports
 http://golemflix.com:8080/play/5U2-z6_AMJ4NzMV_kMZwjijhxGDmSyrxRAl-jlm1VKEJxhtwHmN3p9wjAo5-s8Uj/ts
 #EXTINF:0 tvg-logo="https://img.sport-tv-guide.live/images/stations/a761.png" group-title="beIN SPORTS.",beIN Sports Premium 1
-http://pyramidsiptv.com:8000/live/mohamed/mohamed123/80033.ts
+http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/6161655/index.m3u8
 #EXTINF:0 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="beIN SPORTS.",beIN Sports Premium 2
 http://pyramidsiptv.com:8000/live/mohamed/mohamed123/80033.ts
 #EXTINF:0 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="beIN SPORTS.",beIN Sports Premium 3
 http://pyramidsiptv.com:8000/live/mohamed/mohamed123/80032.ts
 #EXTINF:0 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="beIN SPORTS.",beIN Sports 1
-http://clientportal.link:8080/live/n0BFA9s0FCv0386/0zJeN7448/14980.ts
+http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-title="beIN SPORTS.",beIN Sports 2
 http://clientportal.link:8080/live/n0BFA9s0FCv0386/0zJeN7448/14982.ts
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZkq4NQAbtRIxv4oa-XT4VJ3F6ckyRQzjEg&usqp=CAU" group-title="beIN SPORTS.",beIN Sports 6
 http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="http://tv.livebdix.com/index_files/beinsportsextra.png" group-title="beIN SPORTS.",beIN Sports Xtra
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest?cb=20201108180658" group-title="beIN SPORTS.",beIN Sports Xtra
 http://pyramidsiptv.com:8000/live/mohamed/mohamed123/97373.ts
 #EXTINF:0 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png" group-title="beIN SPORTS.",beIN Sports Xtra 2
 http://pyramidsiptv.com:8000/live/mohamed/mohamed123/97372.ts
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScYtjMNMAWGthy0EyV2KQ1xCH87qWH-XNMLQ&usqp=CAU" group-title="SPORTS.",Qaz Sport HD
 http://92.46.127.146:8080/qazsport/index.m3u8
-#EXTINF:0 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-a-spor-653.png" group-title="SPORTS.",A-Spor Sports
-http://tuttitv.net:8888/hakim/hakim123/17433
-#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/J7flO_wpc2bCCIskYqMz2Ze70ZzeroT0XozcTeM6SpDIpCKaVedSDASRXybneWOuQRM" group-title="SPORTS.",Trt-Sports
-http://tuttitv.net:8888/hakim/hakim123/46
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM-qc0waohUUdt7IxCvrEChZAAXmYOZDhUUw&usqp=CAU" group-title="SPORTS.",TRT-SPOR 2
-http://tuttitv.net:8888/hakim/hakim123/132159
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU0BAlI2JJezLLV3QvlncQxwLJAfWlF36Bag&usqp=CAU" group-title="SPORTS.",TRT 3 SPOR
-http://tuttitv.net:8888/hakim/hakim123/134321
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORTS.",Canal+Sports
-http://tuttitv.net:8888/hakim/hakim123/143
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7noYj3X965W2gkNyLxbDgfhZemkjbsaHFog&usqp=CAU" group-title="SPORTS.",Tsn 1
 http://stream.tvtap.live:8081/live/tsn1.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0Gr2GfPEh_fFGeuG7t5W78d_8psRm-2GjrQ&usqp=CAU" group-title="SPORTS.",Tsn 5
@@ -554,8 +553,6 @@ https://feed.play.mv/live/1009/uRdwlkNe1U/master.m3u8
 https://idvd.multitvsolution.com/idvo/tlchdhindi.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="COOKING.",Food Network
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgGejEB66VA-l1T__yl62RNYZ1Kvz3SeU-MQ&usqp=CAU" group-title="COOKING.",Cooking Tv
-http://flussonicusa.bdcabletv.com/COOKHD/mono.m3u8
 #EXTINF:0 tvg-logo="https://ewsat.com/img/TRING_PLANET.png" group-title="GEOGRAPHIC.",Tring Planet
 http://93.157.62.180/TringPlanet/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvJ9fu0y0ghYs7H5QnDmmiTWPB3BDzaasB6g&usqp=CAU" group-title="DOCUMENTARY.",Adventure Tv
@@ -593,7 +590,7 @@ http://14.199.164.20:4001/play/a0qx/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Viasat_Nature.png" group-title="DISCOVERY.",Viasat Nature HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
 #EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2014/08/28/travelxp_0.JPG" group-title="DOCUMENTARY.",Travel Xp 
-http://watchindia.net:8880/live/33253/72963/792.m3u8
+https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL_akXiopEmiVTcnQ3c4eiYqAOW92hdRWNDw&usqp=CAU" group-title="DISCOVERY.", History-18 In
 http://watchindia.net:8880/live/33253/72963/791.m3u8
 
