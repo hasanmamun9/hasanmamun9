@@ -178,8 +178,7 @@ https://snehz5tv.herokuapp.com?c=0-9-209
 #EXTINF:0 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/andpictures-hd.jpg" group-title="HINDI MOVIE.",& Pictures Hd
 http://203.80.191.3:8089/load/andpichd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/andpictures.jpg" group-title="HINDI MOVIE.",And-picture
-http://watchindia.net:8880/live/33253/72963/818.m3u8
-http://watchindia.net:8880/live/60275/20486/818.m3u8
+https://snehz5tv.herokuapp.com?c=0-9-pictures
 #EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2020/03/04/Colors-Cineplex.jpg" group-title="HINDI MOVIE.",Colors Cineplex
 http://89.187.182.181:9090/SM_FHD-HINDI-CINEPLEX/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-logo="https://etimg.etb2bimg.com/photo/76192361.cms" group-title="HINDI MOVIE.",Rishtey Cineplex
@@ -221,6 +220,8 @@ https://f8e7y4c6.ssl.hwcdn.net/action/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/classic/playlist.m3u8
 #EXTINF:0 tvg-logo="http://thekolkatamail.com/wp-content/uploads/2021/04/09zeeanmolcinemazeeanmolci.png" group-title="HINDI MOVIE.",Zee-Anmol Cinema(BDIX)
 https://f8e7y4c6.ssl.hwcdn.net/zanmolcnm/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxBA8aeKmQdc2VygaO38UOnIgjnmWHl1LExg&usqp=CAU" group-title="HINDI MOVIE.", Zee Classic
+https://snehz5tv.herokuapp.com?c=0-9-176
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeIVyEjYLfshDIEolWcwxKTLikQ66oLpqr7Q&usqp=CAU" group-title="HINDI MOVIE.",Zee5 Originals
 https://f8e7y4c6.ssl.hwcdn.net/zee5_originals/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxepk6UzdOf8Xay81TxLrB2qRrzju95vozNw&usqp=CAU" group-title="HINDI MOVIE.",Zee5 Romance
@@ -584,7 +585,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="DOCUMENTARY.",CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8?@ShamimHossai
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Gsfi8NlGnkYm4yjo9zWWZEFWHxtvXb39qw&usqp=CAU" group-title="LIFESTYLE.",Epic
-http://watchindia.net:8880/live/33253/72963/794.m3u8
+https://snehz5tv.herokuapp.com?c=0-9-229
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN1qjca1XPJksQ7Ctdvo-QXZPgKsGupSAyOA&usqp=CAU" group-title="LIFESTYLE.",Food Food
 http://14.199.164.20:4001/play/a0qx/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Viasat_Nature.png" group-title="DISCOVERY.",Viasat Nature HD
