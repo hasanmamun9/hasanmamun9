@@ -174,7 +174,7 @@ http://pkr.cinepex.tv:8278/pogohindikdin/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVZXUsURI3Qk30Fakb8uY-PhHTC3ynksy0KA&usqp=CAU" group-title="HINDI MOVIE.", Action Hindi Movie
 http://203.80.191.3:8089/load/indianactionmov/mpeg.2ts
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI0Lma4ArKeu1LIwmnBYMSXNRzYYS_XSazJA&usqp=CAU" group-title="HINDI MOVIE.",& Xploer
-http://watchindia.net:8880/live/33253/72963/2204.m3u8
+https://snehz5tv.herokuapp.com?c=0-9-209
 #EXTINF:0 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/andpictures-hd.jpg" group-title="HINDI MOVIE.",& Pictures Hd
 http://203.80.191.3:8089/load/andpichd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/andpictures.jpg" group-title="HINDI MOVIE.",And-picture
