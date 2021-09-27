@@ -519,7 +519,7 @@ http://203.80.191.3:8089/nimble_live/ten3hd/chunks.m3u8
 #EXTINF:0 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4SD_Masthead_Logo.png" group-title="SPORTS.",Sony Ten 4 
 http://jupiter.bdcabletv.com/Ten4/mono.m3u8
 #EXTINF:0 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIXHD_Masthead_Logo.png" group-title="SPORTS.",Sony Six 
-http://137.59.155.77:8088/hls/05sonysix.m3u8
+https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSKL_kx7lSmQm6A76NAw9ELSfxsJ1HuAM9cg&usqp=CAU" group-title="SPORTS.",Sky-Football
 http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfsFCVHffnNjsqYtyMP10_e2i_hKikQ2JYswj51osv9kICEWd960REDHImHrcZD1l69g&usqp=CAU" group-title="SPORTS.",Star Sports 1
