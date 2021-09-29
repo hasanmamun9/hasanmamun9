@@ -121,6 +121,8 @@ http://162.244.81.200:1935/live/livestream/playlist.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/ch4n3ls/playlist.m3u8
 #EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/m7UvZLUj76Gv2Rwvbk1sKYk6ra6zWWmQGkJMCMZtvUME59BH76vU4ScIY0L_qw_qHA=s200" group-title="BANGLA ENT.",নন্দন-টিভি
 http://nandansyst.com/hls/nandan.m3u8
+#EXTINF:0 tvg-logo="https://abohomanbangla.com/Bangladesh_web_directory/tv_image/71bangla.jpg" group-71-BANGLA="BANGLA MOVIE.", ৭১ বাংলা-টিভি
+https://tv.bdtv.xyz:2096/tv/71banglatv/playlist.m3u8
 #EXTINF:0 tvg-logo="http://shopno-tv.com/wp-content/uploads/2019/09/shopno.png" group-SHOPNO-TV="BANGLA MOVIE.",স্বপ্ন-টিভি
 https://talusafagroup.ddns.net:8080/shopno/shopnotv.m3u8
 #EXTINF:0 tvg-logo="http://livetv.com.bd/wp-content/uploads/2020/11/sadhinbangla.png" group-title="BANGLA ENT.",স্বাধীন-বাংলা
