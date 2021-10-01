@@ -245,6 +245,8 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 http://watchindia.net:8880/live/33253/72963/819.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUHag7NqJWb0cgreVf1SPhvYUVC_7H8I7hmw&usqp=CAU" group-title="HINDI MOVIE.",Entar 10
 http://14.199.164.20:4001/play/a0j6/index.m3u8
+#EXTINF:0 tvg-logo="http://movieopera.in/wp-content/uploads/2021/07/cropped-MO-LOGO-PNG-2.png" group-title="HINDI MOVIE.",Movie-Opera
+https://stream1.playbox.co.in:1936/live1/movieopera/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMe7N5aDY95L_NUhoC84qzHieds8ShwQw8eg&usqp=CAU" group-title="HINDI MOVIE.",Miniplex
 http://sonyiptv.net:8080/12345678/12345678/199256
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3uT7xYd2VHIbOTWMQcwjQqBE3nXyPcwTbSQ&usqp=CAU" group-title="HINDI MOVIE.",Abzy Cool
