@@ -77,8 +77,6 @@ https://cdn1-europe.smartcast.tv/rtvd/cnnb_backup/playlist.m3u8
 http://128.199.212.160/aliftv/1080/index.m3u8
 #EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/rGSlPtKbkld0vqihdEUUtmfR_LDwEymmCNwicqgByPAYaanwbMVO0N-UyuQ94zTB8e-Z" group-CHANNEL-23="BANGLA MOVIE.",চ্যানেল-২৩(BDIX)
 http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/02/jagoronitv.jpg" group-JAGORONI-TV="BANGLA ENT.",জাগরণী-টিভি
-https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jagoronitv.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/n8xwHts937U/hqdefault_live.jpg" group-MOVIE-BANGLA="BANGLA MOVIE.",মুভি-বাংলা
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeFWysDx9UB5qbYFlJqlfoIgZSB8r-msA7OA&usqp=CAU" group-title="BANGLA ENT.",ইয়েস-টিভি
@@ -151,8 +149,6 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://master.beeiptv.com:8081/ncntv/ncn/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt4qV-mTTyF_KaL_eK_y8E4370sid_h_grPQ&usqp=CAU" group-P-BANGLA="BANGLA ENT.",পি বাংলা-টিভি
 http://enaniptv.com/pbanglatv/1080/index.m3u8
-#EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngM2qyoDtZQYNKbLZJsWT-VlkCna40j9hLRz1fa=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLA ENT.",Times 24 Tv
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/times24tv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjW8g-tQCosrKVSrrHlP-SoTrzlaH_ixDg8R3N1=s900-c-k-c0x00ffffff-no-rj" group-NEWS-24="BANGLA NEWS.",নিউজ-২৪(BDIX)
 https://rhridoy136.shortcm.li/news24.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/inds.png?x39333" group-INDEPEDENT-TV="BANGLA NEWS.",ইন্ডিপেন্ডেন্ট-টিভি(BDIX)
@@ -213,8 +209,8 @@ http://indo51.gcdn.co/hindi-Sonymix/tracks-v1a1/mono.m3u8
 http://203.80.191.3:8089/load/stargoldhd/chunks.m3u8
 #EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2020/01/29/star-gold2.jpg" group-title="HINDI MOVIE.",Star-Gold 2
 http://103.153.39.34:8000/play/a06p/index.m3u8
-#EXTINF:0 tvg-logo="https://www.exchange4media.com/news-photo/1520595397_Bt65eH_logo-white.jpg" group-title="HINDI MOVIE.",Star-Gold select
-http://tv.perfectiptv.tvip.xyz:80/fPnIwN2odkUo733/evJde3480/6228
+#EXTINF:0 tvg-logo="https://www.exchange4media.com/news-photo/1520595397_Bt65eH_logo-white.jpg" group-title="HINDI MOVIE.",Star-Gold 
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2848
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBS-GJ8P0SZrtZi7MNR3VWpul5OAyPwm5JDw5XAPgukxXdzanC_xEitQB5&s=10" group-title="HINDI MOVIE.",Star- Utsav Gold
 http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-cinema-hd-logo-300x300.jpg" group-title="HINDI MOVIE.",Zee-Cinema HD
