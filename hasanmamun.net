@@ -294,7 +294,7 @@ https://ilove.livebox.co.in/wowinhls/live.m3u8
 #EXTINF:0 tvg-logo="https://celebritiesmanagement.com/wp-content/uploads/2016/12/Music-India.jpg" group-title="HINDI MUSIC.", Music-India(BDIX)
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
 #EXTINF:0 tvg-logo="https://www.the-ba-group.com/wp-content/uploads/2018/03/b4u-music-logo.png" group-title="HINDI MUSIC.",B4U-Music
-http://indo51.gcdn.co/hindi-B4UMUSIC/tracks-v1a1/mono.m3u8
+http://14.199.164.20:4001/play/a0wk/index.m3u8
 http://jupiter.bdcabletv.com/b4u_music-pak/video.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWBnfbs8fkgxeNgP1_shXZiRRcmHWKxStyqg&usqp=CAU" group-title="HINDI MUSIC.",Shemaro-Music
 https://livechannel.shemaroome.com/linearplayout/test-linear-channel/playlist_cf.m3u8
