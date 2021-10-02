@@ -73,7 +73,7 @@ https://tv.bdtv.xyz:2096/gbtv71/channels/playlist.m3u8
 http://45.127.246.75:1935/starbanglatv/myStream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2021/03/CNN-Bangla.jpeg" group-CNN-BANGLA 2="BANGLA MOVIE.", সিএনএন-বাংলা ২
 https://cdn1-europe.smartcast.tv/rtvd/cnnb_backup/playlist.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2021/03/CNN-Bangla.jpeg" group-CNN-BANGLA 2="BANGLA MOVIE.",বঙ্গ মুভি
+#EXTINF:0 tvg-logo="http://cdn.bongobd.com/upload/channels/landscape/Mq2jeWV007t.png" group-CNN-BANGLA 2="BANGLA MOVIE.",বঙ্গ মুভি
 http://85.203.33.91:80/307275121106/307275121106/83795
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIUn3nhBT35n_aWEmu4NrPaUC-msAr9Zxi7g8eSiKQv8PCqvTR78w7ZpeJRc4_qUMIIIo&usqp=CAU" group-ALIF-TV="BANGLA MOVIE.",আলিফ-টিভি(BDIX)
 http://128.199.212.160/aliftv/1080/index.m3u8
