@@ -1,3 +1,13 @@
+
+#EXTINF:0 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="HINDI MOVIE.",Sony-wah
+http://85.203.33.91:80/307275121106/307275121106/83699
+http://indo51.gcdn.co/hindi-Sonymix/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/dish-tv-movies-active-tv-channel-logo-150x150.jpg" group-title="HINDI MOVIE.",MOVIES ACTIVE
+http://85.203.33.91:80/307275121106/307275121106/83650
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWoEyBxAYimgjVTre8s5giY_o_AU5dTIgxBg&usqp=CAU" group-title="HINDI MOVIE.",Evergreen Classics
+http://85.203.33.91:80/307275121106/307275121106/83611
+
+
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1AXkZqjt4z-QcG-MIaZ1YRwJE1aunupaVTw&usqp=CAU" group-title="SPORTS.",Rtsh Sport 1
 http://93.157.62.180/RTSH1/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCNM0IxcKZu149p3WoaYMZ7r3ESeJSXDv9Tw&usqp=CAU" group-title="SPORTS.",Rtsh Sport 2
