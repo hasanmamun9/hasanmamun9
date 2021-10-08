@@ -57,7 +57,7 @@ http://203.80.191.3:8089/load/gazitv/playlist.m3u8
 http://203.80.191.3:8089/load/asiantv/chunks.m3u8
 http://tv.c1live.com:8081/c1O7u0cF8lOzId/asian/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ec/a7/20/eca720aa9f51dceffb8145020e9aaa47.jpg" group-NAGORIK-TV="BANGLA ENT.",নাগরিক-টিভি
-http://173.199.120.51/hls/nagorik-7269.ts
+http://203.80.191.3:8089/load/nagoriktv/chunks.m3u8
 #EXTINF:0 tvg-logo="http://bdiptv.stream/uploads/tv_image/progoti-tv.jpg" group-PROGOTI-TV="BANGLA MOVIE.",প্রগতি-টিভি
 http://tv.bdiptv.com:8081/live/progoti/chunks.m3u8
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjj603GkYdVvfYxSLXeRMxe0RSjQdFbSc1GjRY7=s900-c-k-c0x00ffffff-no-rj" group-ALPONA-TV="BANGLA ENT.",আলপনা-টিভি
