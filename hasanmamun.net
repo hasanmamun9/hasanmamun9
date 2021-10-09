@@ -377,24 +377,6 @@ https://content.uplynk.com/channel/4b3fda1ff2c24556bc2c6034307d117d.m3u8
 http://185.236.229.21:9981/play/a054
 #EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",My Cinema Europe
 http://210.210.155.35/session/bc0a1e22-773f-11eb-ab01-a3d7ba48b0db/uq2663/h/h18/02.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoSrCUnUYgI9VBOLoVxC9LsBz8jujxQ5qXDQ&usqp=CAU" group-title="SPORTS.",SPORTV 
-http://rec2.distv.net:80/itamar/123456/188
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKvk3i-InIpY9tIWZkBJTCZP7nUcEzZbwyDA&usqp=CAU" group-title="SPORTS.",SPORTV 2
-http://rec2.distv.net:80/itamar/123456/189
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTimgF5NKHellYb6Lnypjg2gpHUZu-Lzk2MOA&usqp=CAU" group-title="SPORTS.",SPORTV 3
-http://rec2.distv.net:80/itamar/123456/190
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPvKAlWX_eRuaFWxAduLDc-kRwedH24-qSUQ&usqp=CAU" group-title="SPORTS.",FOX SPORTS 
-http://rec2.distv.net:80/itamar/123456/152
-#EXTINF:0 tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="SPORTS.",FOX SPORTS 2
-http://rec2.distv.net:80/itamar/123456/153
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ3bmuXcsuH-cYvt_kV1iaA5a98CpwPVlU5w&usqp=CAU" group-title="SPORTS.",ESPN 2
-http://rec2.distv.net:80/itamar/123456/143
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTrmKJrSu7TmgC_lnHuxspcXU0oBbGLneIrA&usqp=CAU" group-title="SPORTS.",ESPN BRASIL
-http://rec2.distv.net:80/itamar/123456/144
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGI4pVhs4i3NDt9VPLQwXHmRBJe8j_ySGn5g&usqp=CAU" group-title="SPORTS.",ESPN EXTRA
-http://rec2.distv.net:80/itamar/123456/145
-#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-clubes_m.png" group-title="SPORTS.",PREMIERE CLUBES
-http://rec2.distv.net:80/itamar/123456/184
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqofqkSdV0FYPjh95gaFnyaiBZihfwDh7HrQ&usqp=CAU" group-title="SPORTS.",Star-HD
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/ttusrw1445657002.png" group-title="SPORTS.",Ssetanta Sports 1
