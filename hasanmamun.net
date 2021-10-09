@@ -381,7 +381,7 @@ http://93.157.62.180/RTSHSport/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwzdB6eNwtracjIJSraJNx1qYbbBfKcc4GiQ&usqp=CAU" group-title="SPORTS.",CCTV5+Sport
 http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvjKnm4O3MJJk5jZzvw2A5WlZmtXt4ujrIjw&usqp=CAU" group-title="SPORTS.",M-Sports
-http://golemflix.com:8080/play/5U2-z6_AMJ4NzMV_kMZwjijhxGDmSyrxRAl-jlm1VKEJxhtwHmN3p9wjAo5-s8Uj/ts
+http://56.bihourmkras.xyz.global.prod.fastly.net/live/117/index.m3u8
 #EXTINF:0 tvg-logo="https://img.sport-tv-guide.live/images/stations/a761.png" group-title="beIN SPORTS.",beIN Sports Premium 1
 http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/6161655/index.m3u8
 #EXTINF:0 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="beIN SPORTS.",beIN Sports Premium 2
@@ -389,11 +389,11 @@ http://pyramidsiptv.com:8000/live/mohamed/mohamed123/80033.ts
 #EXTINF:0 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="beIN SPORTS.",beIN Sports Premium 3
 http://pyramidsiptv.com:8000/live/mohamed/mohamed123/80032.ts
 #EXTINF:0 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="beIN SPORTS.",beIN Sports 1
-http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
+http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/918454578/index.m3u8
 #EXTINF:0 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-title="beIN SPORTS.",beIN Sports 2
-http://clientportal.link:8080/live/n0BFA9s0FCv0386/0zJeN7448/14982.ts
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZkq4NQAbtRIxv4oa-XT4VJ3F6ckyRQzjEg&usqp=CAU" group-title="beIN SPORTS.",beIN Sports 6
-http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8
+http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/69854211/index.m3u8
+#EXTINF:0 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="beIN SPORTS.",beIN Sports 4
+http://1.yacineapptv.com.global.prod.fastly.net/live/9787488847/index.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest?cb=20201108180658" group-title="beIN SPORTS.",beIN Sports Xtra
 http://pyramidsiptv.com:8000/live/mohamed/mohamed123/97373.ts
 #EXTINF:0 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png" group-title="beIN SPORTS.",beIN Sports Xtra 2
