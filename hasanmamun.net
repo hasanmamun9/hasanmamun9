@@ -309,48 +309,8 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 http://93.190.139.35:8278/streams/d/Hitsmovie/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.hitstv.com/img/hits-movies-logo.png"group-titile="ENGLISH MOVIE.",Hits
 http://93.190.139.35:8278/streams/d/Hits/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/2560px-Star_Hits_2020.svg.png" group-title="ENGLISH MOVIE.",Star-Hits
-http://rec2.distv.net:80/itamar/123456/150
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt8ehnSJkbY3vqoSizq6vUmAVTpep25UNsbQ&usqp=CAU" group-AM="ENGLISH MOVIE.",Star-Hits 2
-http://rec2.distv.net:80/itamar/123456/151
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpvzR3T1bWoKnbLuy2QhmmEtQnxJKcaR51cQ&usqp=CAU" group-title="ENGLISH MOVIE.",CINE SKY 01
-http://rec2.distv.net:80/itamar/123456/48
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_c08Y1nQivHDBI1jK9KuoM6u615NFn5U1yg&usqp=CAU" group-title="ENGLISH MOVIE.",CINE SKY 02
-http://rec2.distv.net:80/itamar/123456/49
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_c08Y1nQivHDBI1jK9KuoM6u615NFn5U1yg&usqp=CAU" group-title="ENGLISH MOVIE.",CINE SKY 03
-http://rec2.distv.net:80/itamar/123456/50
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_c08Y1nQivHDBI1jK9KuoM6u615NFn5U1yg&usqp=CAU" group-title="ENGLISH MOVIE.",CINE SKY 04
-http://rec2.distv.net:80/itamar/123456/51
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_c08Y1nQivHDBI1jK9KuoM6u615NFn5U1yg&usqp=CAU" group-title="ENGLISH MOVIE.",CINE SKY 05
-http://rec2.distv.net:80/itamar/123456/52
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBe8wmAV--KmFaMXNWfsX6jH_AQI8Jy5pSTw&usqp=CAU" group-title="ENGLISH MOVIE.",CINE HD Action
-http://rec2.distv.net:80/itamar/123456/53
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_c08Y1nQivHDBI1jK9KuoM6u615NFn5U1yg&usqp=CAU" group-title="ENGLISH MOVIE.",CINE SKY 07
-http://rec2.distv.net:80/itamar/123456/54
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_c08Y1nQivHDBI1jK9KuoM6u615NFn5U1yg&usqp=CAU" group-title="ENGLISH MOVIE.",CINE SKY 08
-http://rec2.distv.net:80/itamar/123456/55
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_c08Y1nQivHDBI1jK9KuoM6u615NFn5U1yg&usqp=CAU" group-title="ENGLISH MOVIE.",CINE SKY 09
-http://rec2.distv.net:80/itamar/123456/56
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_QXrr4vJyM2kZ5eG0wncNp73Cz3Nr1DfZ_Q&usqp=CAU" group-title="ENGLISH MOVIE.",CANAL SONY
-http://rec2.distv.net:80/itamar/123456/123
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRND0gIbth_R9LDYQ_nR9k9tSN3OOv6ZNPtsg&usqp=CAU" group-title="ENGLISH MOVIE.",TV1000 Action HD
-https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXAfJIv8QVWRgKbHWmqjKqBFx3YMHM5S_B_g&usqp=CAU" group-title="ENGLISH MOVIE.",HBO
-http://203.80.191.3:8089/load/hbo/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png" group-title="ENGLISH MOVIE.",HBO 2
-http://rec2.distv.net:80/itamar/123456/157
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrWRy2inOlq4mjYgHquDReGzISvm-Xy7epMw&usqp=CAU" group-title="ENGLISH MOVIE.",HBO PLUS
-http://rec2.distv.net:80/itamar/123456/160
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCdWR0PbBJDahfwLBK5k-b_zjEjNK7sMLiSQ&usqp=CAU" group-title="ENGLISH MOVIE.",HBO XTREME
-http://rec2.distv.net:80/itamar/123456/163
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0_YXrRK1XdwUBMHcSFSTtEB4XY_hJPKjPVw&usqp=CAU" group-title="ENGLISH MOVIE.",MEGAPIX
-http://rec2.distv.net:80/itamar/123456/168
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLDSfu07YuAgj3NeIbecycX6HaIgmMmF5zrA&usqp=CAU" group-title="ENGLISH MOVIE.",TELECINE ACTION
-http://rec2.distv.net:80/itamar/123456/194
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/TVCine-ACTION.png" group-title="ENGLISH MOVIE.",TVCine Action
 http://185.236.229.21:9981/play/a04n
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="ENGLISH MOVIE.",UNIVERSAL TV
-http://rec2.distv.net:80/itamar/123456/205
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="ENGLISH MOVIE.",WarnerTV 
 http://203.80.191.3:8089/nimble_live/warnerbros/chunks.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJqWVM1CH74-gjOS_Skbliiptqp25GiJ1Ezw&usqp=CAU" group-title="ENGLISH MOVIE.",Tring Action Movie 1
