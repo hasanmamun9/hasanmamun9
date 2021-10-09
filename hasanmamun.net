@@ -150,8 +150,8 @@ http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8
 https://iptv10.raytahost.com/desh/gbangla/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/llW7cf9_WZQ/hqdefault.jpg" group-CHANNEL-69="BANGLA MOVIE.",চ্যানেল-৬৯
 https://iptv10.raytahost.com/lite/channel69_hi/index.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2021/03/CNN-Bangla.jpeg" group-CNN-BANGLA 2="BANGLA MOVIE.", সিএনএন-বাংলা ২
-https://cdn1-europe.smartcast.tv/rtvd/cnnb_backup/playlist.m3u8
+#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2021/03/CNN-Bangla.jpeg" group-CNN-BANGLA 2="BANGLA MOVIE.", সিএনএন-বাংলা 
+http://d1zuxgm0d4hmth.cloudfront.net/cnnbangla/01.m3u8
 #EXTINF:0 tvg-logo="https://cabeltvapp.com/wp-content/uploads/2020/11/NB-tv.jpg" group-title="BANGLA ENT.",বিবি-টিভি
 http://208.86.19.13:81/live/NYB/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeFWysDx9UB5qbYFlJqlfoIgZSB8r-msA7OA&usqp=CAU" group-title="BANGLA ENT.",ইয়েস-টিভি
