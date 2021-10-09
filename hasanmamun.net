@@ -340,6 +340,8 @@ https://content.uplynk.com/channel/4b3fda1ff2c24556bc2c6034307d117d.m3u8
 http://185.236.229.21:9981/play/a054
 #EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",My Cinema Europe
 http://210.210.155.35/session/bc0a1e22-773f-11eb-ab01-a3d7ba48b0db/uq2663/h/h18/02.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwHAl1NoTrhDEbWIvS1fVkfpIkn2d453TVVQ&usqp=CAU" group-title="beIN SPORTS.",T Sports
+http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqofqkSdV0FYPjh95gaFnyaiBZihfwDh7HrQ&usqp=CAU" group-title="SPORTS.",Star-HD
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/ttusrw1445657002.png" group-title="SPORTS.",Ssetanta Sports 1
