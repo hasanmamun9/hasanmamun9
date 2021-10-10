@@ -403,8 +403,8 @@ http://pyramidsiptv.com:8000/live/mohamed/mohamed123/97373.ts
 http://pyramidsiptv.com:8000/live/mohamed/mohamed123/97372.ts
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScYtjMNMAWGthy0EyV2KQ1xCH87qWH-XNMLQ&usqp=CAU" group-title="SPORTS.",Qaz Sport HD
 http://92.46.127.146:8080/qazsport/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7noYj3X965W2gkNyLxbDgfhZemkjbsaHFog&usqp=CAU" group-title="SPORTS.",Tsn 1
-http://stream.tvtap.live:8081/live/tsn1.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfb0PkdinnFSrk7LqBz5Huzl4Zd4Yh2iwLzw&usqp=CAU" group-title="SPORTS.", SporTv
+http://wagmaott.com:8080/mag00:1A:79:64:E0:76/a27ycHIMzs/44978
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0Gr2GfPEh_fFGeuG7t5W78d_8psRm-2GjrQ&usqp=CAU" group-title="SPORTS.",Tsn 5
 http://31.220.41.88:8081/live/tsn5.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwY1QlXL95Am6XUwBUjQUxeTdUqf8ydVssXg&usqp=CAU" group-title="SPORTS.",TVP SPORTS HD
