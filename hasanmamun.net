@@ -228,6 +228,8 @@ http://203.80.191.3:8089/load/stargoldhd/playlist.m3u8
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2848
 #EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2020/01/29/star-gold2.jpg" group-title="HINDI MOVIE.",Star-Gold 2
 http://103.153.39.34:8000/play/a06p/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/Sonywah.jpg" group-title="HINDI MOVIE.",Sony Wah
+http://jo123.biz/jweb/m3u8.php?c=Sony_Wah&q=800&e=junk.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBS-GJ8P0SZrtZi7MNR3VWpul5OAyPwm5JDw5XAPgukxXdzanC_xEitQB5&s=10" group-title="HINDI MOVIE.",Star- Utsav Gold
 http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-cinema-hd-logo-300x300.jpg" group-title="HINDI MOVIE.",Zee-Cinema HD
@@ -244,8 +246,6 @@ https://f8e7y4c6.ssl.hwcdn.net/zanmolcnm/playlist.m3u8
 https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AnkD43r.png" group-title="Hindi", UTV Movies In
 http://103.153.39.34:8000/play/a06n/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScLeh-PCNGLrqQoyyzTcR4yEg2ohPO60f2Hg&usqp=CAU" group-title="HINDI MOVIE.",Miniplex
-http://watchindia.net:8880/live/54739/54739/800.ts
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd04t6E6tGh_wOv4RLebUkByRh_6AVn4FZ5w&usqp=CAU" group-title="HINDI MOVIE.",B4U Movie India
 http://14.199.164.20:4001/play/a0wj/index.m3u8
 http://103.205.133.19/hls/b4umovies.m3u8
