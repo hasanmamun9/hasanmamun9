@@ -191,7 +191,7 @@ http://14.199.164.20:4001/play/a0nh/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVZXUsURI3Qk30Fakb8uY-PhHTC3ynksy0KA&usqp=CAU" group-title="HINDI MOVIE.", Action Hindi Movie
 http://203.80.191.3:8089/load/indianactionmov/mpeg.2ts
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI0Lma4ArKeu1LIwmnBYMSXNRzYYS_XSazJA&usqp=CAU" group-title="HINDI MOVIE.",& Xploer
-http://watchindia.net:8880/live/54739/54739/2204.ts
+http://xtrm.rtload.be:8999//live/jaykhantest/JVJNDFLJGVNFDSLK/107.ts
 #EXTINF:0 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/andpictures-hd.jpg" group-title="HINDI MOVIE.",& Pictures Hd
 http://203.80.191.3:8089/load/andpichd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/andpictures.jpg" group-title="HINDI MOVIE.",And-picture
@@ -217,8 +217,7 @@ http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6574/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkLgQJzNFOX0-k8WcYH9sFVXZeKakN1i-3mLwv2NbbANu5ZHd76G0QaDc&s=10" group-title="HINDI MOVIE.",Sony-Max Hd
 http://203.80.191.3:8089/load/sonymaxhd/chunks.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIB77EXjxKkVR42EHBrRyRmBM6KKzHBl-N2b39_gR9vMs4mN16ujUQbaA&s=10" group-title="HINDI MOVIE.",Sony-Max 2 Ind
-http://wagmaott.com:8080/mag00:1A:79:64:E0:76&/a27ycHIMzs/7907
-http://eurotv.vip:80/544/544/13831
+http://xtrm.rtload.be:8999//live/jaykhantest/JVJNDFLJGVNFDSLK/363.ts
 https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 http://85.203.33.91:80/307275121106/307275121106/83704
 http://eurotv.vip:80/544/544/13831
@@ -237,11 +236,11 @@ http://203.80.191.3:8089/load/zeecinemahd/chunks.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxBA8aeKmQdc2VygaO38UOnIgjnmWHl1LExg&usqp=CAU" group-title="HINDI MOVIE.", Zee Classic
 https://snehz5tvnew.herokuapp.com?c=0-9-176
 #EXTINF:0 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/58c90ef7694fe70f730ff014/1565808835654/246fc32281bd88720c5a6dbd7c9a3984.png" group-title="HINDI MOVIE.",Zee-Action(BDIX)
-https://f8e7y4c6.ssl.hwcdn.net/action/playlist.m3u8
+http://xtrm.rtload.be:8999//live/jaykhantest/JVJNDFLJGVNFDSLK/408.ts
 #EXTINF:0 tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2018/08/Zee-Bollywood-Logo.jpg" group-title="HINDI MOVIE.",Zee-Bollywood
-https://f8e7y4c6.ssl.hwcdn.net/classic/playlist.m3u8
+http://xtrm.rtload.be:8999//live/jaykhantest/JVJNDFLJGVNFDSLK/803.ts
 #EXTINF:0 tvg-logo="http://thekolkatamail.com/wp-content/uploads/2021/04/09zeeanmolcinemazeeanmolci.png" group-title="HINDI MOVIE.",Zee-Anmol Cinema(BDIX)
-https://f8e7y4c6.ssl.hwcdn.net/zanmolcnm/playlist.m3u8
+http://xtrm.rtload.be:8999//live/jaykhantest/JVJNDFLJGVNFDSLK/454.ts
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw4o0as1lsqvDsmY8vWo8ePizscA1QxVinFA&usqp=CAU" group-title="HINDI MOVIE.",UTV Movie
 https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AnkD43r.png" group-title="Hindi", UTV Movies In
@@ -252,8 +251,7 @@ http://103.205.133.19/hls/b4umovies.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest/scale-to-width-down/340?cb=20200320100818" group-title="HINDI MOVIE.",B4U-Kadak(BDIX)
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUHag7NqJWb0cgreVf1SPhvYUVC_7H8I7hmw&usqp=CAU" group-title="HINDI MOVIE.",Entar 10
-http://watchindia.net:8880/live/54739/54739/819.ts
-http://14.199.164.20:4001/play/a0j6/index.m3u8
+http://xtrm.rtload.be:8999//live/jaykhantest/JVJNDFLJGVNFDSLK/46.ts
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoIRbilEwk44l2knZW-Dqb3R9PRVmmFKD6YA&usqp=CAU" group-title="HINDI MOVIE.",Surya Cinema
 http://jo123.biz/jweb/m3u8.php?c=Surya_Cinema&q=800&e=junk.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMDPyHMUNJBHhNaDN01V3lxyIEp7fZZQ91PA&usqp=CAU" group-title="HINDI MOVIE.",DHINCHAAK 
