@@ -150,7 +150,7 @@ http://master.beeiptv.com:8081/ncntv/ncn/playlist.m3u8
 #EXTINF:0 tvg-logo="https://cabeltvapp.com/wp-content/uploads/2020/09/PNG-200x200.png" group-title="BANGLA ENT.",মীম-টিভি
 http://208.86.19.13:81/502.stream/index.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/ABtv-Log-.jpg?x15351" group-title="BANGLA ENT.",এ বি- টিভি
-http://208.86.19.13:81/live/ABtv/index.m3u8
+https://live.salmanrajz.com/hls/channel19.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT-0RNW7P4PbHpUWhSDchfoqch5ta--SpiMQ&usqp=CAU" group-WNN-TV="BANGLA ENT.",চ্যানেল ৫
 https://tv.bdtv.xyz:2096/gbtv71/channel5/playlist.m3u8
 #EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/rGSlPtKbkld0vqihdEUUtmfR_LDwEymmCNwicqgByPAYaanwbMVO0N-UyuQ94zTB8e-Z" group-CHANNEL-23="BANGLA MOVIE.",চ্যানেল-২৩(BDIX)
