@@ -235,7 +235,7 @@ http://203.80.191.3:8089/load/zeecinemahd/chunks.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxBA8aeKmQdc2VygaO38UOnIgjnmWHl1LExg&usqp=CAU" group-title="HINDI MOVIE.", Zee Classic
 https://snehz5tvnew.herokuapp.com?c=0-9-176
 #EXTINF:0 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/58c90ef7694fe70f730ff014/1565808835654/246fc32281bd88720c5a6dbd7c9a3984.png" group-title="HINDI MOVIE.",Zee-Action(BDIX)
-http://xtrm.rtload.be:8999//live/jaykhantest/JVJNDFLJGVNFDSLK/408.ts
+http://93.190.139.35:8278/streams/d/Zeeaction/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2018/08/Zee-Bollywood-Logo.jpg" group-title="HINDI MOVIE.",Zee-Bollywood
 http://xtrm.rtload.be:8999//live/jaykhantest/JVJNDFLJGVNFDSLK/803.ts
 #EXTINF:0 tvg-logo="http://thekolkatamail.com/wp-content/uploads/2021/04/09zeeanmolcinemazeeanmolci.png" group-title="HINDI MOVIE.",Zee-Anmol Cinema(BDIX)
@@ -384,7 +384,7 @@ http://93.157.62.180/RTSHSport/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwzdB6eNwtracjIJSraJNx1qYbbBfKcc4GiQ&usqp=CAU" group-title="SPORTS.",CCTV5+Sport
 http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvjKnm4O3MJJk5jZzvw2A5WlZmtXt4ujrIjw&usqp=CAU" group-title="SPORTS.",M-Sports
-http://56.bihourmkras.xyz.global.prod.fastly.net/live/117/index.m3u8
+http://50.7.66.234:8080/live/alexi/1234/1115758.m3u8
 #EXTINF:0 tvg-logo="https://img.sport-tv-guide.live/images/stations/a761.png" group-title="beIN SPORTS.",beIN Sports Premium 1
 http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/6161655/index.m3u8
 #EXTINF:0 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="beIN SPORTS.",beIN Sports Premium 2
@@ -428,7 +428,7 @@ https://95-213-224-173.livesports24.online/ooomatch.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-T1fNcPdR6doQjKqdaPa1BQxq9oPuViZDMqmSO2s7a4EzdY68IEc9RchkqGh9Q2B0fVc&usqp=CAU" group-title="SPORTS.",Maq Tv
 http://str24.l9574.com/517.stream/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",WWE-Wrestling
-http://stream.tvtap.live:8081/live/wwe.stream/chunks.m3u8
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/793/877/png-clipart-red-bull-gmbh-logo-energy-drink-brand-red-bull-company-text.png" group-title="DOCUMENTARY.",Red Bull Tv
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcKPFeFCT0OYzI0siZ86XxhodwiU982qaQRQ&usqp=CAU" group-title="DOCUMENTARY.",HgTv
@@ -468,7 +468,7 @@ https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaSRluJ1kWvSDL9Exv154LnpQBhs33I6g7dg&usqp=CAU" group-title="GEOGRAPHIC.",Eden
 http://stream.tvtap.live:8081/live/uk-eden.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4VVPrxlQqRe9E0u-Vf3qEV4yLcXCSs7_0dg&usqp=CAU" group-title="GEOGRAPHIC.",Sony BBC Earth 
-http://jo123.biz/jweb/m3u8.php?c=Sony_BBC_Earth_HD&q=600&e=junk.m3u8
+https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzXguDnxRnOv_Uy9OpVnAffOhFO7YkKKyinA&usqp=CAU" group-title="GEOGRAPHIC.",National Geographic
 http://stream.tvtap.live:8081/live/us-natgeo.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoT_ZuLoFY57R03hJLYMoHLksOI75tnwKuow&usqp=CAU" group-title="GEOGRAPHIC.",National Geographic
