@@ -315,8 +315,8 @@ http://pyramidsiptv.com:8000/live/mohamed/mohamed123/91696.ts
 http://203.80.191.3:8089/load/engadventure/chunks.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmXEUJI2g3s4orr4VqP4KOWkBoDYMIhbcQAA&usqp=CAU" group-AM="ENGLISH MOVIE.",BOO-Tv
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUEMn8ThJ4jjToXJnULOuT35EElCc1Bc_LFA&usqp=CAU" group-title="ENGLISH MOVIE.",Movies Now
-http://103.153.39.34:8000/play/a050/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_yuPrVGmnNbRaC-sx7Ly4Z2jszkdSQMluLQ&usqp=CAU" group-title="ENGLISH MOVIE.",24 Movies
+https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-k58hl1dvx12R_Luv6bwp_lM_dW1UjlGyYQ&usqp=CAU" group-title="ENGLISH MOVIE.",Nmx-Tv
 http://app.smartbox.digital:8089/premium/mnx/mpeg.2ts
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-dQX6pTE5BhtGPsYkXpQASw0Ihv2i5651NA&usqp=CAU"group-titile="ENGLISH MOVIE.",McN-Tv
