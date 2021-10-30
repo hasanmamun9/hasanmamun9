@@ -238,9 +238,9 @@ https://snehz5tvnew.herokuapp.com?c=0-9-176
 #EXTINF:0 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/58c90ef7694fe70f730ff014/1565808835654/246fc32281bd88720c5a6dbd7c9a3984.png" group-title="HINDI MOVIE.",Zee-Action(BDIX)
 http://93.190.139.35:8278/streams/d/Zeeaction/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2018/08/Zee-Bollywood-Logo.jpg" group-title="HINDI MOVIE.",Zee-Bollywood
-http://xtrm.rtload.be:8999//live/jaykhantest/JVJNDFLJGVNFDSLK/803.ts
+http://jo123.biz/jweb/m3u8.php?c=Zee_Classic&q=600&e=junk.m3u8
 #EXTINF:0 tvg-logo="http://thekolkatamail.com/wp-content/uploads/2021/04/09zeeanmolcinemazeeanmolci.png" group-title="HINDI MOVIE.",Zee-Anmol Cinema(BDIX)
-http://xtrm.rtload.be:8999//live/jaykhantest/JVJNDFLJGVNFDSLK/454.ts
+http://jo123.biz/jweb/m3u8.php?c=Zee_Anmol_Cinema&q=600&e=junk.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw4o0as1lsqvDsmY8vWo8ePizscA1QxVinFA&usqp=CAU" group-title="HINDI MOVIE.",UTV Movie
 https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AnkD43r.png" group-title="Hindi", UTV Movies In
@@ -253,9 +253,7 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUHag7NqJWb0cgreVf1SPhvYUVC_7H8I7hmw&usqp=CAU" group-title="HINDI MOVIE.",Entar 10
 http://xtrm.rtload.be:8999//live/jaykhantest/JVJNDFLJGVNFDSLK/46.ts
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoIRbilEwk44l2knZW-Dqb3R9PRVmmFKD6YA&usqp=CAU" group-title="HINDI MOVIE.",Surya Cinema
-http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/87214
 http://jo123.biz/jweb/m3u8.php?c=Surya_Cinema&q=600&e=junk.m3u8
-http://jo123.biz/jweb/m3u8.php?c=Surya_Cinema&q=800&e=junk.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMDPyHMUNJBHhNaDN01V3lxyIEp7fZZQ91PA&usqp=CAU" group-title="HINDI MOVIE.",DHINCHAAK 
 http://14.199.164.20:4001/play/a0o5/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4yhcssyEhua3hEQ1YCkKjabyYf_MNmjLubw&usqp=CAU" group-title="HINDI MOVIE.",DHINCHAAK 2
@@ -291,7 +289,7 @@ http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/87383
 #EXTINF:0 tvg-logo="https://cdn2.f-cdn.com/contestentries/1706007/42318113/5e0a108d40e0a_thumb900.jpg" group-title="HINDI MUSIC.",Love-Music
 https://ilove.livebox.co.in/wowinhls/live.m3u8
 #EXTINF:0 tvg-logo="https://celebritiesmanagement.com/wp-content/uploads/2016/12/Music-India.jpg" group-title="HINDI MUSIC.", Music-India(BDIX)
-https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Music_India&q=600&e=junk.m3u8
 #EXTINF:0 tvg-logo="https://www.the-ba-group.com/wp-content/uploads/2018/03/b4u-music-logo.png" group-title="HINDI MUSIC.",B4U-Music
 http://14.199.164.20:4001/play/a0wk/index.m3u8
 http://jupiter.bdcabletv.com/b4u_music-pak/video.m3u8
@@ -355,8 +353,6 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w829907558.m3u8
 https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/rgNQYAl_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="ENGLISH MOVIE.",Fright Flix
 https://content.uplynk.com/channel/4b3fda1ff2c24556bc2c6034307d117d.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBVvbbtbd7BTf23VrTixv_2O0O9KdLb8nZ-Q&usqp=CAU" group-title="ENGLISH MOVIE.",NOS Studios-Tv
-http://185.236.229.21:9981/play/a054
 #EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",My Cinema Europe
 http://210.210.155.35/session/bc0a1e22-773f-11eb-ab01-a3d7ba48b0db/uq2663/h/h18/02.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwHAl1NoTrhDEbWIvS1fVkfpIkn2d453TVVQ&usqp=CAU" group-title="beIN SPORTS.",T Sports
