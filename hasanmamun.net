@@ -186,7 +186,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 http://89.187.185.89:3232/ban-duronto/index.m3u8
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsSCdzPP55PY5SUeQeArSsdcg6BEWo35rmog&usqp=CAU" group-title="CARTOON.",WoW Kids
-http://54.39.134.91:9090/24x7_kids_cr3/tracks-v1a1/mono.m3u8
+http://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGlbIGjEb4Njb1ta4BgpboM_v_DueUjl2iBRkE0plRl4_k4V3gQQ4nZPBl&s=10" group-title="HINDI.",Shemaroo TV
 http://14.199.164.20:4001/play/a0nh/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVZXUsURI3Qk30Fakb8uY-PhHTC3ynksy0KA&usqp=CAU" group-title="HINDI MOVIE.", Action Hindi Movie
