@@ -178,17 +178,15 @@ https://rhridoy136.shortcm.li/jamunatv.m3u8
 http://idvd.multitvsolution.com/idvo/khushboo_540p/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9wWnfpmVolE-uqI9d8VfK24P2-UXktt3NEA&usqp=CAU" group-AMAR-BANGLA="HINDI MOVIE.",আমার-বাংলা
 http://stream1.livebox.co.in/kbcreationhls/live.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/07/thechanneltv-1.jpg" group-title="BANGLA ENT.",এটিএন-মিউজিক
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXTpHsn891JIjVgHxoAiq6aYs7lkZHt3GkqA&usqp=CAU" group-title="BANGLA ENT.",এটিএন-মিউজিক
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhz1Wxul12td5n_YuKpHOWGE2SLzf632qgqXz6Y9A=s900-c-k-c0x00ffffff-no-rj" group-GAAN-BANGLA="BANGLA MUSIC.",গান বাংলা-টিভি
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla", Duronto TV 
 http://89.187.185.89:3232/ban-duronto/index.m3u8
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsSCdzPP55PY5SUeQeArSsdcg6BEWo35rmog&usqp=CAU" group-title="CARTOON.",WoW Kids
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdJLNKcXBn9Hx0vrDVMjrenrhO9uSIHxwIag&usqp=CAU" group-title="CARTOON.",Disney plus
 http://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGlbIGjEb4Njb1ta4BgpboM_v_DueUjl2iBRkE0plRl4_k4V3gQQ4nZPBl&s=10" group-title="HINDI.",Shemaroo TV
-http://14.199.164.20:4001/play/a0nh/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVZXUsURI3Qk30Fakb8uY-PhHTC3ynksy0KA&usqp=CAU" group-title="HINDI MOVIE.", Action Hindi Movie
 http://haryanatashantv.livebox.co.in/hiffmovieshls/hiffmovies.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI0Lma4ArKeu1LIwmnBYMSXNRzYYS_XSazJA&usqp=CAU" group-title="HINDI MOVIE.",& Xploer
@@ -262,6 +260,8 @@ http://14.199.164.20:4001/play/a0o5/index.m3u8
 http://14.199.164.20:4001/play/a0tm/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBjkPL8AXSqFT4acmhN2TBExrZLHxkmKKyvA&usqp=CAU" group-title="HINDI MOVIE.",Cinema TV
 http://14.199.164.20:4001/play/a0n4/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5HNJubkFimsNNM28PYNMtcHOANtAfXlxg1g&usqp=CAU" group-title="HINDI.",Movie Plus
+http://14.199.164.20:4001/play/a0os/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeOO-1UlDHtHjL7faZwRwnqGG0SE4qggTxIQ&usqp=CAU" group-title="HINDI MOVIE.",Rasi-Hindi
 http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
 #EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-bFu3Qcuw04I/V1LablvHTJI/AAAAAAAAQrU/ZcUycyxMFN8OTglvEE1hG1edUvVHqO4WQCLcB/w1200-h630-p-k-no-nu/bflix_logo.png" group-title="HINDI MOVIE.",Bflex(BDIX)
