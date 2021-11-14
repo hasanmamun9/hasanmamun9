@@ -287,7 +287,7 @@ http://sneh-zee5tv-production.up.railway.app/?c=0-9-301
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Zoom_Logo.png" group-title="HINDI MUSIC.",ZOOM TV HD
 http://58.27.219.166:8000/play/a06q/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR2yCiVvPQg7s2aqkTT_L0F723emvi9whM_g&usqp=CAU" group-title="HINDI MUSIC.",Mtv Beats
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR2yCiVvPQg7s2aqkTT_L0F723emvi9whM_g&usqp=CAU"group-titile="MUSIC.",M-Tv Bats
 http://jo123.biz/jweb/m3u8.php?c=MTV_Beats_HD&q=600&e=junk.m3u8
 #EXTINF:0 tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/9XM_Logo.png" group-title="HINDI MUSIC.",9XM(BDIX)
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
