@@ -178,7 +178,7 @@ https://rhridoy136.shortcm.li/news24.m3u8
 https://rhridoy136.shortcm.li/independenttv.m3u8
 #EXTINF:0 tvg-logo="https://www.channel24bd.tv/assets/importent_images/logo.png" group-CHANNEL-24="BANGLA NEWS.",চ্যানেল-২৪(BDIX)
 https://rhridoy136.shortcm.li/channel24.m3u8
-#EXTINF:0 tvg-logo="https://helptimebd.com/wp-content/uploads/2020/06/Screenshot-2020-12-03-135529.png" group-JOMUNA-TV="BANGLA NEWS.",যমুনা-টিভি(BDIX)
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVabjzOoquPt1dX0e0NmgE_HJxbci6DDuG4A&usqp=CAU" group-JOMUNA-TV="BANGLA NEWS.",যমুনা-টিভি(BDIX)
 https://rhridoy136.shortcm.li/jamunatv.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Khushboo_TV.jpeg/revision/latest?cb=20191223164128" group-KHUSBOO-BANGLA="BANGLA MOVIE.",খুশবু বাংলা-টিভি
 http://idvd.multitvsolution.com/idvo/khushboo_540p/index.m3u8
@@ -289,7 +289,7 @@ http://sneh-zee5tv-production.up.railway.app/?c=0-9-301
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Zoom_Logo.png" group-title="HINDI MUSIC.",ZOOM TV HD
 http://58.27.219.166:8000/play/a06q/index.m3u8
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1115500483961950208/q3Wlk_Pt_400x400.png" group-title="HINDI MUSIC.",MTV-Plus
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5HC82aK-SlH2vcS_vJ2QKjpjLrwF0j-VQA&usqp=CAU" group-title="HINDI MUSIC.",MTV-Plus
 http://65.2.4.240/jioo.php?c=MTV_HD_Plus&q=1200&e=.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Zoom_Logo.png" group-title="HINDI MUSIC."Mtv Bites
 http://jo123.biz/jweb/m3u8.php?c=MTV_Beats_HD&q=600&e=junk.m3u8
