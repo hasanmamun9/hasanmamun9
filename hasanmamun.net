@@ -258,7 +258,7 @@ http://jo123.biz/jweb/m3u8.php?c=ABZY_Cool&q=800&e=junk.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFC_cbgAULVv2G3jjVLfmSW3OLB92mRPfH6A&usqp=CAU" group-title="HINDI MOVIE.",Abazy Movie
 https://m-c010-j2apps.s.llnwi.net/hls/8069.ABZYMovies.in.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoIRbilEwk44l2knZW-Dqb3R9PRVmmFKD6YA&usqp=CAU" group-title="HINDI MOVIE.",Surya Cinema
-http://jo123.biz/jweb/m3u8.php?c=Surya_Cinema&q=600&e=junk.m3u8
+http://65.2.4.240/jioo.php?c=Surya_Cinema&q=1200&e=.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh-GZc7nisjrco6RliqXfkPpT-iLvHvxSY-w&usqp=CAU" group-title="HINDI MOVIE.", Bollywood HD
 http://smartmedia.watch:2086//raza/raza/76101
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMDPyHMUNJBHhNaDN01V3lxyIEp7fZZQ91PA&usqp=CAU" group-title="HINDI MOVIE.",DHINCHAAK 
@@ -269,6 +269,8 @@ http://14.199.164.20:4001/play/a0tm/index.m3u8
 http://14.199.164.20:4001/play/a0n4/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5HNJubkFimsNNM28PYNMtcHOANtAfXlxg1g&usqp=CAU" group-title="HINDI.",Movie Plus
 http://14.199.164.20:4001/play/a0os/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDNM6A9aaPW8LNYs4_x5Zdm2yQ1kaSs9wZFA&usqp=CAU" group-title="HINDI MOVIE.", Entar 10 Movie
+http://65.2.4.240/jioo.php?c=Enterr_10&q=1200&e=.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeOO-1UlDHtHjL7faZwRwnqGG0SE4qggTxIQ&usqp=CAU" group-title="HINDI MOVIE.",Rasi-Hindi
 http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
 #EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-bFu3Qcuw04I/V1LablvHTJI/AAAAAAAAQrU/ZcUycyxMFN8OTglvEE1hG1edUvVHqO4WQCLcB/w1200-h630-p-k-no-nu/bflix_logo.png" group-title="HINDI MOVIE.",Bflex(BDIX)
@@ -287,6 +289,8 @@ http://sneh-zee5tv-production.up.railway.app/?c=0-9-301
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Zoom_Logo.png" group-title="HINDI MUSIC.",ZOOM TV HD
 http://58.27.219.166:8000/play/a06q/index.m3u8
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1115500483961950208/q3Wlk_Pt_400x400.png" group-title="HINDI MUSIC.",MTV-Plus
+http://65.2.4.240/jioo.php?c=MTV_HD_Plus&q=1200&e=.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Zoom_Logo.png" group-title="HINDI MUSIC."Mtv Bites
 http://jo123.biz/jweb/m3u8.php?c=MTV_Beats_HD&q=600&e=junk.m3u8
 #EXTINF:0 tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/9XM_Logo.png" group-title="HINDI MUSIC.",9XM(BDIX)
@@ -370,6 +374,8 @@ http://210.210.155.35/session/bc0a1e22-773f-11eb-ab01-a3d7ba48b0db/uq2663/h/h18/
 http://203.80.191.3:8089/load/astrocricket/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqofqkSdV0FYPjh95gaFnyaiBZihfwDh7HrQ&usqp=CAU" group-title="SPORTS.",Star-HD
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK0lzPhSqEa2FXd-ASszld1O8h9Qq_vOnsoQ&usqp=CAU" group-title="SPORTS.",Jio Football HD
+http://65.2.4.240/jioo.php?c=Jio_Football&q=1200&e=.m3u8
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/ttusrw1445657002.png" group-title="SPORTS.",Ssetanta Sports 1
 http://203.80.191.3:8089/load/foxcricket/chunks.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRxJau8V7C9u9XvQGN4WL_lFh-vKNnGq_SsA&usqp=CAU" group-title="SPORTS.",Ssetanta Sports 2
