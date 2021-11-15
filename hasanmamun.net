@@ -221,6 +221,7 @@ http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6574/index.m3u8
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIB77EXjxKkVR42EHBrRyRmBM6KKzHBl-N2b39_gR9vMs4mN16ujUQbaA&s=10" group-title="HINDI MOVIE.",Sony-Max 2 Ind
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/197
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/197
 http://jo123.biz/jweb/m3u8.php?c=Sony_MAX2&q=800&e=junk.m3u8
 http://jo123.biz/jweb/m3u8.php?c=Sony_MAX2&q=600&e=junk.m3u8
 http://xtrm.rtload.be:8999//live/jaykhantest/JVJNDFLJGVNFDSLK/363.ts
@@ -229,7 +230,7 @@ http://203.80.191.3:8089/load/stargoldhd/chunks.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCySMCws5hmXBTf8ZyprvzaExPgCBFg7MCAcjYGzIr7s6MEOon9q1mx2lw&s=10" group-title="HINDI MOVIE.",Star-Gold 
 https://last.gcdn.co/IND468/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2020/01/29/star-gold2.jpg" group-title="HINDI MOVIE.",Star-Gold 2
-http://58.27.219.166:8000/play/a07b/81335054.m3u8
+http://58.27.219.166:8000/play/a07b/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/Sonywah.jpg" group-title="HINDI MOVIE.",Sony Wah
 http://jo123.biz/jweb/m3u8.php?c=Sony_Wah&q=800&e=junk.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBS-GJ8P0SZrtZi7MNR3VWpul5OAyPwm5JDw5XAPgukxXdzanC_xEitQB5&s=10" group-title="HINDI MOVIE.",Star- Utsav Gold
@@ -479,7 +480,7 @@ https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4VVPrxlQqRe9E0u-Vf3qEV4yLcXCSs7_0dg&usqp=CAU" group-title="GEOGRAPHIC.",Sony BBC Earth 
 https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzXguDnxRnOv_Uy9OpVnAffOhFO7YkKKyinA&usqp=CAU" group-title="GEOGRAPHIC.",National Geographic
-http://stream.tvtap.live:8081/live/us-natgeo.stream/chunks.m3u8
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/23658.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoT_ZuLoFY57R03hJLYMoHLksOI75tnwKuow&usqp=CAU" group-title="GEOGRAPHIC.",National Geographic
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5SVJjzgsPzOd5oiY9qRJ2yt--IBQ0tJdONw&usqp=CAU" group-title="GEOGRAPHIC.",Natgeo Wild 
