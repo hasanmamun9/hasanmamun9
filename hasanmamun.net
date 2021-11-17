@@ -69,6 +69,8 @@ http://203.80.191.3:8089/load/nagoriktv/chunks.m3u8
 http://tv.bdiptv.com:8081/live/progoti/chunks.m3u8
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjj603GkYdVvfYxSLXeRMxe0RSjQdFbSc1GjRY7=s900-c-k-c0x00ffffff-no-rj" group-ALPONA-TV="BANGLA ENT.",আলপনা-টিভি
 https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/alponatv.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="http://mbtvbd.com/wp-content/uploads/2021/02/Mb-tv-logo.png" group-MAGIC-BANGLA="BANGLA MOVIE.",মিউজিক বাংলা-টিভি
+https://cdn.appv.jagobd.com:444/live-orgin/magicbanglatv.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/royal_tv.png" group-ROYAL-TV="BANGLA ENT.",রয়েল-টিভি
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/royaltv.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/836470145652383744/v4refNT9_400x400.jpg" group-S-BANGLA RED="BANGLA MOVIE.",এস-বাংলা-টিভি
@@ -80,7 +82,7 @@ https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 #EXTINF:0 tvg-logo="https://i.pinimg.com/170x/a7/2c/21/a72c2104fad58ce1441fe806602a1cd9.jpg" group-NOKSHI-TV="BANGLA ENT.",নকশী-টিভি
 https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nakshitv.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkB6qXdV6i26Ba8jnqAItDB_KvMvLnLBANkA&usqp=CAU" group-PROGOTI-TV="BANGLA MOVIE.", স্টার বাংলা
-http://45.127.246.75:1935/starbanglatv/myStream/playlist.m3u8
+http://103.172.44.100:1935/starbanglatv/myStream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmQWmbEEMZaIbRKTt09vRAMy60cNAxQwI1_w&usqp=CAU" group-CHANNEL-I="BANGLA ENT.",চ্যানেল-৫২
 https://5dd3981940faa.streamlock.net/channel52tv/channel52tv/chunklist_w2102345989.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIUn3nhBT35n_aWEmu4NrPaUC-msAr9Zxi7g8eSiKQv8PCqvTR78w7ZpeJRc4_qUMIIIo&usqp=CAU" group-ALIF-TV="BANGLA MOVIE.",আলিফ-টিভি(BDIX)
