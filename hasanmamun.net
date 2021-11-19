@@ -422,7 +422,7 @@ http://92.46.127.146:8080/qazsport/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfb0PkdinnFSrk7LqBz5Huzl4Zd4Yh2iwLzw&usqp=CAU" group-title="SPORTS.", SporTv
 http://wagmaott.com:8080/mag00:1A:79:64:E0:76/a27ycHIMzs/44978
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqA_M9HxVFLrKlerGN-Q6bZIOeWagtz4Anfg&usqp=CAU" group-title="SPORTS.",Laliga Tv
-http://tvserver3.roarzone.info:25461/hls/tvapp/roarzone/4/bf008b4aaf4d6735398ce3890da5e6d4/4_52.ts
+http://xtreamin.ddns.net:8089/thunderbd/4/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwY1QlXL95Am6XUwBUjQUxeTdUqf8ydVssXg&usqp=CAU" group-title="SPORTS.",TVP SPORTS HD
 http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/13/246/png-clipart-logo-ptv-sports-television-channel-pakistan-cricket-television-text.png" group-title="SPORTS.",Ptv Sports
@@ -432,15 +432,15 @@ http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png" group-title="SPORTS.",Ten Sports
 http://203.80.191.3:8089/nimble_live/tensports/chunks.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg/revision/latest/scale-to-width-down/340?cb=20190322143617" group-title="SPORTS.",Sony Ten 1
-http://203.80.191.3:8089/load/ten1hd/playlist.m3u8
+http://xtreamin.ddns.net:8089/thunderbd/20/index.m3u8
 #EXTINF:0 tvg-logo="https://i2.wp.com/bdixsports.com/wp-content/uploads/2018/04/ten2.jpg?fit=300%2C250" group-title="SPORTS.",Sony Ten 2
-http://203.80.191.3:8089/load/ten2hd/chunks.m3u8
+http://xtreamin.ddns.net:8089/thunderbd/21/index.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/82/ac/a4/82aca43f83fc8ac14304ac2520c63bd4.png" group-title="SPORTS.",Sony Ten 3 
-http://203.80.191.3:8089/nimble_live/ten3hd/chunks.m3u8
+http://xtreamin.ddns.net:8089/thunderbd/22/index.m3u8
 #EXTINF:0 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4SD_Masthead_Logo.png" group-title="SPORTS.",Sony Ten 4
 http://jo123.biz/jweb/m3u8.php?c=Ten_4_HD_Tamil&q=600&e=junk.m3u8
 #EXTINF:0 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIXHD_Masthead_Logo.png" group-title="SPORTS.",Sony Six 
-https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
+http://xtreamin.ddns.net:8089/thunderbd/24/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTLP0HTu1FKsBXKuKJ81_6qTk24XN98llLow&usqp=CAU" group-title="SPORTS.",MAT4-Sports
 https://95-213-224-173.livesports24.online/ooomatch.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-T1fNcPdR6doQjKqdaPa1BQxq9oPuViZDMqmSO2s7a4EzdY68IEc9RchkqGh9Q2B0fVc&usqp=CAU" group-title="SPORTS.",Maq Tv
