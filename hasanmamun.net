@@ -233,7 +233,7 @@ http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIB77EXjxKkVR42EHBrRyRmBM6KKzHBl-N2b39_gR9vMs4mN16ujUQbaA&s=10" group-title="HINDI MOVIE.",Sony-Max 2 Ind
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/197
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/Sonywah.jpg" group-title="HINDI MOVIE.",Sony Wah
-https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/196.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4tpx9AoVUaX_AN80nBP1_05b6ksF4bPqnZg&usqp=CAU" group-title="HINDI MOVIE.",Star-Gold HD
 http://203.80.191.3:8089/load/stargoldhd/chunks.m3u8
 #EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2020/01/29/star-gold2.jpg" group-title="HINDI MOVIE.",Star-Gold 2
