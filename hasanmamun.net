@@ -209,6 +209,7 @@ http://tv.alphamediazone.com:8089/thunderbd/100/index.m3u8
 #EXTINF:0 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/andpictures.jpg" group-title="HINDI MOVIE.",And-picture
 http://prasadtv.ml/prasadZee/index.m3u8?c=0-9-pictures
 #EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2020/03/04/Colors-Cineplex.jpg" group-title="HINDI MOVIE.",Colors Cineplex
+https://snehjiotv.in1.bitmana.io/snehtv/snehjio/sneh_auto_q.php?c=Colors_Cineplex_HD
 https://feed.play.mv/live/10005200/ABTuyrBr22/master.m3u8
 #EXTINF:0 tvg-logo="https://etimg.etb2bimg.com/photo/76192361.cms" group-title="HINDI MOVIE.",Rishtey Cineplex
 https://snehjiotv.in1.bitmana.io/snehtv/snehjio/sneh_auto_q.php?c=Rishtey_Cineplex
@@ -250,10 +251,11 @@ http://203.80.191.3:8089/load/zeecinemahd/chunks.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxBA8aeKmQdc2VygaO38UOnIgjnmWHl1LExg&usqp=CAU" group-title="HINDI MOVIE.", Zee Classic
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/188
 #EXTINF:0 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/58c90ef7694fe70f730ff014/1565808835654/246fc32281bd88720c5a6dbd7c9a3984.png" group-title="HINDI MOVIE.",Zee-Action
-http://xtreamin.ddns.net:8089/thunderbd/90/index.m3u8
+https://snehjiotv.in1.bitmana.io/snehtv/snehjio/sneh_auto_q.php?c=Zee_Action
 #EXTINF:0 tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2018/08/Zee-Bollywood-Logo.jpg" group-title="HINDI MOVIE.",Zee-Bollywood
 http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="http://thekolkatamail.com/wp-content/uploads/2021/04/09zeeanmolcinemazeeanmolci.png" group-title="HINDI MOVIE.",Zee-Anmol Cinema(BDIX)
+#EXTINF:0 tvg-logo="http://thekolkatamail.com/wp-content/uploads/2021/04/09zeeanmolcinemazeeanmolci.png" group-title="HINDI MOVIE.",Zee-Anmol Cinema
+https://snehjiotv.in1.bitmana.io/snehtv/snehjio/sneh_auto_q.php?c=Zee_Anmol_Cinema
 http://jo123.biz/jweb/m3u8.php?c=Zee_Anmol_Cinema&q=600&e=junk.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw4o0as1lsqvDsmY8vWo8ePizscA1QxVinFA&usqp=CAU" group-title="HINDI MOVIE.",UTV Movie
 https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
@@ -388,8 +390,10 @@ http://tv.alphamediazone.com:8089/thunderbd/1/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqofqkSdV0FYPjh95gaFnyaiBZihfwDh7HrQ&usqp=CAU" group-title="SPORTS.",Star-HD
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK0lzPhSqEa2FXd-ASszld1O8h9Qq_vOnsoQ&usqp=CAU" group-title="SPORTS.",Jio Football HD
+https://snehjiotv.in1.bitmana.io/snehtv/snehjio/sneh_auto_q.php?c=Jio_Football
 http://jo123.biz/jweb/m3u8.php?c=Jio_Football&q=600&e=junk.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVl8dHUnIz9SXxvdvOqCJJyoGXJpsEbPpiow&usqp=CAU" group-title="SPORTS.",Jio Cricket
+https://snehjiotv.in1.bitmana.io/snehtv/snehjio/sneh_auto_q.php?c=Jio_Cricket_Hindi
 http://jo123.biz/jweb/m3u8.php?c=Jio_Cricket&q=400&e=.m3u8
 #EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/824_300.png" group-title="SPORTS.",Astro Cricket
 http://203.80.191.3:8089/load/astrocricket/playlist.m3u8
