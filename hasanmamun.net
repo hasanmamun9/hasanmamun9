@@ -299,7 +299,7 @@ https://epiconvh.s.llnwi.net/showbox/master.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Zoom_Logo.png" group-title="HINDI MUSIC.",ZOOM TV HD
 http://tv.alphamediazone.com:8089/thunderbd/60/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5HC82aK-SlH2vcS_vJ2QKjpjLrwF0j-VQA&usqp=CAU" group-title="HINDI MUSIC.",MTV-Plus
-http://65.2.4.240/jioo.php?c=MTV_HD_Plus&q=1200&e=.m3u8
+https://snehjiotv.in1.bitmana.io/sneh_auto_q.php?c=MTV
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Zoom_Logo.png" group-title="HINDI MUSIC."Mtv Bites
 http://jo123.biz/jweb/m3u8.php?c=MTV_Beats_HD&q=600&e=junk.m3u8
 #EXTINF:0 tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/9XM_Logo.png" group-title="HINDI MUSIC.",9XM(BDIX)
