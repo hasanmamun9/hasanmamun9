@@ -232,13 +232,13 @@ http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6574/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkLgQJzNFOX0-k8WcYH9sFVXZeKakN1i-3mLwv2NbbANu5ZHd76G0QaDc&s=10" group-title="HINDI MOVIE.",Sony-Max Hd
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIB77EXjxKkVR42EHBrRyRmBM6KKzHBl-N2b39_gR9vMs4mN16ujUQbaA&s=10" group-title="HINDI MOVIE.",Sony-Max 2 Ind
-http://fastmedia.watch:2086/live/hawadiscord/Fqdb9urXdX/139808.m3u8
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/197
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/Sonywah.jpg" group-title="HINDI MOVIE.",Sony Wah
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/196.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4tpx9AoVUaX_AN80nBP1_05b6ksF4bPqnZg&usqp=CAU" group-title="HINDI MOVIE.",Star-Gold HD
 http://203.80.191.3:8089/load/stargoldhd/chunks.m3u8
 #EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2020/01/29/star-gold2.jpg" group-title="HINDI MOVIE.",Star-Gold 2
-http://58.27.219.166:8000/play/a07b/index.m3u8
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYjW-i3-Y7NykHYE8VNTnYE/m3u8
 #EXTINF:0 tvg-logo="https://www.exchange4media.com/news-photo/1520595397_Bt65eH_logo-white.jpg" group-title="HINDI MOVIE.",Star Gold Select
 http://opplex.tv:8080/live/1231/1231/66176.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBS-GJ8P0SZrtZi7MNR3VWpul5OAyPwm5JDw5XAPgukxXdzanC_xEitQB5&s=10" group-title="HINDI MOVIE.",Star- Utsav Gold
@@ -299,7 +299,7 @@ https://epiconvh.s.llnwi.net/showbox/master.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Zoom_Logo.png" group-title="HINDI MUSIC.",ZOOM TV HD
 http://tv.alphamediazone.com:8089/thunderbd/60/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5HC82aK-SlH2vcS_vJ2QKjpjLrwF0j-VQA&usqp=CAU" group-title="HINDI MUSIC.",MTV-Plus
-https://snehjiotv.in1.bitmana.io/sneh_auto_q.php?c=MTV
+https://236s.short.gy/DreamTV/MtvHD.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Zoom_Logo.png" group-title="HINDI MUSIC."Mtv Bites
 http://jo123.biz/jweb/m3u8.php?c=MTV_Beats_HD&q=600&e=junk.m3u8
 #EXTINF:0 tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/9XM_Logo.png" group-title="HINDI MUSIC.",9XM(BDIX)
