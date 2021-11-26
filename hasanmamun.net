@@ -329,8 +329,8 @@ http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/87270
 http://14.199.164.20:4001/play/a0p2/index.m3u8
 #EXTINF:0 tvg-logo="https://sc.dish.com/shared/images/station-logos/ARBMU.png" group-title="Arabian MUSIC.",Arabian-Music(BDIX)
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNQNGbggAWPHh9QZ45SQLr6fn1yFO0-bHIQQ&usqp=CAU" group-AM="ENGLISH MOVIE.",Movie-1
-http://203.80.191.3:8089/load/engadventure/chunks.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDgMsojDmB1RnxFF1Q51pZFmjfleN9D6Fbhw&usqp=CAU" group-AM="ENGLISH MOVIE.",Multivision Tv
+http://panel.dattalive.com:1935/8250/8250/chunklist_w467913242.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzU7qGHWfA-yw-2L-Il3z01pcND-cwqtbITw&usqp=CAU" group-AM="ENGLISH MOVIE.",K+ Tv
 http://45.126.83.51/session/f38f0970-460b-11ec-875a-b259bcd95935/uq2663/h/h08/01.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_yuPrVGmnNbRaC-sx7Ly4Z2jszkdSQMluLQ&usqp=CAU" group-title="ENGLISH MOVIE.",24 Movies
