@@ -242,7 +242,7 @@ http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6574/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkLgQJzNFOX0-k8WcYH9sFVXZeKakN1i-3mLwv2NbbANu5ZHd76G0QaDc&s=10" group-title="HINDI MOVIE.",Sony-Max Hd
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIB77EXjxKkVR42EHBrRyRmBM6KKzHBl-N2b39_gR9vMs4mN16ujUQbaA&s=10" group-title="HINDI MOVIE.",Sony-Max 2 Ind
-https://snehjiotv.in1.bitmana.io/snehtv/snehjio/sneh_auto_q.php?c=Sony_MAX2
+https://snehjiotv.in1.bitmana.io/sneh_auto_q.php?c=Sony_MAX2
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/197
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/Sonywah.jpg" group-title="HINDI MOVIE.",Sony Wah
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/196.m3u8
@@ -262,7 +262,7 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/188
 #EXTINF:0 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/58c90ef7694fe70f730ff014/1565808835654/246fc32281bd88720c5a6dbd7c9a3984.png" group-title="HINDI MOVIE.",Zee-Action
 https://snehjiotv.in1.bitmana.io/snehtv/snehjio/sneh_auto_q.php?c=Zee_Action
 #EXTINF:0 tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2018/08/Zee-Bollywood-Logo.jpg" group-title="HINDI MOVIE.",Zee-Bollywood
-http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
+https://snehjiotv.in1.bitmana.io/sneh_auto_q.php?c=Zee_Classic
 #EXTINF:0 tvg-logo="http://thekolkatamail.com/wp-content/uploads/2021/04/09zeeanmolcinemazeeanmolci.png" group-title="HINDI MOVIE.",Zee-Anmol Cinema
 https://snehjiotv.in1.bitmana.io/snehtv/snehjio/sneh_auto_q.php?c=Zee_Anmol_Cinema
 http://jo123.biz/jweb/m3u8.php?c=Zee_Anmol_Cinema&q=600&e=junk.m3u8
@@ -280,7 +280,7 @@ https://m-c010-j2apps.s.llnwi.net/hls/8068.ABZYCool.in_480p/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFC_cbgAULVv2G3jjVLfmSW3OLB92mRPfH6A&usqp=CAU" group-title="HINDI MOVIE.",Abazy Movie
 https://m-c010-j2apps.s.llnwi.net/hls/8069.ABZYMovies.in_480p/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoIRbilEwk44l2knZW-Dqb3R9PRVmmFKD6YA&usqp=CAU" group-title="HINDI MOVIE.",Surya Cinema
-http://65.2.4.240/jioo.php?c=Surya_Cinema&q=1200&e=.m3u8
+https://snehjiotv.in1.bitmana.io/sneh_auto_q.php?c=Surya_Cinema
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh-GZc7nisjrco6RliqXfkPpT-iLvHvxSY-w&usqp=CAU" group-title="HINDI MOVIE.", Bollywood HD
 http://smartmedia.watch:2086//raza/raza/76101
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMDPyHMUNJBHhNaDN01V3lxyIEp7fZZQ91PA&usqp=CAU" group-title="HINDI MOVIE.",DHINCHAAK 
@@ -333,7 +333,7 @@ http://jupiter.bdcabletv.com/b4u_music-pak/video.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWBnfbs8fkgxeNgP1_shXZiRRcmHWKxStyqg&usqp=CAU" group-title="HINDI MUSIC.",Shemaro-Music
 https://livechannel.shemaroome.com/linearplayout/test-linear-channel/playlist_cf.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/8XM_Logo.png" group-title="HINDI MUSIC.",8XM-Music
-http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/87270
+https://snehjiotv.in1.bitmana.io/sneh_auto_q.php?c=VH1
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR701JWNA606TQd6GScPJcnBJlIZPg898Zr6g&usqp=CAU" group-title="HINDI MUSIC.",Mtunes Plus 
 http://14.199.164.20:4001/play/a0p2/index.m3u8
 #EXTINF:0 tvg-logo="https://sc.dish.com/shared/images/station-logos/ARBMU.png" group-title="Arabian MUSIC.",Arabian-Music(BDIX)
@@ -353,7 +353,7 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.hitstv.com/assets/logo-HITSMOVIES.png"group-titile="ENGLISH MOVIE.",U TV
 http://sonyiptv.net:8080//9/9/199244
 #EXTINF:0 tvg-logo="https://www.hitstv.com/img/hits-movies-logo.png"group-titile="ENGLISH MOVIE.",Hits
-http://93.190.139.35:8278/streams/d/Hits/playlist.m3u8
+https://snehjiotv.in1.bitmana.io/sneh_auto_q.php?c=HitsIndia_HD
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/TVCine-ACTION.png" group-title="ENGLISH MOVIE.",TVCine Action
 http://iptv.prosto.tv:7000/ch50/video.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="ENGLISH MOVIE.",WarnerTV 
