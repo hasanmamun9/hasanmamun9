@@ -154,8 +154,8 @@ http://visioncable2020.com:25461/3YiBkkGoQK/TFNhbgjeSs/995
 https://live.salmanrajz.com/hls/channel19.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT-0RNW7P4PbHpUWhSDchfoqch5ta--SpiMQ&usqp=CAU" group-WNN-TV="BANGLA ENT.",ইউরো-বাংলা
 https://tv.bdtv.xyz:2096/gbtv71/channel5/playlist.m3u8
-#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/rGSlPtKbkld0vqihdEUUtmfR_LDwEymmCNwicqgByPAYaanwbMVO0N-UyuQ94zTB8e-Z" group-CHANNEL-23="BANGLA MOVIE.",চ্যানেল-২৩(BDIX)
-http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/rGSlPtKbkld0vqihdEUUtmfR_LDwEymmCNwicqgByPAYaanwbMVO0N-UyuQ94zTB8e-Z" group-CHANNEL-23="BANGLA MOVIE.",চ্যানেল-২৩
+http://103.108.88.62:1009/channel23/livestream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://livetv.com.bd/wp-content/uploads/2020/07/gbangla.png" group-SHOPNO-TV="BANGLA MOVIE.",জি বাংলা-টিভি
 https://iptv9.raytahost.com/live/gbangla/index.m3u8
 https://iptv8.raytahost.com/desh/gbangla/index.m3u8
