@@ -55,8 +55,7 @@ http://208.86.19.21/629.stream/index.m3u8
 http://tv.c1live.com:8081/c1O7u0cF8lOzId/desh/playlist.m3u8
 http://203.80.191.3:8089/load/deshtv/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-G-TV="BANGLA ENT.",গাজী-টিভি
-http://103.77.188.27:1935/live/gtv/index.m3u8
-http://203.80.191.3:8089/load/gazitv/playlist.m3u8
+http://acdn.bdixsports.live:1935/live/event360.stream/chunklist_w1437616252.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj6lqBdcHNq3NkBsmEYwYLlF4KX6edJNZ4ug&usqp=CAU" group-title="BANGLA ENT.",নেক্সাস-টিভি
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-ASIAN-TV="BANGLA ENT.",এশিয়ান-টিভি
@@ -174,7 +173,7 @@ https://tv.bdtv.xyz:2096/gbtv71/dtv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjW8g-tQCosrKVSrrHlP-SoTrzlaH_ixDg8R3N1=s900-c-k-c0x00ffffff-no-rj" group-NEWS-24="BANGLA NEWS.",নিউজ-২৪(BDIX)
 https://rhridoy136.shortcm.li/news24.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/inds.png?x39333" group-INDEPEDENT-TV="BANGLA NEWS.",ইন্ডিপেন্ডেন্ট-টিভি(BDIX)
-https://rhridoy136.shortcm.li/independenttv.m3u8
+http://208.86.19.21/601.stream/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://www.channel24bd.tv/assets/importent_images/logo.png" group-CHANNEL-24="BANGLA NEWS.",চ্যানেল-২৪(BDIX)
 https://rhridoy136.shortcm.li/channel24.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVabjzOoquPt1dX0e0NmgE_HJxbci6DDuG4A&usqp=CAU" group-JOMUNA-TV="BANGLA NEWS.",যমুনা-টিভি(BDIX)
@@ -246,11 +245,11 @@ http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxBA8aeKmQdc2VygaO38UOnIgjnmWHl1LExg&usqp=CAU" group-title="HINDI MOVIE.", Zee Classic
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/188
 #EXTINF:0 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/58c90ef7694fe70f730ff014/1565808835654/246fc32281bd88720c5a6dbd7c9a3984.png" group-title="HINDI MOVIE.",Zee-Action
-http://tv.univisionlive.net:25461//Sf-Sobuj/rnQV9twbzu/584
+http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2018/08/Zee-Bollywood-Logo.jpg" group-title="HINDI MOVIE.",Zee-Bollywood
-https://snehjiotv.in1.bitmana.io/sneh_auto_q.php?c=Zee_Classic
+http://208.86.19.21/701.stream/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="http://thekolkatamail.com/wp-content/uploads/2021/04/09zeeanmolcinemazeeanmolci.png" group-title="HINDI MOVIE.",Zee-Anmol Cinema
-http://tv.univisionlive.net:25461//Sf-Sobuj/rnQV9twbzu/613
+http://208.86.19.21/722.stream/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw4o0as1lsqvDsmY8vWo8ePizscA1QxVinFA&usqp=CAU" group-title="HINDI MOVIE.",UTV Movie
 https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AnkD43r.png" group-title="Hindi", UTV Movies In
@@ -412,15 +411,15 @@ http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png" group-title="SPORTS.",Ten Sports
 http://203.80.191.3:8089/nimble_live/tensports/chunks.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg/revision/latest/scale-to-width-down/340?cb=20190322143617" group-title="SPORTS.",Sony Ten 1
-https://snehjiotv.in1.bitmana.io/snehtv/snehjio/sneh_auto_q.php?c=Ten_HD
+http://208.86.19.21/726.stream/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i2.wp.com/bdixsports.com/wp-content/uploads/2018/04/ten2.jpg?fit=300%2C250" group-title="SPORTS.",Sony Ten 2
 https://snehjiotv.in1.bitmana.io/snehtv/snehjio/sneh_auto_q.php?c=Ten2_HD
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/82/ac/a4/82aca43f83fc8ac14304ac2520c63bd4.png" group-title="SPORTS.",Sony Ten 3 
-https://snehjiotv.in1.bitmana.io/snehtv/snehjio/sneh_auto_q.php?c=Ten3_HD
+http://208.86.19.21/712.stream/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4SD_Masthead_Logo.png" group-title="SPORTS.",Sony Ten 4
 http://jo123.biz/jweb/m3u8.php?c=Ten_4_HD_Tamil&q=600&e=junk.m3u8
 #EXTINF:0 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIXHD_Masthead_Logo.png" group-title="SPORTS.",Sony Six 
-https://snehjiotv.in1.bitmana.io/snehtv/snehjio/sneh_auto_q.php?c=Six_HD
+http://103.131.212.138:8000/play/a028/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfsFCVHffnNjsqYtyMP10_e2i_hKikQ2JYswj51osv9kICEWd960REDHImHrcZD1l69g&usqp=CAU" group-title="SPORTS.",Star Sports 1
 http://sonyiptv.net:8080//9/9/77773
 #EXTINF:0 tvg-logo="https://banner2.cleanpng.com/20180611/ivp/kisspng-star-sports-star-india-television-channel-sony-ten-sportstv-5b1ed6839505d4.2492886615287476516104.jpg" group-title="SPORTS.",Star Sports 2
