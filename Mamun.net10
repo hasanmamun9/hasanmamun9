@@ -54,8 +54,8 @@ http://tv.c1live.com:8081/c1O7u0cF8lOzId/desh/playlist.m3u8
 http://203.80.191.3:8089/load/deshtv/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-G-TV="BANGLA ENT.",গাজী-টিভি
 http://acdn.bdixsports.live:1935/live/event360.stream/chunklist_w1437616252.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj6lqBdcHNq3NkBsmEYwYLlF4KX6edJNZ4ug&usqp=CAU" group-title="BANGLA ENT.",নেক্সাস-টিভি
-https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/live-orgin/nexustv.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="https://biswastv.com/uploads/tv_image/sm/biswas-tv.png" group-title="BANGLA ENT.",বিশ্বাস টিভি
+https://tv.bdiptv.stream:2096/b2My/biswastv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-ASIAN-TV="BANGLA ENT.",এশিয়ান-টিভি
 http://jupiter.bdcabletv.com/AsianTVHD-IRD/video.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ec/a7/20/eca720aa9f51dceffb8145020e9aaa47.jpg" group-NAGORIK-TV="BANGLA ENT.",নাগরিক-টিভি
