@@ -386,7 +386,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 #EXTINF:0 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tring-sport-1-686.png" group-title="beIN SPORTS.",Tring Sport 1
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/7631
 #EXTINF:0 tvg-logo="https://www.freesports.tv/assets/components/mor/General/img/freesports-logo.png" group-title="beIN SPORTS.",Free Sports
-http://88.barouhn.xyz.global.prod.fastly.net/live/14066007/index.m3u8
+https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScYtjMNMAWGthy0EyV2KQ1xCH87qWH-XNMLQ&usqp=CAU" group-title="SPORTS.",Qaz Sport HD
 http://92.46.127.146:8080/qazsport/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqA_M9HxVFLrKlerGN-Q6bZIOeWagtz4Anfg&usqp=CAU" group-title="SPORTS.",Laliga Tv
