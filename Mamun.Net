@@ -55,7 +55,7 @@ http://208.86.19.21/629.stream/index.m3u8
 http://tv.c1live.com:8081/c1O7u0cF8lOzId/desh/playlist.m3u8
 http://203.80.191.3:8089/load/deshtv/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-G-TV="BANGLA ENT.",গাজী-টিভি
-https://durbinlive.com/live/roaz/?c=1
+http://103.161.104.252:2322/Gazi-ENC/video.m3u8
 #EXTINF:0 tvg-logo="https://biswastv.com/uploads/tv_image/sm/biswas-tv.png" group-title="BANGLA ENT.",বিশ্বাস টিভি
 https://tv.bdiptv.stream:2096/b2My/biswastv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-ASIAN-TV="BANGLA ENT.",এশিয়ান-টিভি
@@ -370,7 +370,7 @@ https://content.uplynk.com/channel/4b3fda1ff2c24556bc2c6034307d117d.m3u8
 #EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",My Cinema Europe
 http://210.210.155.35/session/bc0a1e22-773f-11eb-ab01-a3d7ba48b0db/uq2663/h/h18/02.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwHAl1NoTrhDEbWIvS1fVkfpIkn2d453TVVQ&usqp=CAU" group-title="beIN SPORTS.",T Sports
-http://103.159.4.38:5868/BD-BANGLA-11/tracks-v1a1/mono.m3u8
+http://208.86.19.21/905.stream/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqofqkSdV0FYPjh95gaFnyaiBZihfwDh7HrQ&usqp=CAU" group-title="SPORTS.",Star-HD
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK0lzPhSqEa2FXd-ASszld1O8h9Qq_vOnsoQ&usqp=CAU" group-title="SPORTS.",Jio Football HD
