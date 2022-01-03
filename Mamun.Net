@@ -194,7 +194,7 @@ http://183.178.58.115:8030/0.m3u8
 https://durbinlive.com/live/roaz/?c=42
 http://183.178.58.115:8030/0.m3u8
 #EXTINF:0 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/andpictures.jpg" group-title="HINDI MOVIE.",And-picture
-https://durbinlive.com/live/roaz/?c=42
+http://208.86.19.21/705.stream/index.m3u8
 http://208.86.19.21:80/705.stream/index.m3u8
 #EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2020/03/04/Colors-Cineplex.jpg" group-title="HINDI MOVIE.",Colors Cineplex
 http://208.86.19.21/735.stream/tracks-v1a1/mono.m3u8
