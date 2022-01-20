@@ -88,7 +88,7 @@ https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://abohomanbangla.com/Bangladesh_web_directory/tv_image/onuvhuti-TV.png" group-ONUVHUTI-TV="BANGLA ENT.",অনুভূতি-টিভি
 http://103.68.4.50:1935/live/onuvuti/playlist.m3u8
-#EXTINF:0 tvg-logo="http://likeetv.com/uploads/tv_image/ruposhi-bangla-tv-2ut53ekt8b9t.jpg" group-title="BANGLA MOVIE.",মুভি টিভি
+#EXTINF:0 tvg-logo="http://livetv.com.bd/wp-content/uploads/2021/02/banglamovie.png" group-title="BANGLA MOVIE.",মুভি টিভি
 https://tv7.raytahost.com/live/bmovie/index.m3u8
 #EXTINF:0 tvg-logo="https://cabeltvapp.com/wp-content/uploads/2020/09/bc.jpg" group-title="BANGLA ENT.",বাংলা-টিভি
 http://208.86.19.21:800/live/BanglaChannelNY/index.m3u8
