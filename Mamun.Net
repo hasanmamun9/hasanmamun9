@@ -109,6 +109,7 @@ http://nandansyst.com/hls/nandan.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDfaPLfZFIWCmoN7pMkTP8ONgfHlDb8GV6fQ&usqp=CAU" group-SHOPNO-TV="BANGLA MOVIE.",স্বপ্ন-টিভি
 https://talusafagroup.ddns.net:8080/shopno/shopnotv.m3u8
 #EXTINF:0 tvg-logo="http://livetv.com.bd/wp-content/uploads/2020/11/sadhinbangla.png" group-title="BANGLA ENT.",স্বাধীন-বাংলা
+https://sbnet.raytahost.com/live/sbnet/index.m3u8
 https://iptv2.raytahost.com/live/sadhinbangla/index.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/942458481017208832/CA5uGF46.jpg" group-SRISTY-TV="BANGLA MOVIE.",সৃষ্টি-টিভি
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/sristytv.stream/chunks.m3u8
