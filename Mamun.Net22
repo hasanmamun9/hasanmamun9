@@ -447,7 +447,7 @@ http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/23658.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoT_ZuLoFY57R03hJLYMoHLksOI75tnwKuow&usqp=CAU" group-title="GEOGRAPHIC.",National Geographic
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5SVJjzgsPzOd5oiY9qRJ2yt--IBQ0tJdONw&usqp=CAU" group-title="GEOGRAPHIC.",Natgeo Wild 
-http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+http://iptv.prosto.tv:7000/ch83/video.m3u8
 #EXTINF:0 tvg-logo="http://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="DOCUMENTARY.",Nasa TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="DOCUMENTARY.",CGTN Documentary
