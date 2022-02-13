@@ -126,6 +126,7 @@ http://162.244.81.142:1935/live/livestream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.doyeltv.com/wp-content/uploads/2020/08/Doyel-Tv-Web-Logo.png" group-title="BANGLA ENT.",দোয়েল-টিভি
 http://ipm.oncast.me:1934/iplived/ip-doyeltv.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://livetv.com.bd/wp-content/uploads/2020/07/gbangla.png" group-SHOPNO-TV="BANGLA MOVIE.",জি বাংলা-টিভি
+https://dcn.raytahost.com/stream/gbangla/index.m3u8
 https://iptv10.raytahost.com/stream/gbangla/index.m3u8
 #EXTINF:0 tvg-logo="https://cabeltvapp.com/wp-content/uploads/2020/09/tt-200x200.jpg" group-title="BANGLA ENT.",চ্যানেল-টিটি ইউ কে
 https://www.cdn.streamcast.xyz:19360/channeltt/channeltt.m3u8
