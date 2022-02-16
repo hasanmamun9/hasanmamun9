@@ -100,8 +100,12 @@ https://live.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj6lqBdcHNq3NkBsmEYwYLlF4KX6edJNZ4ug&usqp=CAU" group-title="BANGLA ENT.",নেক্সাস-টিভি
 https://somoy.appv.jagobd.com:444/somoy/nexustv.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrnjmRzgpWnA-EtEv_GbYU0TwhTYKGhpRRBQ&usqp=CAU" group-CNN-BANGLA 2="BANGLA MOVIE.",ডি টিভি
-http://46.249.95.140:8081/hls/data.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrnjmRzgpWnA-EtEv_GbYU0TwhTYKGhpRRBQ&usqp=CAU" group-CNN-BANGLA 2="BANGLA MOVIE.",জা টিভি
+https://live.tvdhaka.com:30443/globalbangla/jatv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngzT_MTM5a2bBRXXe6gLvbB85ndaCWulnXmu1eLrQ=s900-c-k-c0x00ffffff-no-rj" group-POLLI-TV="BANGLA ENT.",পল্লীবাংলা-টিভি
+https://pronm.technohaat.com:30443/pollitv/pollibangla/playlist.m3u8
+#EXTINF:0 tvg-logo="https://abohomanbangla.com/Bangladesh_web_directory/tv_image/71bangla.jpg" group-71-BANGLA="BANGLA MOVIE.", ৭১ বাংলা-টিভি
+https://live.tvdhaka.com:30443/channelbd/71Bangla/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn38k57dj--S9HSuANpmikbejJ9t5sS_FyQQ&usqp=CAU" group-P-BANGLA="BANGLA ENT.",টিভি ঢাকা ২৪
 https://live.tvdhaka.com:30443/tv/tvdhaka/playlist.m3u8
 #EXTINF:0 tvg-logo="https://cabeltvapp.com/wp-content/uploads/2020/10/InShot_20201026_154538134-200x200.jpg" group-title="BANGLA ENT.",এফবি-টিভি
@@ -281,7 +285,7 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png" group-title="ENGLISH MOVIE.", Movies Now
 http://live.flixhub.net/hls/movies-now.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-k58hl1dvx12R_Luv6bwp_lM_dW1UjlGyYQ&usqp=CAU" group-title="ENGLISH MOVIE.",Galaxy Premier
-http://iptv.tvmalaysia.cc//kl570/kl570/8838
+http://46.249.95.140:8081/hls/data.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-k58hl1dvx12R_Luv6bwp_lM_dW1UjlGyYQ&usqp=CAU" group-title="ENGLISH MOVIE.",Cinemax
 http://live.flixhub.net/hls/movies-now.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-k58hl1dvx12R_Luv6bwp_lM_dW1UjlGyYQ&usqp=CAU" group-title="ENGLISH MOVIE.",HBO Hits
