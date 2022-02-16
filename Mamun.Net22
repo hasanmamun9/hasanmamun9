@@ -71,6 +71,16 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:0 tvg-logo="https://i.pinimg.com/170x/a7/2c/21/a72c2104fad58ce1441fe806602a1cd9.jpg" group-NOKSHI-TV="BANGLA ENT.",নকশী-টিভি
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nakshitv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/n8xwHts937U/hqdefault_live.jpg" group-MOVIE-BANGLA="BANGLA MOVIE.",মুভি-বাংলা
+
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQULo41j55uRSBt1LlUmNYzEzs48aDkibHeJg&usqp=CAU" group-BANGLA-TV="BANGLA ENT.", টেলিফিল্ম-টিভি
+https://live.tvdhaka.com:30443/live/telefilm/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQULo41j55uRSBt1LlUmNYzEzs48aDkibHeJg&usqp=CAU" group-BANGLA-TV="BANGLA ENT.",আলীফ-টিভি
+https://live.tvdhaka.com:30443/aliftv/1080/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQULo41j55uRSBt1LlUmNYzEzs48aDkibHeJg&usqp=CAU" group-BANGLA-TV="BANGLA ENT.",বঙ্গ-টিভি
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQULo41j55uRSBt1LlUmNYzEzs48aDkibHeJg&usqp=CAU" group-BANGLA-TV="BANGLA ENT.",বঙ্গ-টিভি
+http://103.109.213.18:5563/live/bongotv/chunklist_w937507918.m3u8
+
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6FJBN24udmW4Oh4sytPTq224RgBCOc6kU3w&usqp=CAU" group-MEGNA-TV="BANGLA ENT.",মেঘনা-টিভি
 http://45.125.221.114:1935/live/megnatv/chunklist.m3u8
