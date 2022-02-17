@@ -290,10 +290,6 @@ http://45.126.83.51/session/f38f0970-460b-11ec-875a-b259bcd95935/uq2663/h/h08/01
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7QiRJevINmRHY09lQZHAqpe40GwcVKpe1ug&usqp=CAU"group-titile="ENGLISH MOVIE.",Axn 
 http://titanicos.net:8080/live/WAYBRETV6611/WAYBRETV8812/32181.m3u8
-#EXTINF:0 tvg-logo="https://www.hitstv.com/assets/logo-HITSMOVIES.png"group-titile="ENGLISH MOVIE.",Hits Movie
-http://iptv.tvmalaysia.cc//kl570/kl570/7066
-#EXTINF:0 tvg-logo="https://www.hitstv.com/img/hits-movies-logo.png"group-titile="ENGLISH MOVIE.",Hits
-https://snehjiotv.in1.bitmana.io/sneh_auto_q.php?c=HitsIndia_HD
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/TVCine-ACTION.png" group-title="ENGLISH MOVIE.",TVCine Action
 http://iptv.prosto.tv:7000/ch50/video.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="ENGLISH MOVIE.",WarnerTV 
@@ -361,13 +357,11 @@ http://203.80.191.3:8089/nimble_live/tensports/chunks.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg/revision/latest/scale-to-width-down/340?cb=20190322143617" group-title="SPORTS.",Sony Ten 1
 https://snehjiotv.in1.bitmana.io/snehtv/snehjio/sneh_auto_q.php?c=Ten_HD
 #EXTINF:0 tvg-logo="https://i2.wp.com/bdixsports.com/wp-content/uploads/2018/04/ten2.jpg?fit=300%2C250" group-title="SPORTS.",Sony Ten 2
-https://snehjiotv.in1.bitmana.io/snehtv/snehjio/sneh_auto_q.php?c=Ten2_HD
+https://durbinlive.com/live/jio/guvugggufuuf.php?l0=Ten2_HD
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/82/ac/a4/82aca43f83fc8ac14304ac2520c63bd4.png" group-title="SPORTS.",Sony Ten 3 
-https://snehjiotv.in1.bitmana.io/snehtv/snehjio/sneh_auto_q.php?c=Ten3_HD
-#EXTINF:0 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4SD_Masthead_Logo.png" group-title="SPORTS.",Sony Ten 4
-http://jo123.biz/jweb/m3u8.php?c=Ten_4_HD_Tamil&q=600&e=junk.m3u8
+https://durbinlive.com/live/jio/guvugggufuuf.php?l0=Ten3_HD
 #EXTINF:0 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIXHD_Masthead_Logo.png" group-title="SPORTS.",Sony Six 
-https://snehjiotv.in1.bitmana.io/snehtv/snehjio/sneh_auto_q.php?c=Six_HD
+https://durbinlive.com/live/jio/guvugggufuuf.php?l0=Six_HD
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfsFCVHffnNjsqYtyMP10_e2i_hKikQ2JYswj51osv9kICEWd960REDHImHrcZD1l69g&usqp=CAU" group-title="SPORTS.",Star Sports 1
 http://live.flixhub.net/hls/stersports1hd.m3u8
 #EXTINF:0 tvg-logo="https://banner2.cleanpng.com/20180611/ivp/kisspng-star-sports-star-india-television-channel-sony-ten-sportstv-5b1ed6839505d4.2492886615287476516104.jpg" group-title="SPORTS.",Star Sports 2
