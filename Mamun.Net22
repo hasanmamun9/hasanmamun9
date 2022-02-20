@@ -71,7 +71,6 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:0 tvg-logo="https://i.pinimg.com/170x/a7/2c/21/a72c2104fad58ce1441fe806602a1cd9.jpg" group-NOKSHI-TV="BANGLA ENT.",নকশী-টিভি
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nakshitv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/n8xwHts937U/hqdefault_live.jpg" group-MOVIE-BANGLA="BANGLA MOVIE.",মুভি-বাংলা
-
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUN7L5JRrBY1i15ux1-Pj1E-icvXiK72QrzQ&usqp=CAU" group-BANGLA-TV="BANGLA ENT.", টেলিফিল্ম-টিভি
 https://live.tvdhaka.com:30443/live/telefilm/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH2TqU3fQcv73AZcUA5Irmui8sAUTqcunbnw&usqp=CAU" group-BANGLA-TV="BANGLA ENT.",আলীফ-টিভি
@@ -101,6 +100,8 @@ https://tv7.raytahost.com/live/bmovie/index.m3u8
 #EXTINF:0 tvg-logo="https://cabeltvapp.com/wp-content/uploads/2020/09/bc.jpg" group-title="BANGLA ENT.",বাংলা-টিভি
 http://208.86.19.16/live/BanglaChannelNY/index.m3u8
 http://208.86.19.21:800/live/BanglaChannelNY/index.m3u8
+#EXTINF:0 tvg-logo="https://cabeltvapp.com/wp-content/uploads/2021/04/bangla-tv-ny-200x200.jpg" group-title="BANGLA ENT.",বাংলা-টিভি 2
+http://t16.teracdn.com/live/banglany2/banglany2/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo_cdl-Px0mg3X8DBouYHPHyMK-_OCYgGbnA&usqp=CAU" group-DESHE-BIDESHE="BANGLA ENT.",দেশি বিদেশি-টিভি
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniCcSrTg-fRuwBjKTOTCeS76G0j1poT7p57pemv=s900-c-k-c0x00ffffff-no-rj" group-JONMO-BHUMI="BANGLA ENT.",জন্মভূমি-টিভি
@@ -111,8 +112,6 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 https://somoy.appv.jagobd.com:444/somoy/nexustv.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBmVninqnsY2nILsVkKmIRlcKow7bSCWs3ghRU-Pal_RacJm0Z1mNAH54D&s=10" group-CNN-BANGLA 2="BANGLA MOVIE.",জা টিভি
 https://live.tvdhaka.com:30443/globalbangla/jatv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngzT_MTM5a2bBRXXe6gLvbB85ndaCWulnXmu1eLrQ=s900-c-k-c0x00ffffff-no-rj" group-POLLI-TV="BANGLA ENT.",পল্লীবাংলা-টিভি
-https://pronm.technohaat.com:30443/pollitv/pollibangla/playlist.m3u8
 #EXTINF:0 tvg-logo="https://abohomanbangla.com/Bangladesh_web_directory/tv_image/71bangla.jpg" group-71-BANGLA="BANGLA MOVIE.", ৭১ বাংলা-টিভি
 https://live.tvdhaka.com:30443/channelbd/71Bangla/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn38k57dj--S9HSuANpmikbejJ9t5sS_FyQQ&usqp=CAU" group-P-BANGLA="BANGLA ENT.",টিভি ঢাকা ২৪
