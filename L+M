@@ -196,9 +196,7 @@ http://103.166.253.222/hls/sonymax.m3u8
 http://live.flixhub.net/hls/sony-maxhd.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIB77EXjxKkVR42EHBrRyRmBM6KKzHBl-N2b39_gR9vMs4mN16ujUQbaA&s=10" group-title="HINDI MOVIE.",Sony-Max 2 Ind
 http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/Sonywah.jpg" group-title="HINDI MOVIE.",Sony Wah
-http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/196.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGejYCsf4-B-r3KaBd7Vdrb-cSlek4Kb3XFw&usqp=CAU" group-title="HINDI MOVIE.", Felted Tv
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGejYCsf4-B-r3KaBd7Vdrb-cSlek4Kb3XFw&usqp=CAU" group-title="HINDI MOVIE.",Filmy Tv
 http://longstream-03.ajaah.com/PlayBoxTV/SaharaFilmy/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4tpx9AoVUaX_AN80nBP1_05b6ksF4bPqnZg&usqp=CAU" group-title="HINDI MOVIE.",Star-Gold Hd
 http://live.flixhub.net/hls/stargold.m3u8
@@ -210,19 +208,8 @@ http://live.flixhub.net/hls/zeecinemahd.m3u8
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="HINDI MOVIE.",ZEE Cinema
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxBA8aeKmQdc2VygaO38UOnIgjnmWHl1LExg&usqp=CAU" group-title="HINDI MOVIE.", Zee Classic
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/188
 #EXTINF:0 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/58c90ef7694fe70f730ff014/1565808835654/246fc32281bd88720c5a6dbd7c9a3984.png" group-title="HINDI MOVIE.",Zee-Action
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2018/08/Zee-Bollywood-Logo.jpg" group-title="HINDI MOVIE.",Zee-Bollywood
-http://208.86.19.21/701.stream/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="http://thekolkatamail.com/wp-content/uploads/2021/04/09zeeanmolcinemazeeanmolci.png" group-title="HINDI MOVIE.",Zee-Anmol Cinema
-http://208.86.19.21/722.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AnkD43r.png" group-title="Hindi", UTV Movies In
-http://208.86.19.21/723.stream/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd04t6E6tGh_wOv4RLebUkByRh_6AVn4FZ5w&usqp=CAU" group-title="HINDI MOVIE.",B4U Movie India
-http://14.199.164.20:4001/play/a0wj/index.m3u8
-http://103.205.133.19/hls/b4umovies.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest/scale-to-width-down/340?cb=20200320100818" group-title="HINDI MOVIE.",B4U-Kadak
 https://idvd.multitvsolution.com/idvo/moviehouse.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMDPyHMUNJBHhNaDN01V3lxyIEp7fZZQ91PA&usqp=CAU" group-title="HINDI MOVIE.",DHINCHAAK 
