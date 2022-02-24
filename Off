@@ -1,0 +1,8 @@
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwSmhey03XCklALG8yaQPgAun3J92JZhinwNBJR-ROk7RG8b5Ww-XEAWa7&s=10" group-title="BANGLA ENT.",চ্যানেল এস
+https://tv.bdtv.xyz:2096/gbtv71/channels/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDfaPLfZFIWCmoN7pMkTP8ONgfHlDb8GV6fQ&usqp=CAU" group-SHOPNO-TV="BANGLA MOVIE.",স্বপ্ন-টিভি
+https://talusafagroup.ddns.net:8080/shopno/shopnotv.m3u8
+#EXTINF:0 tvg-logo="https://abohomanbangla.com/Bangladesh_web_directory/tv_image/71bangla.jpg" group-71-BANGLA="BANGLA MOVIE.", ৭১ বাংলা-টিভি
+https://live.tvdhaka.com:30443/channelbd/71Bangla/playlist.m3u8
+#EXTINF:0 tvg-logo="http://livetv.com.bd/wp-content/uploads/2020/12/dcnbangla.png" group-K-TV="BANGLA ENT.",ডি সি এন বাংলা
+https://dcn.raytahost.com/live/dcnbangla/index.m3u8
