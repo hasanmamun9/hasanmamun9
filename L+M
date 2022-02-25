@@ -77,6 +77,8 @@ https://live.tvdhaka.com:30443/aliftv/1080/playlist.m3u8
 http://live.priyoiptv.com:1932/priyoiptv/globaltv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://pcdn1.jagobd.com/images/s-1mhi41641370862511.jpg" group-title="BANGLA ENT.",সি আই পি এল টিভি
 http://live.priyoiptv.com:1932/priyoiptv/musiccipl.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwSmhey03XCklALG8yaQPgAun3J92JZhinwNBJR-ROk7RG8b5Ww-XEAWa7&s=10" group-title="BANGLA ENT.",চ্যানেল এস
+https://tv.bdtv.xyz:2096/gbtv71/channels/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj6lqBdcHNq3NkBsmEYwYLlF4KX6edJNZ4ug&usqp=CAU" group-title="BANGLA ENT.",নেক্সাস-টিভি
 https://somoy.appv.jagobd.com:444/somoy/nexustv.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6FJBN24udmW4Oh4sytPTq224RgBCOc6kU3w&usqp=CAU" group-MEGNA-TV="BANGLA ENT.",মেঘনা-টিভি
