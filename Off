@@ -20,3 +20,20 @@ http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/pollitv.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/mileninumTV.jpg?x89970" group-MILLENNIUM-TV="BANGLA ENT.",মিলিনিয়াম-টিভি
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEwT3ovdudXhDC_z2UZZPUG52nJhPVX49eYA&usqp=CAU" group-title="BANGLA ENT.",ইউরো বাংলা টিভি
+https://live.tvdhaka.com:30443/eurobangla/eurotv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4qsk91p57uXgV2lQGpPnYU6F_BlxXTBn7Tw&usqp=CAU" group-title="BANGLA ENT.",রুপসি বাংলা টিভি
+https://5fe9adb07250c.streamlock.net/demo/rup/manifest_w1128088793.mpd
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5VB_RmX8JX9LpZcOwCR8zaPD04MN_xpb9dg&usqp=CAU" group-title="BANGLA ENT.",ডি টিভি
+https://live.tvdhaka.com:30443/dtv/dtvusa/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNIDmWozo8xX2SS0W4XqQ8I1-nRoe2CGGMuw&usqp=CAU" group-title="BANGLA ENT.",ডি আই জি আই
+http://103.205.133.44:1935/extban/chdigihd/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrOLiU6FstEZdp4iwTN_ohGr5GBKQviZYfgQ&usqp=CAU" group-title="BANGLA ENT.",মাই সিনেমা
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDgaYK1f9Fehzx0CtIAdeIO2CXfnNbw1Bk4A&usqp=CAU" group-title="BANGLA ENT."," group-title="BANGLA ENT.",চ্যানেল ৫
+https://pronm.technohaat.com:30443/eurobangla/eurotv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrOLiU6FstEZdp4iwTN_ohGr5GBKQviZYfgQ&usqp=CAU" group-title="BANGLA ENT.",
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrOLiU6FstEZdp4iwTN_ohGr5GBKQviZYfgQ&usqp=CAU" group-title="BANGLA ENT.",
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrOLiU6FstEZdp4iwTN_ohGr5GBKQviZYfgQ&usqp=CAU" group-title="BANGLA ENT.",
