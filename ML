@@ -105,8 +105,8 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 http://d1zuxgm0d4hmth.cloudfront.net/cnnbangla/01.m3u8
 #EXTINF:0 tvg-logo="http://livetv.com.bd/wp-content/uploads/2020/12/dcnbangla.png" group-K-TV="BANGLA ENT.",ডি সি এন বাংলা
 https://dcn.raytahost.com/live/dcnbangla/index.m3u8
-#EXTINF:0 tvg-logo="https://jolshabd.com/uploads/cache/channel_thumb_web/uploads/png/038badc98ff71c3a87e6549046c1d8c5.png" group-K-TV="BANGLA ENT.",মুক্ত টিভি
-https://server1.jadubd.com/muktotv/muktotv/playlist.m3u8
+#EXTINF:0 tvg-logo="http://iptv.itcnbd.com/images/jaratv.jpg" group-K-TV="BANGLA ENT.",জারা টিভি
+https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jaratv.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://jolshabd.com/uploads/cache/channel_thumb_web/uploads/png/254768e9a319c367491f825965b80ee7.png" group-K-TV="BANGLA ENT.",সূর্য বাংলা টিভি
 https://server1.jadubd.com/8028/8028/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6FJBN24udmW4Oh4sytPTq224RgBCOc6kU3w&usqp=CAU" group-MEGNA-TV="BANGLA ENT.",মেঘনা-টিভি
