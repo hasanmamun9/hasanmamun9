@@ -60,6 +60,8 @@ http://103.159.4.38:5868/BD-BANGLA-22/index.m3u8
 http://103.149.130.122:8089/59/index.m3u8
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjj603GkYdVvfYxSLXeRMxe0RSjQdFbSc1GjRY7=s900-c-k-c0x00ffffff-no-rj" group-ALPONA-TV="BANGLA ENT.",আলপনা-টিভি
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/alponatv.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjj603GkYdVvfYxSLXeRMxe0RSjQdFbSc1GjRY7=s900-c-k-c0x00ffffff-no-rj" group-ALPONA-TV="BANGLA ENT.",ম্যাজিক বাংলা টিভি
+https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/magicbanglatv.stream/live-orgin/magicbanglatv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="http://mbtvbd.com/wp-content/uploads/2021/02/Mb-tv-logo.png" group-MAGIC-BANGLA="BANGLA MOVIE.",এম বি বাংলা-টিভি
 http://live.priyoiptv.com:1932/priyoiptv/mbtvnew.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/royal_tv.png" group-ROYAL-TV="BANGLA ENT.",রয়েল-টিভি
@@ -296,6 +298,8 @@ https://content.uplynk.com/channel/4b3fda1ff2c24556bc2c6034307d117d.m3u8
 http://210.210.155.35/session/bc0a1e22-773f-11eb-ab01-a3d7ba48b0db/uq2663/h/h18/02.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwHAl1NoTrhDEbWIvS1fVkfpIkn2d453TVVQ&usqp=CAU" group-title="beIN SPORTS.",T Sports
 http://103.149.130.122:8089/102/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNXbSWMPISMzgmCJt6gY3YdknCIZDkoAjt9g&usqp=CAU" group-title="beIN SPORTS.",WilloW-Sports
+http://tv2.ebox.live:8080/live/willow-cric.m3u8
 #EXTINF:0 tvg-logo="https://a-sports.tv/wp-content/uploads/2021/10/A-Sports-Logo.png" group-title="SPORTS.",A Sports
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwzdB6eNwtracjIJSraJNx1qYbbBfKcc4GiQ&usqp=CAU" group-title="SPORTS.",CCTV5+Sport
@@ -306,6 +310,8 @@ http://92.46.127.146:8080/qazsport/index.m3u8
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS.",Geo Super
 http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png" group-title="SPORTS.",Ten Sports
+http://tv2.ebox.live:8080/live/ten-sports.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfsFCVHffnNjsqYtyMP10_e2i_hKikQ2JYswj51osv9kICEWd960REDHImHrcZD1l69g&usqp=CAU" group-title="SPORTS.",Star Sports 1
 http://live.flixhub.net/hls/stersports1hd.m3u8
 #EXTINF:0 tvg-logo="https://banner2.cleanpng.com/20180611/ivp/kisspng-star-sports-star-india-television-channel-sony-ten-sportstv-5b1ed6839505d4.2492886615287476516104.jpg" group-title="SPORTS.",Star Sports 2
@@ -314,10 +320,10 @@ http://live.flixhub.net/hls/starsports2.m3u8
 http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:0 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Sports-select-2.jpg" group-title="SPORTS.",Star Sports S 2
 http://live.flixhub.net/hls/select2.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTLP0HTu1FKsBXKuKJ81_6qTk24XN98llLow&usqp=CAU" group-title="SPORTS.",MAT4-Sports
-https://95-213-224-173.livesports24.online/ooomatch.m3u8
-#EXTINF:0 tvg-logo="http://guljaj.com/kanaly/21.jpg" group-title="SPORTS.",MAT4-Sports 1
-https://srv03.varcdn1.ru/m1/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6DWozNRxJHB5yem85lzALVBSvqC4VjTm4hQ&usqp=CAU" group-title="SPORTS.",bEin-Sports 1
+http://tv2.ebox.live:8080/live/bein-sports-fr-1.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRauLm-BU6XrZVYgSij4fCK7MnXHvELZCG3pg&usqp=CAU" group-title="SPORTS.",bEin-Sports 2
+http://tv2.ebox.live:8080/live/bein-sports-2.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCoSvY0eUgTBb2jbppGZ_0YYEtUqPWAt9m9g&usqp=CAU" group-title="SPORTS.", Sky Net Sports
 http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-T1fNcPdR6doQjKqdaPa1BQxq9oPuViZDMqmSO2s7a4EzdY68IEc9RchkqGh9Q2B0fVc&usqp=CAU" group-title="SPORTS.",Maq Tv
