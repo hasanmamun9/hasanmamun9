@@ -267,11 +267,11 @@ http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4153.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv83wyglG_3gJb6pB1cGbuKVpbUF1Fx54CCA&usqp=CAU" group-title="ENGLISH MOVIE.",Hollywood Movies
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRStjQgV4MnHL0YUI74f_FIBMuPPQPuEkpjHQ&usqp=CAU" group-title="ENGLISH MOVIE.",Hbo
-http://190.171.101.36:80/HBO/tracks-v3a2/mono.m3u8
+http://51.89.98.62:8080/nadilson/12345678/47762
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png" group-title="ENGLISH MOVIE.",HBO ASIA
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1434.m3u8
+http://51.89.98.62:8080/nadilson/12345678/47763
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7QiRJevINmRHY09lQZHAqpe40GwcVKpe1ug&usqp=CAU"group-titile="ENGLISH MOVIE.",Axn 
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1806.m3u8
+http://51.89.98.62:8080/nadilson/12345678/27320
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG4W0QRjG0Ohe2Lazt7NtIQZZ25dkHWz-Miw&usqp=CAU" group-title="ENGLISH MOVIE.",The Movie Hub
 https://dje6yassknq8t.cloudfront.net/playlist.m3u8
 http://iptv.prosto.tv:7000/ch50/video.m3u8
@@ -285,7 +285,7 @@ http://live.flixhub.net/hls/starmovies.m3u8
 #EXTINF:0 tvg-logo="https://content3.jdmagicbox.com/comp/delhi/x9/011pxx11.xx11.120330141100.y8x9/catalogue/netmax-karol-bagh-delhi-internet-service-providers-q8s44h2399-250.jpg" group-title="ENGLISH MOVIE.",NETMAX TV
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://thumbnail.imgbin.com/22/13/24/imgbin-logo-sony-six-television-channel-sony-ten-sony-entertainment-television-kri8it-defining-digital-Acybc4HApnRxU3ck2ifyc7cAz_t.jpg" group-title="ENGLISH MOVIE.",Sony Pix
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1450.m3u8
+http://51.89.98.62:8080/nadilson/12345678/27345
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe0V0fEkmGII_vQdEmBrqHYR2EI17kAzKBSg&usqp=CAU" group-title="ENGLISH MOVIE.",Dove Tv
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngrR0DfEqIThsW1eMxLP6cXnFWRmk12B7MZ8-04ZQ=s900-c-k-c0x00ffffff-no-rj" group-title="ENGLISH MOVIE.",WOW TV
@@ -298,7 +298,7 @@ https://content.uplynk.com/channel/4b3fda1ff2c24556bc2c6034307d117d.m3u8
 #EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",My Cinema Europe
 http://210.210.155.35/session/bc0a1e22-773f-11eb-ab01-a3d7ba48b0db/uq2663/h/h18/02.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwHAl1NoTrhDEbWIvS1fVkfpIkn2d453TVVQ&usqp=CAU" group-title="beIN SPORTS.",T Sports
-http://103.149.130.122:8089/102/index.m3u8
+http://103.55.144.46/hls/t-sports.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNXbSWMPISMzgmCJt6gY3YdknCIZDkoAjt9g&usqp=CAU" group-title="beIN SPORTS.",WilloW-Sports
 http://tv2.ebox.live:8080/live/willow-cric.m3u8
 #EXTINF:0 tvg-logo="https://a-sports.tv/wp-content/uploads/2021/10/A-Sports-Logo.png" group-title="SPORTS.",A Sports
@@ -316,19 +316,25 @@ http://tv2.ebox.live:8080/live/ten-sports.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfsFCVHffnNjsqYtyMP10_e2i_hKikQ2JYswj51osv9kICEWd960REDHImHrcZD1l69g&usqp=CAU" group-title="SPORTS.",Star Sports 1
 http://103.149.130.122:8089/25/index.m3u8
 #EXTINF:0 tvg-logo="https://banner2.cleanpng.com/20180611/ivp/kisspng-star-sports-star-india-television-channel-sony-ten-sportstv-5b1ed6839505d4.2492886615287476516104.jpg" group-title="SPORTS.",Star Sports 2
-http://103.149.130.122:8089/26/index.m3u8
+http://51.89.98.62:8080/nadilson/12345678/27268
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXlFH_3cl5BIpBGygw1ATyzk1j5NgFtrDpKg&usqp=CAU" group-title="SPORTS.",Star Sports S 1
-http://103.149.130.122:8089/27/index.m3u8
+http://51.89.98.62:8080/nadilson/12345678/27266
 #EXTINF:0 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Sports-select-2.jpg" group-title="SPORTS.",Star Sports S 2
-http://103.149.130.122:8089/28/index.m3u8
+http://51.89.98.62:8080/nadilson/12345678/27295
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6DWozNRxJHB5yem85lzALVBSvqC4VjTm4hQ&usqp=CAU" group-title="SPORTS.",bEin-Sports 1
 http://tv2.ebox.live:8080/live/bein-sports-fr-1.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRauLm-BU6XrZVYgSij4fCK7MnXHvELZCG3pg&usqp=CAU" group-title="SPORTS.",bEin-Sports 2
-http://tv2.ebox.live:8080/live/bein-sports-2.m3u8
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_5.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCoSvY0eUgTBb2jbppGZ_0YYEtUqPWAt9m9g&usqp=CAU" group-title="SPORTS.", Sky Net Sports
 http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-T1fNcPdR6doQjKqdaPa1BQxq9oPuViZDMqmSO2s7a4EzdY68IEc9RchkqGh9Q2B0fVc&usqp=CAU" group-title="SPORTS.",Maq Tv
-http://str24.l9574.com/517.stream/index.m3u8
+http://51.89.98.62:8080/nadilson/12345678/27282
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",SporTV HD*
+http://51.89.98.62:8080/nadilson/12345678/27275
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",SporTV HD*2
+http://51.89.98.62:8080/nadilson/12345678/27277
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",SporTV HD*3
+http://51.89.98.62:8080/nadilson/12345678/27279
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",WWE-Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/793/877/png-clipart-red-bull-gmbh-logo-energy-drink-brand-red-bull-company-text.png" group-title="DOCUMENTARY.",Red Bull Tv
