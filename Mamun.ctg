@@ -7,7 +7,7 @@ http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1635.m3u8
 https://nbn.chowdhury-shaheb.com/live/nk-atnbd/chunks.m3u8
 http://qqtv.nl:8080/owen1/1owen/5497#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/atn-bangla1.jpg?x94984" group-ATN-BANGLA="BANGLA ENT.",এ টি এন-বাংলা ইউ কে
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/chi-150x150.jpg?x94984" group-CHANNEL-I="BANGLA ENT.",চ্যানেল-আই
-https://nbn.chowdhury-shaheb.com/live/nk-chi/chunks.m3u8
+http://103.55.144.46:80/hls/channeli.m3u8
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/E/ekushe-tv-etv-logo-0CFEFFEC48-seeklogo.com.png" group-E-TV="BANGLA ENT.", একুশে-টিভি
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/R/r-tv-logo-40D288E794-seeklogo.com.png" group-R-TV="BANGLA ENT.",আর-টিভি(BDIX)
@@ -175,7 +175,7 @@ http://203.190.11.101:1935/live/remote/chunklist_w1446657896.m3u8
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjW8g-tQCosrKVSrrHlP-SoTrzlaH_ixDg8R3N1=s900-c-k-c0x00ffffff-no-rj" group-NEWS-24="BANGLA NEWS.",নিউজ-২৪(BDIX)
 http://103.159.4.38:9191/CH16-BD5/index.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/inds.png?x39333" group-INDEPEDENT-TV="BANGLA NEWS.",ইন্ডিপেন্ডেন্ট-টিভি(BDIX)
-https://somoy.appv.jagobd.com:444/somoy/independent-8-org.stream/playlist.m3u8
+http://103.55.144.46:80/hls/indepen.m3u8
 #EXTINF:0 tvg-logo="https://www.channel24bd.tv/assets/importent_images/logo.png" group-CHANNEL-24="BANGLA NEWS.",চ্যানেল-২৪(BDIX)
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVabjzOoquPt1dX0e0NmgE_HJxbci6DDuG4A&usqp=CAU" group-JOMUNA-TV="BANGLA NEWS.",যমুনা-টিভি(BDIX)
@@ -281,7 +281,7 @@ http://14.199.164.20:4001/play/a0p2/index.m3u8
 #EXTINF:0 tvg-logo="https://sc.dish.com/shared/images/station-logos/ARBMU.png" group-title="Arabian MUSIC.",Arabian-Music(BDIX)
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png" group-title="ENGLISH MOVIE.", Movies Now
-http://103.55.144.46:80/hls/movies-now.m3u8
+http://103.55.144.46/hls/movies-now.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdVFypKtTFK24FytADjeobO-gkO8B8FJK8Pg&usqp=CAU" group-title="ENGLISH MOVIE.",MnX Tv
 http://103.55.144.46:80/hls/mnx-hd.m3u8
 #EXTINF:0 tvg-logo="https://www.pay2easy.com/uploads/9056-movies_now_plus_hd.png" group-title="ENGLISH MOVIE.",Mn+
