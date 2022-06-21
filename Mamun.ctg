@@ -68,7 +68,10 @@ http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1508.m3u8
 https://live.tvdhaka.com:30443/channelbd/71Bangla/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/170x/a7/2c/21/a72c2104fad58ce1441fe806602a1cd9.jpg" group-NOKSHI-TV="BANGLA ENT.",kidscreation
 https://tvhostbd21.technohaat.com/kidscreation/live/playlist.m3u8
-
+#EXTINF:0 tvg-logo="http://tv.bdtype.com/uploads/tv_image/channel-52.png" group-NOKSHI-TV="BANGLA ENT.",চ্যানেল-৫২
+https://5dd3981940faa.streamlock.net/channel52tv/channel52tv/chunklist_w2102345989.m3u8
+#EXTINF:0 tvg-logo="http://tv.bdtype.com/uploads/tv_image/sm/channel-a.png" group-NOKSHI-TV="BANGLA ENT.",চ্যানেল-এ
+http://103.148.13.70:1935/live/channela/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/n8xwHts937U/hqdefault_live.jpg" group-MOVIE-BANGLA="BANGLA MOVIE.",মুভি-বাংলা
 http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/19.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUN7L5JRrBY1i15ux1-Pj1E-icvXiK72QrzQ&usqp=CAU" group-BANGLA-TV="BANGLA ENT.", টেলিফিল্ম-টিভি
