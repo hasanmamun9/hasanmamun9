@@ -172,6 +172,8 @@ https://live.tvdhaka.com:30443/live/probashi/playlist.m3u8
 http://str24.l9574.com/518.stream/index.m3u8
 #EXTINF:0 tvg-logo="http://www.jagoron.tv/public/frontend/images/logo.png" group-VOICE-TV="BANGLA ENT.",জাগরণ-টিভি
 http://203.190.11.101:1935/live/remote/chunklist_w1446657896.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPVZpsGGEom3IuTydQYb669q3HRAYO0F0rOw&usqp=CAU" group-VOICE-TV="BANGLA ENT.",তারা টিভি 
+http://ranapk-june3.in1.bitmana.io/play.php?c=Tara_TV
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjW8g-tQCosrKVSrrHlP-SoTrzlaH_ixDg8R3N1=s900-c-k-c0x00ffffff-no-rj" group-NEWS-24="BANGLA NEWS.",নিউজ-২৪(BDIX)
 http://103.159.4.38:9191/CH16-BD5/index.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/inds.png?x39333" group-INDEPEDENT-TV="BANGLA NEWS.",ইন্ডিপেন্ডেন্ট-টিভি(BDIX)
@@ -189,6 +191,7 @@ http://103.159.4.38:9191/CH28-INBD7/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXTpHsn891JIjVgHxoAiq6aYs7lkZHt3GkqA&usqp=CAU" group-title="BANGLA ENT.",এটিএন-মিউজিক
 http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/82.m3u8
 #EXTINF:0 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/andpictures-hd.jpg" group-title="HINDI MOVIE.",& Pictures Hd
+http://ranapk-june3.in1.bitmana.io/play.php?c=And_Pictures_HD
 http://103.55.144.46:80/hls/andpictures.m3u8
 #EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-bFu3Qcuw04I/V1LablvHTJI/AAAAAAAAQrU/ZcUycyxMFN8OTglvEE1hG1edUvVHqO4WQCLcB/w1200-h630-p-k-no-nu/bflix_logo.png" group-title="HINDI MOVIE.",& XPLOR
 http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/2769.m3u8
@@ -344,9 +347,9 @@ http://103.149.130.122:8089/25/index.m3u8
 #EXTINF:0 tvg-logo="https://banner2.cleanpng.com/20180611/ivp/kisspng-star-sports-star-india-television-channel-sony-ten-sportstv-5b1ed6839505d4.2492886615287476516104.jpg" group-title="SPORTS.",Star Sports 2
 http://51.89.98.62:8080/nadilson/12345678/27268
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXlFH_3cl5BIpBGygw1ATyzk1j5NgFtrDpKg&usqp=CAU" group-title="SPORTS.",Star Sports S 1
-http://51.89.98.62:8080/nadilson/12345678/27266
+http://ranapk-june3.in1.bitmana.io/play.php?c=Jio_Football
 #EXTINF:0 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Sports-select-2.jpg" group-title="SPORTS.",Star Sports S 2
-http://51.89.98.62:8080/nadilson/12345678/27295
+http://ranapk-june3.in1.bitmana.io/play.php?c=Jio_Football_2
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6DWozNRxJHB5yem85lzALVBSvqC4VjTm4hQ&usqp=CAU" group-title="SPORTS.",bEin-Sports 1
 http://103.159.4.38:9191/CH4-SP4/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRauLm-BU6XrZVYgSij4fCK7MnXHvELZCG3pg&usqp=CAU" group-title="SPORTS.",bEin-Sports 2
