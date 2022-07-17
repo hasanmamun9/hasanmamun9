@@ -141,6 +141,8 @@ https://live.tvdhaka.com:30443/globalbangla/jatv/playlist.m3u8
 https://live.tvdhaka.com:30443/tv/tvdhaka/playlist.m3u8
 #EXTINF:0 tvg-logo="http://livetv.com.bd/wp-content/uploads/2020/07/gbangla.png" group-SHOPNO-TV="BANGLA MOVIE.",জি বাংলা-টিভি
 https://dcn.raytahost.com/stream/gbangla/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH2TqU3fQcv73AZcUA5Irmui8sAUTqcunbnw&usqp=CAU" group-BANGLA-TV="BANGLA ENT.",আলীফ-টিভি
+https://live.tvdhaka.com:30443/live/aliftv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-SHOPNO-TV="BANGLA MOVIE.",দুরন্ত-টিভি
 https://nbn.chowdhury-shaheb.com/live/nb-duronto_720p/chunks.m3u8
 #EXTINF:0 tvg-logo="https://cabeltvapp.com/wp-content/uploads/2020/10/InShot_20201026_154538134-200x200.jpg" group-title="BANGLA ENT.",এফবি-টিভি
