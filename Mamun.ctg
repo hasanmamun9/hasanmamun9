@@ -11,7 +11,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/E/ekushe-tv-etv-logo-0CFEFFEC48-seeklogo.com.png" group-E-TV="BANGLA ENT.", একুশে-টিভি
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/R/r-tv-logo-40D288E794-seeklogo.com.png" group-R-TV="BANGLA ENT.",আর-টিভি(BDIX)
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
+https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-N-TV="BANGLA ENT.",এন-টিভি
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nantv.stream/chunks.m3u8
 http://208.86.19.13:80/652.stream/index.m3u8
@@ -46,8 +46,7 @@ http://208.86.19.13:81/629.stream/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-G-TV="BANGLA ENT.",গাজী-টিভি
 http://stream.accessnetbd.com/hls/sky3.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-ASIAN-TV="BANGLA ENT.",এশিয়ান-টিভি
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/2727.m3u8
-http://103.159.4.38:5868/BD-BANGLA-22/index.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ec/a7/20/eca720aa9f51dceffb8145020e9aaa47.jpg" group-NAGORIK-TV="BANGLA ENT.",নাগরিক-টিভি
 http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/59.m3u8
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjj603GkYdVvfYxSLXeRMxe0RSjQdFbSc1GjRY7=s900-c-k-c0x00ffffff-no-rj" group-ALPONA-TV="BANGLA ENT.",আলপনা-টিভি
